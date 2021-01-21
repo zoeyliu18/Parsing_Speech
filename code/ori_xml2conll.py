@@ -1430,8 +1430,6 @@ def Expelliarmus(file, directory, output, section):
 				
 				if speaker in ['Mother', 'Father', 'Target_Child', 'Child']:
 
-						check(utterance)
-
 					outfile.write(utterance[0] + '\n')
 
 				### e.g. well it's not time for lunch yet ###
