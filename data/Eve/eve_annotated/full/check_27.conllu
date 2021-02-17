@@ -1,0 +1,1244 @@
+1	see	see	v	_	_	4	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	this	this	det	_	_	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	one	one	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	better	good	adj	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	but	but	conj	_	_	8	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	this	this	det	_	_	8	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	not	not	neg	_	_	8	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+8	better	good	adj	_	_	4	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	better	good	ADJ	JJR	Degree=Cmp	1	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	but	but	CCONJ	CC	_	8	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	not	not	PART	RB	_	8	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+8	better	good	ADJ	JJR	Degree=Cmp	1	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Becky	Becky	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Becky	Becky	PROPN	NNP	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	are	be	cop	_	_	1	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	you	you	pro	_	_	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Sue	Sue	n	_	_	1	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Sue	Sue	PROPN	NNP	Number=Sing	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	there	there	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	some	some	qn	_	_	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	cream	cream	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	there	there	PRON	EX	_	3	expl	Eve CHI Target_Child	Eve 27 female TD Brown
+2	some	some	DET	DT	_	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	cream	cream	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	prep	_	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	coffee	coffee	n	_	_	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	coffee	coffee	NOUN	NN	Number=Sing	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	co	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	made	make	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	a	a	det	_	_	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	picture	picture	n	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	see	see	v	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	picture	picture	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	see	see	VERB	VB	VerbForm=Inf	3	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	get	get	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	a	a	det	_	_	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	pencil	pencil	n	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	nd	and	coord	_	_	7	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+7	write	write	v	_	_	3	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	get	get	VERB	VB	VerbForm=Inf	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	pencil	pencil	NOUN	NN	Number=Sing	6	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+6	nd	and	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	write	write	VERB	VB	VerbForm=Inf	3	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+3	pencil	pencil	n	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	in	in	prep	_	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	there	there	n	_	_	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	iobj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	pencil	pencil	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	in	in	ADP	IN	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	there	there	ADV	RB	PronType=Dem	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	pencil	pencil	n	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	there	there	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	iobj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	pencil	pencil	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	there	there	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	yours	yours	pro	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	out	out	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	yours	yours	PRON	PRP	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	out	out	ADP	RP	_	1	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	use	use	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	this	this	det	_	_	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	one	one	pro	_	_	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	nd	and	coord	_	_	7	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	you	you	pro	_	_	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	use	use	v	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	that	that	det	_	_	9	det	Eve CHI Target_Child	Eve 27 female TD Brown
+9	one	one	pro	_	_	7	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	one	one	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	nd	and	SCONJ	IN	_	7	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	Eve CHI Target_Child	Eve 27 female TD Brown
+9	one	one	NOUN	NN	Number=Sing	7	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	v	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	talk	talk	n	_	_	3	parataxis	Eve CHI Target_Child	Eve 27 female TD Brown
+6	like	like	prep	_	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+7	this	this	pro	_	_	5	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+8	see	see	v	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	writing	write	VERB	VBG	VerbForm=Ger	1	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	talk	talk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+6	like	like	SCONJ	IN	_	8	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	8	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+8	see	see	NOUN	NN	Number=Sing	5	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	mine	mine	n	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	prep	_	_	1	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	right	right	adv	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	here	here	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	mine	mine	PRON	PRP	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	ADP	IN	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	right	right	ADV	RB	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	here	here	ADV	RB	PronType=Dem	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	now	now	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	let	let	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	get	get	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	them	them	pro	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	out	out	prep	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	okay	okay	co	_	_	2	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	now	now	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	them	them	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	out	out	ADP	RP	_	3	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+6	okay	okay	ADJ	JJ	Degree=Pos	3	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	yep	yep	co	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	are	be	cop	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	yep	yep	INTJ	UH	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	yep	yep	co	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	are	be	cop	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Fraser	Fraser	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	yep	yep	INTJ	UH	_	4	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Fraser	Fraser	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Sue	Sue	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	have	have	v	_	_	3	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	my	my	det	_	_	6	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+6	lunch	lunch	n	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Sue	Sue	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+6	lunch	lunch	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	cookie	cookie	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	that	that	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	'll	will	mod	_	_	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	make	make	v	_	_	1	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	me	me	pro	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	happy	happy	adj	_	_	4	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	cookie	cookie	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	'll	will	AUX	MD	VerbForm=Fin	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	make	make	VERB	VB	VerbForm=Inf	1	appos	Eve CHI Target_Child	Eve 27 female TD Brown
+5	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	happy	happy	ADJ	JJ	Degree=Pos	4	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	chocolate	chocolate	n	_	_	2	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	would	will	mod	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	chocolate	chocolate	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	would	will	AUX	MD	VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	choose	choose	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	it	it	pro	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	myself	myself	pro	_	_	3	obl:npmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	choose	choose	VERB	VB	Mood=Imp|VerbForm=Fin	2	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	obl:npmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	det	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	some	some	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	of	of	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Margaret	Margaret	n	_	_	2	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	Keller	Keller	adj	_	_	4	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+6	's	's	part	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	SCONJ	IN	_	2	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	some	some	DET	DT	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	of	of	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Margaret	Margaret	PROPN	NNP	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	Keller	Keller	PROPN	NNP	Number=Sing	4	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+6	's	's	PART	POS	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	two	two	det	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	have	have	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	two	two	NUM	CD	NumType=Card	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	be	be	cop	_	_	2	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	quiet	quiet	adj	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	Becky	Becky	n	_	_	2	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	be	be	AUX	VB	Mood=Imp|VerbForm=Fin	3	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	quiet	quiet	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	Becky	Becky	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	ca	can	mod	_	_	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+2	n't	not	neg	_	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	hear	hear	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	shouting	shout	part	_	_	4	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	ca	can	AUX	MD	VerbForm=Fin	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+2	n't	not	PART	RB	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	hear	hear	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	shouting	shout	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	someone	someone	adj	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	's	's	part	_	_	4	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	kitchen	kitchen	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	with	with	prep	_	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	Dinah	Dinah	n	_	_	1	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	someone	someone	PRON	NN	Number=Sing	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	's	's	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	kitchen	kitchen	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	with	with	ADP	IN	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	Dinah	Dinah	PROPN	NNP	Number=Sing	4	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	are	be	cop	_	_	3	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	having	have	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	coffee	coffee	n	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	coffee	coffee	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	so	so	co	_	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	can	can	mod	_	_	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	hear	hear	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	Sarah	Sarah	n	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	when	when	conj	_	_	8	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+7	he	he	pro	_	_	8	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	wakes	wake	v	_	_	4	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+9	up	up	adv	_	_	8	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	so	so	ADV	RB	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	hear	hear	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	Sarah	Sarah	PROPN	NNP	Number=Sing	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	wakes	wake	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+9	up	up	ADP	RP	_	8	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	so	so	co	_	_	5	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	do	do	mod	_	_	5	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	n't	not	neg	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	hear	hear	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	Becky	Becky	n	_	_	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	so	so	ADV	RB	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	n't	not	PART	RB	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	hear	hear	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	Becky	Becky	PROPN	NNP	Number=Sing	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	all	all	adv	_	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	around	around	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	the	the	det	_	_	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	block	block	n	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	had	have	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	a	a	det	_	_	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	get	get	v	_	_	5	reparandum	Eve CHI Target_Child	Eve 27 female TD Brown
+8	the	the	det	_	_	7	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	all	all	DET	DT	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	around	around	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	block	block	NOUN	NN	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	get	get	NOUN	NN	Number=Sing	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	the	the	PUNCT	.	_	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	all	all	adv	_	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	around	around	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	the	the	det	_	_	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	block	block	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	all	all	DET	DT	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	around	around	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	block	block	NOUN	NN	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	we	we	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	had	have	mod	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	ta	to	inf	_	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+4	get	get	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	our	our	det	_	_	6	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+6	shoe	shoe	n	_	_	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	caught	catch	v	_	_	4	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	ta	to	PART	TO	Abbr=Yes	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+4	get	get	VERB	VB	VerbForm=Inf	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+6	shoe	shoe	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	caught	catch	VERB	VBN	Tense=Past|VerbForm=Part	4	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	cut	cut	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	our	our	det	_	_	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	shoes	shoe	n	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	cut	cut	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+3	shoes	shoe	NOUN	NNS	Number=Plur	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	an	and	coord	_	_	3	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	had	have	mod	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	ta	to	inf	_	_	5	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+5	cry	cry	v	_	_	3	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	an	and	DET	DT	Definite=Ind|PronType=Art	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	ta	to	NOUN	NN	Number=Sing	5	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+5	cry	cry	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	he	he	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	bick_a_bick_back	bick_a_bick_back	wplay	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	bick_a_bick_back	bick_a_bick_back	X	ADD	_	1	list	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	me	me	pro	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	jump	jump	n	_	_	1	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Fraser	Fraser	n	_	_	1	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	jump	jump	VERB	VB	VerbForm=Inf	1	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Fraser	Fraser	PROPN	NNP	Number=Sing	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	is	be	cop	_	_	3	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Fraser	Fraser	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	goin	go	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	3	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+3	goin	go	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	is	be	cop	_	_	3	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	this	this	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	mine	mine	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	mine	mine	PRON	PRP	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	is	be	cop	_	_	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Fraser	Fraser	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	goin	go	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	take	take	v	_	_	3	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	his	his	det	_	_	6	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+6	pencil	pencil	n	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	home	home	adv	_	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+8	when	when	conj	_	_	10	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+9	he	he	pro	_	_	10	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+10	goes	go	v	_	_	4	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	3	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+3	goin	go	NOUN	NN	Number=Sing	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	take	take	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+6	pencil	pencil	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	home	home	ADV	RB	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+8	when	when	SCONJ	WRB	PronType=Int	10	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+10	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	will	will	mod	_	_	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	one	one	det	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	two	two	det	_	_	4	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	three	three	det	_	_	4	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	write	write	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	one	one	NUM	CD	NumType=Card	6	nummod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	two	two	NUM	CD	NumType=Card	6	nummod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	three	three	NUM	CD	NumType=Card	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	one	one	NUM	CD	NumType=Card	3	nummod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	two	two	NUM	CD	NumType=Card	3	nummod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	three	three	NUM	CD	NumType=Card	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	now	now	adv	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Fraser	Fraser	n	_	_	5	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+3	you	you	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	please	please	co	_	_	5	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+5	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	me	me	pro	_	_	5	iobj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	lady	lady	n	_	_	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	on	on	prep	_	_	9	case	Eve CHI Target_Child	Eve 27 female TD Brown
+9	here	here	n	_	_	5	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	now	now	ADV	RB	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	5	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	please	please	INTJ	UH	_	5	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+5	write	write	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	lady	lady	NOUN	NN	Number=Sing	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	on	on	ADP	IN	_	9	case	Eve CHI Target_Child	Eve 27 female TD Brown
+9	here	here	ADV	RB	PronType=Dem	5	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	big	big	adj	_	_	3	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	lady	lady	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	too	too	post	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	3	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	big	big	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	lady	lady	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	too	too	ADV	RB	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	n	_	_	2	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	bum_bum_bum	bum_bum_bum	on	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	bum_bum_bum	bum_bum_bum	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	not	not	neg	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	how	how	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	not	not	PART	RB	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	how	how	SCONJ	WRB	PronType=Int	2	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	think	think	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	I	I	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	have	have	v	_	_	2	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	tear	tear	n	_	_	6	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	one	one	pro	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	and	and	coord	_	_	9	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+8	I	I	pro	_	_	9	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+9	think	think	v	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+10	I	I	pro	_	_	12	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+11	can	can	mod	_	_	12	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+12	write	write	v	_	_	9	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+13	one	one	det	_	_	12	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	tear	tear	ADJ	JJ	Degree=Pos	6	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	one	one	NUM	CD	NumType=Card	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	and	and	CCONJ	CC	_	9	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+11	can	can	AUX	MD	VerbForm=Fin	12	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+12	write	write	VERB	VB	VerbForm=Inf	9	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+13	one	one	NUM	CD	NumType=Card	12	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	comp	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	not	not	neg	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	how	how	pro	_	_	1	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	not	not	PART	RB	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	how	how	SCONJ	WRB	PronType=Int	2	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Sue	Sue	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	holes	hole	n	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Sue	Sue	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+3	writing	write	VERB	VBG	VerbForm=Ger	1	acl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	holes	hole	NOUN	NNS	Number=Plur	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	right	right	adv	_	_	6	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	in	in	prep	_	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	the	the	det	_	_	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	hole	hole	n	_	_	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+7	see	see	v	_	_	1	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	right	right	ADV	RB	_	6	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	in	in	ADP	IN	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	hole	hole	NOUN	NN	Number=Sing	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+7	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	what	what	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	does	do	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	please	please	co	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+3	make	make	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	me	me	pro	_	_	3	iobj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	some	some	qn	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	please	please	INTJ	UH	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+3	make	make	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	some	some	DET	DT	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	an	and	coord	_	_	4	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+2	they	they	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	will	will	mod	_	_	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	walk	walk	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	an	and	DET	DT	Definite=Ind|PronType=Art	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	will	will	AUX	MD	VerbForm=Fin	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	walk	walk	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	lady	lady	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	up	up	prep	_	_	3	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	here	here	n	_	_	1	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	lady	lady	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	up	up	ADP	RP	_	1	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+3	here	here	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	up	up	prep	_	_	2	case	Eve CHI Target_Child	Eve 27 female TD Brown
+2	here	here	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	on	on	prep	_	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	that	that	det	_	_	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	page	page	n	_	_	2	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	up	up	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	here	here	ADV	RB	PronType=Dem	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	on	on	ADP	IN	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	page	page	NOUN	NN	Number=Sing	2	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	nice	nice	adj	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	nd	and	coord	_	_	3	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+3	quiet	quiet	n	_	_	1	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	nice	nice	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	nd	and	NOUN	NN	Number=Sing	3	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+3	quiet	quiet	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Papa	Papa	n	_	_	3	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	guitar	guitar	n	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	an	and	coord	_	_	5	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+5	banjo	banjo	n	_	_	3	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	guitar	guitar	NOUN	NN	Number=Sing	2	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+4	an	and	DET	DT	Definite=Ind|PronType=Art	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	banjo	banjo	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Papa	Papa	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+2	guitar	guitar	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	guitar	guitar	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	what	what	pro	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	we	we	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	do	do	v	_	_	1	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	after	after	prep	_	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	supper	supper	n	_	_	4	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	SCONJ	IN	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	what	what	PRON	WP	PronType=Int	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	after	after	ADP	IN	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	supper	supper	NOUN	NN	Number=Sing	4	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	we	we	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	to	to	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	bed	bed	n	_	_	2	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	and	and	coord	_	_	6	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	wake	wake	v	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	up	up	adv	_	_	6	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+8	in	in	prep	_	_	10	case	Eve CHI Target_Child	Eve 27 female TD Brown
+9	the	the	det	_	_	10	det	Eve CHI Target_Child	Eve 27 female TD Brown
+10	morning	morning	n	_	_	6	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+11	and	and	coord	_	_	12	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+12	go	go	v	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+13	to	to	prep	_	_	17	case	Eve CHI Target_Child	Eve 27 female TD Brown
+14	Cathy	Cathy	n	_	_	17	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+15	Beach	Beach	n	_	_	17	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+16	new	new	adj	_	_	17	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+17	house	house	n	_	_	12	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	to	to	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	bed	bed	NOUN	NN	Number=Sing	2	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	and	and	CCONJ	CC	_	6	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	wake	wake	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	up	up	ADP	RP	_	6	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+8	in	in	ADP	IN	_	10	case	Eve CHI Target_Child	Eve 27 female TD Brown
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	Eve CHI Target_Child	Eve 27 female TD Brown
+10	morning	morning	NOUN	NN	Number=Sing	6	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+11	and	and	CCONJ	CC	_	12	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+12	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+13	to	to	ADP	IN	_	17	case	Eve CHI Target_Child	Eve 27 female TD Brown
+14	Cathy	Cathy	PROPN	NNP	Number=Sing	15	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+15	Beach	Beach	PROPN	NNP	Number=Sing	17	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+16	new	new	ADJ	JJ	Degree=Pos	17	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+17	house	house	NOUN	NN	Number=Sing	12	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	conj	_	_	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	wake	wake	v	_	_	10	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	up	up	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	from	from	prep	_	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	my	my	det	_	_	7	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+7	nap	nap	n	_	_	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+8	I	I	pro	_	_	10	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+9	will	will	mod	_	_	10	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+10	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+11	right	right	adv	_	_	14	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+12	on	on	prep	_	_	14	case	Eve CHI Target_Child	Eve 27 female TD Brown
+13	the	the	det	_	_	14	det	Eve CHI Target_Child	Eve 27 female TD Brown
+14	street	street	n	_	_	10	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+15	in	in	prep	_	_	17	case	Eve CHI Target_Child	Eve 27 female TD Brown
+16	a	a	det	_	_	17	det	Eve CHI Target_Child	Eve 27 female TD Brown
+17	car	car	n	_	_	10	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	SCONJ	WRB	PronType=Int	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	wake	wake	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	up	up	ADP	RP	_	3	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+5	from	from	ADP	IN	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+7	nap	nap	NOUN	NN	Number=Sing	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+9	will	will	AUX	MD	VerbForm=Fin	10	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+10	go	go	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+11	right	right	ADV	RB	_	14	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+12	on	on	ADP	IN	_	14	case	Eve CHI Target_Child	Eve 27 female TD Brown
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	Eve CHI Target_Child	Eve 27 female TD Brown
+14	street	street	NOUN	NN	Number=Sing	10	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+15	in	in	ADP	IN	_	17	case	Eve CHI Target_Child	Eve 27 female TD Brown
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	Eve CHI Target_Child	Eve 27 female TD Brown
+17	car	car	NOUN	NN	Number=Sing	10	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	then	then	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	back	back	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	home	home	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	then	then	ADV	RB	PronType=Dem	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	back	back	ADV	RB	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	home	home	ADV	RB	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	right	right	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	down	down	prep	_	_	3	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	here	here	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	right	right	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	down	down	ADV	RB	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	here	here	ADV	RB	PronType=Dem	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	and	and	coord	_	_	4	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	will	will	mod	_	_	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	drive	drive	n	_	_	4	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+6	to	to	prep	_	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+7	New_Brunswick	New_Brunswick	n	_	_	4	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+8	and	and	coord	_	_	4	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	and	and	CCONJ	CC	_	4	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	will	will	AUX	MD	VerbForm=Fin	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	go	go	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	drive	drive	VERB	VB	VerbForm=Inf	4	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+6	to	to	ADP	IN	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+7	New_Brunswick	New_Brunswick	PROPN	NNP	Number=Sing	5	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+8	and	and	CCONJ	CC	_	4	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Canada	Canada	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	which	which	pro	_	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+3	inside	inside	n	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	New_Brunswick	New_Brunswick	n	_	_	1	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Canada	Canada	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	which	which	PRON	WDT	PronType=Rel	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	inside	inside	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	New_Brunswick	New_Brunswick	PROPN	NNP	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	up	up	adv	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+2	in	in	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	the	the	det	_	_	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	air	air	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	up	up	ADV	RB	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	in	in	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	air	air	NOUN	NN	Number=Sing	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	comp	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Granpa	Granpa	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	an	and	coord	_	_	4	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Granny	Granny	n	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Granpa	Granpa	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	an	and	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Granny	Granny	PROPN	NNP	Number=Sing	2	appos	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	he	he	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	great	great	adj	_	_	4	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	adj	_	_	4	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	horse	horse	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	great	great	ADJ	JJ	Degree=Pos	4	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	ADJ	JJ	Degree=Pos	4	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	horse	horse	NOUN	NN	Number=Sing	1	appos	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	wan	want	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	na	to	inf	_	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+4	eat	eat	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	noodle	noodle	n	_	_	6	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	soup	soup	n	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	wan	want	VERB	VBP	Abbr=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	na	to	PART	TO	Abbr=Yes	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+4	eat	eat	VERB	VB	VerbForm=Inf	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	noodle	noodle	NOUN	NN	Number=Sing	6	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+6	soup	soup	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	an	and	coord	_	_	5	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+2	me	me	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	an	and	coord	_	_	4	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Papa	Papa	n	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	buy	buy	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	some	some	qn	_	_	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	salt	salt	n	_	_	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	an	and	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 27 female TD Brown
+2	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	an	and	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Papa	Papa	NOUN	NN	Number=Sing	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	buy	buy	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	some	some	DET	DT	_	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	salt	salt	NOUN	NN	Number=Sing	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	New_Brunswick	New_Brunswick	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	New_Brunswick	New_Brunswick	PROPN	NNP	Number=Sing	1	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	peanutbutter	peanutbutter	n	_	_	2	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	sandwich	sandwich	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	folded	fold	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	over	over	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	peanutbutter	peanutbutter	NOUN	NN	Number=Sing	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	sandwich	sandwich	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	folded	fold	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	over	over	ADV	RB	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	he	he	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	his	his	det	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+4	bread	bread	n	_	_	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	and	and	coord	_	_	7	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	butter	butter	n	_	_	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	folded	fold	v	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	over	over	adv	_	_	7	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+4	bread	bread	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	and	and	CCONJ	CC	_	6	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	butter	butter	NOUN	NN	Number=Sing	4	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	folded	fold	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+8	over	over	ADV	RB	_	7	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	eat	eat	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	peanutbutter	peanutbutter	n	_	_	4	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	sandwich	sandwich	n	_	_	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	peanutbutter	peanutbutter	NOUN	NN	Number=Sing	4	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+4	sandwich	sandwich	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	was	be	cop	_	_	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	man	man	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	boy	boy	n	_	_	3	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	man	man	NOUN	NN	Number=Sing	5	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+5	boy	boy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Papa	Papa	adj	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	's	's	part	_	_	4	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	boy	boy	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	's	's	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	boy	boy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	man	man	n	_	_	5	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	he	he	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	's	be	cop	_	_	5	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+4	a	a	det	_	_	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	boy	boy	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	man	man	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	boy	boy	NOUN	NN	Number=Sing	1	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	man	man	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	man	man	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Daddy	Daddy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	boy	boy	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Daddy	Daddy	PROPN	NNP	Number=Sing	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	boy	boy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Mama	Mama	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	is	be	cop	_	_	4	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	boy	boy	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	he	he	pro	_	_	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	a	a	det	_	_	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	girl	girl	n	_	_	4	parataxis	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Mama	Mama	NOUN	NN	Number=Sing	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	n't	not	PART	RB	_	4	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	boy	boy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	girl	girl	NOUN	NN	Number=Sing	4	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	boy	boy	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	boy	boy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	conj	_	_	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	little	little	adj	_	_	5	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	girl	girl	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	SCONJ	WRB	PronType=Int	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	little	little	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	iobj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	girl	girl	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	conj	_	_	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	little	little	adj	_	_	7	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	pro	_	_	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	was	be	cop	_	_	7	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+6	a	a	det	_	_	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	girl	girl	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	SCONJ	WRB	PronType=Int	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	little	little	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+7	girl	girl	NOUN	NN	Number=Sing	3	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Mom	Mom	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	see	see	v	_	_	3	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+5	Sarah	Sarah	n	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Mom	Mom	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	parataxis	Eve CHI Target_Child	Eve 27 female TD Brown
+4	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	Eve CHI Target_Child	Eve 27 female TD Brown
+5	Sarah	Sarah	PROPN	NNP	Number=Sing	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	hi	hi	co	_	_	2	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	hi	hi	INTJ	UH	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Din	Dinah	n	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	wo	will	mod	_	_	5	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	blow	blow	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	you	you	pro	_	_	7	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	horn	horn	n	_	_	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Din	Dinah	INTJ	UH	_	5	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	wo	will	AUX	MD	VerbForm=Fin	5	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	n't	not	PART	RB	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	blow	blow	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	iobj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	horn	horn	NOUN	NN	Number=Sing	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	tell	tell	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	tell	tell	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	nd	and	coord	_	_	3	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+3	Papa	Papa	n	_	_	1	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	nd	and	PROPN	NNP	Number=Sing	1	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+3	Papa	Papa	PROPN	NNP	Number=Sing	1	flat	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	funny	fun	adj	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Fraser	Fraser	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	funny	fun	ADJ	JJ	Degree=Pos	1	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	tattah	tattah	on	_	_	2	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	monkey	monkey	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	tattah	tattah	NOUN	NN	Number=Sing	2	compound	Eve CHI Target_Child	Eve 27 female TD Brown
+2	monkey	monkey	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	monkey	monkey	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	said	say	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	on	on	prep	_	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Becky	Becky	n	_	_	5	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	t_v	t_v	n	_	_	2	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	monkey	monkey	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	on	on	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Becky	Becky	PROPN	NNP	Number=Sing	2	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	t_v	t_v	SYM	NFP	_	2	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	yeah	yeah	co	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+2	that	that	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	what	what	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	he	he	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	says	say	v	_	_	3	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+6	tattah	tattah	on	_	_	3	discourse	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	that	that	SCONJ	IN	_	5	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+3	what	what	PRON	WP	PronType=Int	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+6	tattah	tattah	NOUN	NN	Number=Sing	5	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	putting	put	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	it	it	pro	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+3	head	head	v	_	_	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	in	in	prep	_	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	a	a	det	_	_	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	hole	hole	n	_	_	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	putting	put	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	head	head	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	in	in	ADP	IN	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	hole	hole	NOUN	NN	Number=Sing	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	because	because	conj	_	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	he	he	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	was	be	cop	_	_	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	wan	want	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	na	to	inf	_	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	because	because	SCONJ	IN	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+4	wan	want	VERB	VBG	Abbr=Yes|Tense=Pres|VerbForm=Part	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	na	to	PART	TO	Abbr=Yes	4	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	coffee	coffee	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	is	be	cop	_	_	4	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	that	that	comp	_	_	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	David	David	adj	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+5	's	's	part	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	coffee	coffee	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	that	that	SCONJ	IN	_	4	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+4	David	David	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	's	's	PART	POS	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	comp	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Daddy	Daddy	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	DET	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Daddy	Daddy	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	comp	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	yours	yours	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	prep	_	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	the	the	det	_	_	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	table	table	n	_	_	2	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	that	that	DET	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 27 female TD Brown
+2	yours	yours	PRON	PRP	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	in	in	ADP	IN	_	5	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	Eve CHI Target_Child	Eve 27 female TD Brown
+5	table	table	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	conj	_	_	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	adj	_	_	6	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	I	I	pro	_	_	6	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	a	a	det	_	_	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	man	man	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	SCONJ	WRB	PronType=Int	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	man	man	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	conj	_	_	6	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	6	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	adj	_	_	6	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	I	I	pro	_	_	6	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	am	be	cop	_	_	6	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+6	man	man	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	SCONJ	WRB	PronType=Int	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+6	man	man	NOUN	NN	Number=Sing	3	ccomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Mom	Mom	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	right	right	adv	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	here	here	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	by	by	prep	_	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+7	me	me	pro	_	_	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	Mom	Mom	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	go	go	VERB	VB	VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	right	right	ADV	RB	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	here	here	ADV	RB	PronType=Dem	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	by	by	ADP	IN	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+7	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	do	do	mod	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	like	like	v	_	_	4	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+3	this	this	pro	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+4	one	one	pro	_	_	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+2	like	like	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	one	one	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	am	be	aux	_	_	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	playing	play	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	down	down	prep	_	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	the	the	det	_	_	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	basement	basement	n	_	_	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	playing	play	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	down	down	ADP	RP	_	3	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	basement	basement	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	in	in	prep	_	_	3	case	Eve CHI Target_Child	Eve 27 female TD Brown
+2	the	the	det	_	_	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	basement	basement	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Sue	Sue	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	in	in	ADP	IN	_	3	case	Eve CHI Target_Child	Eve 27 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	Eve CHI Target_Child	Eve 27 female TD Brown
+3	basement	basement	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	Sue	Sue	PROPN	NNP	Number=Sing	3	appos	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	wan	want	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	na	to	inf	_	_	2	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	wan	want	VERB	VBP	Abbr=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	na	to	PART	TO	Abbr=Yes	2	xcomp	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	conj	_	_	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	adj	_	_	5	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	I	I	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	man	man	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+1	when	when	SCONJ	WRB	PronType=Int	5	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	big	big	ADJ	JJ	Degree=Pos	5	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	man	man	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+

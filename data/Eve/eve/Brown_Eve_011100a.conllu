@@ -1,0 +1,3920 @@
+#1	in my pocket
+1	in	in	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	pocket	pocket	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#2	put in my pocket
+1	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	in	in	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	pocket	pocket	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#3	there
+1	there	there	adv	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#4	who's this
+1	who	who	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	this	this	pro	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#5	Eve
+1	Eve	Eve	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#6	what are you doing in that picture
+1	what	what	pro	_	_	4	LINK	David FAT Father	Eve 23 female TD Brown
+2	are	be	aux	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	David FAT Father	Eve 23 female TD Brown
+4	doing	do	part	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+5	in	in	prep	_	_	4	JCT	David FAT Father	Eve 23 female TD Brown
+6	that	that	det	_	_	7	DET	David FAT Father	Eve 23 female TD Brown
+7	picture	picture	n	_	_	5	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#7	Eve
+1	Eve	Eve	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#8	what d you have on there
+1	what	what	pro	_	_	4	OBJ	David FAT Father	Eve 23 female TD Brown
+2	d	do	mod	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	David FAT Father	Eve 23 female TD Brown
+4	have	have	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+5	on	on	prep	_	_	4	JCT	David FAT Father	Eve 23 female TD Brown
+6	there	there	n	_	_	5	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#9	hat
+1	hat	hat	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#10	oh a hat
+1	oh	oh	co	_	_	3	COM	David FAT Father	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	David FAT Father	Eve 23 female TD Brown
+3	hat	hat	n	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#11	what's that
+1	what	what	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	that	that	pro	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#12	that Dan Cathy Eve Danny
+1	that	that	comp	_	_	4	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Dan	Dan	n	_	_	4	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Cathy	Cathy	n	_	_	4	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Eve	Eve	n	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	Danny	Danny	n	_	_	4	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#13	that's right
+1	that	that	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#14	Dad sitting there
+1	Dad	Dad	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	sitting	sit	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	there	there	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#15	that's right
+1	that	that	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#16	lying the couch
+1	lying	lie	part	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	the	the	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	couch	couch	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#17	lying on the couch
+1	lying	lie	part	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	JCT	David FAT Father	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	David FAT Father	Eve 23 female TD Brown
+4	couch	couch	n	_	_	2	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#18	put in
+1	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	in	in	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#19	what
+1	what	what	pro	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#20	put it in
+1	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	in	in	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#21	put the slides in them
+1	put	put	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+2	the	the	det	_	_	3	DET	David FAT Father	Eve 23 female TD Brown
+3	slides	slide	n	_	_	1	OBJ	David FAT Father	Eve 23 female TD Brown
+4	in	in	prep	_	_	1	JCT	David FAT Father	Eve 23 female TD Brown
+5	them	them	pro	_	_	4	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#22	I'll hold it thank_you
+1	I	I	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	'll	will	mod	_	_	3	AUX	David FAT Father	Eve 23 female TD Brown
+3	hold	hold	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	it	it	pro	_	_	5	SUBJ	David FAT Father	Eve 23 female TD Brown
+5	thank_you	thank_you	n	_	_	3	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#23	let me hold it
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	me	me	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	hold	hold	v	_	_	1	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#24	Eve please
+1	Eve	Eve	n	_	_	2	BEG	David FAT Father	Eve 23 female TD Brown
+2	please	please	co	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#25	no let me hold it
+1	no	no	co	_	_	2	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	me	me	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	hold	hold	v	_	_	2	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+5	it	it	pro	_	_	4	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#26	Eve in the snow
+1	Eve	Eve	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	in	in	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	snow	snow	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#27	yes Eve in the snow
+1	yes	yes	co	_	_	2	COM	David FAT Father	Eve 23 female TD Brown
+2	Eve	Eve	n	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	in	in	prep	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	David FAT Father	Eve 23 female TD Brown
+5	snow	snow	n	_	_	3	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#28	there's no doubt about that
+1	there	there	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	no	no	qn	_	_	4	QUANT	David FAT Father	Eve 23 female TD Brown
+4	doubt	doubt	n	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+5	about	about	prep	_	_	4	NJCT	David FAT Father	Eve 23 female TD Brown
+6	that	that	pro	_	_	5	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#29	oh that Papa shoes
+1	oh	oh	co	_	_	4	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	that	that	comp	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Papa	Papa	n	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	shoes	shoe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#30	there
+1	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#31	what did you do
+1	what	what	pro	_	_	4	OBJ	David FAT Father	Eve 23 female TD Brown
+2	did	do	mod	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	David FAT Father	Eve 23 female TD Brown
+4	do	do	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+
+#32	well you tie that right up
+1	well	well	co	_	_	3	COM	David FAT Father	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+3	tie	tie	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	that	that	pro	_	_	3	OBJ	David FAT Father	Eve 23 female TD Brown
+5	right	right	adv	_	_	6	JCT	David FAT Father	Eve 23 female TD Brown
+6	up	up	adv	_	_	3	JCT	David FAT Father	Eve 23 female TD Brown
+
+#33	okay
+1	okay	okay	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#34	right now
+1	right	right	adv	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+2	now	now	adv	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#35	tie that shoe
+1	tie	tie	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+2	that	that	det	_	_	3	DET	David FAT Father	Eve 23 female TD Brown
+3	shoe	shoe	n	_	_	1	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#36	Papa tie it
+1	Papa	Papa	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	tie	tie	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#37	well you tie it
+1	well	well	co	_	_	3	COM	David FAT Father	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+3	tie	tie	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#38	you untied it
+1	you	you	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	untied	tie	part	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#39	Eve tie it
+1	Eve	Eve	n	_	_	2	MOD	David FAT Father	Eve 23 female TD Brown
+2	tie	tie	n	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#40	now don't untie the other one
+1	now	now	adv	_	_	4	JCT	David FAT Father	Eve 23 female TD Brown
+2	do	do	mod	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	David FAT Father	Eve 23 female TD Brown
+4	untie	tie	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+5	the	the	det	_	_	7	DET	David FAT Father	Eve 23 female TD Brown
+6	other	other	qn	_	_	7	QUANT	David FAT Father	Eve 23 female TD Brown
+7	one	one	pro	_	_	4	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#41	other one
+1	other	other	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	one	one	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#42	I tie other one
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	tie	tie	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	other	other	qn	_	_	4	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	one	one	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#43	I tying Papa shoes
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	tying	tie	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Papa	Papa	n	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	shoes	shoe	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#44	more
+1	more	more	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#45	more what
+1	more	more	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	what	what	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#46	peanutbutter on the paddle
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	paddle	paddle	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#47	you want peanutbutter on the paddle
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	want	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	peanutbutter	peanutbutter	n	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	on	on	prep	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	the	the	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	paddle	paddle	n	_	_	4	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#48	for your lunch yes
+1	for	for	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	your	your	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	lunch	lunch	n	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	yes	yes	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#49	what's that
+1	what	what	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	pro	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#50	what is that
+1	what	what	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	that	that	pro	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#52	doo
+1	doo	doo	chi	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#54	what's that Fraser
+1	what	what	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	comp	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Fraser	Fraser	n	_	_	3	OM	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#55	what's that
+1	what	what	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	pro	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#57	for Mom
+1	for	for	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Mom	Mom	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#58	open my toy
+1	open	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	toy	toy	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#59	open your what
+1	open	open	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+2	your	your	det	_	_	3	DET	David FAT Father	Eve 23 female TD Brown
+3	what	what	pro	_	_	1	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#60	Papa open my toy box
+1	Papa	Papa	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	open	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	toy	toy	n	_	_	5	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+5	box	box	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#61	but you untied my shoes
+1	but	but	conj	_	_	3	LINK	David FAT Father	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+3	untied	tie	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	my	my	det	_	_	5	DET	David FAT Father	Eve 23 female TD Brown
+5	shoes	shoe	n	_	_	3	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#62	I can't open the toy box until my shoes are tied
+1	I	I	pro	_	_	4	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	ca	can	mod	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	David FAT Father	Eve 23 female TD Brown
+4	open	open	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+5	the	the	det	_	_	7	DET	David FAT Father	Eve 23 female TD Brown
+6	toy	toy	n	_	_	7	MOD	David FAT Father	Eve 23 female TD Brown
+7	box	box	n	_	_	4	OBJ	David FAT Father	Eve 23 female TD Brown
+8	until	until	prep	_	_	12	LINK	David FAT Father	Eve 23 female TD Brown
+9	my	my	det	_	_	10	DET	David FAT Father	Eve 23 female TD Brown
+10	shoes	shoe	n	_	_	12	SUBJ	David FAT Father	Eve 23 female TD Brown
+11	are	be	aux	_	_	12	AUX	David FAT Father	Eve 23 female TD Brown
+12	tied	tie	part	_	_	4	CJCT	David FAT Father	Eve 23 female TD Brown
+
+#63	til my tied
+1	til	until	conj	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	tied	tie	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#64	open my toy box Papa
+1	open	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	toy	toy	n	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	box	box	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	Papa	Papa	n	_	_	4	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#65	well you tie up my shoes for me
+1	well	well	co	_	_	3	COM	David FAT Father	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+3	tie	tie	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	up	up	prep	_	_	3	JCT	David FAT Father	Eve 23 female TD Brown
+5	my	my	det	_	_	6	DET	David FAT Father	Eve 23 female TD Brown
+6	shoes	shoe	n	_	_	4	POBJ	David FAT Father	Eve 23 female TD Brown
+7	for	for	prep	_	_	3	JCT	David FAT Father	Eve 23 female TD Brown
+8	me	me	pro	_	_	7	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#66	open my toy box
+1	open	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	toy	toy	n	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	box	box	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#67	well you tie up my shoes
+1	well	well	co	_	_	3	COM	David FAT Father	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+3	tie	tie	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	up	up	prep	_	_	3	JCT	David FAT Father	Eve 23 female TD Brown
+5	my	my	det	_	_	6	DET	David FAT Father	Eve 23 female TD Brown
+6	shoes	shoe	n	_	_	4	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#68	open my toy box
+1	open	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	toy	toy	n	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	box	box	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#69	here Fraser
+1	here	here	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#71	no doll
+1	no	no	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	doll	doll	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#73	Eve tell me what this is
+1	Eve	Eve	n	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	tell	tell	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	me	me	pro	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+4	what	what	pro	_	_	6	LINK	David FAT Father	Eve 23 female TD Brown
+5	this	this	det	_	_	6	DET	David FAT Father	Eve 23 female TD Brown
+6	is	be	cop	_	_	2	COMP	David FAT Father	Eve 23 female TD Brown
+
+#74	what is it
+1	what	what	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#75	Frosty_snowman
+1	Frosty_snowman	Frosty_snowman	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#76	that's right
+1	that	that	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#77	put in
+1	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	in	in	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#81	in Wednesday
+1	in	in	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Wednesday	Wednesday	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#84	that sugar
+1	that	that	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	sugar	sugar	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#85	here
+1	here	here	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#86	oh got sugar
+1	oh	oh	co	_	_	2	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	got	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	sugar	sugar	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#87	Eve don't bang with the spoon
+1	Eve	Eve	n	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+4	bang	bang	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	with	with	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	the	the	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	spoon	spoon	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#88	I go get the pencil Fraser
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	go	go	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	get	get	v	_	_	2	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	pencil	pencil	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	Fraser	Fraser	n	_	_	5	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#89	I get the pencil
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	pencil	pencil	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#90	write
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#91	a b c a
+1	a	a	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	b	b	n	_	_	1	POSTMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	c	c	n	_	_	2	CONJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	a	a	n	_	_	3	COORD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#93	a b c a
+1	a	a	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	b	b	n	_	_	1	POSTMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	c	c	n	_	_	2	CONJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	a	a	n	_	_	3	COORD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#94	a b c
+1	a	a	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	b	b	n	_	_	1	CONJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	c	c	n	_	_	2	COORD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#95	y e b c
+1	y	y	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	e	e	n	_	_	1	POSTMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	b	b	n	_	_	2	CONJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	c	c	n	_	_	3	COORD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#97	write
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#99	where d e f
+1	where	where	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	d	d	n	_	_	1	CONJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	e	e	n	_	_	2	COORD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	f	f	n	_	_	3	OM	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#101	twos two a one two two three
+1	twos	two	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	two	two	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	n	_	_	7	DATE	Eve CHI Target_Child	Eve 23 female TD Brown
+4	one	one	det	_	_	5	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	two	two	det	_	_	6	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	two	two	det	_	_	7	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+7	three	three	det	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#102	two two two two
+1	two	two	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	two	two	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	two	two	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	two	two	det	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#104	seven nine
+1	seven	seven	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	nine	nine	det	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#105	four
+1	four	four	det	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#107	look it
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#108	my pencil
+1	my	my	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	pencil	pencil	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#109	look it Fraser
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Fraser	Fraser	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#110	look it Fraser
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Fraser	Fraser	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#111	look it
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#112	look it
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#114	it fall down
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	fall	fall	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	down	down	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#115	tie Papa shoes
+1	tie	tie	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	shoes	shoe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#117	no Papa tie it
+1	no	no	co	_	_	3	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	tie	tie	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#119	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#122	Papa
+1	Papa	Papa	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#123	d e f
+1	d	d	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	e	e	n	_	_	1	CONJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	f	f	n	_	_	2	COORD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#127	that's f
+1	that	that	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	f	f	n	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#129	a
+1	a	a	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#130	right there
+1	right	right	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#131	right there
+1	right	right	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#133	write
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#135	more
+1	more	more	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#136	well we're not quite ready to turn the page
+1	well	well	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	we	we	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	're	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	not	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	quite	quite	adv	_	_	6	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	ready	ready	adj	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+7	to	to	inf	_	_	8	INF	Sue MOT Mother	Eve 23 female TD Brown
+8	turn	turn	v	_	_	6	XMOD	Sue MOT Mother	Eve 23 female TD Brown
+9	the	the	det	_	_	10	DET	Sue MOT Mother	Eve 23 female TD Brown
+10	page	page	n	_	_	8	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#137	look it
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#138	my pencil
+1	my	my	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	pencil	pencil	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#139	I hafta get another one
+1	I	I	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	haf	have	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	ta	to	inf	_	_	4	INF	Eve CHI Target_Child	Eve 23 female TD Brown
+4	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	another	another	qn	_	_	6	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	one	one	pro	_	_	4	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#140	Fraser I get another one
+1	Fraser	Fraser	n	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	another	another	qn	_	_	5	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	one	one	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#141	I gotta put that one back
+1	I	I	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	got	got	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	ta	to	inf	_	_	4	INF	Eve CHI Target_Child	Eve 23 female TD Brown
+4	put	put	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	that	that	adv	_	_	6	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	one	one	det	_	_	4	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+7	back	back	adv	_	_	6	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#143	another pencil
+1	another	another	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	pencil	pencil	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#144	I hafta get another one REPLACEMENT hava
+1	I	I	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	haf	have	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	ta	to	inf	_	_	4	INF	Eve CHI Target_Child	Eve 23 female TD Brown
+4	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	another	another	qn	_	_	6	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	one	one	pro	_	_	4	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#145	why do you hafta get another one
+1	why	why	pro	_	_	6	LINK	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	mod	_	_	6	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	6	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	haf	have	mod	_	_	6	AUX	Sue MOT Mother	Eve 23 female TD Brown
+5	ta	to	inf	_	_	6	INF	Sue MOT Mother	Eve 23 female TD Brown
+6	get	get	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+7	another	another	qn	_	_	8	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+8	one	one	pro	_	_	6	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#146	this
+1	this	this	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#147	why
+1	why	why	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#148	Fraser I get another one
+1	Fraser	Fraser	n	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	another	another	qn	_	_	5	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	one	one	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#149	get a little one
+1	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	little	little	adj	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	one	one	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#151	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#154	I can write
+1	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	can	can	mod	_	_	3	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#155	you what
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	what	what	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#156	I can write
+1	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	can	can	mod	_	_	3	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#160	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#162	I have eat lunch
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	eat	eat	v	_	_	2	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	lunch	lunch	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#163	does Eve want milk too to drink
+1	does	do	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	Eve	Eve	n	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	want	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	milk	milk	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	too	too	adv	_	_	6	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	to	to	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	drink	drink	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#164	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#165	no
+1	no	no	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#166	what do you want
+1	what	what	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	want	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#167	I want sandwich
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	want	want	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	sandwich	sandwich	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#168	you want what
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	want	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	what	what	pro	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#169	a sandwich
+1	a	a	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	sandwich	sandwich	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#170	sandwich
+1	sandwich	sandwich	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#171	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#172	well what d you wanna drink
+1	well	well	co	_	_	5	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	what	what	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	d	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	wan	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	na	to	inf	_	_	7	INF	Sue MOT Mother	Eve 23 female TD Brown
+7	drink	drink	v	_	_	5	COMP	Sue MOT Mother	Eve 23 female TD Brown
+
+#173	I want sandwich
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	want	want	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	sandwich	sandwich	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#174	you want a sandwich
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	want	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	sandwich	sandwich	n	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#175	cheese sandwich
+1	cheese	cheese	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	sandwich	sandwich	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#176	oh a cheese sandwich
+1	oh	oh	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	a	a	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	cheese	cheese	n	_	_	4	MOD	Sue MOT Mother	Eve 23 female TD Brown
+4	sandwich	sandwich	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#177	would you eat it if I fixed it for you
+1	would	will	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	eat	eat	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	if	if	conj	_	_	7	LINK	Sue MOT Mother	Eve 23 female TD Brown
+6	I	I	pro	_	_	7	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	fixed	fix	v	_	_	3	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+8	it	it	pro	_	_	7	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+9	for	for	prep	_	_	7	JCT	Sue MOT Mother	Eve 23 female TD Brown
+10	you	you	pro	_	_	9	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#178	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#179	I'll fix it for you but you must eat it
+1	I	I	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	'll	will	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	fix	fix	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	for	for	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	you	you	pro	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	but	but	conj	_	_	10	LINK	Sue MOT Mother	Eve 23 female TD Brown
+8	you	you	pro	_	_	10	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+9	must	must	mod	_	_	10	AUX	Sue MOT Mother	Eve 23 female TD Brown
+10	eat	eat	v	_	_	3	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+11	it	it	pro	_	_	10	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#180	okay
+1	okay	okay	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#181	where Papa
+1	where	where	pro	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#182	where is Papa
+1	where	where	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	Papa	Papa	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#183	eyes
+1	eyes	eye	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#184	you do still want your cheese sandwich
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	still	still	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	want	want	v	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	your	your	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	cheese	cheese	n	_	_	7	MOD	Sue MOT Mother	Eve 23 female TD Brown
+7	sandwich	sandwich	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#185	that are
+1	that	that	pro	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	are	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#186	yes I'll get this one for you
+1	yes	yes	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	I	I	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	get	get	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	this	this	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	one	one	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	for	for	prep	_	_	6	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+8	you	you	pro	_	_	7	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#187	tapioca
+1	tapioca	tapioca	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#188	yes we'll have some tapioca too
+1	yes	yes	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	we	we	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	have	have	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	some	some	qn	_	_	6	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+6	tapioca	tapioca	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	too	too	post	_	_	6	POSTMOD	Sue MOT Mother	Eve 23 female TD Brown
+
+#189	d you want a piece of cheese
+1	d	do	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	want	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	a	a	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	piece	piece	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	of	of	prep	_	_	5	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+7	cheese	cheese	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#190	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#194	baby Dale
+1	baby	baby	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Dale	Dale	n	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#195	Fraser go eat your lunch
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	go	go	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	eat	eat	v	_	_	2	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	your	your	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	lunch	lunch	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#196	Fraser go eat your lunch
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	go	go	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	eat	eat	v	_	_	2	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	your	your	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	lunch	lunch	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#197	Fraser'll go eat his lunch
+1	Fraser	Fraser	n	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	go	go	v	_	_	4	SRL	Sue MOT Mother	Eve 23 female TD Brown
+4	eat	eat	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	his	his	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	lunch	lunch	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#198	I'll go and have my lunch in a little while
+1	I	I	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	'll	will	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	go	go	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	and	and	coord	_	_	3	CONJ	Sue MOT Mother	Eve 23 female TD Brown
+5	have	have	v	_	_	4	COORD	Sue MOT Mother	Eve 23 female TD Brown
+6	my	my	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	lunch	lunch	n	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	in	in	prep	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+9	a	a	det	_	_	11	DET	Sue MOT Mother	Eve 23 female TD Brown
+10	little	little	adj	_	_	11	MOD	Sue MOT Mother	Eve 23 female TD Brown
+11	while	while	n	_	_	8	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#199	elbow right there
+1	elbow	elbow	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	right	right	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	there	there	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#201	where Fraser elbow
+1	where	where	pro	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	elbow	elbow	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#202	Fraser got under shirt
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	got	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	under	under	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	shirt	shirt	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#203	under his shirt
+1	under	under	adv	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	his	his	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	shirt	shirt	n	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#204	right
+1	right	right	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#205	Fraser got jacket too
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	got	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	jacket	jacket	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	too	too	post	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#206	under his jacket too
+1	under	under	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	his	his	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	jacket	jacket	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	too	too	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#207	right
+1	right	right	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#208	no soup
+1	no	no	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	soup	soup	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#209	why don't you leave it right there
+1	why	why	pro	_	_	5	LINK	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+4	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	leave	leave	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	right	right	adv	_	_	8	JCT	Sue MOT Mother	Eve 23 female TD Brown
+8	there	there	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#210	no soup
+1	no	no	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	soup	soup	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#211	no soup
+1	no	no	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	soup	soup	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#212	alright
+1	alright	alright	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#213	I spilled it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	spilled	spill	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#214	I know you spilled it because you shook it
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	know	know	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	spilled	spill	v	_	_	2	COMP	Sue MOT Mother	Eve 23 female TD Brown
+5	it	it	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	because	because	conj	_	_	8	LINK	Sue MOT Mother	Eve 23 female TD Brown
+7	you	you	pro	_	_	8	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	shook	shake	v	_	_	2	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+9	it	it	pro	_	_	8	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#215	I got sugar
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	got	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	sugar	sugar	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#216	sugar
+1	sugar	sugar	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#217	for what
+1	for	for	prep	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	what	what	pro	_	_	1	CPOBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#218	from Fraser
+1	from	from	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#219	well Fraser has sugar in his coffee
+1	well	well	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	has	have	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	sugar	sugar	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	in	in	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	his	his	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	coffee	coffee	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#220	where cheese sandwich
+1	where	where	pro	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	cheese	cheese	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	sandwich	sandwich	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#221	cooking
+1	cooking	cook	part	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#222	look
+1	look	look	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#223	see
+1	see	see	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#224	there it is
+1	there	there	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#225	let me see it Mom
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	me	me	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	see	see	v	_	_	1	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	Mom	Mom	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#226	there it is
+1	there	there	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#227	let me have it
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	me	me	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	have	have	v	_	_	1	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#228	you may have it in a minute
+1	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	may	may	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	have	have	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	it	it	pro	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	in	in	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	a	a	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	minute	minute	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#229	oh my tray
+1	oh	oh	co	_	_	3	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	tray	tray	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#230	on your tray yes
+1	on	on	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	your	your	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	tray	tray	n	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	yes	yes	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#231	in a minute
+1	in	in	prep	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	minute	minute	n	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#232	almost done
+1	almost	almost	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	done	do	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#233	almost done
+1	almost	almost	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	done	do	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#234	Sue put my plate down
+1	Sue	Sue	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	plate	plate	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	down	down	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#235	that's right
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#236	that's right
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#237	I'll put the plate right there as_soon_as I stir it
+1	I	I	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	'll	will	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	put	put	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	plate	plate	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	right	right	adv	_	_	7	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	there	there	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+8	as_soon_as	as_soon_as	conj	_	_	10	LINK	Sue MOT Mother	Eve 23 female TD Brown
+9	I	I	pro	_	_	10	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+10	stir	stir	v	_	_	3	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+11	it	it	pro	_	_	10	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#238	look Fraser
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#240	my finger jumping
+1	my	my	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	finger	finger	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	jumping	jump	part	_	_	2	XMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#242	now it's hot
+1	now	now	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	hot	hot	adj	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#243	you must blow on it
+1	you	you	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	must	must	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	blow	blow	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	on	on	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	it	it	pro	_	_	4	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#244	okay
+1	okay	okay	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#245	shall I fix one for you
+1	shall	shall	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	fix	fix	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	one	one	det	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	for	for	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	you	you	pro	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#246	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#247	okay
+1	okay	okay	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#248	there that one's just right
+1	there	there	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	that	that	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	one's	one	adj	_	_	5	MOD	Sue MOT Mother	Eve 23 female TD Brown
+4	just	just	adj	_	_	5	MOD	Sue MOT Mother	Eve 23 female TD Brown
+5	right	right	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#249	that are hot
+1	that	that	pro	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	are	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	hot	hot	adj	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#250	well it's not very hot
+1	well	well	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	not	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	very	very	adv	_	_	6	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	hot	hot	adj	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#251	I better blow it
+1	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	better	good	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	blow	blow	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#252	alright
+1	alright	alright	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#253	you blow on it
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	blow	blow	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	on	on	prep	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#254	Sue hold it
+1	Sue	Sue	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	hold	hold	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#255	there
+1	there	there	adv	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#256	Mom sleeve up
+1	Mom	Mom	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	sleeve	sleeve	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	up	up	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#257	we're all ready to have lunch
+1	we	we	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	're	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	all	all	post	_	_	2	PQ	Sue MOT Mother	Eve 23 female TD Brown
+4	ready	ready	v	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+5	to	to	inf	_	_	6	INF	Sue MOT Mother	Eve 23 female TD Brown
+6	have	have	v	_	_	4	COMP	Sue MOT Mother	Eve 23 female TD Brown
+7	lunch	lunch	n	_	_	6	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#258	here
+1	here	here	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#259	what shall I do with it
+1	what	what	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	shall	shall	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	I	I	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	do	do	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	with	with	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#260	you give for Papa
+1	you	you	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	give	give	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	for	for	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Papa	Papa	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#261	I'll put it right here
+1	I	I	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	'll	will	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	put	put	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	right	right	adv	_	_	6	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	here	here	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#262	it hot
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	hot	hot	adj	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#263	it's not very hot
+1	it	it	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	not	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+4	very	very	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	hot	hot	adj	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#264	I think it's alright
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	think	think	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	it	it	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	's	be	cop	_	_	2	COMP	Sue MOT Mother	Eve 23 female TD Brown
+5	alright	alright	adj	_	_	4	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#265	let me see
+1	let	let	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	me	me	pro	_	_	1	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	see	see	v	_	_	1	COMP	Sue MOT Mother	Eve 23 female TD Brown
+
+#266	yeah it's alright to eat
+1	yeah	yeah	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	alright	alright	adj	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+5	to	to	inf	_	_	6	INF	Sue MOT Mother	Eve 23 female TD Brown
+6	eat	eat	v	_	_	4	XMOD	Sue MOT Mother	Eve 23 female TD Brown
+
+#267	yeah it's alright to eat
+1	yeah	yeah	co	_	_	3	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	alright	alright	adj	_	_	3	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+5	to	to	inf	_	_	6	INF	Eve CHI Target_Child	Eve 23 female TD Brown
+6	eat	eat	v	_	_	4	XMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#268	I got peanutbutter on the paddle
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	got	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	peanutbutter	peanutbutter	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	on	on	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	the	the	det	_	_	6	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+6	paddle	paddle	n	_	_	4	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#269	peanutbutter on the paddle
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	paddle	paddle	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#270	peanutbutter
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#271	peanutbutter
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#272	peanutbutter on the paddle
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	paddle	paddle	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#273	peanutbutter on the paddle
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	paddle	paddle	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#274	there
+1	there	there	adv	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#275	thank_you
+1	thank_you	thank_you	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#276	hm
+1	hm	hm	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#277	thank_you
+1	thank_you	thank_you	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#278	Fraser no more squirrels
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	no	no	qn	_	_	4	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	more	more	qn	_	_	4	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	squirrels	squirrel	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#279	no more what
+1	no	no	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	more	more	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+3	what	what	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#280	there no squirrels
+1	there	there	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	no	no	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	squirrels	squirrel	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#281	no more squirrels
+1	no	no	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	more	more	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	squirrels	squirrel	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#283	squirrels outside
+1	squirrels	squirrel	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	outside	outside	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#284	oh squirrels
+1	oh	oh	co	_	_	2	COM	David FAT Father	Eve 23 female TD Brown
+2	squirrels	squirrel	n	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#285	they're around
+1	they	they	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	're	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	around	around	prep	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+
+#286	they just weren't there when you were looking
+1	they	they	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	just	just	adv	_	_	3	JCT	David FAT Father	Eve 23 female TD Brown
+3	were	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	David FAT Father	Eve 23 female TD Brown
+5	there	there	adv	_	_	3	JCT	David FAT Father	Eve 23 female TD Brown
+6	when	when	conj	_	_	9	LINK	David FAT Father	Eve 23 female TD Brown
+7	you	you	pro	_	_	9	SUBJ	David FAT Father	Eve 23 female TD Brown
+8	were	be	aux	_	_	9	AUX	David FAT Father	Eve 23 female TD Brown
+9	looking	look	part	_	_	3	CJCT	David FAT Father	Eve 23 female TD Brown
+
+#287	what did you do
+1	what	what	pro	_	_	4	OBJ	David FAT Father	Eve 23 female TD Brown
+2	did	do	mod	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	David FAT Father	Eve 23 female TD Brown
+4	do	do	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+
+#288	what did you do
+1	what	what	pro	_	_	4	OBJ	David FAT Father	Eve 23 female TD Brown
+2	did	do	mod	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	David FAT Father	Eve 23 female TD Brown
+4	do	do	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+
+#289	did you bite the paddle
+1	did	do	mod	_	_	3	AUX	David FAT Father	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	David FAT Father	Eve 23 female TD Brown
+3	bite	bite	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	David FAT Father	Eve 23 female TD Brown
+5	paddle	paddle	n	_	_	3	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#290	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#291	did it break
+1	did	do	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	break	break	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#292	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#293	no more peanutbutter on the paddle
+1	no	no	qn	_	_	3	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+2	more	more	qn	_	_	3	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+3	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	on	on	prep	_	_	3	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+5	the	the	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	paddle	paddle	n	_	_	4	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#294	I bite it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bite	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#295	you did bite it
+1	you	you	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	did	do	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	bite	bite	n	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+4	it	it	pro	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#296	you bit a piece out_of it
+1	you	you	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	bit	bite	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	David FAT Father	Eve 23 female TD Brown
+4	piece	piece	n	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+5	out_of	out_of	prep	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#297	look see
+1	look	look	co	_	_	2	BEG	David FAT Father	Eve 23 female TD Brown
+2	see	see	co	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#298	you bit a hole in it
+1	you	you	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	bit	bite	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	David FAT Father	Eve 23 female TD Brown
+4	hole	hole	n	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#299	right there
+1	right	right	adv	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+2	there	there	adv	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#300	I'll hafta throw it away
+1	I	I	pro	_	_	5	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	'll	will	mod	_	_	5	AUX	David FAT Father	Eve 23 female TD Brown
+3	haf	have	mod	_	_	5	AUX	David FAT Father	Eve 23 female TD Brown
+4	ta	to	inf	_	_	5	INF	David FAT Father	Eve 23 female TD Brown
+5	throw	throw	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	OBJ	David FAT Father	Eve 23 female TD Brown
+7	away	away	adv	_	_	5	JCT	David FAT Father	Eve 23 female TD Brown
+
+#301	I'm sorry
+1	I	I	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	'm	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	sorry	sorry	adj	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#302	Fraser I bit a hole in it
+1	Fraser	Fraser	n	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	bit	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	a	a	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	hole	hole	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	in	in	prep	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+7	it	it	pro	_	_	6	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#304	Fraser I drinking milk
+1	Fraser	Fraser	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	drinking	drink	part	_	_	1	CMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	milk	milk	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#306	cheese sandwich coming out
+1	cheese	cheese	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	sandwich	sandwich	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	coming	come	part	_	_	2	XMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	out	out	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#307	the cheese is coming out
+1	the	the	det	_	_	2	DET	Sue MOT Mother	Eve 23 female TD Brown
+2	cheese	cheese	n	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	is	be	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	coming	come	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	out	out	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#308	it melted
+1	it	it	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	melted	melt	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#309	Fraser cheese sandwich
+1	Fraser	Fraser	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	cheese	cheese	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	sandwich	sandwich	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#310	I bit a hole in it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bit	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	hole	hole	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#311	in what
+1	in	in	prep	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	what	what	pro	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#312	in my paddle
+1	in	in	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paddle	paddle	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#315	no out_of paddle
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	out_of	out_of	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paddle	paddle	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#318	Mom hafta throw away
+1	Mom	Mom	n	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	haf	have	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	ta	to	inf	_	_	4	INF	Eve CHI Target_Child	Eve 23 female TD Brown
+4	throw	throw	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	away	away	adv	_	_	4	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#319	no not the cheese sandwich
+1	no	no	co	_	_	5	COM	David FAT Father	Eve 23 female TD Brown
+2	not	not	neg	_	_	1	NEG	David FAT Father	Eve 23 female TD Brown
+3	the	the	det	_	_	5	DET	David FAT Father	Eve 23 female TD Brown
+4	cheese	cheese	n	_	_	5	MOD	David FAT Father	Eve 23 female TD Brown
+5	sandwich	sandwich	n	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#320	we eat the cheese sandwich
+1	we	we	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	eat	eat	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	the	the	det	_	_	5	DET	David FAT Father	Eve 23 female TD Brown
+4	cheese	cheese	n	_	_	5	MOD	David FAT Father	Eve 23 female TD Brown
+5	sandwich	sandwich	n	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#321	but not the paddle
+1	but	but	conj	_	_	4	LINK	David FAT Father	Eve 23 female TD Brown
+2	not	not	neg	_	_	4	NEG	David FAT Father	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	David FAT Father	Eve 23 female TD Brown
+4	paddle	paddle	n	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#322	it's alright to bite holes in cheese sandwiches
+1	it	it	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	alright	alright	adj	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+4	to	to	prep	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+5	bite	bite	n	_	_	6	MOD	David FAT Father	Eve 23 female TD Brown
+6	holes	hole	n	_	_	4	POBJ	David FAT Father	Eve 23 female TD Brown
+7	in	in	prep	_	_	6	NJCT	David FAT Father	Eve 23 female TD Brown
+8	cheese	cheese	n	_	_	9	MOD	David FAT Father	Eve 23 female TD Brown
+9	sandwiches	sandwich	n	_	_	7	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#323	I hit my arm
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	hit	hit	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	arm	arm	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#324	you hit it
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	hit	hit	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#325	oh that's too bad
+1	oh	oh	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	that	that	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	too	too	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	bad	bad	adj	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#326	tapioca
+1	tapioca	tapioca	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#327	alright
+1	alright	alright	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#328	peek
+1	peek	peek	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#329	Eve peek
+1	Eve	Eve	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	peek	peek	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#330	peanutbutter
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#331	peanutbutter all away
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	all	all	post	_	_	1	PQ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	away	away	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#332	peanutbutter stay away
+1	peanutbutter	peanutbutter	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	stay	stay	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	away	away	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#333	that Fraser
+1	that	that	comp	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#334	that is
+1	that	that	pro	_	_	2	LINK	Sue MOT Mother	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#335	he came to see you
+1	he	he	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	came	come	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	to	to	inf	_	_	4	INF	Sue MOT Mother	Eve 23 female TD Brown
+4	see	see	v	_	_	2	XJCT	Sue MOT Mother	Eve 23 female TD Brown
+5	you	you	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#336	Papa too
+1	Papa	Papa	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	too	too	post	_	_	1	PQ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#337	well Papa comes everyday
+1	well	well	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	comes	come	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	everyday	everyday	adj	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#338	that Fraser
+1	that	that	comp	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#339	I know
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	know	know	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#340	that Papa
+1	that	that	comp	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#341	that Eve
+1	that	that	comp	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Eve	Eve	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#342	Papa Mom Eve
+1	Papa	Papa	n	_	_	2	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Mom	Mom	n	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Eve	Eve	n	_	_	2	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#343	who else
+1	who	who	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	else	else	post	_	_	1	PQ	Sue MOT Mother	Eve 23 female TD Brown
+
+#344	Fraser Papa Mom Fraser Eve Mom Papa Eve Fraser Mom Papa
+1	Fraser	Fraser	n	_	_	2	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	3	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Mom	Mom	n	_	_	4	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Fraser	Fraser	n	_	_	5	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+5	Eve	Eve	n	_	_	6	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+6	Mom	Mom	n	_	_	7	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+7	Papa	Papa	n	_	_	8	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+8	Eve	Eve	n	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+9	Fraser	Fraser	n	_	_	10	NAME	Eve CHI Target_Child	Eve 23 female TD Brown
+10	Mom	Mom	n	_	_	8	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+11	Papa	Papa	n	_	_	10	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#345	I know
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	know	know	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#346	I know
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	know	know	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#347	please eat your tapioca
+1	please	please	co	_	_	2	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	eat	eat	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	your	your	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	tapioca	tapioca	n	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#348	okay
+1	okay	okay	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#349	tapioca
+1	tapioca	tapioca	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#350	peanutbutter
+1	peanutbutter	peanutbutter	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#351	that's right
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#352	bowl
+1	bowl	bowl	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#353	the bowl's right there
+1	the	the	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+2	bowl's	bowl	adj	_	_	3	MOD	Sue MOT Mother	Eve 23 female TD Brown
+3	right	right	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	there	there	adv	_	_	3	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#354	by the sugar
+1	by	by	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	the	the	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	sugar	sugar	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#355	by the sugar uhhuh
+1	by	by	prep	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	the	the	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	sugar	sugar	n	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	uhhuh	uhhuh	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+
+#356	hey stop spitting out the tapioca
+1	hey	hey	co	_	_	2	BEG	Sue MOT Mother	Eve 23 female TD Brown
+2	stop	stop	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	spitting	spit	part	_	_	2	XMOD	Sue MOT Mother	Eve 23 female TD Brown
+4	out	out	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	the	the	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	tapioca	tapioca	n	_	_	4	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#357	what that
+1	what	what	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	that	that	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#358	that's part of the tapioca
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	part	part	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+4	of	of	prep	_	_	3	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+5	the	the	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	tapioca	tapioca	n	_	_	4	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#359	and you don't spit it out
+1	and	and	coord	_	_	5	LINK	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	do	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	spit	spit	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	out	out	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#360	more
+1	more	more	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#361	there's a little something in there I must admit
+1	there	there	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	little	little	adj	_	_	5	MOD	Sue MOT Mother	Eve 23 female TD Brown
+5	something	something	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+6	in	in	prep	_	_	5	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+7	there	there	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	I	I	pro	_	_	10	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+9	must	must	mod	_	_	10	AUX	Sue MOT Mother	Eve 23 female TD Brown
+10	admit	admit	v	_	_	5	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#362	what is it
+1	what	what	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#363	it have something there
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	something	something	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	there	there	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#364	it have something there
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	something	something	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	there	there	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#365	it have it
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#366	it's what
+1	it	it	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	what	what	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#367	it hat
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	hat	hat	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#368	it's hot
+1	it	it	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	hot	hot	adj	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#369	hat
+1	hat	hat	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#370	it hat
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	hat	hat	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#371	what did you say
+1	what	what	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	did	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	say	say	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#372	it's what
+1	it	it	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	what	what	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#373	it had a hat on
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	had	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	hat	hat	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	on	on	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#374	it has a hat on
+1	it	it	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	has	have	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	hat	hat	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	on	on	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#375	well it certainly doesn't have a hat on
+1	well	well	co	_	_	6	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	6	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	certainly	certain	adv	_	_	6	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	does	do	mod	_	_	6	AUX	Sue MOT Mother	Eve 23 female TD Brown
+5	n't	not	neg	_	_	4	NEG	Sue MOT Mother	Eve 23 female TD Brown
+6	have	have	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+7	a	a	det	_	_	8	DET	Sue MOT Mother	Eve 23 female TD Brown
+8	hat	hat	n	_	_	6	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+9	on	on	adv	_	_	6	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#376	are you all finished
+1	are	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	all	all	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	finished	finish	part	_	_	1	CPRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#377	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#378	I bit a hole in it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bit	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	hole	hole	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#379	no you didn't bite a hole in it
+1	no	no	co	_	_	5	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	did	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	bite	bite	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	a	a	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	hole	hole	n	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	in	in	prep	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+9	it	it	pro	_	_	8	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#380	that was broken
+1	that	that	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	was	be	aux	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	broken	break	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#381	it was already broken before I put the tapioca in it
+1	it	it	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	was	be	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	already	already	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	broken	break	part	_	_	7	XJCT	Sue MOT Mother	Eve 23 female TD Brown
+5	before	before	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	I	I	pro	_	_	7	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	put	put	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+8	the	the	det	_	_	9	DET	Sue MOT Mother	Eve 23 female TD Brown
+9	tapioca	tapioca	n	_	_	7	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+10	in	in	prep	_	_	7	JCT	Sue MOT Mother	Eve 23 female TD Brown
+11	it	it	pro	_	_	10	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#382	Sue I bit a hole in it
+1	Sue	Sue	n	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	bit	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	a	a	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	hole	hole	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	in	in	prep	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+7	it	it	pro	_	_	6	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#383	you didn't bite a hole in it
+1	you	you	pro	_	_	4	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	did	do	mod	_	_	4	AUX	David FAT Father	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	David FAT Father	Eve 23 female TD Brown
+4	bite	bite	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+5	a	a	det	_	_	6	DET	David FAT Father	Eve 23 female TD Brown
+6	hole	hole	n	_	_	4	OBJ	David FAT Father	Eve 23 female TD Brown
+7	in	in	prep	_	_	4	JCT	David FAT Father	Eve 23 female TD Brown
+8	it	it	pro	_	_	7	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#384	Mom did that a long time ago
+1	Mom	Mom	n	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	did	do	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	that	that	comp	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+4	a	a	det	_	_	6	DET	David FAT Father	Eve 23 female TD Brown
+5	long	long	adj	_	_	6	MOD	David FAT Father	Eve 23 female TD Brown
+6	time	time	n	_	_	3	OBJ	David FAT Father	Eve 23 female TD Brown
+7	ago	ago	post	_	_	6	POSTMOD	David FAT Father	Eve 23 female TD Brown
+
+#385	Mom bit
+1	Mom	Mom	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bit	bit	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#386	Mom bit the hole in it Eve
+1	Mom	Mom	n	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	bit	bite	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	David FAT Father	Eve 23 female TD Brown
+4	hole	hole	n	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+6	it	it	pro	_	_	7	SUBJ	David FAT Father	Eve 23 female TD Brown
+7	Eve	Eve	n	_	_	5	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#387	long time ago
+1	long	long	adj	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	time	time	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	ago	ago	post	_	_	2	POSTMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#388	a long time ago yes
+1	a	a	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+2	long	long	adj	_	_	3	MOD	Sue MOT Mother	Eve 23 female TD Brown
+3	time	time	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	ago	ago	post	_	_	3	POSTMOD	Sue MOT Mother	Eve 23 female TD Brown
+5	yes	yes	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+
+#389	I bit a hole in it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bit	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	hole	hole	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#390	no you didn't bite a hole in it
+1	no	no	co	_	_	5	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	did	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	bite	bite	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	a	a	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	hole	hole	n	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	in	in	prep	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+9	it	it	pro	_	_	8	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#391	I bite a hole in it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bite	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	hole	hole	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#392	no you didn't
+1	no	no	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	did	do	mod	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+
+#393	I bite a hole in it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bite	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	hole	hole	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#394	alright Eve bit a hole in the dish
+1	alright	alright	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	Eve	Eve	n	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	bit	bite	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	a	a	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	hole	hole	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	in	in	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	the	the	det	_	_	8	DET	Sue MOT Mother	Eve 23 female TD Brown
+8	dish	dish	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#395	bit hole
+1	bit	bite	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	hole	hole	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#396	that napkins
+1	that	that	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	napkins	napkin	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#397	yeah they're napkins
+1	yeah	yeah	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	they	they	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	're	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	napkins	napkin	n	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#398	don't touch them again
+1	do	do	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	n't	not	neg	_	_	1	NEG	Sue MOT Mother	Eve 23 female TD Brown
+3	touch	touch	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	them	them	pro	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	again	again	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#399	those are clean napkins
+1	those	those	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	are	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	clean	clean	adj	_	_	4	MOD	Sue MOT Mother	Eve 23 female TD Brown
+4	napkins	napkin	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#400	those clean napkins
+1	those	those	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	clean	clean	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	napkins	napkin	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#401	clean napkins
+1	clean	clean	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	napkins	napkin	n	_	_	1	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#402	right
+1	right	right	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#403	you fell down
+1	you	you	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	fell	fall	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	down	down	adv	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+
+#404	Fraser fall down
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	fall	fall	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	down	down	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#406	there taperecorder
+1	there	there	adv	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	taperecorder	taperecorder	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#407	I sit in my highchair yesterday
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	sit	sit	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	my	my	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	highchair	highchair	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	yesterday	yesterday	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#408	what did you do yesterday
+1	what	what	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	did	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	do	do	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	yesterday	yesterday	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#409	sit in my highchair
+1	sit	sit	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	in	in	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	highchair	highchair	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#410	look it Sarah
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Sarah	Sarah	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#411	Sarah
+1	Sarah	Sarah	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#413	she gonna have you lunch
+1	she	she	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	gon	go	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	na	to	inf	_	_	4	INF	Eve CHI Target_Child	Eve 23 female TD Brown
+4	have	have	v	_	_	2	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+5	you	you	pro	_	_	6	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	lunch	lunch	v	_	_	4	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#414	she goin in my highchair
+1	she	she	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	goin	go	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	my	my	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	highchair	highchair	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#416	highchair
+1	highchair	highchair	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#417	who
+1	who	who	pro	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#418	Sarah
+1	Sarah	Sarah	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#419	where does she eat
+1	where	where	pro	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	does	do	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	she	she	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	eat	eat	v	_	_	2	COMP	Sue MOT Mother	Eve 23 female TD Brown
+
+#420	in my highchair
+1	in	in	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	highchair	highchair	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#421	no she can't sit up
+1	no	no	co	_	_	5	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	she	she	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	ca	can	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	sit	sit	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	up	up	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#422	that baby Sarah
+1	that	that	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	baby	baby	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Sarah	Sarah	n	_	_	2	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#423	that's baby Sarah
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	baby	baby	n	_	_	4	MOD	Sue MOT Mother	Eve 23 female TD Brown
+4	Sarah	Sarah	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#424	it too heavy
+1	it	it	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	too	too	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	heavy	heavy	adj	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#426	yep it too heavy
+1	yep	yep	co	_	_	4	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	too	too	adv	_	_	4	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	heavy	heavy	adj	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#428	there
+1	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#429	it too heavy
+1	it	it	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	too	too	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	heavy	heavy	adj	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#430	briefcase
+1	briefcase	briefcase	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#431	it too heavy
+1	it	it	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	too	too	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	heavy	heavy	adj	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#433	I have put it back
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	put	put	v	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	back	back	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#434	it too heavy
+1	it	it	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	too	too	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	heavy	heavy	adj	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#435	my book
+1	my	my	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	book	book	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#437	Fraser read it
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	read	read	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#438	okay Fraser'll read it
+1	okay	okay	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	read	read	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	it	it	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#439	then we'll go and take a nap
+1	then	then	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	we	we	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	go	go	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	and	and	coord	_	_	4	CONJ	Sue MOT Mother	Eve 23 female TD Brown
+6	take	take	v	_	_	5	COORD	Sue MOT Mother	Eve 23 female TD Brown
+7	a	a	det	_	_	8	DET	Sue MOT Mother	Eve 23 female TD Brown
+8	nap	nap	n	_	_	6	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#441	you have teeth
+1	you	you	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	teeth	tooth	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#444	in my mouth
+1	in	in	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	mouth	mouth	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#448	I have big teeth
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	big	big	adj	_	_	4	MOD	Sue MOT Mother	Eve 23 female TD Brown
+4	teeth	tooth	n	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#449	I have little teeth
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	little	little	adj	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	teeth	tooth	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#450	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#451	Mom little teeth
+1	Mom	Mom	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	little	little	adj	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	teeth	tooth	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#452	you what
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	what	what	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#453	Mom little teeth
+1	Mom	Mom	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	little	little	adj	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	teeth	tooth	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#454	Mom little teeth
+1	Mom	Mom	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	little	little	adj	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	teeth	tooth	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#455	Mom has big teeth
+1	Mom	Mom	n	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	has	have	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	big	big	adj	_	_	4	MOD	Sue MOT Mother	Eve 23 female TD Brown
+4	teeth	tooth	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#456	Sarah has little teeth
+1	Sarah	Sarah	n	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	has	have	aux	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	little	little	adj	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	teeth	tooth	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#457	no Sarah doesn't have any teeth at all
+1	no	no	co	_	_	5	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	Sarah	Sarah	n	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	does	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	have	have	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	any	any	qn	_	_	7	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+7	teeth	tooth	n	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	at	at	prep	_	_	7	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+9	all	all	pro	_	_	8	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#458	she doesn't have any teeth at all
+1	she	she	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	does	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+4	have	have	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	any	any	qn	_	_	6	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+6	teeth	tooth	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	at	at	prep	_	_	6	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+8	all	all	pro	_	_	7	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#459	byebye Fraser
+1	byebye	byebye	co	_	_	2	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Fraser	Fraser	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#461	we'll see Fraser again on
+1	we	we	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	'll	will	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	see	see	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	Fraser	Fraser	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	again	again	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	on	on	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#462	when
+1	when	when	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#463	on Wednesday
+1	on	on	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Wednesday	Wednesday	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#464	when
+1	when	when	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#465	on Wednesday
+1	on	on	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Wednesday	Wednesday	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#466	no today's Monday
+1	no	no	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	today	today	adv	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	's	be	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	Monday	Monday	n	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#467	he comes back with Cromer on
+1	he	he	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	comes	come	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	back	back	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	with	with	prep	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	Cromer	Cromer	n	_	_	4	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	on	on	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#468	Wednesday
+1	Wednesday	Wednesday	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#469	Wednesday
+1	Wednesday	Wednesday	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#470	that's right
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#471	Sue wipe my nose again
+1	Sue	Sue	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	wipe	wipe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	nose	nose	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	again	again	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#473	no you pencil
+1	no	no	co	_	_	3	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	pencil	pencil	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#474	me too write
+1	me	me	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	too	too	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#476	that a new paper
+1	that	that	comp	_	_	4	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	new	new	adj	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	paper	paper	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#477	you write with this
+1	you	you	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	with	with	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	this	this	pro	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#480	Fraser the dolls not in you briefcase
+1	Fraser	Fraser	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	the	the	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	dolls	doll	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	not	not	neg	_	_	3	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+5	in	in	prep	_	_	3	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	you	you	pro	_	_	7	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+7	briefcase	briefcase	n	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#483	the dolls not in you briefcase
+1	the	the	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	dolls	doll	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	not	not	neg	_	_	2	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+4	in	in	prep	_	_	2	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	you	you	pro	_	_	6	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	briefcase	briefcase	n	_	_	4	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#485	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#486	Cromer's bringing them when he comes
+1	Cromer	Cromer	n	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	aux	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	bringing	bring	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	them	them	pro	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	when	when	conj	_	_	7	LINK	Sue MOT Mother	Eve 23 female TD Brown
+6	he	he	pro	_	_	7	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	comes	come	v	_	_	3	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#487	that some milk
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	some	some	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	milk	milk	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#488	let's put some in
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	us	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	put	put	v	_	_	1	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	some	some	qn	_	_	5	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	in	in	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#490	some milk
+1	some	some	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	milk	milk	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#492	that some cream
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	some	some	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	cream	cream	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#493	Fraser put in
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	put	put	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	in	in	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#495	blow my nose
+1	blow	blow	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	nose	nose	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#496	okay
+1	okay	okay	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#499	dollies
+1	dollies	doll	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#501	Sue open my toy box
+1	Sue	Sue	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	open	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	toy	toy	n	_	_	5	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+5	box	box	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#503	no Mom
+1	no	no	co	_	_	2	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Mom	Mom	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#504	open my pencil
+1	open	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	pencil	pencil	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#507	Fraser write
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#508	what
+1	what	what	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#509	write
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#510	write mine paper REPLACEMENT mines
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	mine	mine	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paper	paper	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#511	that mine paper
+1	that	that	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	mine	mine	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paper	paper	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#512	write my paper
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paper	paper	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#513	write my paper
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paper	paper	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#515	write my paper
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paper	paper	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#517	like that one
+1	like	like	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	that	that	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	one	one	pro	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#520	it going away
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	going	go	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	away	away	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#521	it going away
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	going	go	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	away	away	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#522	Sarah laying on the floor
+1	Sarah	Sarah	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	laying	lay	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	on	on	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	floor	floor	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#523	for just a minute she's going to lay on the floor
+1	for	for	prep	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	just	just	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	minute	minute	n	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	she	she	pro	_	_	7	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	's	be	aux	_	_	7	AUX	Sue MOT Mother	Eve 23 female TD Brown
+7	going	go	part	_	_	4	CMOD	Sue MOT Mother	Eve 23 female TD Brown
+8	to	to	inf	_	_	9	INF	Sue MOT Mother	Eve 23 female TD Brown
+9	lay	lay	v	_	_	7	COMP	Sue MOT Mother	Eve 23 female TD Brown
+10	on	on	prep	_	_	9	JCT	Sue MOT Mother	Eve 23 female TD Brown
+11	the	the	det	_	_	12	DET	Sue MOT Mother	Eve 23 female TD Brown
+12	floor	floor	n	_	_	10	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#524	change Sarah diaper
+1	change	change	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Sarah	Sarah	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	diaper	diaper	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#525	I did
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	did	do	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#526	Sarah take a nap
+1	Sarah	Sarah	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	take	take	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	nap	nap	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#527	well Sarah's gonna have some milk
+1	well	well	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	Sarah's	Sarah	adj	_	_	3	MOD	Sue MOT Mother	Eve 23 female TD Brown
+3	gon	go	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	na	to	inf	_	_	5	INF	Sue MOT Mother	Eve 23 female TD Brown
+5	have	have	v	_	_	3	COMP	Sue MOT Mother	Eve 23 female TD Brown
+6	some	some	qn	_	_	7	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+7	milk	milk	n	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#528	she's gonna have some milk first
+1	she	she	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	aux	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	gon	go	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	na	to	inf	_	_	5	INF	Sue MOT Mother	Eve 23 female TD Brown
+5	have	have	v	_	_	3	COMP	Sue MOT Mother	Eve 23 female TD Brown
+6	some	some	qn	_	_	7	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+7	milk	milk	n	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	first	first	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#529	then she'll have a nap
+1	then	then	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	she	she	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	have	have	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	a	a	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	nap	nap	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#530	I write yours
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	yours	yours	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#531	with my pencil
+1	with	with	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	pencil	pencil	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#534	yours on the table
+1	yours	yours	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	table	table	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#535	that doesn't write REPLACEMENT dan
+1	that	that	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	does	do	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+4	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#536	write on that paper
+1	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	paper	paper	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#537	Mom blow my nose
+1	Mom	Mom	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	blow	blow	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	nose	nose	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#538	come here
+1	come	come	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	here	here	adv	_	_	1	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#540	yes
+1	yes	yes	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#541	no it's yours
+1	no	no	co	_	_	3	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	yours	yours	pro	_	_	3	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#542	I get another one
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	another	another	qn	_	_	4	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	one	one	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#543	that doesn't write
+1	that	that	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	does	do	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+4	write	write	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#544	oh that one writes fine Eve
+1	oh	oh	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	that	that	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	one	one	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	writes	write	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	fine	fine	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	Eve	Eve	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#549	no I got put away
+1	no	no	co	_	_	4	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	got	get	aux	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+4	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	away	away	adv	_	_	4	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#550	Cromer coming
+1	Cromer	Cromer	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	coming	come	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#551	yes it's just about time for Cromer
+1	yes	yes	co	_	_	3	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	just	just	adj	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+5	about	about	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	time	time	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	for	for	prep	_	_	6	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+8	Cromer	Cromer	n	_	_	7	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#552	Sue wipe my nose again
+1	Sue	Sue	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	wipe	wipe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	nose	nose	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	again	again	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#553	time a Cromer come
+1	time	time	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Cromer	Cromer	n	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	come	come	v	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#554	Cromer not there Fraser
+1	Cromer	Cromer	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	not	not	neg	_	_	1	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+3	there	there	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Fraser	Fraser	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#556	that some cream
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	some	some	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	cream	cream	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#557	that some milk
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	some	some	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	milk	milk	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#558	that some cream
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	some	some	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	cream	cream	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#561	hi what are you doing
+1	hi	hi	co	_	_	5	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	what	what	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	are	be	aux	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	doing	do	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#562	playing with Fraser
+1	playing	play	part	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	with	with	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Fraser	Fraser	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#563	oh you're playing with Fraser
+1	oh	oh	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	're	be	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	playing	play	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	with	with	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	Fraser	Fraser	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#564	well run along and play with him
+1	well	well	co	_	_	2	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	run	run	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	along	along	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	and	and	coord	_	_	2	CONJ	Sue MOT Mother	Eve 23 female TD Brown
+5	play	play	n	_	_	4	COORD	Sue MOT Mother	Eve 23 female TD Brown
+6	with	with	prep	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	him	him	pro	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#565	Fraser get my beads
+1	Fraser	Fraser	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	beads	bead	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#566	get my beads
+1	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	beads	bead	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#568	my beads
+1	my	my	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	beads	bead	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#570	in there
+1	in	in	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	there	there	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#572	op it
+1	op	open	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#573	that other
+1	that	that	comp	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	other	other	qn	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#575	that other one
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	other	other	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	one	one	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#576	what happened
+1	what	what	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	happened	happen	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#577	that orange one
+1	that	that	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	orange	orange	adj	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	one	one	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#578	that orange one
+1	that	that	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	orange	orange	adj	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	one	one	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#579	that is an orange one yes
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	an	a	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	orange	orange	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+5	one	one	det	_	_	6	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+6	yes	yes	co	_	_	4	CMOD	Sue MOT Mother	Eve 23 female TD Brown
+
+#580	it fall down Fraser
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	fall	fall	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	down	down	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Fraser	Fraser	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#582	I better take another one Fraser
+1	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	better	good	adv	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	take	take	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	another	another	qn	_	_	5	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	one	one	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	Fraser	Fraser	n	_	_	5	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#584	I go throw it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	go	go	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	throw	throw	v	_	_	2	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#586	I throwing
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	throwing	throw	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#589	I have in my hand
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	in	in	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	my	my	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	hand	hand	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#591	doo
+1	doo	doo	chi	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#592	what color is it
+1	what	what	pro	_	_	2	MOD	Sue MOT Mother	Eve 23 female TD Brown
+2	color	color	n	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#593	Sue blow my nose
+1	Sue	Sue	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	blow	blow	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	nose	nose	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#594	look all beads
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	all	all	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	beads	bead	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#595	I making
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	making	make	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#596	you're making what
+1	you	you	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	're	be	aux	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	making	make	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	what	what	pro	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#597	I making a bead
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	making	make	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	bead	bead	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#598	oh you're making a bead
+1	oh	oh	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	're	be	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	making	make	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	a	a	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	bead	bead	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#599	you're putting the bead on the string
+1	you	you	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	're	be	aux	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	putting	put	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	bead	bead	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	on	on	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	the	the	det	_	_	8	DET	Sue MOT Mother	Eve 23 female TD Brown
+8	string	string	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#600	look it
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#602	yep
+1	yep	yep	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#604	yep
+1	yep	yep	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#605	there a purple one
+1	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	purple	purple	n	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	one	one	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#606	that's right
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	right	right	co	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#607	that is a purple one
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	purple	purple	n	_	_	5	MOD	Sue MOT Mother	Eve 23 female TD Brown
+5	one	one	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#608	Sue fix my fingernail
+1	Sue	Sue	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	fix	fix	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	fingernail	fingernail	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#609	Papa'll fix it when he comes home cause he has the clippers
+1	Papa	Papa	n	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	'll	will	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	fix	fix	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	when	when	conj	_	_	7	LINK	Sue MOT Mother	Eve 23 female TD Brown
+6	he	he	pro	_	_	7	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	comes	come	v	_	_	3	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+8	home	home	adv	_	_	7	JCT	Sue MOT Mother	Eve 23 female TD Brown
+9	cause	because	conj	_	_	11	LINK	Sue MOT Mother	Eve 23 female TD Brown
+10	he	he	pro	_	_	11	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+11	has	have	v	_	_	3	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+12	the	the	det	_	_	13	DET	Sue MOT Mother	Eve 23 female TD Brown
+13	clippers	clip	n	_	_	11	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#610	fix it with the scissor
+1	fix	fix	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	with	with	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	scissor	scissors	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#611	fix it with the scissors
+1	fix	fix	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	with	with	prep	_	_	1	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	scissors	scissors	n	_	_	3	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#612	well it'll be easier
+1	well	well	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	be	be	aux	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	easier	ease	adj	_	_	4	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#614	Papa
+1	Papa	Papa	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#617	just with my fingernail
+1	just	just	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	with	with	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	fingernail	fingernail	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#619	Fraser I throwing my beads
+1	Fraser	Fraser	n	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	throwing	throw	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	my	my	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	beads	bead	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#620	you're not throwing them you're dropping them
+1	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	're	be	aux	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	not	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+4	throwing	throw	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	them	them	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	you	you	pro	_	_	8	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	're	be	aux	_	_	8	AUX	Sue MOT Mother	Eve 23 female TD Brown
+8	dropping	drop	part	_	_	4	COMP	Sue MOT Mother	Eve 23 female TD Brown
+9	them	them	pro	_	_	8	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#621	I fall down
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	fall	fall	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	down	down	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#624	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#628	that's a purple one
+1	that	that	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	purple	purple	n	_	_	5	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+5	one	one	pro	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#630	you get a purple one
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	get	get	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	purple	purple	n	_	_	5	MOD	Sue MOT Mother	Eve 23 female TD Brown
+5	one	one	pro	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#631	purple one
+1	purple	purple	adj	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	one	one	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#632	that's a purple one
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	purple	purple	n	_	_	5	MOD	Sue MOT Mother	Eve 23 female TD Brown
+5	one	one	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#633	don't you spill my pure cream
+1	do	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	n't	not	neg	_	_	1	NEG	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	spill	spill	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	my	my	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	pure	pure	adj	_	_	7	MOD	Sue MOT Mother	Eve 23 female TD Brown
+7	cream	cream	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#634	I spill my pure cream
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	spill	spill	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	pure	pure	adj	_	_	5	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+5	cream	cream	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#635	no you didn't spill your pure cream
+1	no	no	co	_	_	5	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	did	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Sue MOT Mother	Eve 23 female TD Brown
+5	spill	spill	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+6	your	your	det	_	_	8	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	pure	pure	adj	_	_	8	MOD	Sue MOT Mother	Eve 23 female TD Brown
+8	cream	cream	n	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#636	I spill
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	spill	spill	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#637	you spilled two knives out the box
+1	you	you	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	spilled	spill	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	two	two	det	_	_	4	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+4	knives	knife	n	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	out	out	prep	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	the	the	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	box	box	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#638	two knife out the box
+1	two	two	det	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	knife	knife	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	out	out	prep	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	box	box	n	_	_	3	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#639	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#640	Fraser going have a birthday cake
+1	Fraser	Fraser	n	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	going	go	part	_	_	3	XJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	a	a	det	_	_	6	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	birthday	birthday	n	_	_	6	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+6	cake	cake	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#641	Sue making more coffee for Fraser
+1	Sue	Sue	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	making	make	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	more	more	qn	_	_	4	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	coffee	coffee	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	for	for	prep	_	_	4	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	Fraser	Fraser	n	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#642	let me put more water in the teakettle
+1	let	let	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	me	me	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	put	put	part	_	_	1	COMP	Sue MOT Mother	Eve 23 female TD Brown
+4	more	more	qn	_	_	5	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+5	water	water	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	in	in	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	the	the	det	_	_	8	DET	Sue MOT Mother	Eve 23 female TD Brown
+8	teakettle	teakettle	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#643	Sue what's that
+1	Sue	Sue	n	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	what	what	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	that	that	pro	_	_	3	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#644	what
+1	what	what	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#645	who
+1	who	who	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#646	who is it
+1	who	who	pro	_	_	2	LINK	Sue MOT Mother	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#648	Pap where you cookbook
+1	Pap	Pap	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	where	where	pro	_	_	4	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	cookbook	cookbook	n	_	_	1	CMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#649	my cookbook
+1	my	my	det	_	_	2	DET	David FAT Father	Eve 23 female TD Brown
+2	cookbook	cookbook	n	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#650	Mom got a cookbook
+1	Mom	Mom	n	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	got	get	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	cookbook	cookbook	n	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#651	this here's Papa's book right here
+1	this	this	pro	_	_	3	LINK	Sue MOT Mother	Eve 23 female TD Brown
+2	here	here	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	Papa's	Papa	adj	_	_	5	MOD	Sue MOT Mother	Eve 23 female TD Brown
+5	book	book	n	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+6	right	right	adv	_	_	7	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	here	here	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#652	Sue wipe my nose
+1	Sue	Sue	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	wipe	wipe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	nose	nose	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#653	that Papa
+1	that	that	comp	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#654	that Papa
+1	that	that	comp	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#655	well thank_you
+1	well	well	co	_	_	2	COM	David FAT Father	Eve 23 female TD Brown
+2	thank_you	thank_you	n	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#657	okay
+1	okay	okay	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#663	get something else
+1	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	something	something	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	else	else	post	_	_	2	PQ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#664	that your briefcase
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	your	your	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	briefcase	briefcase	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#666	move Papa
+1	move	move	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Papa	Papa	n	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#667	call Granny
+1	call	call	n	_	_	2	MOD	David FAT Father	Eve 23 female TD Brown
+2	Granny	Granny	n	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+
+#668	Mommy
+1	Mommy	Mommy	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#669	are you getting sleepy
+1	are	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	1	PRED	Sue MOT Mother	Eve 23 female TD Brown
+3	getting	get	part	_	_	2	XMOD	Sue MOT Mother	Eve 23 female TD Brown
+4	sleepy	sleep	adj	_	_	3	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#670	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#671	Fraser I lay on the stool
+1	Fraser	Fraser	n	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	lay	lay	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	on	on	prep	_	_	3	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	the	the	det	_	_	6	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+6	stool	stool	n	_	_	4	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#673	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#674	I can't see you
+1	I	I	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	ca	can	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+4	see	see	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	you	you	pro	_	_	4	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#675	I can't see you
+1	I	I	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	ca	can	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+4	see	see	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	you	you	pro	_	_	4	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#677	peek
+1	peek	peek	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#679	peek
+1	peek	peek	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#681	peek
+1	peek	peek	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#684	where you shoes
+1	where	where	pro	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	shoes	shoe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#689	doo
+1	doo	doo	chi	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#692	what
+1	what	what	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#694	it's what
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	what	what	pro	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#696	it's what
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	what	what	pro	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#698	it what
+1	it	it	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	what	what	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#699	what doing Fraser
+1	what	what	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	doing	do	n	_	_	1	CONJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Fraser	Fraser	n	_	_	2	COORD	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#703	that another yellow
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	another	another	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	yellow	yellow	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#706	doo
+1	doo	doo	chi	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#708	blue one
+1	blue	blue	adj	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	one	one	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#710	Cromer
+1	Cromer	Cromer	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#711	yes open the door and let him in REPLACEMENT doocr
+1	yes	yes	co	_	_	2	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	open	open	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	door	door	n	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	and	and	coord	_	_	2	CONJ	Sue MOT Mother	Eve 23 female TD Brown
+6	let	let	v	_	_	5	COORD	Sue MOT Mother	Eve 23 female TD Brown
+7	him	him	pro	_	_	6	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	in	in	adv	_	_	6	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#712	tell him to come in
+1	tell	tell	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	him	him	pro	_	_	1	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	to	to	inf	_	_	4	INF	Sue MOT Mother	Eve 23 female TD Brown
+4	come	come	v	_	_	1	COMP	Sue MOT Mother	Eve 23 female TD Brown
+5	in	in	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#714	yep
+1	yep	yep	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#716	come in
+1	come	come	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	in	in	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#717	Eve go open the door for Rick
+1	Eve	Eve	n	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	go	go	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	open	open	v	_	_	2	OBJ2	David FAT Father	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	David FAT Father	Eve 23 female TD Brown
+5	door	door	n	_	_	2	OBJ	David FAT Father	Eve 23 female TD Brown
+6	for	for	prep	_	_	2	JCT	David FAT Father	Eve 23 female TD Brown
+7	Rick	Rick	n	_	_	6	POBJ	David FAT Father	Eve 23 female TD Brown
+
+#718	oh Eve you're silly
+1	oh	oh	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	Eve	Eve	n	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	're	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	silly	silly	adj	_	_	4	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#719	he's standing out in the cold
+1	he	he	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	aux	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	standing	stand	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	out	out	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	in	in	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	the	the	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	cold	cold	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#720	it's not
+1	it	it	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	not	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+
+#721	what that
+1	what	what	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	that	that	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#722	what that
+1	what	what	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	that	that	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#723	that wasn't Rick darling
+1	that	that	comp	_	_	2	LINK	David FAT Father	Eve 23 female TD Brown
+2	was	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	David FAT Father	Eve 23 female TD Brown
+4	Rick	Rick	n	_	_	5	MOD	David FAT Father	Eve 23 female TD Brown
+5	darling	darling	co	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#724	it was the gas man
+1	it	it	pro	_	_	2	SUBJ	David FAT Father	Eve 23 female TD Brown
+2	was	be	cop	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+3	the	the	det	_	_	5	DET	David FAT Father	Eve 23 female TD Brown
+4	gas	gas	n	_	_	5	MOD	David FAT Father	Eve 23 female TD Brown
+5	man	man	n	_	_	2	PRED	David FAT Father	Eve 23 female TD Brown
+
+#725	the gas man
+1	the	the	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	gas	gas	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	man	man	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#726	where Cromer
+1	where	where	pro	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Cromer	Cromer	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#727	I don't know where he is
+1	I	I	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+4	know	know	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	where	where	pro	_	_	7	LINK	Sue MOT Mother	Eve 23 female TD Brown
+6	he	he	pro	_	_	7	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	is	be	cop	_	_	4	COMP	Sue MOT Mother	Eve 23 female TD Brown
+
+#728	Mommy
+1	Mommy	Mommy	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#729	what
+1	what	what	pro	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#730	blow my nose
+1	blow	blow	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	nose	nose	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#731	right
+1	right	right	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#732	Mommy
+1	Mommy	Mommy	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#733	what dear
+1	what	what	pro	_	_	2	LINK	David FAT Father	Eve 23 female TD Brown
+2	dear	dear	co	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#734	want some lunch
+1	want	want	v	_	_	0	ROOT	David FAT Father	Eve 23 female TD Brown
+2	some	some	qn	_	_	3	QUANT	David FAT Father	Eve 23 female TD Brown
+3	lunch	lunch	n	_	_	1	OBJ	David FAT Father	Eve 23 female TD Brown
+
+#735	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#736	wipe my nose
+1	wipe	wipe	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	nose	nose	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#737	again
+1	again	again	adv	_	_	0	INCROOT	David FAT Father	Eve 23 female TD Brown
+
+#738	Mommy
+1	Mommy	Mommy	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#739	Mommy
+1	Mommy	Mommy	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#740	tell me what you want
+1	tell	tell	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	me	me	pro	_	_	1	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	what	what	pro	_	_	5	LINK	Sue MOT Mother	Eve 23 female TD Brown
+4	you	you	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	want	want	v	_	_	1	COMP	Sue MOT Mother	Eve 23 female TD Brown
+
+#741	look my ear
+1	look	look	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	ear	ear	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#742	what's wrong with your ear
+1	what	what	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	wrong	wrong	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+4	with	with	prep	_	_	3	NJCT	Sue MOT Mother	Eve 23 female TD Brown
+5	your	your	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	ear	ear	n	_	_	4	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#743	there he is
+1	there	there	adv	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	he	he	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#744	bring the doll
+1	bring	bring	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	the	the	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	doll	doll	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#745	he bringing the dolls
+1	he	he	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bringing	bring	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	dolls	doll	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#746	did he bring the dolls
+1	did	do	mod	_	_	3	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	he	he	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	bring	bring	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	dolls	doll	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#747	he did
+1	he	he	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	did	do	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#748	they're right there in the bag
+1	they	they	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	're	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	right	right	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	there	there	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	in	in	prep	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	the	the	det	_	_	7	DET	Sue MOT Mother	Eve 23 female TD Brown
+7	bag	bag	n	_	_	5	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#749	now Eve you wait and let Rick open the bag
+1	now	now	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	Eve	Eve	n	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	2	OBJ2	Sue MOT Mother	Eve 23 female TD Brown
+4	wait	wait	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	and	and	coord	_	_	4	CONJ	Sue MOT Mother	Eve 23 female TD Brown
+6	let	let	v	_	_	5	COORD	Sue MOT Mother	Eve 23 female TD Brown
+7	Rick	Rick	n	_	_	8	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+8	open	open	v	_	_	6	COMP	Sue MOT Mother	Eve 23 female TD Brown
+9	the	the	det	_	_	10	DET	Sue MOT Mother	Eve 23 female TD Brown
+10	bag	bag	n	_	_	8	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#750	let Cromer
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Cromer	Cromer	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#751	yes he'll open the bag
+1	yes	yes	co	_	_	4	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	he	he	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	'll	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+4	open	open	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	the	the	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+6	bag	bag	n	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#752	let bag
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	bag	bag	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#753	what my
+1	what	what	pro	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#755	what is that
+1	what	what	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	pro	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#757	Cromer what that
+1	Cromer	Cromer	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	what	what	pro	_	_	1	OM	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#758	what a that
+1	what	what	pro	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#760	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#762	turn it again
+1	turn	turn	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	again	again	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#763	do it again
+1	do	do	mod	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	again	again	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#766	doing it again
+1	doing	do	part	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	again	again	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#767	Mom blow my nose
+1	Mom	Mom	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	blow	blow	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	nose	nose	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#768	there
+1	there	there	adv	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#769	blow this time
+1	blow	blow	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	this	this	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	time	time	n	_	_	1	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#770	blow
+1	blow	blow	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#771	that's it
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#772	turn it
+1	turn	turn	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#773	that a bag
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	bag	bag	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#776	put in
+1	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	in	in	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#780	get the doll
+1	get	get	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	the	the	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	doll	doll	n	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#781	doll
+1	doll	doll	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#782	what that
+1	what	what	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	that	that	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#784	that a baby
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	baby	baby	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#787	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#789	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#791	let's see
+1	let	let	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	's	us	pro	_	_	1	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	see	see	v	_	_	1	COMP	Sue MOT Mother	Eve 23 female TD Brown
+
+#792	why don't we take
+1	why	why	pro	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	mod	_	_	5	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+4	we	we	pro	_	_	5	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+5	take	take	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#793	this is the Mama okay and
+1	this	this	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	is	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	Mama	Mama	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+5	okay	okay	adj	_	_	6	MOD	Sue MOT Mother	Eve 23 female TD Brown
+6	and	and	coord	_	_	4	CONJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#794	and there
+1	and	and	coord	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#795	and there
+1	and	and	coord	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#796	and there
+1	and	and	coord	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	there	there	adv	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#797	and put the boy there
+1	and	and	coord	_	_	2	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	the	the	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	boy	boy	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+5	there	there	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#798	and
+1	and	and	coord	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#801	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#803	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#806	we take that
+1	we	we	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	take	take	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	that	that	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#807	that a baby
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	baby	baby	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#813	do away
+1	do	do	mod	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	away	away	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#816	we play game
+1	we	we	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	play	play	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	game	game	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#818	that hot
+1	that	that	det	_	_	2	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	hot	hot	adj	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#819	say you take the spoon out_of there
+1	say	say	co	_	_	3	BEG	Sue MOT Mother	Eve 23 female TD Brown
+2	you	you	pro	_	_	3	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	take	take	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	the	the	det	_	_	5	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	spoon	spoon	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+6	out_of	out_of	prep	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	there	there	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#820	that's Cromer's coffee
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	Cromer's	Cromer	adj	_	_	4	MOD	Sue MOT Mother	Eve 23 female TD Brown
+4	coffee	coffee	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+
+#825	that a baby
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	baby	baby	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#826	baby nose
+1	baby	baby	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	nose	nose	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#827	that a baby
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	baby	baby	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#830	that's a Mommy
+1	that	that	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Mommy	Mommy	n	_	_	2	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#831	has shoes
+1	has	have	aux	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	shoes	shoe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#832	baby has shoes
+1	baby	baby	n	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	has	have	aux	_	_	3	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	shoes	shoe	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#833	standing up Cromer
+1	standing	stand	part	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	up	up	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	Cromer	Cromer	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#834	standing up
+1	standing	stand	part	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	up	up	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#836	she fall down
+1	she	she	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	fall	fall	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	down	down	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#837	wan a play a game
+1	wan	want	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	to	inf	_	_	3	INF	Eve CHI Target_Child	Eve 23 female TD Brown
+3	play	play	v	_	_	1	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	a	a	det	_	_	5	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+5	game	game	n	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#839	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#842	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#845	yep
+1	yep	yep	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#848	Eve
+1	Eve	Eve	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#850	let me have it
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	me	me	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	have	have	v	_	_	1	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	it	it	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#856	I see box
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	see	see	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	box	box	n	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#857	let me blow Mommy
+1	let	let	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	me	me	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	blow	blow	n	_	_	1	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+4	Mommy	Mommy	n	_	_	3	APP	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#858	blow
+1	blow	blow	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#859	harder harder
+1	harder	hard	adj	_	_	2	MOD	Sue MOT Mother	Eve 23 female TD Brown
+2	harder	hard	adj	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#860	clear it out
+1	clear	clear	adv	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+3	out	out	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#861	turn that
+1	turn	turn	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	that	that	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#865	I turn it
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	turn	turn	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#866	Cromer turn it
+1	Cromer	Cromer	n	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	turn	turn	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#868	oh
+1	oh	oh	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#870	I know why don't we put some of these away so_that we won't sit on them
+1	I	I	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	know	know	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	why	why	pro	_	_	7	JCT	Sue MOT Mother	Eve 23 female TD Brown
+4	do	do	mod	_	_	7	AUX	Sue MOT Mother	Eve 23 female TD Brown
+5	n't	not	neg	_	_	4	NEG	Sue MOT Mother	Eve 23 female TD Brown
+6	we	we	pro	_	_	7	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	put	put	part	_	_	2	COMP	Sue MOT Mother	Eve 23 female TD Brown
+8	some	some	qn	_	_	9	QUANT	Sue MOT Mother	Eve 23 female TD Brown
+9	of	of	prep	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+10	these	these	pro	_	_	9	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+11	away	away	adv	_	_	2	JCT	Sue MOT Mother	Eve 23 female TD Brown
+12	so_that	so_that	conj	_	_	16	LINK	Sue MOT Mother	Eve 23 female TD Brown
+13	we	we	pro	_	_	16	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+14	wo	will	mod	_	_	16	AUX	Sue MOT Mother	Eve 23 female TD Brown
+15	n't	not	neg	_	_	14	NEG	Sue MOT Mother	Eve 23 female TD Brown
+16	sit	sit	v	_	_	2	CJCT	Sue MOT Mother	Eve 23 female TD Brown
+17	on	on	prep	_	_	16	JCT	Sue MOT Mother	Eve 23 female TD Brown
+18	them	them	pro	_	_	17	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#874	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#877	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#878	put two away
+1	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	two	two	det	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	away	away	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#880	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#882	I put them way
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	them	them	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	way	away	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#886	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#888	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#889	I put way
+1	I	I	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	way	away	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#891	yes
+1	yes	yes	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#893	there
+1	there	there	adv	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#894	put way
+1	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	way	away	adv	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#896	Cromer
+1	Cromer	Cromer	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#897	I don't sit on Cromer coffee
+1	I	I	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	do	do	mod	_	_	4	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+4	sit	sit	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	on	on	prep	_	_	4	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	Cromer	Cromer	n	_	_	7	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+7	coffee	coffee	n	_	_	5	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#898	please don't
+1	please	please	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+2	do	do	mod	_	_	1	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	n't	not	neg	_	_	2	NEG	Sue MOT Mother	Eve 23 female TD Brown
+
+#900	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#902	yeah
+1	yeah	yeah	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#903	that new paper
+1	that	that	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	new	new	adj	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	paper	paper	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#906	he chirps
+1	he	he	pro	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	chirps	chirp	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#912	that new pencil
+1	that	that	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+2	new	new	adj	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	pencil	pencil	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#913	that's a pen Eve
+1	that	that	pro	_	_	2	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	's	be	cop	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	a	a	det	_	_	4	DET	Sue MOT Mother	Eve 23 female TD Brown
+4	pen	pen	n	_	_	2	PRED	Sue MOT Mother	Eve 23 female TD Brown
+5	Eve	Eve	n	_	_	4	APP	Sue MOT Mother	Eve 23 female TD Brown
+
+#914	don put that
+1	do	do	mod	_	_	3	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+2	n't	not	neg	_	_	1	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+3	put	put	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+4	that	that	pro	_	_	3	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#917	sit on dolly
+1	sit	sit	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	on	on	prep	_	_	1	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	dolly	doll	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#919	I breaking dolly
+1	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	breaking	break	n	_	_	3	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+3	dolly	doll	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#920	here Cromer
+1	here	here	adv	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	Cromer	Cromer	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#922	turn it
+1	turn	turn	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	it	it	pro	_	_	1	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#924	that a ring
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 23 female TD Brown
+2	a	a	det	_	_	3	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	ring	ring	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#928	where yours
+1	where	where	pro	_	_	2	JCT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	yours	yours	pro	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#930	what time it is
+1	what	what	pro	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	time	time	n	_	_	4	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	is	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#932	what time it is
+1	what	what	pro	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	time	time	n	_	_	4	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	is	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#935	what time it is
+1	what	what	pro	_	_	2	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+2	time	time	n	_	_	4	PRED	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+4	is	be	cop	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#938	Fraser I go have lunch I go have lunch
+1	Fraser	Fraser	n	_	_	4	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	3	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	go	go	v	_	_	1	CMOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	have	have	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+5	lunch	lunch	n	_	_	4	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+6	I	I	pro	_	_	7	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+7	go	go	v	_	_	4	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+8	have	have	v	_	_	7	COMP	Eve CHI Target_Child	Eve 23 female TD Brown
+9	lunch	lunch	n	_	_	8	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#940	piece of cheese REPLACEMENT a
+1	piece	piece	n	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	of	of	prep	_	_	1	NJCT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	cheese	cheese	n	_	_	2	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#941	cheese
+1	cheese	cheese	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#942	what would you like
+1	what	what	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+2	would	will	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	like	like	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#943	like my pink bibbie
+1	like	like	prep	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+2	my	my	det	_	_	4	DET	Eve CHI Target_Child	Eve 23 female TD Brown
+3	pink	pink	n	_	_	4	MOD	Eve CHI Target_Child	Eve 23 female TD Brown
+4	bibbie	bib	n	_	_	1	POBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#944	well your pink bibbie's downstairs in the washingmachine
+1	well	well	co	_	_	3	BEG	Sue MOT Mother	Eve 23 female TD Brown
+2	your	your	det	_	_	3	DET	Sue MOT Mother	Eve 23 female TD Brown
+3	pink	pink	n	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	bibbie's	bib	adj	_	_	3	POSTMOD	Sue MOT Mother	Eve 23 female TD Brown
+5	downstairs	downstairs	adv	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+6	in	in	prep	_	_	4	JCT	Sue MOT Mother	Eve 23 female TD Brown
+7	the	the	det	_	_	8	DET	Sue MOT Mother	Eve 23 female TD Brown
+8	washingmachine	washingmachine	n	_	_	6	POBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#945	Sarah wearing it
+1	Sarah	Sarah	n	_	_	2	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+2	wearing	wear	part	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+3	it	it	pro	_	_	2	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#946	Sarah's not wearing the pink bibbie
+1	Sarah's	Sarah	adj	_	_	3	JCT	Sue MOT Mother	Eve 23 female TD Brown
+2	not	not	neg	_	_	1	NEG	Sue MOT Mother	Eve 23 female TD Brown
+3	wearing	wear	part	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+4	the	the	det	_	_	6	DET	Sue MOT Mother	Eve 23 female TD Brown
+5	pink	pink	n	_	_	6	MOD	Sue MOT Mother	Eve 23 female TD Brown
+6	bibbie	bib	n	_	_	3	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#947	no
+1	no	no	co	_	_	0	INCROOT	Sue MOT Mother	Eve 23 female TD Brown
+
+#948	don't you want it
+1	do	do	mod	_	_	4	AUX	Sue MOT Mother	Eve 23 female TD Brown
+2	n't	not	neg	_	_	1	NEG	Sue MOT Mother	Eve 23 female TD Brown
+3	you	you	pro	_	_	4	SUBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	want	want	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+5	it	it	pro	_	_	4	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+
+#949	no
+1	no	no	co	_	_	0	INCROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+
+#950	well let's just leave it right there
+1	well	well	co	_	_	2	COM	Sue MOT Mother	Eve 23 female TD Brown
+2	let	let	v	_	_	0	ROOT	Sue MOT Mother	Eve 23 female TD Brown
+3	's	us	pro	_	_	2	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+4	just	just	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+5	leave	leave	v	_	_	2	COMP	Sue MOT Mother	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	OBJ	Sue MOT Mother	Eve 23 female TD Brown
+7	right	right	adv	_	_	8	JCT	Sue MOT Mother	Eve 23 female TD Brown
+8	there	there	adv	_	_	5	JCT	Sue MOT Mother	Eve 23 female TD Brown
+
+#951	no I don't want it
+1	no	no	co	_	_	5	COM	Eve CHI Target_Child	Eve 23 female TD Brown
+2	I	I	pro	_	_	5	SUBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+3	do	do	mod	_	_	5	AUX	Eve CHI Target_Child	Eve 23 female TD Brown
+4	n't	not	neg	_	_	3	NEG	Eve CHI Target_Child	Eve 23 female TD Brown
+5	want	want	v	_	_	0	ROOT	Eve CHI Target_Child	Eve 23 female TD Brown
+6	it	it	pro	_	_	5	OBJ	Eve CHI Target_Child	Eve 23 female TD Brown
+

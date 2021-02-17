@@ -1,0 +1,143 @@
+
+#374	went in the basement
+1	went	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	in	in	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	the	the	det	_	_	4	det	Eve CHI Target_Child	Eve 27 female TD Brown
+4	basement	basement	n	_	_	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#375	that what we do after supper
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	what	what	pro	_	_	4	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	we	we	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+4	do	do	v	_	_	1	acl:relcl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	after	after	prep	_	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	supper	supper	n	_	_	4	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#378	we go to bed and wake up in the morning and go to Cathy Beach new house
+1	we	we	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	to	to	prep	_	_	4	case	Eve CHI Target_Child	Eve 27 female TD Brown
+4	bed	bed	n	_	_	2	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+5	and	and	coord	_	_	6	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+6	wake	wake	v	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+7	up	up	adv	_	_	6	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+8	in	in	prep	_	_	10	case	Eve CHI Target_Child	Eve 27 female TD Brown
+9	the	the	det	_	_	10	det	Eve CHI Target_Child	Eve 27 female TD Brown
+10	morning	morning	n	_	_	6	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+11	and	and	coord	_	_	12	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+12	go	go	v	_	_	2	conj	Eve CHI Target_Child	Eve 27 female TD Brown
+13	to	to	prep	_	_	17	case	Eve CHI Target_Child	Eve 27 female TD Brown
+14	Cathy	Cathy	n	_	_	17	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+15	Beach	Beach	n	_	_	17	nmod	Eve CHI Target_Child	Eve 27 female TD Brown
+16	new	new	adj	_	_	17	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+17	house	house	n	_	_	12	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#381	when I wake up from my nap I will go right on the street in a car
+1	when	when	conj	_	_	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	wake	wake	v	_	_	10	advcl	Eve CHI Target_Child	Eve 27 female TD Brown
+4	up	up	adv	_	_	3	compound:prt	Eve CHI Target_Child	Eve 27 female TD Brown
+5	from	from	prep	_	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+6	my	my	det	_	_	7	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+7	nap	nap	n	_	_	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+8	I	I	pro	_	_	10	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+9	will	will	mod	_	_	10	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+10	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+11	right	right	adv	_	_	14	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+12	on	on	prep	_	_	14	case	Eve CHI Target_Child	Eve 27 female TD Brown
+13	the	the	det	_	_	14	det	Eve CHI Target_Child	Eve 27 female TD Brown
+14	street	street	n	_	_	10	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+15	in	in	prep	_	_	17	case	Eve CHI Target_Child	Eve 27 female TD Brown
+16	a	a	det	_	_	17	det	Eve CHI Target_Child	Eve 27 female TD Brown
+17	car	car	n	_	_	10	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#382	Cathy said Danny's new house
+1	Cathy	Cathy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	said	say	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+3	Danny	Danny	adj	_	_	6	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+4	's	's	part	_	_	3	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	new	new	adj	_	_	6	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	house	house	n	_	_	2	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#383	then I go back home
+1	then	then	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	back	back	adv	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	home	home	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#385	is Sarah awake
+1	is	be	cop	_	_	3	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	awake	awake	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#391	and Papa bought us a new house
+1	and	and	coord	_	_	3	cc	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Papa	Papa	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	bought	buy	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	us	us	pro	_	_	3	iobj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	a	a	det	_	_	7	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	new	new	adj	_	_	7	amod	Eve CHI Target_Child	Eve 27 female TD Brown
+7	house	house	n	_	_	3	obj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#398	where is New_Brunswick
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	is	be	cop	_	_	1	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	New_Brunswick	New_Brunswick	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#403	right down here
+1	right	right	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	down	down	prep	_	_	3	case	Eve CHI Target_Child	Eve 27 female TD Brown
+3	here	here	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#406	the ground
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 27 female TD Brown
+2	ground	ground	n	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#408	where is Canada
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	is	be	cop	_	_	1	cop	Eve CHI Target_Child	Eve 27 female TD Brown
+3	Canada	Canada	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+
+
+#624	Mom Sarah go right here by me
+1	Mom	Mom	n	_	_	3	vocative	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	right	right	adv	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+5	here	here	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+6	by	by	prep	_	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+7	me	me	pro	_	_	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#626	when Fraser goes away
+1	when	when	conj	_	_	3	mark	Eve CHI Target_Child	Eve 27 female TD Brown
+2	Fraser	Fraser	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+3	goes	go	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	away	away	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#629	she hungry
+1	she	she	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	hungry	hungry	adj	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#631	do like this one
+1	do	do	mod	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+2	like	like	v	_	_	4	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+3	this	this	pro	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 27 female TD Brown
+4	one	one	pro	_	_	1	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#632	why don't you do like this REPLACEMENT whyn't
+1	why	why	pro	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+2	do	do	mod	_	_	5	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Eve CHI Target_Child	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+5	do	do	v	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+6	like	like	prep	_	_	7	case	Eve CHI Target_Child	Eve 27 female TD Brown
+7	this	this	pro	_	_	5	obl	Eve CHI Target_Child	Eve 27 female TD Brown
+
+#634	I am playing down the basement
+1	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 27 female TD Brown
+2	am	be	aux	_	_	3	aux	Eve CHI Target_Child	Eve 27 female TD Brown
+3	playing	play	part	_	_	0	root	Eve CHI Target_Child	Eve 27 female TD Brown
+4	down	down	prep	_	_	6	case	Eve CHI Target_Child	Eve 27 female TD Brown
+5	the	the	det	_	_	6	det	Eve CHI Target_Child	Eve 27 female TD Brown
+6	basement	basement	n	_	_	3	obl	Eve CHI Target_Child	Eve 27 female TD Brown

@@ -1,0 +1,1249 @@
+1	Eve	Eve	PROPN	NNP	Number=Sing	4	vocative	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	got	get	VERB	VBN	Tense=Past|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	spoon	spoon	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	Sue MOT Mother	Eve 21 female TD Brown
+3	sugar	sugar	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	cup	cup	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	well	well	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'll	will	AUX	MD	VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	get	get	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	cup	cup	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+7	in	in	ADP	IN	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	Sue MOT Mother	Eve 21 female TD Brown
+9	minute	minute	NOUN	NN	Number=Sing	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	kiss	kiss	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	David FAT Father	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	David FAT Father	Eve 21 female TD Brown
+2	wipe	wipe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	David FAT Father	Eve 21 female TD Brown
+4	off	off	ADP	IN	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	David FAT Father	Eve 21 female TD Brown
+6	table	table	NOUN	NN	Number=Sing	2	obl	David FAT Father	Eve 21 female TD Brown
+7	please	please	INTJ	UH	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+
+1	mhm	mhm	INTJ	UH	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	coffee	coffee	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	for	for	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	warm	warm	ADJ	JJ	Degree=Pos	1	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+
+1	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	one	one	NUM	CD	NumType=Card	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	for	for	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	Mommy	Mommy	PROPN	NNP	Number=Sing	2	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	more	more	ADV	RBR	_	2	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	no	no	DET	DT	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'll	will	AUX	MD	VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	put	put	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	sugar	sugar	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+7	in	in	ADP	IN	_	10	case	Sue MOT Mother	Eve 21 female TD Brown
+8	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	Sue MOT Mother	Eve 21 female TD Brown
+10	coffee	coffee	NOUN	NN	Number=Sing	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	must	must	AUX	MD	VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	very	very	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	careful	careful	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	and	and	CCONJ	CC	_	8	cc	Sue MOT Mother	Eve 21 female TD Brown
+7	not	not	PART	RB	_	8	advmod	Sue MOT Mother	Eve 21 female TD Brown
+8	spill	spill	VERB	VB	VerbForm=Inf	5	conj	Sue MOT Mother	Eve 21 female TD Brown
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	PART	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	to	to	PART	TO	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	spill	spill	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	David FAT Father	Eve 21 female TD Brown
+2	about	about	ADP	IN	_	4	case	David FAT Father	Eve 21 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	David FAT Father	Eve 21 female TD Brown
+4	heat	heat	NOUN	NN	Number=Sing	1	nmod	David FAT Father	Eve 21 female TD Brown
+
+1	because	because	SCONJ	IN	_	9	mark	David FAT Father	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	David FAT Father	Eve 21 female TD Brown
+3	heat	heat	NOUN	NN	Number=Sing	9	nsubj	David FAT Father	Eve 21 female TD Brown
+4	and	and	CCONJ	CC	_	7	cc	David FAT Father	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	David FAT Father	Eve 21 female TD Brown
+6	whole	whole	ADJ	JJ	Degree=Pos	7	amod	David FAT Father	Eve 21 female TD Brown
+7	thing	thing	NOUN	NN	Number=Sing	3	conj	David FAT Father	Eve 21 female TD Brown
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	David FAT Father	Eve 21 female TD Brown
+9	out	out	ADV	RB	_	0	root	David FAT Father	Eve 21 female TD Brown
+10	in	in	ADP	IN	_	12	case	David FAT Father	Eve 21 female TD Brown
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	David FAT Father	Eve 21 female TD Brown
+12	room	room	NOUN	NN	Number=Sing	9	obl	David FAT Father	Eve 21 female TD Brown
+
+1	heat	heat	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+2	right	right	ADV	RB	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+3	in	in	ADP	IN	_	5	case	David FAT Father	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	David FAT Father	Eve 21 female TD Brown
+5	fire	fire	NOUN	NN	Number=Sing	1	nmod	David FAT Father	Eve 21 female TD Brown
+
+1	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+2	paper	paper	NOUN	NN	Number=Sing	6	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	PART	POS	_	2	punct	Sue MOT Mother	Eve 21 female TD Brown
+4	on	on	ADP	IN	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	table	table	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	PART	POS	_	2	flat	Sue MOT Mother	Eve 21 female TD Brown
+4	waking	wake	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	up	up	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	1	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+3	some	some	DET	DT	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	b	b	NOUN	NN	Number=Sing	6	compound	Sue MOT Mother	Eve 21 female TD Brown
+6	c	c	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	with	with	ADP	IN	_	3	case	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	PROPN	NNP	Number=Sing	1	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	David FAT Father	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	David FAT Father	Eve 21 female TD Brown
+4	stylus	stylus	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	okay	okay	INTJ	UH	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	do	do	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	now	now	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+7	then	then	ADV	RB	PronType=Dem	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	5	obj	David FAT Father	Eve 21 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	David FAT Father	Eve 21 female TD Brown
+4	Fraser	Fraser	PROPN	NNP	Number=Sing	5	nsubj	David FAT Father	Eve 21 female TD Brown
+5	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	Fraser	Fraser	PROPN	NNP	Number=Sing	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	oh	oh	INTJ	UH	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	Old_Macdonald	Old_Macdonald	PROPN	NNP	Number=Sing	1	vocative	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	Old_Macdonald	Old_Macdonald	PROPN	NNP	Number=Sing	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	's	's	PART	POS	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+6	farm	farm	NOUN	NN	Number=Sing	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	about	about	ADP	IN	_	3	case	Sue MOT Mother	Eve 21 female TD Brown
+3	Fraser	Fraser	PROPN	NNP	Number=Sing	1	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	writing	write	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	uhhuh	uhhuh	PUNCT	.	_	3	punct	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	writing	write	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	writing	write	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	b	b	NOUN	NN	Number=Sing	6	compound	Sue MOT Mother	Eve 21 female TD Brown
+6	c	c	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	baby	baby	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	Sarah	Sarah	PROPN	NNP	Number=Sing	4	appos	Sue MOT Mother	Eve 21 female TD Brown
+
+1	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	hungry	hungry	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	like	like	ADP	IN	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	televisionset	televisionset	NOUN	NN	Number=Sing	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+6	in	in	ADP	IN	_	8	case	Sue MOT Mother	Eve 21 female TD Brown
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	Sue MOT Mother	Eve 21 female TD Brown
+8	basement	basement	NOUN	NN	Number=Sing	5	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	not	not	PART	RB	_	2	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	now	now	ADV	RB	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	well	well	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	crying	cry	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	yes	yes	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+
+1	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	PART	RB	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	sleeping	sleep	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	telling	tell	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	that	that	SCONJ	IN	_	8	mark	Sue MOT Mother	Eve 21 female TD Brown
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	Sue MOT Mother	Eve 21 female TD Brown
+8	hungry	hungry	ADJ	JJ	Degree=Pos	3	ccomp	Sue MOT Mother	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	PART	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	moo	moo	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	who	who	PRON	WP	PronType=Int	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+3	crying	cry	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	baby	baby	NOUN	NN	Number=Sing	5	compound	Sue MOT Mother	Eve 21 female TD Brown
+5	Sarah	Sarah	PROPN	NNP	Number=Sing	7	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+6	's	's	PART	POS	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+7	diaper	diaper	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	dry	dry	ADJ	JJ	Degree=Pos	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	diaper	diaper	NOUN	NN	Number=Sing	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	on	on	ADP	IN	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+6	baby	baby	NOUN	NN	Number=Sing	7	compound	Sue MOT Mother	Eve 21 female TD Brown
+7	Sarah	Sarah	PROPN	NNP	Number=Sing	9	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+8	's	's	PART	POS	_	7	case	Sue MOT Mother	Eve 21 female TD Brown
+9	bottom	bottom	NOUN	NN	Number=Sing	1	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	write	write	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	on	on	ADP	IN	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	paper	paper	NOUN	NN	Number=Sing	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	only	only	ADV	RB	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	on	on	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	paper	paper	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	why	why	ADV	WRB	PronType=Int	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	PART	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	show	show	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	Fraser	Fraser	PROPN	NNP	Number=Sing	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+7	horsie	horse	PROPN	NNP	Number=Sing	6	flat	Sue MOT Mother	Eve 21 female TD Brown
+8	Eve	Eve	PROPN	NNP	Number=Sing	6	flat	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+4	to	to	PART	TO	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	cover	cover	VERB	VB	VerbForm=Inf	2	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	nice	nice	ADJ	JJ	Degree=Pos	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	bed	bed	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	to	to	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	sleep	sleep	NOUN	NN	Number=Sing	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	Sue MOT Mother	Eve 21 female TD Brown
+6	to	to	PART	TO	_	7	mark	Sue MOT Mother	Eve 21 female TD Brown
+7	sleep	sleep	VERB	VB	VerbForm=Inf	5	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+
+1	thought	thought	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	gon	go	VERB	VBG	Abbr=Yes|Tense=Pres|VerbForm=Part	1	ccomp	Sue MOT Mother	Eve 21 female TD Brown
+5	na	to	PART	TO	Abbr=Yes	6	mark	Sue MOT Mother	Eve 21 female TD Brown
+6	go	go	VERB	VB	VerbForm=Inf	4	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+7	to	to	ADP	IN	_	8	case	Sue MOT Mother	Eve 21 female TD Brown
+8	sleep	sleep	NOUN	NN	Number=Sing	6	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	byebye	byebye	PROPN	NNP	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	1	flat	David FAT Father	Eve 21 female TD Brown
+
+1	okay	okay	INTJ	UH	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	nice	nice	ADJ	JJ	Degree=Pos	6	amod	Sue MOT Mother	Eve 21 female TD Brown
+6	nap	nap	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj:pass	David FAT Father	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	David FAT Father	Eve 21 female TD Brown
+3	all	all	ADV	RB	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+4	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	David FAT Father	Eve 21 female TD Brown
+5	napping	nap	NOUN	NN	Number=Sing	4	obj	David FAT Father	Eve 21 female TD Brown
+
+1	night_night	night_night	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	later	later	ADV	RB	Degree=Cmp	1	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	carry	carry	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	1	obj	David FAT Father	Eve 21 female TD Brown
+
+1	lie	lie	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	down	down	ADP	RP	_	1	compound:prt	Sue MOT Mother	Eve 21 female TD Brown
+3	and	and	CCONJ	CC	_	6	cc	Sue MOT Mother	Eve 21 female TD Brown
+4	Papa	Papa	PROPN	NNP	Number=Sing	6	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	will	will	AUX	MD	VerbForm=Fin	6	aux	Sue MOT Mother	Eve 21 female TD Brown
+6	carry	carry	VERB	VB	VerbForm=Inf	1	conj	Sue MOT Mother	Eve 21 female TD Brown
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	lay	lay	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	down	down	ADP	RP	_	1	compound:prt	Sue MOT Mother	Eve 21 female TD Brown
+
+1	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+4	bowels	bowel	NOUN	NNS	Number=Plur	3	obj	David FAT Father	Eve 21 female TD Brown
+
+1	will	will	AUX	MD	VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	change	change	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	wet	wet	NOUN	NN	Number=Sing	6	compound	Sue MOT Mother	Eve 21 female TD Brown
+6	diaper	diaper	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	want	want	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	change	change	VERB	VB	VerbForm=Inf	1	xcomp	David FAT Father	Eve 21 female TD Brown
+4	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	David FAT Father	Eve 21 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	2	nsubj	David FAT Father	Eve 21 female TD Brown
+2	change	change	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+3	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	David FAT Father	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+3	laying	lay	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+4	down	down	ADP	RP	_	3	compound:prt	David FAT Father	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+4	to	to	PART	TO	_	5	mark	David FAT Father	Eve 21 female TD Brown
+5	buy	buy	VERB	VB	VerbForm=Inf	3	xcomp	David FAT Father	Eve 21 female TD Brown
+6	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	David FAT Father	Eve 21 female TD Brown
+
+1	can	can	AUX	MD	VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	buy	buy	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+4	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	David FAT Father	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	4	advmod	David FAT Father	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	with	with	ADP	IN	_	2	case	David FAT Father	Eve 21 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	with	with	ADP	IN	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	David FAT Father	Eve 21 female TD Brown
+3	penny	penny	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	David FAT Father	Eve 21 female TD Brown
+3	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	David FAT Father	Eve 21 female TD Brown
+4	penny	penny	NOUN	NN	Number=Sing	1	nsubj	David FAT Father	Eve 21 female TD Brown
+
+1	in	in	ADP	IN	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	David FAT Father	Eve 21 female TD Brown
+3	fire	fire	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	ah	ah	INTJ	UH	_	8	discourse	David FAT Father	Eve 21 female TD Brown
+2	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	David FAT Father	Eve 21 female TD Brown
+3	penny	penny	NOUN	NN	Number=Sing	8	nsubj	David FAT Father	Eve 21 female TD Brown
+4	's	's	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	David FAT Father	Eve 21 female TD Brown
+5	not	not	PART	RB	_	8	advmod	David FAT Father	Eve 21 female TD Brown
+6	in	in	ADP	IN	_	8	case	David FAT Father	Eve 21 female TD Brown
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	David FAT Father	Eve 21 female TD Brown
+8	fire	fire	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	right	right	ADV	RB	_	2	advmod	David FAT Father	Eve 21 female TD Brown
+2	there	there	ADV	RB	PronType=Dem	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	on	on	ADP	IN	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	David FAT Father	Eve 21 female TD Brown
+3	table	table	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	David FAT Father	Eve 21 female TD Brown
+2	penny	penny	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	Mama	Mama	NOUN	NN	Number=Sing	5	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	PART	POS	_	5	cop	David FAT Father	Eve 21 female TD Brown
+3	upstairs	upstairs	ADV	RB	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+4	feeding	feed	NOUN	NN	Number=Sing	5	compound	David FAT Father	Eve 21 female TD Brown
+5	baby	baby	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+6	Sarah	Sarah	PROPN	NNP	Number=Sing	5	appos	David FAT Father	Eve 21 female TD Brown
+
+1	uhhuh	uhhuh	INTJ	UH	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	David FAT Father	Eve 21 female TD Brown
+3	'll	will	AUX	MD	VerbForm=Fin	5	aux	David FAT Father	Eve 21 female TD Brown
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	David FAT Father	Eve 21 female TD Brown
+5	down	down	ADV	RB	_	0	root	David FAT Father	Eve 21 female TD Brown
+6	in	in	ADP	IN	_	8	case	David FAT Father	Eve 21 female TD Brown
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	David FAT Father	Eve 21 female TD Brown
+8	minute	minute	NOUN	NN	Number=Sing	5	obl	David FAT Father	Eve 21 female TD Brown
+
+1	there	there	PRON	EX	_	3	expl	David FAT Father	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	why	why	ADV	WRB	PronType=Int	5	advmod	David FAT Father	Eve 21 female TD Brown
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	David FAT Father	Eve 21 female TD Brown
+3	n't	not	PART	RB	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	David FAT Father	Eve 21 female TD Brown
+5	come	come	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+6	down	down	ADV	RB	_	7	advmod	David FAT Father	Eve 21 female TD Brown
+7	here	here	ADV	RB	PronType=Dem	5	advmod	David FAT Father	Eve 21 female TD Brown
+8	and	and	CCONJ	CC	_	9	cc	David FAT Father	Eve 21 female TD Brown
+9	see	see	VERB	VB	VerbForm=Inf	5	conj	David FAT Father	Eve 21 female TD Brown
+10	Fraser	Fraser	PROPN	NNP	Number=Sing	9	obj	David FAT Father	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+2	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+3	down	down	ADV	RB	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+4	here	here	ADV	RB	PronType=Dem	2	advmod	David FAT Father	Eve 21 female TD Brown
+5	please	please	INTJ	UH	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+
+1	and	and	CCONJ	CC	_	2	cc	David FAT Father	Eve 21 female TD Brown
+2	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+3	horsie	horse	NOUN	NN	Number=Sing	2	obj	David FAT Father	Eve 21 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	David FAT Father	Eve 21 female TD Brown
+3	too	too	ADV	RB	_	6	advmod	David FAT Father	Eve 21 female TD Brown
+4	near	near	ADP	IN	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	David FAT Father	Eve 21 female TD Brown
+6	fire	fire	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+4	to	to	PART	TO	_	7	mark	David FAT Father	Eve 21 female TD Brown
+5	get	get	VERB	VB	VerbForm=Inf	3	xcomp	David FAT Father	Eve 21 female TD Brown
+6	too	too	ADV	RB	_	7	advmod	David FAT Father	Eve 21 female TD Brown
+7	hot	hot	ADJ	JJ	Degree=Pos	3	xcomp	David FAT Father	Eve 21 female TD Brown
+
+1	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	and	and	CCONJ	CC	_	3	cc	David FAT Father	Eve 21 female TD Brown
+3	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	David FAT Father	Eve 21 female TD Brown
+4	horsie	horse	NOUN	NN	Number=Sing	3	obj	David FAT Father	Eve 21 female TD Brown
+
+1	please	please	INTJ	UH	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+2	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+3	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	David FAT Father	Eve 21 female TD Brown
+
+1	thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	David FAT Father	Eve 21 female TD Brown
+
+1	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	David FAT Father	Eve 21 female TD Brown
+3	away	away	ADV	RB	_	1	advmod	David FAT Father	Eve 21 female TD Brown
+4	from	from	ADP	IN	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	David FAT Father	Eve 21 female TD Brown
+6	fire	fire	NOUN	NN	Number=Sing	3	obl	David FAT Father	Eve 21 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	David FAT Father	Eve 21 female TD Brown
+3	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+4	too	too	ADV	RB	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+5	warm	warm	ADJ	JJ	Degree=Pos	3	xcomp	David FAT Father	Eve 21 female TD Brown
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+3	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+4	much	much	ADV	RB	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+5	too	too	ADV	RB	_	6	advmod	David FAT Father	Eve 21 female TD Brown
+6	warm	warm	ADJ	JJ	Degree=Pos	3	xcomp	David FAT Father	Eve 21 female TD Brown
+
+1	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	feed	feed	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+4	dolly	doll	NOUN	NN	Number=Sing	3	obj	David FAT Father	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	David FAT Father	Eve 21 female TD Brown
+2	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	would	will	AUX	MD	VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	come	come	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+4	here	here	ADV	RB	PronType=Dem	3	advmod	David FAT Father	Eve 21 female TD Brown
+5	and	and	CCONJ	CC	_	6	cc	David FAT Father	Eve 21 female TD Brown
+6	show	show	VERB	VB	VerbForm=Inf	3	conj	David FAT Father	Eve 21 female TD Brown
+7	Fraser	Fraser	PROPN	NNP	Number=Sing	6	iobj	David FAT Father	Eve 21 female TD Brown
+8	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	David FAT Father	Eve 21 female TD Brown
+9	lion	lion	NOUN	NN	Number=Sing	6	obj	David FAT Father	Eve 21 female TD Brown
+
+1	show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	David FAT Father	Eve 21 female TD Brown
+3	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	David FAT Father	Eve 21 female TD Brown
+4	lion	lion	NOUN	NN	Number=Sing	1	obj	David FAT Father	Eve 21 female TD Brown
+5	and	and	CCONJ	CC	_	7	cc	David FAT Father	Eve 21 female TD Brown
+6	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	David FAT Father	Eve 21 female TD Brown
+7	turtle	turtle	NOUN	NN	Number=Sing	4	conj	David FAT Father	Eve 21 female TD Brown
+8	please	please	INTJ	UH	_	1	discourse	David FAT Father	Eve 21 female TD Brown
+
+1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	David FAT Father	Eve 21 female TD Brown
+2	turtle	turtle	NOUN	NN	Number=Sing	4	nmod:poss	David FAT Father	Eve 21 female TD Brown
+3	's	's	PART	POS	_	2	case	David FAT Father	Eve 21 female TD Brown
+4	name	name	NOUN	NN	Number=Sing	6	nsubj	David FAT Father	Eve 21 female TD Brown
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	David FAT Father	Eve 21 female TD Brown
+6	Froggy	Froggy	PROPN	NNP	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	show	show	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+4	Fraser	Fraser	PROPN	NNP	Number=Sing	3	iobj	David FAT Father	Eve 21 female TD Brown
+5	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	David FAT Father	Eve 21 female TD Brown
+6	drum	drum	NOUN	NN	Number=Sing	3	obj	David FAT Father	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	David FAT Father	Eve 21 female TD Brown
+3	other	other	ADJ	JJ	Degree=Pos	4	amod	David FAT Father	Eve 21 female TD Brown
+4	one	one	NOUN	NN	Number=Sing	8	nsubj	David FAT Father	Eve 21 female TD Brown
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	David FAT Father	Eve 21 female TD Brown
+6	under	under	ADP	IN	_	8	case	David FAT Father	Eve 21 female TD Brown
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	David FAT Father	Eve 21 female TD Brown
+8	table	table	NOUN	NN	Number=Sing	1	parataxis	David FAT Father	Eve 21 female TD Brown
+
+1	in	in	ADP	IN	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	David FAT Father	Eve 21 female TD Brown
+3	hall	hall	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	whose	whose	PRON	WP$	Poss=Yes|PronType=Int	2	nmod:poss	David FAT Father	Eve 21 female TD Brown
+2	boots	boot	NOUN	NNS	Number=Plur	6	nsubj	David FAT Father	Eve 21 female TD Brown
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	David FAT Father	Eve 21 female TD Brown
+4	in	in	ADP	IN	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	David FAT Father	Eve 21 female TD Brown
+6	hall	hall	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	in	in	ADP	IN	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	David FAT Father	Eve 21 female TD Brown
+3	closet	closet	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+3	get	get	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	David FAT Father	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	4	advmod	David FAT Father	Eve 21 female TD Brown
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	Mama	Mama	NOUN	NN	Number=Sing	4	nsubj	David FAT Father	Eve 21 female TD Brown
+2	'll	will	AUX	MD	VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	David FAT Father	Eve 21 female TD Brown
+4	down	down	ADV	RB	_	0	root	David FAT Father	Eve 21 female TD Brown
+5	in	in	ADP	IN	_	8	case	David FAT Father	Eve 21 female TD Brown
+6	just	just	ADV	RB	_	8	advmod	David FAT Father	Eve 21 female TD Brown
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	David FAT Father	Eve 21 female TD Brown
+8	minute	minute	NOUN	NN	Number=Sing	4	obl	David FAT Father	Eve 21 female TD Brown
+
+1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	David FAT Father	Eve 21 female TD Brown
+2	horsie	horsie	NOUN	NN	Number=Sing	4	nsubj	David FAT Father	Eve 21 female TD Brown
+3	's	's	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+4	gon	go	VERB	VBG	Abbr=Yes|Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+5	na	to	PART	TO	Abbr=Yes	6	mark	David FAT Father	Eve 21 female TD Brown
+6	see	see	VERB	VB	VerbForm=Inf	4	xcomp	David FAT Father	Eve 21 female TD Brown
+7	Papa	Papa	PROPN	NNP	Number=Sing	6	obj	David FAT Father	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	David FAT Father	Eve 21 female TD Brown
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	gon	go	VERB	VBG	Abbr=Yes|Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+5	na	to	PART	TO	Abbr=Yes	6	mark	David FAT Father	Eve 21 female TD Brown
+6	do	do	VERB	VB	VerbForm=Inf	4	xcomp	David FAT Father	Eve 21 female TD Brown
+
+1	jump	jump	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	off	off	ADP	IN	_	4	case	David FAT Father	Eve 21 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	David FAT Father	Eve 21 female TD Brown
+4	table	table	NOUN	NN	Number=Sing	1	obl	David FAT Father	Eve 21 female TD Brown
+
+1	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	David FAT Father	Eve 21 female TD Brown
+2	here	here	ADV	RB	PronType=Dem	1	advmod	David FAT Father	Eve 21 female TD Brown
+3	and	and	CCONJ	CC	_	4	cc	David FAT Father	Eve 21 female TD Brown
+4	jump	jump	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	David FAT Father	Eve 21 female TD Brown
+5	off	off	ADP	IN	_	7	case	David FAT Father	Eve 21 female TD Brown
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	David FAT Father	Eve 21 female TD Brown
+7	table	table	NOUN	NN	Number=Sing	4	obl	David FAT Father	Eve 21 female TD Brown
+8	for	for	ADP	IN	_	9	case	David FAT Father	Eve 21 female TD Brown
+9	Fraser	Fraser	PROPN	NNP	Number=Sing	4	obl	David FAT Father	Eve 21 female TD Brown
+
+1	whee	whee	DET	WDT	PronType=Int	3	det	David FAT Father	Eve 21 female TD Brown
+2	good	good	ADJ	JJ	Degree=Pos	3	amod	David FAT Father	Eve 21 female TD Brown
+3	jump	jump	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	who	who	PRON	WP	PronType=Int	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+3	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	who	who	PRON	WP	PronType=Int	0	root	David FAT Father	Eve 21 female TD Brown
+2	else	else	ADJ	JJ	Degree=Pos	1	amod	David FAT Father	Eve 21 female TD Brown
+
+1	would	will	AUX	MD	VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	like	like	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	to	to	PART	TO	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	have	have	VERB	VB	VerbForm=Inf	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+7	lunch	lunch	NOUN	NN	Number=Sing	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	having	have	VERB	VBG	VerbForm=Ger	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	tapioca	tapioca	NOUN	NN	Number=Sing	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	PART	RB	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	tapioca	tapioca	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	in	in	ADP	IN	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	Sue MOT Mother	Eve 21 female TD Brown
+8	whole	whole	ADJ	JJ	Degree=Pos	9	amod	Sue MOT Mother	Eve 21 female TD Brown
+9	week	week	NOUN	NN	Number=Sing	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	in	in	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	whole	whole	ADJ	JJ	Degree=Pos	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	week	week	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	and	and	CCONJ	CC	_	3	cc	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	PROPN	NNP	Number=Sing	1	conj	Sue MOT Mother	Eve 21 female TD Brown
+4	sit	sit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	there	there	ADV	RB	PronType=Dem	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+6	and	and	CCONJ	CC	_	7	cc	Sue MOT Mother	Eve 21 female TD Brown
+7	hold	hold	VERB	VB	VerbForm=Inf	4	conj	Sue MOT Mother	Eve 21 female TD Brown
+8	on	on	ADP	RP	_	7	compound:prt	Sue MOT Mother	Eve 21 female TD Brown
+9	to	to	ADP	IN	_	10	case	Sue MOT Mother	Eve 21 female TD Brown
+10	baby	baby	NOUN	NN	Number=Sing	7	obl	Sue MOT Mother	Eve 21 female TD Brown
+11	Sarah	Sarah	PROPN	NNP	Number=Sing	7	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	stool	stool	NOUN	NN	Number=Sing	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	else	else	ADJ	JJ	Degree=Pos	1	amod	Sue MOT Mother	Eve 21 female TD Brown
+3	would	will	AUX	MD	VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	like	like	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	to	to	PART	TO	_	7	mark	Sue MOT Mother	Eve 21 female TD Brown
+7	have	have	VERB	VB	VerbForm=Inf	5	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+8	for	for	ADP	IN	_	10	case	Sue MOT Mother	Eve 21 female TD Brown
+9	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+10	lunch	lunch	NOUN	NN	Number=Sing	7	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	have	have	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	NOUN	NN	Number=Sing	6	compound	Sue MOT Mother	Eve 21 female TD Brown
+6	sandwich	sandwich	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	Davy	Davy	PROPN	NNP	Number=Sing	1	vocative	Sue MOT Mother	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	1	vocative	Sue MOT Mother	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	1	vocative	Sue MOT Mother	Eve 21 female TD Brown
+
+1	for	for	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	whole	whole	ADJ	JJ	Degree=Pos	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	week	week	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	well	well	INTJ	UH	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	NOUN	NN	Number=Sing	6	compound	Sue MOT Mother	Eve 21 female TD Brown
+6	sandwich	sandwich	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	PART	RB	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	tapioca	tapioca	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	for	for	ADP	IN	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	Sue MOT Mother	Eve 21 female TD Brown
+8	whole	whole	ADJ	JJ	Degree=Pos	9	amod	Sue MOT Mother	Eve 21 female TD Brown
+9	week	week	NOUN	NN	Number=Sing	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	David FAT Father	Eve 21 female TD Brown
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	David FAT Father	Eve 21 female TD Brown
+4	n't	not	PART	RB	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+5	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	David FAT Father	Eve 21 female TD Brown
+7	cheese	cheese	NOUN	NN	Number=Sing	8	compound	David FAT Father	Eve 21 female TD Brown
+8	sandwich	sandwich	NOUN	NN	Number=Sing	5	obj	David FAT Father	Eve 21 female TD Brown
+9	either	either	ADV	RB	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+
+1	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	wan	want	VERB	VB	Abbr=Yes|VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	na	to	PART	TO	Abbr=Yes	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	eat	eat	VERB	VB	VerbForm=Inf	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	Sue MOT Mother	Eve 21 female TD Brown
+7	piece	piece	NOUN	NN	Number=Sing	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+8	of	of	ADP	IN	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+9	cheese	cheese	NOUN	NN	Number=Sing	7	nmod	Sue MOT Mother	Eve 21 female TD Brown
+10	right	right	ADV	RB	_	11	advmod	Sue MOT Mother	Eve 21 female TD Brown
+11	now	now	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	wipe	wipe	VERB	VB	VerbForm=Inf	1	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	fingers	finger	NOUN	NNS	Number=Plur	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	first	first	ADV	RB	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	for	for	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	whole	whole	ADJ	JJ	Degree=Pos	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	week	week	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	PART	RB	_	6	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	NOUN	NN	Number=Sing	6	compound	Sue MOT Mother	Eve 21 female TD Brown
+6	sandwich	sandwich	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	just	just	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	just	just	ADV	RB	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	Sue MOT Mother	Eve 21 female TD Brown
+3	cheese	cheese	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	Sue MOT Mother	Eve 21 female TD Brown
+2	whole	whole	ADJ	JJ	Degree=Pos	3	amod	Sue MOT Mother	Eve 21 female TD Brown
+3	week	week	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	haf	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	ta	to	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+4	let	let	VERB	VB	VerbForm=Inf	2	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+5	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	wipe	wipe	VERB	VB	VerbForm=Inf	4	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+7	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+8	fingers	finger	NOUN	NNS	Number=Plur	6	obj	Sue MOT Mother	Eve 21 female TD Brown
+9	first	first	ADV	RB	_	6	advmod	Sue MOT Mother	Eve 21 female TD Brown
+10	and	and	CCONJ	CC	_	14	cc	Sue MOT Mother	Eve 21 female TD Brown
+11	then	then	ADV	RB	PronType=Dem	14	advmod	Sue MOT Mother	Eve 21 female TD Brown
+12	Mommy	Mommy	PROPN	NNP	Number=Sing	14	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+13	'll	will	AUX	MD	VerbForm=Fin	14	aux	Sue MOT Mother	Eve 21 female TD Brown
+14	give	give	VERB	VB	VerbForm=Inf	2	conj	Sue MOT Mother	Eve 21 female TD Brown
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	iobj	Sue MOT Mother	Eve 21 female TD Brown
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	Sue MOT Mother	Eve 21 female TD Brown
+17	piece	piece	NOUN	NN	Number=Sing	14	obj	Sue MOT Mother	Eve 21 female TD Brown
+18	of	of	ADP	IN	_	19	case	Sue MOT Mother	Eve 21 female TD Brown
+19	cheese	cheese	NOUN	NN	Number=Sing	17	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	but	but	CCONJ	CC	_	4	cc	Sue MOT Mother	Eve 21 female TD Brown
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	dirty	dirt	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	stool	stool	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	sitting	sit	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	on	on	ADP	IN	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+6	stool	stool	NOUN	NN	Number=Sing	3	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	PART	RB	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	have	have	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	Sue MOT Mother	Eve 21 female TD Brown
+6	big	big	ADJ	JJ	Degree=Pos	7	amod	Sue MOT Mother	Eve 21 female TD Brown
+7	stool	stool	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	highchair	highchair	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	little	little	ADJ	JJ	Degree=Pos	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	stool	stool	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+3	highchair	highchair	NOUN	NN	Number=Sing	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	cause	because	SCONJ	IN	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	stool	stool	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	right	right	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	stool	stool	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+2	stool	stool	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+3	highchair	highchair	NOUN	NN	Number=Sing	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	highchair	highchair	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	cold	cold	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	about	about	ADP	IN	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	there	there	PRON	EX	_	2	expl	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	piece	piece	NOUN	NN	Number=Sing	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	of	of	ADP	IN	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+6	cheese	cheese	NOUN	NN	Number=Sing	4	nmod	Sue MOT Mother	Eve 21 female TD Brown
+7	until	until	SCONJ	IN	_	11	mark	Sue MOT Mother	Eve 21 female TD Brown
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	Sue MOT Mother	Eve 21 female TD Brown
+9	sandwich	sandwich	NOUN	NN	Number=Sing	11	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+10	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	Sue MOT Mother	Eve 21 female TD Brown
+11	cool	cool	ADJ	JJ	Degree=Pos	2	advcl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	upstairs	upstairs	ADV	RB	_	2	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	baby	baby	NOUN	NN	Number=Sing	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	Sarah	Sarah	PROPN	NNP	Number=Sing	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	's	's	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+5	gon	go	VERB	VBG	Abbr=Yes|Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	na	to	PART	TO	Abbr=Yes	7	mark	Sue MOT Mother	Eve 21 female TD Brown
+7	take	take	VERB	VB	VerbForm=Inf	5	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	Sue MOT Mother	Eve 21 female TD Brown
+9	nap	nap	NOUN	NN	Number=Sing	7	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	gon	go	VERB	VBG	Abbr=Yes|Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	na	to	PART	TO	Abbr=Yes	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	take	take	VERB	VB	VerbForm=Inf	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	Sue MOT Mother	Eve 21 female TD Brown
+7	nap	nap	NOUN	NN	Number=Sing	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	in	in	ADP	IN	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+3	just	just	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	minute	minute	NOUN	NN	Number=Sing	1	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	then	then	ADV	RB	PronType=Dem	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'll	will	AUX	MD	VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	wake	wake	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	up	up	ADP	RP	_	4	compound:prt	Sue MOT Mother	Eve 21 female TD Brown
+
+1	would	will	AUX	MD	VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	like	like	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	carrot	carrot	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	piece	piece	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	of	of	ADP	IN	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	celery	celery	NOUN	NN	Number=Sing	2	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	olive	olive	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	would	will	AUX	MD	VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	like	like	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	breakfast	breakfast	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	lunch	lunch	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	now	now	ADV	RB	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	here	here	ADV	RB	PronType=Dem	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	here	here	ADV	RB	PronType=Dem	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	awake	awake	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	now	now	ADV	RB	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	watching	watch	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	eat	eat	VERB	VB	VerbForm=Inf	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	missed	miss	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	word	word	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	right	right	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	orange	orange	ADJ	JJ	Degree=Pos	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	one	one	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	DET	WDT	PronType=Int	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	color	color	NOUN	NN	Number=Sing	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	one	one	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	DET	WDT	PronType=Int	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+2	blue	blue	ADJ	JJ	Degree=Pos	3	amod	Sue MOT Mother	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	n't	not	PART	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	think	think	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	so	so	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	string	string	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	Sue MOT Mother	Eve 21 female TD Brown
+3	beads	bead	NOUN	NNS	Number=Plur	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+4	on	on	ADP	IN	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	string	string	NOUN	NN	Number=Sing	1	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	4	discourse	David FAT Father	Eve 21 female TD Brown
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	put	put	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	David FAT Father	Eve 21 female TD Brown
+6	beads	bead	NOUN	NNS	Number=Plur	4	obj	David FAT Father	Eve 21 female TD Brown
+7	on	on	ADP	IN	_	9	case	David FAT Father	Eve 21 female TD Brown
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	David FAT Father	Eve 21 female TD Brown
+9	string	string	NOUN	NN	Number=Sing	4	obl	David FAT Father	Eve 21 female TD Brown
+
+1	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	forget	forget	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	grape	grape	NOUN	NN	Number=Sing	6	compound	Sue MOT Mother	Eve 21 female TD Brown
+6	juice	juice	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	can	can	AUX	MD	VerbForm=Fin	3	aux	David FAT Father	Eve 21 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	have	have	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	David FAT Father	Eve 21 female TD Brown
+5	string	string	NOUN	NN	Number=Sing	3	obj	David FAT Father	Eve 21 female TD Brown
+6	please	please	INTJ	UH	_	3	discourse	David FAT Father	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	waking	wake	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	up	up	ADP	RP	_	4	compound:prt	Sue MOT Mother	Eve 21 female TD Brown
+
+1	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	hungry	hungry	ADJ	JJ	Degree=Pos	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	come	come	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	right	right	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	back	back	ADV	RB	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	well	well	INTJ	UH	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	not	not	PART	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	away	away	ADV	RB	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+2	would	will	AUX	MD	VerbForm=Fin	5	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	David FAT Father	Eve 21 female TD Brown
+4	please	please	INTJ	UH	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+5	bring	bring	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+6	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	iobj	David FAT Father	Eve 21 female TD Brown
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	David FAT Father	Eve 21 female TD Brown
+8	ashtray	ashtray	NOUN	NN	Number=Sing	5	obj	David FAT Father	Eve 21 female TD Brown
+9	from	from	ADP	IN	_	11	case	David FAT Father	Eve 21 female TD Brown
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	David FAT Father	Eve 21 female TD Brown
+11	windowsill	windowsill	NOUN	NN	Number=Sing	5	obl	David FAT Father	Eve 21 female TD Brown
+
+1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	David FAT Father	Eve 21 female TD Brown
+2	red	red	ADJ	JJ	Degree=Pos	3	amod	David FAT Father	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	David FAT Father	Eve 21 female TD Brown
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	4	discourse	David FAT Father	Eve 21 female TD Brown
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	put	put	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	David FAT Father	Eve 21 female TD Brown
+6	beads	bead	NOUN	NNS	Number=Plur	4	obj	David FAT Father	Eve 21 female TD Brown
+7	on	on	ADP	IN	_	9	case	David FAT Father	Eve 21 female TD Brown
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	David FAT Father	Eve 21 female TD Brown
+9	string	string	NOUN	NN	Number=Sing	4	obl	David FAT Father	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	only	only	ADV	RB	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+3	one	one	NUM	CD	NumType=Card	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	maybe	maybe	ADV	RB	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	David FAT Father	Eve 21 female TD Brown
+4	orange	orange	ADJ	JJ	Degree=Pos	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	n't	not	PART	RB	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+4	know	know	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	those	those	PRON	DT	Number=Plur|PronType=Dem	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	PROPN	NNP	Number=Sing	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	's	's	PART	POS	_	3	case	Sue MOT Mother	Eve 21 female TD Brown
+5	books	book	NOUN	NNS	Number=Plur	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	must	must	AUX	MD	VerbForm=Fin	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	PART	RB	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	touch	touch	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	Eve	Eve	PROPN	NNP	Number=Sing	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	there	there	ADV	RB	PronType=Dem	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	under	under	ADV	RB	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	7	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	under	under	ADP	IN	_	7	case	Sue MOT Mother	Eve 21 female TD Brown
+5	Papa	Papa	PROPN	NNP	Number=Sing	7	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+6	's	's	PART	POS	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+7	desk	desk	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	where	where	ADV	WRB	PronType=Int	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	can	can	AUX	MD	VerbForm=Fin	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	jump	jump	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	in	in	ADP	IN	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	livingroom	livingroom	NOUN	NN	Number=Sing	3	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	okay	okay	ADJ	JJ	Degree=Pos	2	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	jump	jump	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	in	in	ADP	IN	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	livingroom	livingroom	NOUN	NN	Number=Sing	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+1	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	forget	forget	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	her	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	pencil	pencil	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	PROPN	NNP	Number=Sing	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+4	please	please	INTJ	UH	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+5	and	and	CCONJ	CC	_	8	cc	Sue MOT Mother	Eve 21 female TD Brown
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+7	'll	will	AUX	MD	VerbForm=Fin	8	aux	Sue MOT Mother	Eve 21 female TD Brown
+8	get	get	VERB	VB	VerbForm=Inf	2	conj	Sue MOT Mother	Eve 21 female TD Brown
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	iobj	Sue MOT Mother	Eve 21 female TD Brown
+10	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+11	pencil	pencil	NOUN	NN	Number=Sing	8	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	David FAT Father	Eve 21 female TD Brown
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	say	say	VERB	VB	VerbForm=Inf	0	root	David FAT Father	Eve 21 female TD Brown
+
+1	but	but	CCONJ	CC	_	2	cc	David FAT Father	Eve 21 female TD Brown
+2	what	what	PRON	WP	PronType=Int	0	root	David FAT Father	Eve 21 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	David FAT Father	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	David FAT Father	Eve 21 female TD Brown
+5	magic	magic	NOUN	NN	Number=Sing	6	compound	David FAT Father	Eve 21 female TD Brown
+6	word	word	NOUN	NN	Number=Sing	2	nsubj	David FAT Father	Eve 21 female TD Brown
+
+1	here	here	ADV	RB	PronType=Dem	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	1	vocative	Sue MOT Mother	Eve 21 female TD Brown
+
+1	here	here	ADV	RB	PronType=Dem	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Sue MOT Mother	Eve 21 female TD Brown
+4	nice	nice	ADJ	JJ	Degree=Pos	6	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	new	new	ADJ	JJ	Degree=Pos	6	amod	Sue MOT Mother	Eve 21 female TD Brown
+6	page	page	NOUN	NN	Number=Sing	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+7	for	for	ADP	IN	_	8	case	Sue MOT Mother	Eve 21 female TD Brown
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	David FAT Father	Eve 21 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	David FAT Father	Eve 21 female TD Brown
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	David FAT Father	Eve 21 female TD Brown
+4	one	one	NOUN	NN	Number=Sing	1	nsubj	David FAT Father	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+2	g	g	PROPN	NNP	Number=Sing	1	flat	David FAT Father	Eve 21 female TD Brown
+
+1	g	g	PROPN	NNP	Number=Sing	0	root	David FAT Father	Eve 21 female TD Brown
+2	h	h	PROPN	NNP	Number=Sing	1	flat	David FAT Father	Eve 21 female TD Brown
+

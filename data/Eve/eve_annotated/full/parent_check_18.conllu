@@ -1,0 +1,179 @@
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	compound	Sue MOT Mother	Eve 18 female TD Brown
+2	more	more	ADJ	JJR	Degree=Cmp	3	amod	Sue MOT Mother	Eve 18 female TD Brown
+3	cookies	cookie	NOUN	NNS	Number=Plur	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+1	here	here	ADV	RB	PronType=Dem	0	root	Sue MOT Mother	Eve 18 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	Sue MOT Mother	Eve 18 female TD Brown
+
+1	would	will	AUX	MD	VerbForm=Fin	3	aux	Sue MOT Mother	Eve 18 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	like	like	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	more	more	ADJ	JJR	Degree=Cmp	6	amod	Sue MOT Mother	Eve 18 female TD Brown
+5	grape	grape	ADJ	JJ	Degree=Pos	6	amod	Sue MOT Mother	Eve 18 female TD Brown
+6	juice	juice	NOUN	NN	Number=Sing	3	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 18 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	Fraser	Fraser	PROPN	NNP	Number=Sing	3	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	who	who	PRON	WP	PronType=Int	4	obj	Sue MOT Mother	Eve 18 female TD Brown
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 18 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+4	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 18 female TD Brown
+5	Eve	Eve	PROPN	NNP	Number=Sing	4	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	6	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	why	why	ADV	WRB	PronType=Int	6	advmod	Sue MOT Mother	Eve 18 female TD Brown
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	Sue MOT Mother	Eve 18 female TD Brown
+4	n't	not	PART	RB	_	6	advmod	Sue MOT Mother	Eve 18 female TD Brown
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+6	call	call	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 18 female TD Brown
+7	Grandma	Grandma	PROPN	NNP	Number=Sing	6	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	5	obj	Sue MOT Mother	Eve 18 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	Sue MOT Mother	Eve 18 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Sue MOT Mother	Eve 18 female TD Brown
+4	man	man	NOUN	NN	Number=Sing	5	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+5	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+1	there	there	PRON	EX	_	2	expl	Sue MOT Mother	Eve 18 female TD Brown
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 18 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Sue MOT Mother	Eve 18 female TD Brown
+4	cookie	cookie	NOUN	NN	Number=Sing	2	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+5	on	on	ADP	IN	_	7	case	Sue MOT Mother	Eve 18 female TD Brown
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	Sue MOT Mother	Eve 18 female TD Brown
+7	table	table	NOUN	NN	Number=Sing	4	nmod	Sue MOT Mother	Eve 18 female TD Brown
+8	with	with	ADP	IN	_	10	case	Sue MOT Mother	Eve 18 female TD Brown
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	Sue MOT Mother	Eve 18 female TD Brown
+10	rest	rest	NOUN	NN	Number=Sing	2	obl	Sue MOT Mother	Eve 18 female TD Brown
+11	of	of	ADP	IN	_	13	case	Sue MOT Mother	Eve 18 female TD Brown
+12	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	Sue MOT Mother	Eve 18 female TD Brown
+13	crackers	cracker	NOUN	NNS	Number=Plur	10	nmod	Sue MOT Mother	Eve 18 female TD Brown
+
+1	Mr	Mr	PROPN	NNP	Number=Sing	0	root	Sue MOT Mother	Eve 18 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	1	flat	Sue MOT Mother	Eve 18 female TD Brown
+3	yes	yes	INTJ	UH	_	1	discourse	Sue MOT Mother	Eve 18 female TD Brown
+4	Mr	Mr	PROPN	NNP	Number=Sing	1	flat	Sue MOT Mother	Eve 18 female TD Brown
+5	Fraser	Fraser	PROPN	NNP	Number=Sing	4	flat	Sue MOT Mother	Eve 18 female TD Brown
+
+1	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	Sue MOT Mother	Eve 18 female TD Brown
+2	cookie	cookie	NOUN	NN	Number=Sing	4	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	Sue MOT Mother	Eve 18 female TD Brown
+4	there	there	ADV	RB	PronType=Dem	0	root	Sue MOT Mother	Eve 18 female TD Brown
+5	on	on	ADP	IN	_	7	case	Sue MOT Mother	Eve 18 female TD Brown
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	Sue MOT Mother	Eve 18 female TD Brown
+7	table	table	NOUN	NN	Number=Sing	4	obl	Sue MOT Mother	Eve 18 female TD Brown
+
+1	no	no	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	no	no	ADV	RB	_	3	advmod	Sue MOT Mother	Eve 18 female TD Brown
+3	more	more	ADJ	JJR	Degree=Cmp	4	amod	Sue MOT Mother	Eve 18 female TD Brown
+4	Eve	Eve	PROPN	NNP	Number=Sing	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+1	no	no	INTJ	UH	_	5	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 18 female TD Brown
+4	n't	not	PART	RB	_	5	advmod	Sue MOT Mother	Eve 18 female TD Brown
+5	want	want	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 18 female TD Brown
+6	milk	milk	NOUN	NN	Number=Sing	7	compound	Sue MOT Mother	Eve 18 female TD Brown
+7	honey	honey	NOUN	NN	Number=Sing	5	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	there	there	PRON	EX	_	2	expl	Sue MOT Mother	Eve 18 female TD Brown
+2	drink	drink	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 18 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Sue MOT Mother	Eve 18 female TD Brown
+4	water	water	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	no	no	INTJ	UH	_	5	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 18 female TD Brown
+4	n't	not	PART	RB	_	5	advmod	Sue MOT Mother	Eve 18 female TD Brown
+5	think	think	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 18 female TD Brown
+6	Mr	Mr	PROPN	NNP	Number=Sing	8	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+7	Fraser	Fraser	PROPN	NNP	Number=Sing	6	flat	Sue MOT Mother	Eve 18 female TD Brown
+8	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	Sue MOT Mother	Eve 18 female TD Brown
+9	any	any	DET	DT	_	10	det	Sue MOT Mother	Eve 18 female TD Brown
+10	water	water	NOUN	NN	Number=Sing	8	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	Mr	Mr	PROPN	NNP	Number=Sing	5	nmod:poss	Sue MOT Mother	Eve 18 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	1	flat	Sue MOT Mother	Eve 18 female TD Brown
+3	's	be	PART	POS	_	1	case	Sue MOT Mother	Eve 18 female TD Brown
+4	drinking	drink	NOUN	NN	Number=Sing	5	compound	Sue MOT Mother	Eve 18 female TD Brown
+5	coffee	coffee	NOUN	NN	Number=Sing	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+1	yes	yes	INTJ	UH	_	4	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 18 female TD Brown
+4	drinking	drink	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	Sue MOT Mother	Eve 18 female TD Brown
+5	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	Sue MOT Mother	Eve 18 female TD Brown
+6	coffee	coffee	NOUN	NN	Number=Sing	4	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 18 female TD Brown
+3	down	down	ADP	RP	_	2	compound:prt	Sue MOT Mother	Eve 18 female TD Brown
+
+1	there	there	PRON	EX	_	3	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+1	no	no	DET	DT	_	3	det	Sue MOT Mother	Eve 18 female TD Brown
+2	more	more	ADJ	JJR	Degree=Cmp	3	amod	Sue MOT Mother	Eve 18 female TD Brown
+3	cookies	cookie	NOUN	NNS	Number=Plur	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	Eve	Eve	PROPN	NNP	Number=Sing	3	appos	Sue MOT Mother	Eve 18 female TD Brown
+
+1	an	and	DET	DT	Definite=Ind|PronType=Art	2	det	Sue MOT Mother	Eve 18 female TD Brown
+2	what	what	PRON	WP	PronType=Int	5	obj	Sue MOT Mother	Eve 18 female TD Brown
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	Sue MOT Mother	Eve 18 female TD Brown
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+5	do	do	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 18 female TD Brown
+6	with	with	ADP	IN	_	7	case	Sue MOT Mother	Eve 18 female TD Brown
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	Sue MOT Mother	Eve 18 female TD Brown
+
+1	give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Sue MOT Mother	Eve 18 female TD Brown
+2	dolly	doll	VERB	VB	VerbForm=Inf	1	xcomp	Sue MOT Mother	Eve 18 female TD Brown
+3	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	Sue MOT Mother	Eve 18 female TD Brown
+4	bottle	bottle	NOUN	NN	Number=Sing	2	obj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	0	root	Sue MOT Mother	Eve 18 female TD Brown
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	Sue MOT Mother	Eve 18 female TD Brown
+3	wrong	wrong	ADJ	JJ	Degree=Pos	1	acl:relcl	Sue MOT Mother	Eve 18 female TD Brown
+4	with	with	ADP	IN	_	6	case	Sue MOT Mother	Eve 18 female TD Brown
+5	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	Sue MOT Mother	Eve 18 female TD Brown
+6	eye	eye	NOUN	NN	Number=Sing	3	obl	Sue MOT Mother	Eve 18 female TD Brown
+
+1	what	what	PRON	WP	PronType=Int	4	obj	Sue MOT Mother	Eve 18 female TD Brown
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	Sue MOT Mother	Eve 18 female TD Brown
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+4	want	want	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 18 female TD Brown
+5	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	Sue MOT Mother	Eve 18 female TD Brown
+6	to	to	PART	TO	_	7	mark	Sue MOT Mother	Eve 18 female TD Brown
+7	do	do	VERB	VB	VerbForm=Inf	4	xcomp	Sue MOT Mother	Eve 18 female TD Brown
+8	with	with	ADP	IN	_	9	case	Sue MOT Mother	Eve 18 female TD Brown
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obl	Sue MOT Mother	Eve 18 female TD Brown
+
+1	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	Sue MOT Mother	Eve 18 female TD Brown
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	want	want	VERB	VB	VerbForm=Inf	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	Sue MOT Mother	Eve 18 female TD Brown
+5	to	to	PART	TO	_	6	mark	Sue MOT Mother	Eve 18 female TD Brown
+6	turn	turn	VERB	VB	VerbForm=Inf	3	xcomp	Sue MOT Mother	Eve 18 female TD Brown
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	Sue MOT Mother	Eve 18 female TD Brown
+8	for	for	ADP	IN	_	9	case	Sue MOT Mother	Eve 18 female TD Brown
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	Sue MOT Mother	Eve 18 female TD Brown
+
+1	yes	yes	INTJ	UH	_	3	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	there	there	PRON	EX	_	3	expl	Sue MOT Mother	Eve 18 female TD Brown
+3	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	soldiers	soldier	NOUN	NNS	Number=Plur	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+5	on	on	ADP	IN	_	7	case	Sue MOT Mother	Eve 18 female TD Brown
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	Sue MOT Mother	Eve 18 female TD Brown
+7	radio	radio	NOUN	NN	Number=Sing	4	nmod	Sue MOT Mother	Eve 18 female TD Brown
+
+1	there	there	PRON	EX	_	2	expl	Sue MOT Mother	Eve 18 female TD Brown
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Sue MOT Mother	Eve 18 female TD Brown
+3	two	two	NUM	CD	NumType=Card	4	nummod	Sue MOT Mother	Eve 18 female TD Brown
+4	soldiers	soldier	NOUN	NNS	Number=Plur	2	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+
+1	two	two	NUM	CD	NumType=Card	2	nummod	Sue MOT Mother	Eve 18 female TD Brown
+2	soldiers	soldier	NOUN	NNS	Number=Plur	0	root	Sue MOT Mother	Eve 18 female TD Brown
+

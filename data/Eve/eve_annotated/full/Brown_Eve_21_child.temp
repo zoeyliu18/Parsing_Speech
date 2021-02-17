@@ -1,0 +1,1700 @@
+#1	yep sugar
+1	yep	yep	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#3	a cup
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	cup	cup	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#9	sit down
+1	sit	sit	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	down	down	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#10	kiss it
+1	kiss	kiss	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#14	you wipe off
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	wipe	wipe	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	off	off	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#15	Mommy wipe floor
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	wipe	wipe	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	floor	floor	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#16	grape juice all_gone
+1	grape	grape	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	juice	juice	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	all	all	adj	_	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	gone	gone	adj	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#20	Mommy coffee
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#23	warm do one
+1	warm	warm	adj	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	do	do	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#24	one Mommy
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	n	_	_	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#27	Mommy hot coffee one
+1	Mommy	Mommy	n	_	_	3	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	hot	hot	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	one	one	det	_	_	3	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#30	put sugar in
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#31	Mommy milk
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	milk	milk	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#32	put sugar in
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#35	milk Mommy grape juice more
+1	milk	milk	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	n	_	_	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+3	grape	grape	n	_	_	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	juice	juice	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	more	more	pro	_	_	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#37	not spill this
+1	not	not	neg	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	spill	spill	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	this	this	det	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#39	not spill this
+1	not	not	neg	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	spill	spill	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	this	this	det	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#41	I see fire
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	fire	fire	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#44	heat right right fire
+1	heat	heat	n	_	_	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	right	right	adv	_	_	3	reparandum	Eve CHI Target_Child	Eve 21 female TD Brown
+3	right	right	adj	_	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	fire	fire	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#47	give Eve paper
+1	give	give	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#49	baby Sarah sleeping
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleeping	sleep	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#53	write a b c Papa
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Papa	Papa	n	_	_	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#56	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#57	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#58	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#59	you do
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	do	do	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#60	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#63	yeah a b a b c
+1	yeah	yeah	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	c	c	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#64	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#66	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#71	wait a minute another one Fraser do it
+1	wait	wait	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	minute	minute	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	another	another	qn	_	_	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	one	one	pro	_	_	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Fraser	Fraser	n	_	_	7	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	do	do	v	_	_	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+8	it	it	pro	_	_	7	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#73	draw pencil a pencil a b c
+1	draw	draw	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	n	_	_	2	appos	Eve CHI Target_Child	Eve 21 female TD Brown
+5	a	a	n	_	_	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	b	b	n	_	_	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	c	c	n	_	_	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#76	not good
+1	not	not	neg	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	good	good	adj	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#81	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#83	a b c there again
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	there	there	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	again	again	adv	_	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#85	another one
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#88	Eve out scissor
+1	Eve	Eve	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	out	out	prep	_	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	scissor	scissors	n	_	_	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#92	write no
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	no	no	co	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#94	no Fraser
+1	no	no	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#96	Eve write paper
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#97	Fraser no Fraser
+1	Fraser	Fraser	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	no	no	co	_	_	1	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Fraser	Fraser	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#100	doing Eve
+1	doing	do	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#102	draw lady
+1	draw	draw	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lady	lady	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#104	draw lady again draw my moo here
+1	draw	draw	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lady	lady	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	draw	draw	v	_	_	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+5	my	my	nmod:poss	_	_	6	det	Eve CHI Target_Child	Eve 21 female TD Brown
+6	moo	moo	on	_	_	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	here	here	adv	_	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#106	old Donald
+1	old	old	adj	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Donald	Donald	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#108	draw old Donald
+1	draw	draw	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	old	old	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Donald	Donald	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#110	baa here moo here
+1	baa	baa	on	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	moo	moo	on	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	here	here	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#113	him writing
+1	him	him	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#115	Eve writing
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#117	Eve writing a b c
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	b	b	n	_	_	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	c	c	n	_	_	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#121	yeah another one
+1	yeah	yeah	co	_	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	another	another	qn	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#124	look there
+1	look	look	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#125	baby Sarah
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#131	baby Sarah
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#135	baby Sarah sleeping
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleeping	sleep	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#140	look another one
+1	look	look	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	another	another	qn	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#142	thank_you
+1	thank	thank	co	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	you	you	co	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#146	there's a moo
+1	there	there	pro	_	_	2	expl	Eve CHI Target_Child	Eve 21 female TD Brown
+2	's	be	cop	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	moo	moo	on	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#148	there's a moo
+1	there	there	pro	_	_	2	expl	Eve CHI Target_Child	Eve 21 female TD Brown
+2	's	be	cop	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	moo	moo	on	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#151	Mammy writing
+1	Mammy	Mammy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#155	baby Sarah
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#160	put dry diaper baby Sarah bottom
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dry	dry	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	diaper	diaper	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	baby	baby	n	_	_	5	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Sarah	Sarah	n	_	_	6	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+6	bottom	bottom	n	_	_	1	obl:npmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#164	only paper
+1	only	only	adv	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	paper	paper	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#166	only paper
+1	only	only	adv	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	paper	paper	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#175	ride horsie
+1	ride	ride	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	horsie	horse	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#176	Eve show Fraser horsie
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	show	show	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Fraser	Fraser	n	_	_	2	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	horsie	horse	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#178	Fraser pencil
+1	Fraser	Fraser	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#191	Eve laying down
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	laying	lay	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#192	Eve laying down
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	laying	lay	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#193	Mom cover Eve
+1	Mom	Mom	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	cover	cover	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#203	thought going sleep
+1	thought	thought	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	going	go	part	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleep	sleep	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#204	byebye Fraser
+1	byebye	byebye	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#206	byebye Papa
+1	byebye	byebye	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#209	byebye Sarah baby a nice nap
+1	byebye	byebye	co	_	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	baby	baby	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	det	_	_	6	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	nice	nice	adj	_	_	6	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+6	nap	nap	n	_	_	3	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#211	all done nap
+1	all	all	post	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	done	do	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	nap	nap	n	_	_	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#213	night_night later
+1	night_night	night_night	co	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	later	later	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#215	little tiny one
+1	little	little	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tiny	tiny	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#216	little tiny one
+1	little	little	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tiny	tiny	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#217	want Mommy Mom carry Eve
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	n	_	_	3	reparandum	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Mom	Mom	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	carry	carry	v	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Eve	Eve	n	_	_	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#228	a tiny one
+1	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tiny	tiny	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#229	a bowe
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	bowe	bowel	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#231	a bowe
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	bowe	bowel	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#235	yep a bowelmove
+1	yep	yep	co	_	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	bowelmove	bowelmove	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#237	Papa change her
+1	Papa	Papa	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	change	change	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	her	her	pro	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#239	Eve laying down
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	laying	lay	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#243	Eve have a bowelmove
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	have	have	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	bowelmove	bowelmove	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#247	going buyer
+1	going	go	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	buyer	buy	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#256	a penny
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#262	in fire
+1	in	in	prep	_	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	fire	fire	n	_	_	0	POBJ	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#266	right here
+1	right	right	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	adv	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#281	down a minute
+1	down	down	prep	_	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	minute	minute	n	_	_	0	POBJ	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#283	you penny
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#284	you penny
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#285	Mama upstair food baby Sarah
+1	Mama	Mama	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	upstair	upstairs	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	food	food	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	baby	baby	n	_	_	5	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Sarah	Sarah	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#286	Mammy upstair
+1	Mammy	Mammy	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	upstair	upstairs	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#288	oh write penny
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	penny	penny	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#289	write penny
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#291	going byebye Papa
+1	going	go	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	byebye	byebye	co	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Papa	Papa	n	_	_	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#292	byebye Papa
+1	byebye	byebye	co	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#293	byebye Fraser
+1	byebye	byebye	co	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	n	_	_	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#294	Eve see Mom baby Sarah
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Mom	Mom	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	baby	baby	n	_	_	5	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Sarah	Sarah	n	_	_	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#303	come move horsie
+1	come	come	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	move	move	n	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	horsie	horse	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#306	please move him
+1	please	please	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	move	move	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	him	him	pro	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#308	please move him
+1	please	please	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	move	move	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	him	him	pro	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#312	much too warm
+1	much	much	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	too	too	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	warm	warm	adj	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#314	Eve going byebye
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	going	go	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	byebye	byebye	co	_	_	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#318	byebye Papa
+1	byebye	byebye	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#322	show Fraser lion
+1	show	show	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	n	_	_	1	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	lion	lion	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#328	turtle name Froggie
+1	turtle	turtle	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	name	name	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Froggie	Froggie	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#331	put him lion turtle name Froggy
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	him	him	pro	_	_	1	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	lion	lion	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	turtle	turtle	n	_	_	5	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+5	name	name	n	_	_	6	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Froggy	Froggy	n	_	_	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#333	yeah lion turtle name Froggy turtle name Froggy
+1	yeah	yeah	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lion	lion	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	turtle	turtle	n	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	name	name	n	_	_	5	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Froggy	Froggy	n	_	_	2	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	turtle	turtle	n	_	_	7	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+7	name	name	n	_	_	8	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+8	Froggy	Froggy	n	_	_	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#335	Eve show Fraser drum a hammer
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	show	show	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Fraser	Fraser	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	drum	drum	n	_	_	2	ccomp	Eve CHI Target_Child	Eve 21 female TD Brown
+5	a	a	det	_	_	6	det	Eve CHI Target_Child	Eve 21 female TD Brown
+6	hammer	hammer	n	_	_	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#337	Fraser play
+1	Fraser	Fraser	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	play	play	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#346	Fraser no boot
+1	Fraser	Fraser	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	no	no	qn	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	boot	boot	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#350	boot hall
+1	boot	boot	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	hall	hall	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#352	Mama there Mama where's Mama boot
+1	Mama	Mama	n	_	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Mama	Mama	n	_	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+4	where	where	pro	_	_	2	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+5	's	be	cop	_	_	4	cop	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Mama	Mama	n	_	_	7	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+7	boot	boot	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#356	Fraser get it
+1	Fraser	Fraser	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	it	it	pro	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#358	Fraser dudit
+1	Fraser	Fraser	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dudit	dudit	chi	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#364	do it again
+1	do	do	mod	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#366	more sugar
+1	more	more	qn	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#370	dowf mouth
+1	dowf	dowf	chi	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	mouth	mouth	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#374	Eve go see
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	see	see	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#378	horsie see Papa
+1	horsie	horse	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Papa	Papa	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#382	see Pa
+1	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Pa	Papa	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#385	jump off the table
+1	jump	jump	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	off	off	prep	_	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	the	the	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	table	table	n	_	_	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#387	jump off table
+1	jump	jump	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	off	off	prep	_	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	table	table	n	_	_	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#390	jump off table downstair
+1	jump	jump	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	off	off	prep	_	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	table	table	n	_	_	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	downstair	downstairs	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#393	Fraser jump off table
+1	Fraser	Fraser	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	jump	jump	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	off	off	prep	_	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	table	table	n	_	_	2	obl	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#399	do it again
+1	do	do	mod	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#400	move here
+1	move	move	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#404	baby Sarah
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#409	tapioca whole week
+1	tapioca	tapioca	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	whole	whole	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	week	week	n	_	_	1	obl:npmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#411	baby Sarah sleeping
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleeping	sleep	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#412	holding baby Sarah
+1	holding	hold	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	baby	baby	n	_	_	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Sarah	Sarah	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#417	where stool
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#422	cheese sandwich
+1	cheese	cheese	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#425	no Davy
+1	no	no	co	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Davy	Davy	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#427	no Davy
+1	no	no	co	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Davy	Davy	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#433	cheese sandwich whole week
+1	cheese	cheese	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	whole	whole	adj	_	_	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	week	week	n	_	_	2	obl:npmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#445	a whole week
+1	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	whole	whole	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	week	week	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#449	cheese sandwich
+1	cheese	cheese	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#455	whole week
+1	whole	whole	adj	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	week	week	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#457	cheese sandwich that piece o cheese
+1	cheese	cheese	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	that	that	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	piece	piece	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	o	of	prep	_	_	6	case	Eve CHI Target_Child	Eve 21 female TD Brown
+6	cheese	cheese	n	_	_	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#461	wipe finger
+1	wipe	wipe	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	finger	finger	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#466	Eve sit my stool
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sit	sit	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	my	my	nmod:poss	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	stool	stool	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#469	my stool
+1	my	my	nmod:poss	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#472	have little stool
+1	have	have	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	little	little	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	stool	stool	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#476	that my stool
+1	that	that	comp	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	nmod:poss	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#481	move highchair
+1	move	move	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	highchair	highchair	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#482	that my highchair
+1	that	that	comp	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	nmod:poss	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	highchair	highchair	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#488	cheese sandwich
+1	cheese	cheese	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#490	the sandwich cool look
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	cool	cool	adj	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	look	look	v	_	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#492	piece of cheese
+1	piece	piece	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	of	of	prep	_	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	cheese	cheese	n	_	_	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#494	want Papa
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#498	baby Sarah
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#500	baby Sarah take nap
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	take	take	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	nap	nap	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#503	then wake up
+1	then	then	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	wake	wake	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	up	up	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#519	who come
+1	who	who	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	come	come	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#521	here come
+1	here	here	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	come	come	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#523	baby Sarah take nap
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	take	take	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	nap	nap	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#526	baby tape
+1	baby	baby	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tape	tape	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#532	orange one
+1	orange	orange	adj	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#535	another one orange one
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	orange	orange	adj	_	_	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	one	one	pro	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#536	another one
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#540	other one
+1	other	other	qn	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#542	another one
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#544	another blue one
+1	another	another	qn	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	blue	blue	n	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#545	purple one
+1	purple	purple	adj	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#549	it drop
+1	it	it	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	drop	drop	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#550	im that REPLACEMENT dat
+1	im	im	chi	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#551	im that REPLACEMENT dat
+1	im	im	chi	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#552	im that REPLACEMENT dat
+1	im	im	chi	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#554	a string
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	string	string	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#556	im that REPLACEMENT dat
+1	im	im	chi	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#558	other one
+1	other	other	qn	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#560	another string
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	string	string	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#562	grape juice
+1	grape	grape	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#567	baby Sarah wake up
+1	baby	baby	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	wake	wake	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	up	up	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#570	Eve have it REPLACEMENT hab
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	have	have	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	it	it	pro	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#571	Mom come right back
+1	Mom	Mom	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	come	come	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	right	right	n	_	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	back	back	n	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#574	no going way
+1	no	no	co	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	going	go	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	way	away	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#575	mercy gracious_mercy oh gracious_mercy toy Eve toy
+1	mercy	mercy	co	_	_	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	gracious_mercy	gracious_mercy	co	_	_	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+3	oh	oh	co	_	_	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+4	gracious_mercy	gracious_mercy	co	_	_	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+5	toy	toy	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Eve	Eve	n	_	_	7	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+7	toy	toy	n	_	_	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#578	do running fast
+1	do	do	mod	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	running	run	part	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	fast	fast	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#587	yeah where fire
+1	yeah	yeah	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	fire	fire	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#594	put orange one
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	orange	orange	n	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#597	put only one
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	only	only	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#600	put orange one
+1	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	orange	orange	n	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#606	Papa book
+1	Papa	Papa	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	book	book	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#608	where Eve
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#620	forgot Eve pencil
+1	forgot	forget	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	pencil	pencil	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#622	Mom get Eve pencil
+1	Mom	Mom	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#624	Papa get Eve pencil
+1	Papa	Papa	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#626	again get Eve pencil
+1	again	again	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#638	that write a b c
+1	that	that	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	b	b	n	_	_	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	c	c	n	_	_	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#639	that a b c
+1	that	that	comp	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#640	my turn now
+1	my	my	nmod:poss	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	turn	turn	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	now	now	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#641	that a b c
+1	that	that	comp	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#642	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#643	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#644	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#645	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#646	that a b c
+1	that	that	comp	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#647	that a b c
+1	that	that	comp	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#648	that a b d e f
+1	that	that	comp	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	d	d	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	e	e	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	f	f	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#650	b d e f
+1	b	b	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	d	d	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	e	e	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	f	f	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#651	that a b c d e f
+1	that	that	comp	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	d	d	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	e	e	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	f	f	n	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#654	b that b
+1	b	b	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	adv	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#658	i two
+1	i	i	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	two	two	det	_	_	1	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#668	d e f
+1	d	d	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	e	e	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	f	f	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#670	d e f
+1	d	d	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	e	e	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	f	f	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#679	a b c
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#681	like that
+1	like	like	prep	_	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#683	like that
+1	like	like	prep	_	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#684	a b c like that
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	like	like	prep	_	_	5	case	Eve CHI Target_Child	Eve 21 female TD Brown
+5	that	that	pro	_	_	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#685	a b c that
+1	a	a	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	that	that	pro	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#686	another one write here
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	here	here	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#687	over here o
+1	over	over	prep	_	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	o	o	n	_	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#688	e here two beads
+1	e	e	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	two	two	det	_	_	4	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	beads	bead	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#692	two bead
+1	two	two	det	_	_	2	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	bead	bead	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#694	how many
+1	how	how	pro	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	many	many	qn	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#698	Eve count a bead
+1	Eve	Eve	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	count	count	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	bead	bead	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#700	count one two three
+1	count	count	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	det	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	two	two	det	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	three	three	det	_	_	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#701	count there again
+1	count	count	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#704	another one
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#706	Eve swimming
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	swimming	swim	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#708	yeah I swimming
+1	yeah	yeah	co	_	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	swimming	swim	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#710	Mommy fix it
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	fix	fix	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	it	it	pro	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#711	Mommy fix a paper
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	fix	fix	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	paper	paper	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#715	it broken
+1	it	it	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	broken	break	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#718	still write
+1	still	still	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#722	yes Eve swimming
+1	yes	yes	co	_	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	swimming	swim	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#727	hi write shoe
+1	hi	hi	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	shoe	shoe	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#730	Eve write paper
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#731	gonna write the couch
+1	gon	go	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	na	to	inf	_	_	3	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+3	write	write	v	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+4	the	the	det	_	_	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	couch	couch	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#733	write this couch
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	this	this	det	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	couch	couch	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#736	write table
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	table	table	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#738	Eve write floor
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	floor	floor	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#740	Eve write rockingchair
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	rockingchair	rockingchair	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#742	I write stool
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	stool	stool	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#744	I write door
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	door	door	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#746	I write study
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	study	study	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#748	I write study
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	study	study	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#751	Eve love crayon
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	love	love	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	crayon	crayon	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#754	where crayon
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	crayon	crayon	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#756	where crayon
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	crayon	crayon	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#757	a pencil
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#758	you write pencil
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	pencil	pencil	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#759	you write a pencil
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#761	my pencil
+1	my	my	det	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#763	you pencil
+1	you	you	pro	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#766	Eve pencil
+1	Eve	Eve	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#768	Eve swimming
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	swimming	swim	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#770	Eve swimming bathtub
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	swimming	swim	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	bathtub	bathtub	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#776	Fraser help
+1	Fraser	Fraser	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	help	help	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#778	hurt knee
+1	hurt	hurt	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	knee	knee	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#789	letter Eve write on it
+1	letter	letter	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	write	write	v	_	_	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+4	on	on	prep	_	_	5	case	Eve CHI Target_Child	Eve 21 female TD Brown
+5	it	it	pro	_	_	3	obl	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#792	another one
+1	another	another	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#797	look at Eve
+1	look	look	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	at	at	prep	_	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	1	obl	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#801	Eve ride tinktoy
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	ride	ride	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tinktoy	tinktoy	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#802	Eve ride tink party yesterday
+1	Eve	Eve	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	ride	ride	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tink	tink	chi	_	_	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	party	party	v	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	yesterday	yesterday	adv	_	_	4	obl:tmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#806	party yesterday now
+1	party	party	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	yesterday	yesterday	adv	_	_	1	obl:tmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	now	now	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#807	a party
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	party	party	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#808	baby sneeze
+1	baby	baby	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sneeze	sneeze	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#811	sneeze Eve
+1	sneeze	sneeze	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#814	no Papa
+1	no	no	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#818	no that
+1	no	no	qn	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#821	no more
+1	no	no	qn	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	more	more	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#824	baby's hair
+1	baby	baby	adj	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	's	's	part	_	_	1	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	hair	hair	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#827	Fraser sit down
+1	Fraser	Fraser	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sit	sit	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#838	Fraser there
+1	Fraser	Fraser	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#845	Eve go get horsie
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	get	get	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+4	horsie	horse	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#848	want see Becky
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	v	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Becky	Becky	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#852	Fraser busy
+1	Fraser	Fraser	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	busy	busy	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#856	busy writing
+1	busy	busy	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	part	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#859	where Eve pencil
+1	where	where	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	pencil	pencil	n	_	_	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#862	di where go
+1	di	do	v	_	_	3	aux	Eve CHI Target_Child	Eve 21 female TD Brown
+2	where	where	pro	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#863	where di Eve must find it
+1	where	where	pro	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	di	do	mod	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	5	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	must	must	mod	_	_	5	aux	Eve CHI Target_Child	Eve 21 female TD Brown
+5	find	find	v	_	_	2	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	it	it	pro	_	_	5	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#866	that writing
+1	that	that	comp	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#868	Eve writing table
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	table	table	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#870	Fraser little writing door
+1	Fraser	Fraser	n	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	little	little	adj	_	_	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	writing	write	n	_	_	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	door	door	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#872	writing door
+1	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	door	door	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#874	writing Fraser
+1	writing	write	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#875	write on paper
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	on	on	prep	_	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	n	_	_	1	obl	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#882	Fraser pencil
+1	Fraser	Fraser	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#888	other finger
+1	other	other	qn	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	finger	finger	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#896	Eve take nap now
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	take	take	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	nap	nap	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	now	now	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#903	no see Judy
+1	no	no	co	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Judy	Judy	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#905	yeah Thursday
+1	yeah	yeah	co	_	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Thursday	Thursday	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#911	squashing dolly
+1	squashing	squash	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dolly	doll	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#915	one dolly
+1	one	one	det	_	_	2	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dolly	doll	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#917	dolly shirt
+1	dolly	doll	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	shirt	shirt	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#924	grape juice
+1	grape	grape	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#926	that Eve make Jim_jump
+1	that	that	comp	_	_	3	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	make	make	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	Jim_jump	Jim_jump	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#928	yeah Eve make a Jim_jump
+1	yeah	yeah	co	_	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	make	make	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	det	_	_	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Jim_jump	Jim_jump	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#930	make Jim_jump
+1	make	make	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Jim_jump	Jim_jump	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#934	tower big tower
+1	tower	tower	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	big	big	adj	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tower	tower	n	_	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#937	big tower have little tower
+1	big	big	adj	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tower	tower	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	have	have	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	little	little	adj	_	_	5	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	tower	tower	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#939	make other tower
+1	make	make	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	other	other	qn	_	_	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tower	tower	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#940	make lunch
+1	make	make	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lunch	lunch	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#943	you gonna make Eve grape juice
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	gon	go	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	na	to	inf	_	_	4	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+4	make	make	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Eve	Eve	n	_	_	7	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	grape	grape	n	_	_	7	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+7	juice	juice	n	_	_	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#945	make Eve soup
+1	make	make	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	soup	soup	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#946	I making Eve soup
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	making	make	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	soup	soup	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#949	a reel
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	reel	reel	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#954	that my briefcase
+1	that	that	comp	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	det	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	briefcase	briefcase	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#956	that my briefcase
+1	that	that	comp	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	det	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	briefcase	briefcase	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#960	your briefcase
+1	your	your	nmod:poss	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	briefcase	briefcase	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#961	that a briefcase
+1	that	that	comp	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	briefcase	briefcase	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#962	my briefcase
+1	my	my	det	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	briefcase	briefcase	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#963	your briefcase that
+1	your	your	nmod:poss	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	briefcase	briefcase	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	that	that	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#968	that go see
+1	that	that	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	see	see	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#970	I sit
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sit	sit	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#971	that stool
+1	that	that	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#973	that Mommy move a stool
+1	that	that	comp	_	_	3	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	move	move	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	det	_	_	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	stool	stool	n	_	_	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#975	that my can
+1	that	that	comp	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	det	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	can	can	mod	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#978	rinse it out
+1	rinse	rinse	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	out	out	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#979	want drink
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	drink	drink	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#981	drink water
+1	drink	drink	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	water	water	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#983	I put in
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#984	I put in
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	put	put	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#987	Eve put in
+1	Eve	Eve	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	put	put	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#988	a piece celery
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	celery	celery	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#994	a piece of celery
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	of	of	prep	_	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	celery	celery	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#995	Fraser piece o celery
+1	Fraser	Fraser	n	_	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	o	of	prep	_	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	celery	celery	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#999	just Mam piece o celery
+1	just	just	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mam	Mam	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	piece	piece	n	_	_	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	o	of	prep	_	_	5	case	Eve CHI Target_Child	Eve 21 female TD Brown
+5	celery	celery	n	_	_	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1002	Eve piece o celery
+1	Eve	Eve	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	o	of	prep	_	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	celery	celery	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1003	doing Mommy
+1	doing	do	part	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1012	got mouthful
+1	got	get	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	mouthful	mouth	n	_	_	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1024	where Pap go
+1	where	where	pro	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Pap	Pap	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1028	where Papa go
+1	where	where	pro	_	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1031	back now
+1	back	back	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	now	now	adv	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1033	Papa came back
+1	Papa	Papa	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	came	come	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	back	back	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1036	Papa came back
+1	Papa	Papa	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	came	come	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	back	back	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1043	peel it first
+1	peel	peel	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	first	first	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1044	peel it first
+1	peel	peel	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	first	first	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1045	Eve piece celery
+1	Eve	Eve	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	celery	celery	n	_	_	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1051	my stool
+1	my	my	det	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1053	my stool
+1	my	my	det	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1056	you on my stool
+1	you	you	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	on	on	prep	_	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	my	my	det	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	stool	stool	n	_	_	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1058	more that
+1	more	more	qn	_	_	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1059	Mommy that
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+#1067	take pickle
+1	take	take	v	_	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pickle	pickle	n	_	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+

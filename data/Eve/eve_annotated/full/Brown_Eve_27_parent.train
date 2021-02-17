@@ -1,0 +1,1406 @@
+#1	may I tie your shoe for you please
+1	may	may	mod	_	_	3	aux	David FAT Father	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	David FAT Father	Eve 27 female TD Brown
+3	tie	tie	v	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+4	your	your	det	_	_	5	nmod:poss	David FAT Father	Eve 27 female TD Brown
+5	shoe	shoe	n	_	_	3	obj	David FAT Father	Eve 27 female TD Brown
+6	for	for	prep	_	_	7	case	David FAT Father	Eve 27 female TD Brown
+7	you	you	pro	_	_	3	obl	David FAT Father	Eve 27 female TD Brown
+8	please	please	co	_	_	3	discourse	David FAT Father	Eve 27 female TD Brown
+
+#2	I don't want you to trip on your shoelace
+1	I	I	pro	_	_	4	nsubj	David FAT Father	Eve 27 female TD Brown
+2	do	do	mod	_	_	4	aux	David FAT Father	Eve 27 female TD Brown
+3	n't	not	neg	_	_	4	advmod	David FAT Father	Eve 27 female TD Brown
+4	want	want	v	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+5	you	you	pro	_	_	4	obj	David FAT Father	Eve 27 female TD Brown
+6	to	to	inf	_	_	7	mark	David FAT Father	Eve 27 female TD Brown
+7	trip	trip	v	_	_	4	xcomp	David FAT Father	Eve 27 female TD Brown
+8	on	on	prep	_	_	10	case	David FAT Father	Eve 27 female TD Brown
+9	your	your	det	_	_	10	nmod:poss	David FAT Father	Eve 27 female TD Brown
+10	shoelace	shoelace	n	_	_	7	obl	David FAT Father	Eve 27 female TD Brown
+
+#4	is right
+1	is	be	aux	_	_	2	cop	David FAT Father	Eve 27 female TD Brown
+2	right	right	co	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+
+#9	well why did you untie it
+1	well	well	co	_	_	5	discourse	David FAT Father	Eve 27 female TD Brown
+2	why	why	pro	_	_	5	advmod	David FAT Father	Eve 27 female TD Brown
+3	did	do	mod	_	_	5	aux	David FAT Father	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	David FAT Father	Eve 27 female TD Brown
+5	untie	tie	v	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+6	it	it	pro	_	_	5	obj	David FAT Father	Eve 27 female TD Brown
+
+#11	it's not better
+1	it	it	pro	_	_	4	nsubj	David FAT Father	Eve 27 female TD Brown
+2	's	be	cop	_	_	4	cop	David FAT Father	Eve 27 female TD Brown
+3	not	not	neg	_	_	4	advmod	David FAT Father	Eve 27 female TD Brown
+4	better	good	adj	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+
+#13	what d you mean it's not better
+1	what	what	pro	_	_	4	obj	David FAT Father	Eve 27 female TD Brown
+2	d	do	mod	_	_	4	aux	David FAT Father	Eve 27 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 27 female TD Brown
+4	mean	mean	v	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+5	it	it	pro	_	_	8	nsubj	David FAT Father	Eve 27 female TD Brown
+6	's	be	cop	_	_	8	cop	David FAT Father	Eve 27 female TD Brown
+7	not	not	neg	_	_	8	advmod	David FAT Father	Eve 27 female TD Brown
+8	better	good	adj	_	_	4	ccomp	David FAT Father	Eve 27 female TD Brown
+
+#16	Becky's downstairs I guess
+1	Becky	Becky	n	_	_	3	nsubj	David FAT Father	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	David FAT Father	Eve 27 female TD Brown
+3	downstairs	downstairs	adv	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+4	I	I	pro	_	_	5	nsubj	David FAT Father	Eve 27 female TD Brown
+5	guess	guess	v	_	_	3	parataxis	David FAT Father	Eve 27 female TD Brown
+
+#18	Mama's upstairs
+1	Mama	Mama	adj	_	_	3	nsubj	David FAT Father	Eve 27 female TD Brown
+2	's	's	part	_	_	3	cop	David FAT Father	Eve 27 female TD Brown
+3	upstairs	upstairs	adj	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+
+#19	where is Eve
+1	where	where	pro	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+2	is	be	cop	_	_	1	cop	David FAT Father	Eve 27 female TD Brown
+3	Eve	Eve	n	_	_	1	nsubj	David FAT Father	Eve 27 female TD Brown
+
+#25	I'm right here
+1	I	I	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'm	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	adv	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	here	here	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#26	where are you
+1	where	where	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	are	be	cop	_	_	1	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#28	it's not straight
+1	it	it	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	not	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	straight	straight	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#29	I know it's not straight
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	know	know	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	it	it	pro	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	's	be	cop	_	_	6	cop	Sue MOT Mother	Eve 27 female TD Brown
+5	not	not	neg	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+6	straight	straight	adv	_	_	2	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#31	she's sleeping up in her bed
+1	she	she	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	sleeping	sleep	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	up	up	adv	_	_	3	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	in	in	prep	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+6	her	her	det	_	_	7	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+7	bed	bed	n	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#32	I broke my cream pitcher so I'll just give it to you
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	broke	break	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	my	my	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+4	cream	cream	n	_	_	5	nmod	Sue MOT Mother	Eve 27 female TD Brown
+5	pitcher	pitcher	n	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+6	so	so	adv	_	_	10	mark	Sue MOT Mother	Eve 27 female TD Brown
+7	I	I	pro	_	_	10	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+8	'll	will	mod	_	_	10	aux	Sue MOT Mother	Eve 27 female TD Brown
+9	just	just	adv	_	_	10	advmod	Sue MOT Mother	Eve 27 female TD Brown
+10	give	give	v	_	_	2	advcl	Sue MOT Mother	Eve 27 female TD Brown
+11	it	it	pro	_	_	10	obj	Sue MOT Mother	Eve 27 female TD Brown
+12	to	to	prep	_	_	13	case	Sue MOT Mother	Eve 27 female TD Brown
+13	you	you	pro	_	_	10	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#39	why don't you tell Colin what is that picture
+1	why	why	pro	_	_	5	advmod	David FAT Father	Eve 27 female TD Brown
+2	do	do	mod	_	_	5	aux	David FAT Father	Eve 27 female TD Brown
+3	n't	not	neg	_	_	5	advmod	David FAT Father	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	David FAT Father	Eve 27 female TD Brown
+5	tell	tell	v	_	_	0	root	David FAT Father	Eve 27 female TD Brown
+6	Colin	Colin	n	_	_	5	obj	David FAT Father	Eve 27 female TD Brown
+7	what	what	pro	_	_	5	ccomp	David FAT Father	Eve 27 female TD Brown
+8	is	be	cop	_	_	7	cop	David FAT Father	Eve 27 female TD Brown
+9	that	that	pro	_	_	10	det	David FAT Father	Eve 27 female TD Brown
+10	picture	picture	v	_	_	7	nsubj	David FAT Father	Eve 27 female TD Brown
+
+#53	he is
+1	he	he	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#55	he is
+1	he	he	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#60	yeah that's very good
+1	yeah	yeah	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	very	very	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	good	good	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#66	yes that one's my one
+1	yes	yes	co	_	_	6	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	pro	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+3	one	one	adj	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	's	's	part	_	_	6	cop	Sue MOT Mother	Eve 27 female TD Brown
+5	my	my	co	_	_	6	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+6	one	one	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#72	are we
+1	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	we	we	pro	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#73	not quite
+1	not	not	neg	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	quite	quite	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#83	yes we made a great big hole in here
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	made	make	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	a	a	det	_	_	7	det	Sue MOT Mother	Eve 27 female TD Brown
+5	great	great	adj	_	_	7	amod	Sue MOT Mother	Eve 27 female TD Brown
+6	big	big	adj	_	_	7	amod	Sue MOT Mother	Eve 27 female TD Brown
+7	hole	hole	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+8	in	in	prep	_	_	9	case	Sue MOT Mother	Eve 27 female TD Brown
+9	here	here	n	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#84	we hafta get a new one
+1	we	we	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	haf	have	mod	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	ta	to	inf	_	_	4	mark	Sue MOT Mother	Eve 27 female TD Brown
+4	get	get	v	_	_	2	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+5	a	a	det	_	_	7	det	Sue MOT Mother	Eve 27 female TD Brown
+6	new	new	adj	_	_	7	amod	Sue MOT Mother	Eve 27 female TD Brown
+7	one	one	pro	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#89	but it's not time for lunch yet
+1	but	but	conj	_	_	5	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	time	time	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	for	for	prep	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+7	lunch	lunch	n	_	_	5	nmod	Sue MOT Mother	Eve 27 female TD Brown
+8	yet	yet	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#90	you wait just a little bit and we'll have lunch
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	wait	wait	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	just	just	adv	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+4	a	a	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+5	little	little	adj	_	_	6	amod	Sue MOT Mother	Eve 27 female TD Brown
+6	bit	bit	n	_	_	2	obl:npmod	Sue MOT Mother	Eve 27 female TD Brown
+7	and	and	coord	_	_	10	cc	Sue MOT Mother	Eve 27 female TD Brown
+8	we	we	pro	_	_	10	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+9	'll	will	mod	_	_	10	aux	Sue MOT Mother	Eve 27 female TD Brown
+10	have	have	v	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+11	lunch	lunch	n	_	_	10	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#92	not now
+1	not	not	neg	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	now	now	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#94	not now it's not time
+1	not	not	neg	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	now	now	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	it	it	pro	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	's	be	cop	_	_	6	cop	Sue MOT Mother	Eve 27 female TD Brown
+5	not	not	neg	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+6	time	time	v	_	_	2	parataxis	Sue MOT Mother	Eve 27 female TD Brown
+
+#95	would you like to have a cracker
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	like	like	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+5	have	have	v	_	_	3	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+6	a	a	det	_	_	7	det	Sue MOT Mother	Eve 27 female TD Brown
+7	cracker	cracker	n	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#98	oh it would huh
+1	oh	oh	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	it	it	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	would	will	mod	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	huh	huh	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+
+#99	we'll see
+1	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	see	see	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#102	oh you need a chocolate one
+1	oh	oh	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	need	need	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	a	a	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+5	chocolate	chocolate	n	_	_	6	nmod	Sue MOT Mother	Eve 27 female TD Brown
+6	one	one	det	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#104	you may choose it yourself
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	may	may	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	choose	choose	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	it	it	pro	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	yourself	yourself	pro	_	_	3	obl:npmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#106	no that's not some of Margaret Keller's
+1	no	no	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	some	some	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	of	of	prep	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+7	Margaret	Margaret	n	_	_	5	nmod	Sue MOT Mother	Eve 27 female TD Brown
+8	Keller	Keller	adj	_	_	7	flat	Sue MOT Mother	Eve 27 female TD Brown
+9	's	's	part	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+
+#107	that's my kleenex
+1	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	my	my	det	_	_	4	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+4	kleenex	kleenex	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#114	yes we heard you tell Becky to be quiet
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	heard	hear	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	tell	tell	v	_	_	3	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+6	Becky	Becky	n	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+7	to	to	inf	_	_	9	mark	Sue MOT Mother	Eve 27 female TD Brown
+8	be	be	cop	_	_	9	cop	Sue MOT Mother	Eve 27 female TD Brown
+9	quiet	quiet	adj	_	_	5	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#117	Eve that's enough
+1	Eve	Eve	n	_	_	4	vocative	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	enough	enough	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#118	shut the door we won't hear her then
+1	shut	shut	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+3	door	door	n	_	_	1	obj	Sue MOT Mother	Eve 27 female TD Brown
+4	we	we	pro	_	_	7	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	wo	will	mod	_	_	7	aux	Sue MOT Mother	Eve 27 female TD Brown
+6	n't	not	neg	_	_	7	advmod	Sue MOT Mother	Eve 27 female TD Brown
+7	hear	hear	v	_	_	1	parataxis	Sue MOT Mother	Eve 27 female TD Brown
+8	her	her	pro	_	_	7	obj	Sue MOT Mother	Eve 27 female TD Brown
+9	then	then	adv	_	_	7	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#121	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#131	what is that
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	that	that	pro	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#134	yes indeed I am
+1	yes	yes	co	_	_	2	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	indeed	indeed	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	am	be	cop	_	_	2	cop	Sue MOT Mother	Eve 27 female TD Brown
+
+#135	may I have coffee with Fraser
+1	may	may	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	have	have	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	coffee	coffee	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	with	with	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+6	Fraser	Fraser	n	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#138	well we'll be able to hear Sarah when she wakes up
+1	well	well	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	we	we	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	'll	will	mod	_	_	5	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	be	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+5	able	able	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	to	to	inf	_	_	7	mark	Sue MOT Mother	Eve 27 female TD Brown
+7	hear	hear	v	_	_	5	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+8	Sarah	Sarah	n	_	_	7	obj	Sue MOT Mother	Eve 27 female TD Brown
+9	when	when	conj	_	_	11	mark	Sue MOT Mother	Eve 27 female TD Brown
+10	she	she	pro	_	_	11	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+11	wakes	wake	v	_	_	5	advcl	Sue MOT Mother	Eve 27 female TD Brown
+12	up	up	adv	_	_	11	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#139	we'll shut the door so we won't hear Becky
+1	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	shut	shut	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+5	door	door	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+6	so	so	conj	_	_	10	mark	Sue MOT Mother	Eve 27 female TD Brown
+7	we	we	pro	_	_	10	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+8	wo	will	mod	_	_	10	aux	Sue MOT Mother	Eve 27 female TD Brown
+9	n't	not	neg	_	_	10	advmod	Sue MOT Mother	Eve 27 female TD Brown
+10	hear	hear	v	_	_	3	advcl	Sue MOT Mother	Eve 27 female TD Brown
+11	Becky	Becky	n	_	_	10	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#143	all around the what
+1	all	all	adv	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	around	around	prep	_	_	4	case	Sue MOT Mother	Eve 27 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 27 female TD Brown
+4	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#146	all around the block
+1	all	all	adv	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	around	around	prep	_	_	4	case	Sue MOT Mother	Eve 27 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 27 female TD Brown
+4	block	block	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#148	you hadta get what
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	had	have	mod	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	ta	to	inf	_	_	4	mark	Sue MOT Mother	Eve 27 female TD Brown
+4	get	get	v	_	_	2	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+5	what	what	pro	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#150	hadta get your shoe caught
+1	had	have	mod	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	ta	to	inf	_	_	3	mark	Sue MOT Mother	Eve 27 female TD Brown
+3	get	get	v	_	_	1	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+4	your	your	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+5	shoe	shoe	n	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+6	caught	catch	v	_	_	3	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#152	where did you hear that
+1	where	where	pro	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	did	do	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	hear	hear	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	that	that	pro	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#154	and then what d you do
+1	and	and	coord	_	_	6	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	then	then	adv	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+3	what	what	pro	_	_	6	obj	Sue MOT Mother	Eve 27 female TD Brown
+4	d	do	mod	_	_	6	aux	Sue MOT Mother	Eve 27 female TD Brown
+5	you	you	pro	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+6	do	do	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#156	you do what to your shoes
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	do	do	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	what	what	pro	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+4	to	to	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+5	your	your	det	_	_	6	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+6	shoes	shoe	n	_	_	2	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#158	I don't know what you're talking about
+1	I	I	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	do	do	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	know	know	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	what	what	pro	_	_	8	obl	Sue MOT Mother	Eve 27 female TD Brown
+6	you	you	pro	_	_	8	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+7	're	be	aux	_	_	8	aux	Sue MOT Mother	Eve 27 female TD Brown
+8	talking	talk	part	_	_	4	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+9	about	about	adv	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+
+#164	and you hadta cry
+1	and	and	coord	_	_	3	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	had	have	mod	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	ta	to	inf	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+5	cry	cry	v	_	_	3	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#166	oh is that
+1	oh	oh	co	_	_	2	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	that	that	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#168	well you better cry then
+1	well	well	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	better	good	adj	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	cry	cry	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	then	then	adv	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#170	oh alright
+1	oh	oh	co	_	_	2	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#173	that's a silly song
+1	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+4	silly	silly	co	_	_	5	amod	Sue MOT Mother	Eve 27 female TD Brown
+5	song	song	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#176	you're a bickle_bickle_back
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	're	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 27 female TD Brown
+4	bickle_bickle_back	bickle_bickle_back	wplay	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#180	see you jump
+1	see	see	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	1	obj	Sue MOT Mother	Eve 27 female TD Brown
+3	jump	jump	v	_	_	1	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#181	yes we'd love to see jump
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	we	we	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	'd	genmod	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	love	love	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 27 female TD Brown
+6	see	see	v	_	_	4	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+7	jump	jump	n	_	_	6	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#185	no you may have another one for dessert
+1	no	no	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	may	may	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	have	have	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	another	another	qn	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	one	one	pro	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+7	for	for	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+8	dessert	dessert	n	_	_	4	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#190	you ask Fraser
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	ask	ask	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	Fraser	Fraser	n	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#196	well what did you do with the one you had
+1	well	well	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	what	what	pro	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+3	did	do	mod	_	_	5	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	do	do	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	with	with	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+7	the	the	det	_	_	8	det	Sue MOT Mother	Eve 27 female TD Brown
+8	one	one	pro	_	_	5	obl	Sue MOT Mother	Eve 27 female TD Brown
+9	you	you	pro	_	_	10	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+10	had	have	v	_	_	8	acl:relcl	Sue MOT Mother	Eve 27 female TD Brown
+
+#197	there it is on the table by your glass
+1	there	there	adv	_	_	3	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	it	it	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	table	table	n	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+7	by	by	prep	_	_	9	case	Sue MOT Mother	Eve 27 female TD Brown
+8	your	your	det	_	_	9	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+9	glass	glass	n	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#199	I suppose so
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	suppose	suppose	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	so	so	co	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#204	yes he is
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#206	nope probably not
+1	nope	nope	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	probably	probable	adv	_	_	3	advmod	Sue MOT Mother	Eve 27 female TD Brown
+3	not	not	neg	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#207	he'll share the paper with you while he's here
+1	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	share	share	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+5	paper	paper	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+6	with	with	prep	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+7	you	you	pro	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+8	while	while	conj	_	_	11	mark	Sue MOT Mother	Eve 27 female TD Brown
+9	he	he	pro	_	_	11	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+10	's	be	cop	_	_	11	cop	Sue MOT Mother	Eve 27 female TD Brown
+11	here	here	adv	_	_	3	advcl	Sue MOT Mother	Eve 27 female TD Brown
+
+#209	he'll share the paper with you
+1	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	share	share	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+5	paper	paper	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+6	with	with	prep	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+7	you	you	pro	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#213	is that what you're writing
+1	is	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	're	be	aux	_	_	6	aux	Sue MOT Mother	Eve 27 female TD Brown
+6	writing	write	part	_	_	3	acl:relcl	Sue MOT Mother	Eve 27 female TD Brown
+
+#216	okay I'll write you a lady on there
+1	okay	okay	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	I	I	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	'll	will	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	write	write	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	you	you	pro	_	_	4	iobj	Sue MOT Mother	Eve 27 female TD Brown
+6	a	a	det	_	_	7	det	Sue MOT Mother	Eve 27 female TD Brown
+7	lady	lady	n	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+8	on	on	prep	_	_	9	case	Sue MOT Mother	Eve 27 female TD Brown
+9	there	there	n	_	_	4	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#219	big lady
+1	big	big	adj	_	_	2	amod	Sue MOT Mother	Eve 27 female TD Brown
+2	lady	lady	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#223	did he
+1	did	do	mod	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	he	he	pro	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#225	that helps him draw
+1	that	that	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	helps	help	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	him	him	pro	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+4	draw	draw	v	_	_	2	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#238	that helps him to draw better
+1	that	that	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	helps	help	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	him	him	pro	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+5	draw	draw	v	_	_	2	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+6	better	good	adj	_	_	5	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#243	you don't know to make one
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	do	do	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	know	know	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 27 female TD Brown
+6	make	make	v	_	_	4	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+7	one	one	det	_	_	6	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#245	well you try
+1	well	well	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	try	try	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#246	see if you can make one
+1	see	see	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	if	if	conj	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	can	can	mod	_	_	5	aux	Sue MOT Mother	Eve 27 female TD Brown
+5	make	make	v	_	_	1	advcl	Sue MOT Mother	Eve 27 female TD Brown
+6	one	one	det	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#247	you look at Fraser's lady and see if you can make one
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	look	look	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	at	at	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+4	Fraser	Fraser	adj	_	_	6	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+5	's	's	part	_	_	4	case	Sue MOT Mother	Eve 27 female TD Brown
+6	lady	lady	n	_	_	2	obl	Sue MOT Mother	Eve 27 female TD Brown
+7	and	and	coord	_	_	8	cc	Sue MOT Mother	Eve 27 female TD Brown
+8	see	see	v	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+9	if	if	conj	_	_	12	mark	Sue MOT Mother	Eve 27 female TD Brown
+10	you	you	pro	_	_	12	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+11	can	can	mod	_	_	12	aux	Sue MOT Mother	Eve 27 female TD Brown
+12	make	make	v	_	_	8	advcl	Sue MOT Mother	Eve 27 female TD Brown
+13	one	one	det	_	_	12	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#251	well tear it off from the other end
+1	well	well	co	_	_	2	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	tear	tear	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	it	it	pro	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+4	off	off	adv	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	from	from	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+6	the	the	det	_	_	8	det	Sue MOT Mother	Eve 27 female TD Brown
+7	other	other	qn	_	_	8	amod	Sue MOT Mother	Eve 27 female TD Brown
+8	end	end	n	_	_	2	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#252	not that end the other end
+1	not	not	neg	_	_	3	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	adv	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+3	end	end	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	the	the	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+5	other	other	qn	_	_	6	amod	Sue MOT Mother	Eve 27 female TD Brown
+6	end	end	n	_	_	3	conj	Sue MOT Mother	Eve 27 female TD Brown
+
+#256	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#257	just one
+1	just	just	adv	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	one	one	det	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#258	that's more than one
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	more	more	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	than	than	prep	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+5	one	one	det	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#260	you're writing holes
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	're	be	aux	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	writing	write	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	holes	hole	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#262	it's pretty easy to write holes isn't it
+1	it	it	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	pretty	pretty	adj	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	easy	ease	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 27 female TD Brown
+6	write	write	v	_	_	4	csubj	Sue MOT Mother	Eve 27 female TD Brown
+7	holes	hole	n	_	_	6	obj	Sue MOT Mother	Eve 27 female TD Brown
+8	is	be	cop	_	_	4	parataxis	Sue MOT Mother	Eve 27 female TD Brown
+9	n't	not	neg	_	_	8	advmod	Sue MOT Mother	Eve 27 female TD Brown
+10	it	it	pro	_	_	8	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#264	I see you are
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	see	see	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	are	be	cop	_	_	2	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#270	what happens when you put it in the hole
+1	what	what	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	happens	happen	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	when	when	conj	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	put	put	v	_	_	2	advcl	Sue MOT Mother	Eve 27 female TD Brown
+6	it	it	pro	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+7	in	in	prep	_	_	9	case	Sue MOT Mother	Eve 27 female TD Brown
+8	the	the	det	_	_	9	det	Sue MOT Mother	Eve 27 female TD Brown
+9	hole	hole	n	_	_	5	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#275	and then what happens
+1	and	and	coord	_	_	4	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	then	then	adv	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+3	what	what	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	happens	happen	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#278	that's what it does
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	does	do	mod	_	_	3	acl:relcl	Sue MOT Mother	Eve 27 female TD Brown
+
+#283	sweetie it's not time to eat lunch
+1	sweetie	sweetie	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	time	time	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	to	to	inf	_	_	7	mark	Sue MOT Mother	Eve 27 female TD Brown
+7	eat	eat	v	_	_	5	acl	Sue MOT Mother	Eve 27 female TD Brown
+8	lunch	lunch	n	_	_	7	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#284	in just a little bit
+1	in	in	adv	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+2	just	just	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+4	little	little	adj	_	_	5	amod	Sue MOT Mother	Eve 27 female TD Brown
+5	bit	bit	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#285	I'll fix lunch for you
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	fix	fix	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	lunch	lunch	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	for	for	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+6	you	you	pro	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#286	would you like to have noodle soup
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	like	like	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+5	have	have	v	_	_	3	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+6	noodle	noodle	n	_	_	7	nmod	Sue MOT Mother	Eve 27 female TD Brown
+7	soup	soup	n	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#289	would you please take the pencil off the floor
+1	would	will	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	please	please	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+4	take	take	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	pencil	pencil	n	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+7	off	off	prep	_	_	9	case	Sue MOT Mother	Eve 27 female TD Brown
+8	the	the	det	_	_	9	det	Sue MOT Mother	Eve 27 female TD Brown
+9	floor	floor	n	_	_	4	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#291	I know you're rolling it but that's not what you do with pencils
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	know	know	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	're	be	aux	_	_	5	aux	Sue MOT Mother	Eve 27 female TD Brown
+5	rolling	roll	part	_	_	2	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+6	it	it	pro	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+7	but	but	conj	_	_	11	cc	Sue MOT Mother	Eve 27 female TD Brown
+8	that	that	pro	_	_	11	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+9	's	be	cop	_	_	11	cop	Sue MOT Mother	Eve 27 female TD Brown
+10	not	not	neg	_	_	11	advmod	Sue MOT Mother	Eve 27 female TD Brown
+11	what	what	pro	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+12	you	you	pro	_	_	13	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+13	do	do	v	_	_	11	acl:relcl	Sue MOT Mother	Eve 27 female TD Brown
+14	with	with	prep	_	_	15	case	Sue MOT Mother	Eve 27 female TD Brown
+15	pencils	pencil	n	_	_	13	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#294	there is no tapioca
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	no	no	qn	_	_	4	det	Sue MOT Mother	Eve 27 female TD Brown
+4	tapioca	tapioca	n	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#295	I didn't make any
+1	I	I	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	did	do	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	make	make	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	any	any	qn	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#298	I will make you some tapioca on Wednesday
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	will	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	make	make	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	3	iobj	Sue MOT Mother	Eve 27 female TD Brown
+5	some	some	qn	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	tapioca	tapioca	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+7	on	on	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+8	Wednesday	Wednesday	n	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#300	well Fraser probably won't come on Wednesday
+1	well	well	co	_	_	6	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	Fraser	Fraser	n	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	probably	probable	adv	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	wo	will	mod	_	_	6	aux	Sue MOT Mother	Eve 27 female TD Brown
+5	n't	not	neg	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+6	come	come	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+7	on	on	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+8	Wednesday	Wednesday	n	_	_	6	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#301	the next time it will be either Fraser or Gloria
+1	the	the	det	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+2	next	next	adj	_	_	3	amod	Sue MOT Mother	Eve 27 female TD Brown
+3	time	time	n	_	_	8	obl:tmod	Sue MOT Mother	Eve 27 female TD Brown
+4	it	it	pro	_	_	8	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	will	will	mod	_	_	8	aux	Sue MOT Mother	Eve 27 female TD Brown
+6	be	be	cop	_	_	8	cop	Sue MOT Mother	Eve 27 female TD Brown
+7	either	either	adv	_	_	8	cc:preconj	Sue MOT Mother	Eve 27 female TD Brown
+8	Fraser	Fraser	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+9	or	or	coord	_	_	10	cc	Sue MOT Mother	Eve 27 female TD Brown
+10	Gloria	Gloria	n	_	_	8	conj	Sue MOT Mother	Eve 27 female TD Brown
+
+#302	remember Gloria
+1	remember	remember	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	Gloria	Gloria	n	_	_	1	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#306	that's right Gloria
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	Gloria	Gloria	n	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+
+#308	instead of Fraser
+1	instead	instead	adv	_	_	3	case	Sue MOT Mother	Eve 27 female TD Brown
+2	of	of	prep	_	_	1	fixed	Sue MOT Mother	Eve 27 female TD Brown
+3	Fraser	Fraser	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#309	maybe both of them will come
+1	maybe	maybe	adv	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	both	both	qn	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	of	of	prep	_	_	4	case	Sue MOT Mother	Eve 27 female TD Brown
+4	them	them	pro	_	_	2	nmod	Sue MOT Mother	Eve 27 female TD Brown
+5	will	will	mod	_	_	6	aux	Sue MOT Mother	Eve 27 female TD Brown
+6	come	come	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#310	would you like that
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	like	like	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	that	that	pro	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#312	yes I thought you probably would
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	thought	think	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	probably	probable	adv	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+6	would	will	mod	_	_	3	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#314	they will walk
+1	they	they	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	will	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	walk	walk	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#317	well that's either Gloria or the mover
+1	well	well	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	either	either	adv	_	_	5	cc:preconj	Sue MOT Mother	Eve 27 female TD Brown
+5	Gloria	Gloria	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	or	or	coord	_	_	8	cc	Sue MOT Mother	Eve 27 female TD Brown
+7	the	the	det	_	_	8	det	Sue MOT Mother	Eve 27 female TD Brown
+8	mover	move	n	_	_	5	conj	Sue MOT Mother	Eve 27 female TD Brown
+
+#318	let's see
+1	let	let	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	's	us	pro	_	_	1	obj	Sue MOT Mother	Eve 27 female TD Brown
+3	see	see	v	_	_	1	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#319	Eve come here
+1	Eve	Eve	n	_	_	2	vocative	Sue MOT Mother	Eve 27 female TD Brown
+2	come	come	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	here	here	adv	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#320	I'll tell you what's going to happen
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	tell	tell	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	what	what	pro	_	_	7	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+6	's	be	aux	_	_	7	aux	Sue MOT Mother	Eve 27 female TD Brown
+7	going	go	part	_	_	3	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+8	to	to	inf	_	_	9	mark	Sue MOT Mother	Eve 27 female TD Brown
+9	happen	happen	v	_	_	7	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#321	Papa's going to go to the basement with the movers
+1	Papa	Papa	n	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	going	go	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+5	go	go	v	_	_	3	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+6	to	to	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+7	the	the	det	_	_	8	det	Sue MOT Mother	Eve 27 female TD Brown
+8	basement	basement	n	_	_	5	obl	Sue MOT Mother	Eve 27 female TD Brown
+9	with	with	prep	_	_	11	case	Sue MOT Mother	Eve 27 female TD Brown
+10	the	the	det	_	_	11	det	Sue MOT Mother	Eve 27 female TD Brown
+11	movers	move	n	_	_	5	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#322	d you have wet panties
+1	d	do	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	have	have	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	wet	wet	adj	_	_	5	amod	Sue MOT Mother	Eve 27 female TD Brown
+5	panties	panties	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#324	you stay here and talk to Fraser and I'm going to go in here and talk to the insurance man
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	stay	stay	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	here	here	adv	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	and	and	coord	_	_	5	cc	Sue MOT Mother	Eve 27 female TD Brown
+5	talk	talk	n	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+6	to	to	prep	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+7	Fraser	Fraser	n	_	_	5	obl	Sue MOT Mother	Eve 27 female TD Brown
+8	and	and	coord	_	_	11	cc	Sue MOT Mother	Eve 27 female TD Brown
+9	I	I	pro	_	_	11	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+10	'm	be	aux	_	_	11	aux	Sue MOT Mother	Eve 27 female TD Brown
+11	going	go	part	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+12	to	to	inf	_	_	13	mark	Sue MOT Mother	Eve 27 female TD Brown
+13	go	go	v	_	_	11	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+14	in	in	prep	_	_	15	case	Sue MOT Mother	Eve 27 female TD Brown
+15	here	here	n	_	_	13	obl	Sue MOT Mother	Eve 27 female TD Brown
+16	and	and	coord	_	_	17	cc	Sue MOT Mother	Eve 27 female TD Brown
+17	talk	talk	n	_	_	13	conj	Sue MOT Mother	Eve 27 female TD Brown
+18	to	to	prep	_	_	21	case	Sue MOT Mother	Eve 27 female TD Brown
+19	the	the	det	_	_	21	det	Sue MOT Mother	Eve 27 female TD Brown
+20	insurance	insurance	n	_	_	21	nmod	Sue MOT Mother	Eve 27 female TD Brown
+21	man	man	n	_	_	17	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#325	everybody's talking to somebody
+1	everybody	everybody	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	talking	talk	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	to	to	prep	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+5	somebody	somebody	pro	_	_	3	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#386	yes Sarah's awake
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	Sarah	Sarah	adj	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	's	part	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	awake	awake	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#392	well he didn't buy us a new house
+1	well	well	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	he	he	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	did	do	mod	_	_	5	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	buy	buy	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	us	us	pro	_	_	5	iobj	Sue MOT Mother	Eve 27 female TD Brown
+7	a	a	det	_	_	9	det	Sue MOT Mother	Eve 27 female TD Brown
+8	new	new	adj	_	_	9	amod	Sue MOT Mother	Eve 27 female TD Brown
+9	house	house	n	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#393	he got a new house for us we're going to move in
+1	he	he	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	got	get	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+4	new	new	adj	_	_	5	amod	Sue MOT Mother	Eve 27 female TD Brown
+5	house	house	n	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+6	for	for	prep	_	_	7	case	Sue MOT Mother	Eve 27 female TD Brown
+7	us	us	pro	_	_	2	obl	Sue MOT Mother	Eve 27 female TD Brown
+8	we	we	pro	_	_	10	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+9	're	be	aux	_	_	10	aux	Sue MOT Mother	Eve 27 female TD Brown
+10	going	go	part	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+11	to	to	inf	_	_	12	mark	Sue MOT Mother	Eve 27 female TD Brown
+12	move	move	v	_	_	10	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+13	in	in	adv	_	_	12	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#394	where is our new house
+1	where	where	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	our	our	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+4	new	new	adj	_	_	5	amod	Sue MOT Mother	Eve 27 female TD Brown
+5	house	house	n	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#399	New_Brunswick is way up in Canada
+1	New_Brunswick	New_Brunswick	n	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	6	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	way	way	adv	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	up	up	adv	_	_	6	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	in	in	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+6	Canada	Canada	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#401	well sort_of
+1	well	well	co	_	_	2	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	sort	sort	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	of	of	adv	_	_	2	case	Sue MOT Mother	Eve 27 female TD Brown
+
+#402	not up in the air though
+1	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	up	up	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+3	in	in	prep	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+5	air	air	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	though	though	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#405	on the ground
+1	on	on	prep	_	_	3	case	Sue MOT Mother	Eve 27 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+3	ground	ground	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#407	on the ground yeah
+1	on	on	prep	_	_	3	case	Sue MOT Mother	Eve 27 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+3	ground	ground	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	yeah	yeah	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+
+#410	we get in our car and we drive out_of Massachusetts and we drive up through Maine and go in our new house
+1	we	we	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	get	get	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	in	in	prep	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+4	our	our	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+5	car	car	n	_	_	2	obl	Sue MOT Mother	Eve 27 female TD Brown
+6	and	and	coord	_	_	8	cc	Sue MOT Mother	Eve 27 female TD Brown
+7	we	we	pro	_	_	8	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+8	drive	drive	v	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+9	out	out	prep	_	_	11	case	Sue MOT Mother	Eve 27 female TD Brown
+10	of	of	prep	_	_	11	case	Sue MOT Mother	Eve 27 female TD Brown
+11	Massachusetts	Massachusetts	n	_	_	8	obl	Sue MOT Mother	Eve 27 female TD Brown
+12	and	and	coord	_	_	14	cc	Sue MOT Mother	Eve 27 female TD Brown
+13	we	we	pro	_	_	14	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+14	drive	drive	v	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+15	up	up	adv	_	_	14	advmod	Sue MOT Mother	Eve 27 female TD Brown
+16	through	through	prep	_	_	17	case	Sue MOT Mother	Eve 27 female TD Brown
+17	Maine	Maine	n	_	_	14	obl	Sue MOT Mother	Eve 27 female TD Brown
+18	and	and	coord	_	_	19	cc	Sue MOT Mother	Eve 27 female TD Brown
+19	go	go	v	_	_	2	conj	Sue MOT Mother	Eve 27 female TD Brown
+20	in	in	prep	_	_	23	case	Sue MOT Mother	Eve 27 female TD Brown
+21	our	our	det	_	_	23	det	Sue MOT Mother	Eve 27 female TD Brown
+22	new	new	adj	_	_	23	amod	Sue MOT Mother	Eve 27 female TD Brown
+23	house	house	n	_	_	19	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#413	New_Brunswick's inside of Canada
+1	New_Brunswick	New_Brunswick	adj	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	's	part	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	inside	inside	n	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+4	of	of	prep	_	_	5	case	Sue MOT Mother	Eve 27 female TD Brown
+5	Canada	Canada	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#414	it's all very confusing I must say
+1	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	aux	_	_	5	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	all	all	post	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	very	very	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	confusing	confuse	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	I	I	pro	_	_	8	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+7	must	must	mod	_	_	8	aux	Sue MOT Mother	Eve 27 female TD Brown
+8	say	say	v	_	_	5	parataxis	Sue MOT Mother	Eve 27 female TD Brown
+
+#416	no it's not up in the air
+1	no	no	co	_	_	8	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	it	it	pro	_	_	8	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	8	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	not	not	neg	_	_	8	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	up	up	adv	_	_	8	advmod	Sue MOT Mother	Eve 27 female TD Brown
+6	in	in	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+7	the	the	det	_	_	8	det	Sue MOT Mother	Eve 27 female TD Brown
+8	air	air	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#420	yes that's Grandpa and Granny
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	Grandpa	Grandpa	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	and	and	coord	_	_	6	cc	Sue MOT Mother	Eve 27 female TD Brown
+6	Granny	Granny	n	_	_	4	conj	Sue MOT Mother	Eve 27 female TD Brown
+
+#421	you're right
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	're	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#422	who else are we going to see when we go to Ohio
+1	who	who	pro	_	_	7	obj	Sue MOT Mother	Eve 27 female TD Brown
+2	else	else	post	_	_	1	amod	Sue MOT Mother	Eve 27 female TD Brown
+3	are	be	cop	_	_	5	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	we	we	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	going	go	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	to	to	inf	_	_	7	mark	Sue MOT Mother	Eve 27 female TD Brown
+7	see	see	v	_	_	5	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+8	when	when	conj	_	_	10	mark	Sue MOT Mother	Eve 27 female TD Brown
+9	we	we	pro	_	_	10	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+10	go	go	v	_	_	5	advcl	Sue MOT Mother	Eve 27 female TD Brown
+11	to	to	prep	_	_	12	case	Sue MOT Mother	Eve 27 female TD Brown
+12	Ohio	Ohio	n	_	_	10	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#428	what're you going to do when you see Peter
+1	what	what	pro	_	_	6	obj	Sue MOT Mother	Eve 27 female TD Brown
+2	're	be	aux	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	going	go	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 27 female TD Brown
+6	do	do	v	_	_	4	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+7	when	when	conj	_	_	9	mark	Sue MOT Mother	Eve 27 female TD Brown
+8	you	you	pro	_	_	9	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+9	see	see	v	_	_	4	advcl	Sue MOT Mother	Eve 27 female TD Brown
+10	Peter	Peter	n	_	_	9	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#432	he's camp
+1	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	camp	camp	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#435	yes you can ride on a great big horse
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	can	can	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	ride	ride	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	on	on	prep	_	_	9	case	Sue MOT Mother	Eve 27 female TD Brown
+6	a	a	det	_	_	9	det	Sue MOT Mother	Eve 27 female TD Brown
+7	great	great	adj	_	_	9	amod	Sue MOT Mother	Eve 27 female TD Brown
+8	big	big	adj	_	_	9	amod	Sue MOT Mother	Eve 27 female TD Brown
+9	horse	horse	n	_	_	4	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#437	alright darling
+1	alright	alright	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	darling	darling	co	_	_	1	vocative	Sue MOT Mother	Eve 27 female TD Brown
+
+#438	just a minute
+1	just	just	adv	_	_	3	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	a	a	det	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+3	minute	minute	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#441	you sit here
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	sit	sit	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	here	here	adv	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#443	you will see Fraser won't you
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	will	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	see	see	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	Fraser	Fraser	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	wo	will	mod	_	_	3	parataxis	Sue MOT Mother	Eve 27 female TD Brown
+6	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+7	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#444	alright Eve wants an eggnog
+1	alright	alright	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	Eve	Eve	n	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	wants	want	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	an	a	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+5	eggnog	eggnog	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#446	yes I'll put it in your pitcher
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	I	I	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	'll	will	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+4	put	put	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	it	it	pro	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+6	in	in	prep	_	_	8	case	Sue MOT Mother	Eve 27 female TD Brown
+7	your	your	det	_	_	8	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+8	pitcher	pitcher	n	_	_	4	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#447	just wait il I make it
+1	just	just	adv	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	wait	wait	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	il	until	conj	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+4	I	I	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+5	make	make	v	_	_	2	advcl	Sue MOT Mother	Eve 27 female TD Brown
+6	it	it	pro	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#452	the little one
+1	the	the	det	_	_	3	det	Sue MOT Mother	Eve 27 female TD Brown
+2	little	little	adj	_	_	3	amod	Sue MOT Mother	Eve 27 female TD Brown
+3	one	one	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#453	milk egg salt
+1	milk	milk	n	_	_	3	nmod	Sue MOT Mother	Eve 27 female TD Brown
+2	egg	egg	n	_	_	3	nmod	Sue MOT Mother	Eve 27 female TD Brown
+3	salt	salt	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#455	you didn't buy some salt
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	did	do	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	buy	buy	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	some	some	qn	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	salt	salt	n	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#456	we already had some salt
+1	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	already	already	adv	_	_	3	advmod	Sue MOT Mother	Eve 27 female TD Brown
+3	had	have	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	some	some	qn	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+5	salt	salt	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#458	Papa bought some vanilla yes because we didn't have any
+1	Papa	Papa	n	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	bought	buy	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	some	some	qn	_	_	4	det	Sue MOT Mother	Eve 27 female TD Brown
+4	vanilla	vanilla	n	_	_	2	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	yes	yes	co	_	_	2	discourse	Sue MOT Mother	Eve 27 female TD Brown
+6	because	because	conj	_	_	10	mark	Sue MOT Mother	Eve 27 female TD Brown
+7	we	we	pro	_	_	10	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+8	did	do	mod	_	_	10	aux	Sue MOT Mother	Eve 27 female TD Brown
+9	n't	not	neg	_	_	10	advmod	Sue MOT Mother	Eve 27 female TD Brown
+10	have	have	v	_	_	2	advcl	Sue MOT Mother	Eve 27 female TD Brown
+11	any	any	qn	_	_	10	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#459	be very careful
+1	be	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+2	very	very	adv	_	_	3	advmod	Sue MOT Mother	Eve 27 female TD Brown
+3	careful	careful	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#472	Schroeder and he eats a bread and butter sandwich
+1	Schroeder	Schroeder	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	and	and	coord	_	_	4	cc	Sue MOT Mother	Eve 27 female TD Brown
+3	he	he	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	eats	eat	v	_	_	1	conj	Sue MOT Mother	Eve 27 female TD Brown
+5	a	a	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	bread	bread	n	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+7	and	and	coord	_	_	9	cc	Sue MOT Mother	Eve 27 female TD Brown
+8	butter	butter	n	_	_	9	nmod	Sue MOT Mother	Eve 27 female TD Brown
+9	sandwich	sandwich	n	_	_	6	conj	Sue MOT Mother	Eve 27 female TD Brown
+
+#474	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#476	are you a peanutbutter eater Colin
+1	are	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 27 female TD Brown
+4	peanutbutter	peanutbutter	n	_	_	5	nmod	Sue MOT Mother	Eve 27 female TD Brown
+5	eater	eat	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	Colin	Colin	n	_	_	5	vocative	Sue MOT Mother	Eve 27 female TD Brown
+
+#510	I'm not
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'm	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	not	not	neg	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#540	she's right here
+1	she	she	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	adv	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	here	here	adv	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#541	see her
+1	see	see	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	her	her	pro	_	_	1	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#543	see her
+1	see	see	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	her	her	pro	_	_	1	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#550	who won't blow the horn
+1	who	who	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	wo	will	mod	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+4	blow	blow	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	horn	horn	n	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#553	you'll hafta teach Fraser that song
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	haf	have	mod	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	ta	to	inf	_	_	5	mark	Sue MOT Mother	Eve 27 female TD Brown
+5	teach	teach	v	_	_	3	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+6	Fraser	Fraser	n	_	_	5	iobj	Sue MOT Mother	Eve 27 female TD Brown
+7	that	that	adv	_	_	8	det	Sue MOT Mother	Eve 27 female TD Brown
+8	song	song	n	_	_	5	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#557	there is your spoon
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 27 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	your	your	det	_	_	4	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+4	spoon	spoon	n	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#559	well it's not hot now
+1	well	well	co	_	_	5	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+5	hot	hot	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+6	now	now	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+
+#563	what're you
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	're	be	cop	_	_	1	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#565	sure you are
+1	sure	sure	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	are	be	cop	_	_	1	cop	Sue MOT Mother	Eve 27 female TD Brown
+
+#568	did Fraser tell you you were a boy
+1	did	do	v	_	_	3	aux	Sue MOT Mother	Eve 27 female TD Brown
+2	Fraser	Fraser	n	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	tell	tell	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	you	you	pro	_	_	8	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+6	were	be	cop	_	_	8	cop	Sue MOT Mother	Eve 27 female TD Brown
+7	a	a	det	_	_	8	det	Sue MOT Mother	Eve 27 female TD Brown
+8	boy	boy	n	_	_	3	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#570	why Fraser's silly isn't he
+1	why	why	pro	_	_	4	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	Fraser	Fraser	adj	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	's	's	part	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	silly	silly	adj	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	is	be	cop	_	_	4	parataxis	Sue MOT Mother	Eve 27 female TD Brown
+6	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+7	he	he	pro	_	_	5	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#571	who's a boy
+1	who	who	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 27 female TD Brown
+4	boy	boy	n	_	_	1	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#573	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#574	and what's Sarah
+1	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	2	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	Sarah	Sarah	n	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#576	Sarah's a girl
+1	Sarah	Sarah	adj	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	's	part	_	_	4	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 27 female TD Brown
+4	girl	girl	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#577	and what am I
+1	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	am	be	cop	_	_	2	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#579	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 27 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#580	and what're you
+1	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	're	be	cop	_	_	2	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#582	and what's Becky
+1	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 27 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	's	be	cop	_	_	2	cop	Sue MOT Mother	Eve 27 female TD Brown
+4	Becky	Becky	n	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#587	well you got things fudged up Eve
+1	well	well	co	_	_	3	discourse	Sue MOT Mother	Eve 27 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	got	get	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+4	things	thing	n	_	_	3	obj	Sue MOT Mother	Eve 27 female TD Brown
+5	fudged	fudge	v	_	_	3	xcomp	Sue MOT Mother	Eve 27 female TD Brown
+6	up	up	adv	_	_	5	advmod	Sue MOT Mother	Eve 27 female TD Brown
+7	Eve	Eve	n	_	_	3	vocative	Sue MOT Mother	Eve 27 female TD Brown
+
+#592	you said you were a boy
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+2	said	say	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	6	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	were	be	cop	_	_	6	cop	Sue MOT Mother	Eve 27 female TD Brown
+5	a	a	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	boy	boy	n	_	_	2	ccomp	Sue MOT Mother	Eve 27 female TD Brown
+
+#593	not Fraser you did
+1	not	not	neg	_	_	2	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	Fraser	Fraser	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	did	do	v	_	_	2	parataxis	Sue MOT Mother	Eve 27 female TD Brown
+
+#597	the monkey on Becky's t_v says what
+1	the	the	det	_	_	2	det	Sue MOT Mother	Eve 27 female TD Brown
+2	monkey	monkey	n	_	_	7	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+3	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+4	Becky	Becky	adj	_	_	6	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+5	's	's	part	_	_	4	case	Sue MOT Mother	Eve 27 female TD Brown
+6	t_v	t_v	n	_	_	2	nmod	Sue MOT Mother	Eve 27 female TD Brown
+7	says	say	v	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+8	what	what	pro	_	_	7	obj	Sue MOT Mother	Eve 27 female TD Brown
+
+#601	what kind of monkey was that
+1	what	what	pro	_	_	2	det	Sue MOT Mother	Eve 27 female TD Brown
+2	kind	kind	n	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+3	of	of	prep	_	_	4	case	Sue MOT Mother	Eve 27 female TD Brown
+4	monkey	monkey	n	_	_	2	nmod	Sue MOT Mother	Eve 27 female TD Brown
+5	was	be	cop	_	_	2	cop	Sue MOT Mother	Eve 27 female TD Brown
+6	that	that	pro	_	_	2	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+
+#603	black one
+1	black	black	n	_	_	2	amod	Sue MOT Mother	Eve 27 female TD Brown
+2	one	one	pro	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#605	what was he doing
+1	what	what	pro	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+2	was	be	cop	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	he	he	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	doing	do	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+
+#607	putting his head in a hole
+1	putting	put	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+2	his	his	det	_	_	3	nmod:poss	Sue MOT Mother	Eve 27 female TD Brown
+3	head	head	n	_	_	1	obj	Sue MOT Mother	Eve 27 female TD Brown
+4	in	in	prep	_	_	6	case	Sue MOT Mother	Eve 27 female TD Brown
+5	a	a	det	_	_	6	det	Sue MOT Mother	Eve 27 female TD Brown
+6	hole	hole	n	_	_	1	obl	Sue MOT Mother	Eve 27 female TD Brown
+
+#609	why was he doing that
+1	why	why	pro	_	_	4	advmod	Sue MOT Mother	Eve 27 female TD Brown
+2	was	be	cop	_	_	4	aux	Sue MOT Mother	Eve 27 female TD Brown
+3	he	he	pro	_	_	4	nsubj	Sue MOT Mother	Eve 27 female TD Brown
+4	doing	do	part	_	_	0	root	Sue MOT Mother	Eve 27 female TD Brown
+5	that	that	comp	_	_	4	obj	Sue MOT Mother	Eve 27 female TD Brown
+

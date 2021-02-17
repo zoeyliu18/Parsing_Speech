@@ -1,0 +1,1459 @@
+#0	Eve have you got the spoon
+1	Eve	Eve	n	_	_	4	vocative	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	v	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	got	get	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	spoon	spoon	n	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#2	yes the sugar
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+3	sugar	sugar	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#5	a cup
+1	a	a	det	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	cup	cup	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#6	well we'll get a cup in a minute
+1	well	well	co	_	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'll	will	mod	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	get	get	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	a	a	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	cup	cup	n	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+7	in	in	prep	_	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+8	a	a	det	_	_	9	det	Sue MOT Mother	Eve 21 female TD Brown
+9	minute	minute	n	_	_	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#11	kiss it
+1	kiss	kiss	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	David FAT Father	Eve 21 female TD Brown
+
+#13	you wipe it off the table please
+1	you	you	pro	_	_	2	nsubj	David FAT Father	Eve 21 female TD Brown
+2	wipe	wipe	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+3	it	it	pro	_	_	2	obj	David FAT Father	Eve 21 female TD Brown
+4	off	off	prep	_	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	David FAT Father	Eve 21 female TD Brown
+6	table	table	n	_	_	2	obl	David FAT Father	Eve 21 female TD Brown
+7	please	please	co	_	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+
+#21	mhm coffee for Fraser
+1	mhm	mhm	co	_	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	for	for	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	Fraser	Fraser	n	_	_	2	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#22	make it warm
+1	make	make	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	it	it	pro	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	warm	warm	adj	_	_	1	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+
+#25	do one for Mommy
+1	do	do	mod	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	one	one	pro	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	for	for	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	Mommy	Mommy	n	_	_	1	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#29	more what
+1	more	more	adv	_	_	2	amod	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#34	no Fraser'll put the sugar in his own coffee
+1	no	no	co	_	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	Fraser	Fraser	n	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'll	will	mod	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	put	put	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	sugar	sugar	n	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+7	in	in	prep	_	_	10	case	Sue MOT Mother	Eve 21 female TD Brown
+8	his	his	det	_	_	10	det	Sue MOT Mother	Eve 21 female TD Brown
+9	own	own	adj	_	_	10	amod	Sue MOT Mother	Eve 21 female TD Brown
+10	coffee	coffee	n	_	_	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#36	you must be very careful and not spill this
+1	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	must	must	mod	_	_	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	be	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	very	very	adv	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	careful	careful	co	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	and	and	coord	_	_	8	cc	Sue MOT Mother	Eve 21 female TD Brown
+7	not	not	neg	_	_	8	advmod	Sue MOT Mother	Eve 21 female TD Brown
+8	spill	spill	v	_	_	5	conj	Sue MOT Mother	Eve 21 female TD Brown
+9	this	this	det	_	_	8	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#38	you're not to spill this
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	neg	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	spill	spill	v	_	_	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	this	this	det	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#42	what_about the heat
+1	what	what	pro	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	about	about	pro	_	_	4	case	David FAT Father	Eve 21 female TD Brown
+3	the	the	det	_	_	4	det	David FAT Father	Eve 21 female TD Brown
+4	heat	heat	n	_	_	1	nmod	David FAT Father	Eve 21 female TD Brown
+
+#43	because the heat and the whole thing is out in the room
+1	because	because	conj	_	_	9	mark	David FAT Father	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	David FAT Father	Eve 21 female TD Brown
+3	heat	heat	n	_	_	9	nsubj	David FAT Father	Eve 21 female TD Brown
+4	and	and	coord	_	_	7	cc	David FAT Father	Eve 21 female TD Brown
+5	the	the	det	_	_	7	det	David FAT Father	Eve 21 female TD Brown
+6	whole	whole	adj	_	_	7	amod	David FAT Father	Eve 21 female TD Brown
+7	thing	thing	n	_	_	3	conj	David FAT Father	Eve 21 female TD Brown
+8	is	be	cop	_	_	9	cop	David FAT Father	Eve 21 female TD Brown
+9	out	out	adv	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+10	in	in	prep	_	_	12	case	David FAT Father	Eve 21 female TD Brown
+11	the	the	det	_	_	12	det	David FAT Father	Eve 21 female TD Brown
+12	room	room	n	_	_	9	nmod	David FAT Father	Eve 21 female TD Brown
+
+#45	heat right in the fire
+1	heat	heat	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	right	right	adv	_	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+3	in	in	prep	_	_	5	case	David FAT Father	Eve 21 female TD Brown
+4	the	the	det	_	_	5	det	David FAT Father	Eve 21 female TD Brown
+5	fire	fire	n	_	_	1	nmod	David FAT Father	Eve 21 female TD Brown
+
+#48	your paper's on the table
+1	your	your	det	_	_	2	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+2	paper	paper	n	_	_	6	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	cop	_	_	6	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	table	table	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#50	baby Sarah's waking up
+1	baby	baby	n	_	_	2	nmod	Sue MOT Mother	Eve 21 female TD Brown
+2	Sarah	Sarah	n	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	waking	wake	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	up	up	adv	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#51	go write some a b c
+1	go	go	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	write	write	v	_	_	1	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+3	some	some	qn	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	n	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	b	b	n	_	_	4	conj	Sue MOT Mother	Eve 21 female TD Brown
+6	c	c	n	_	_	4	conj	Sue MOT Mother	Eve 21 female TD Brown
+
+#54	yes with Papa
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	with	with	prep	_	_	3	case	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#55	what's this
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	this	this	pro	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#75	it's a stylus
+1	it	it	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	cop	_	_	4	cop	David FAT Father	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	David FAT Father	Eve 21 female TD Brown
+4	stylus	stylus	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#91	okay what do we do now then
+1	okay	okay	co	_	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	pro	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	do	do	mod	_	_	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	we	we	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	do	do	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	now	now	adv	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+7	then	then	adv	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#99	Eve what's Fraser doing
+1	Eve	Eve	n	_	_	5	vocative	David FAT Father	Eve 21 female TD Brown
+2	what	what	pro	_	_	5	obj	David FAT Father	Eve 21 female TD Brown
+3	's	be	aux	_	_	5	aux	David FAT Father	Eve 21 female TD Brown
+4	Fraser	Fraser	n	_	_	5	nsubj	David FAT Father	Eve 21 female TD Brown
+5	doing	do	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#101	what's Fraser doing
+1	what	what	pro	_	_	4	obj	David FAT Father	Eve 21 female TD Brown
+2	's	be	aux	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	Fraser	Fraser	n	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	doing	do	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#105	oh Old_Macdonald
+1	oh	oh	co	_	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	Old_Macdonald	Old_Macdonald	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#109	what's an Old_Macdonald's farm
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	an	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	Old_Macdonald	Old_Macdonald	adj	_	_	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	's	's	part	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+6	farm	farm	n	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#112	what_about Fraser
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	about	about	pro	_	_	3	case	Sue MOT Mother	Eve 21 female TD Brown
+3	Fraser	Fraser	n	_	_	1	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#114	he's writing uhhuh
+1	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	writing	write	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	uhhuh	uhhuh	co	_	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+
+#116	what are you writing
+1	what	what	pro	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	are	be	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	writing	write	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#118	you're writing a b c
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	aux	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	writing	write	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	b	b	n	_	_	4	conj	Sue MOT Mother	Eve 21 female TD Brown
+6	c	c	n	_	_	4	conj	Sue MOT Mother	Eve 21 female TD Brown
+
+#126	yes that's baby Sarah
+1	yes	yes	co	_	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	baby	baby	n	_	_	5	nmod	Sue MOT Mother	Eve 21 female TD Brown
+5	Sarah	Sarah	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#128	she's hungry
+1	she	she	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	hungry	hungry	adj	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#130	it sounds like the televisionset in the basement
+1	it	it	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	sounds	sound	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	like	like	prep	_	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	televisionset	televisionset	n	_	_	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+6	in	in	prep	_	_	8	case	Sue MOT Mother	Eve 21 female TD Brown
+7	the	the	det	_	_	8	det	Sue MOT Mother	Eve 21 female TD Brown
+8	basement	basement	n	_	_	5	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#134	not now
+1	not	not	neg	_	_	2	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	now	now	adv	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#136	well she's crying yes
+1	well	well	co	_	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	crying	cry	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+
+#137	she's not sleeping
+1	she	she	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	sleeping	sleep	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#139	she's telling me that she's hungry
+1	she	she	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	telling	tell	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	me	me	pro	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	that	that	comp	_	_	8	mark	Sue MOT Mother	Eve 21 female TD Brown
+6	she	she	pro	_	_	8	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+7	's	be	cop	_	_	8	cop	Sue MOT Mother	Eve 21 female TD Brown
+8	hungry	hungry	adj	_	_	3	ccomp	Sue MOT Mother	Eve 21 female TD Brown
+
+#149	that's not a moo
+1	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	moo	moo	on	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#154	who's crying
+1	who	who	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	crying	cry	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#156	yes I think baby Sarah's diaper
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	think	think	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	baby	baby	n	_	_	5	nmod	Sue MOT Mother	Eve 21 female TD Brown
+5	Sarah	Sarah	adj	_	_	7	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+6	's	's	part	_	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+7	diaper	diaper	n	_	_	3	ccomp	Sue MOT Mother	Eve 21 female TD Brown
+
+#157	put a dry diaper on baby Sarah's bottom
+1	put	put	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	dry	dry	adj	_	_	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	diaper	diaper	n	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	on	on	prep	_	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+6	baby	baby	n	_	_	7	nmod	Sue MOT Mother	Eve 21 female TD Brown
+7	Sarah	Sarah	adj	_	_	9	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+8	's	's	part	_	_	7	case	Sue MOT Mother	Eve 21 female TD Brown
+9	bottom	bottom	n	_	_	1	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#161	yes we are
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#162	you write on the paper
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	write	write	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	on	on	prep	_	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	paper	paper	n	_	_	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#163	only on the paper
+1	only	only	adv	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	on	on	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	paper	paper	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#171	why don't you show Fraser horsie Eve
+1	why	why	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	do	do	mod	_	_	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	show	show	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	Fraser	Fraser	n	_	_	5	iobj	Sue MOT Mother	Eve 21 female TD Brown
+7	horsie	horse	n	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+8	Eve	Eve	n	_	_	5	vocative	Sue MOT Mother	Eve 21 female TD Brown
+
+#194	you want me to cover you
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	want	want	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	me	me	pro	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	cover	cover	v	_	_	2	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	you	you	pro	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#196	is that a nice bed
+1	is	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	comp	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	nice	nice	adj	_	_	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	bed	bed	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#199	you go to sleep
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	go	go	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	to	to	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	sleep	sleep	n	_	_	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#201	I thought you were going to sleep
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	thought	think	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	were	be	aux	_	_	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+5	going	go	part	_	_	2	ccomp	Sue MOT Mother	Eve 21 female TD Brown
+6	to	to	inf	_	_	7	mark	Sue MOT Mother	Eve 21 female TD Brown
+7	sleep	sleep	v	_	_	5	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+
+#202	thought you were gonna go to sleep
+1	thought	thought	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	were	be	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	gon	go	part	_	_	1	ccomp	Sue MOT Mother	Eve 21 female TD Brown
+5	na	to	inf	_	_	6	mark	Sue MOT Mother	Eve 21 female TD Brown
+6	go	go	v	_	_	4	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+7	to	to	inf	_	_	8	case	Sue MOT Mother	Eve 21 female TD Brown
+8	sleep	sleep	v	_	_	6	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#207	byebye Eve
+1	byebye	byebye	co	_	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#210	okay you have a nice nap
+1	okay	okay	co	_	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	have	have	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	nice	nice	adj	_	_	6	amod	Sue MOT Mother	Eve 21 female TD Brown
+6	nap	nap	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#212	you're all done napping
+1	you	you	pro	_	_	4	nsubj:pass	David FAT Father	Eve 21 female TD Brown
+2	're	be	aux	_	_	4	aux:pass	David FAT Father	Eve 21 female TD Brown
+3	all	all	adv	_	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+4	done	do	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+5	napping	nap	part	_	_	4	xcomp	David FAT Father	Eve 21 female TD Brown
+
+#214	night_night later
+1	night_night	night_night	co	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	later	later	adv	_	_	1	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#218	carry Eve
+1	carry	carry	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	1	obj	David FAT Father	Eve 21 female TD Brown
+
+#221	lie down and Papa will carry you
+1	lie	lie	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	down	down	adv	_	_	1	advmod	Sue MOT Mother	Eve 21 female TD Brown
+3	and	and	coord	_	_	6	cc	Sue MOT Mother	Eve 21 female TD Brown
+4	Papa	Papa	n	_	_	6	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	will	will	mod	_	_	6	aux	Sue MOT Mother	Eve 21 female TD Brown
+6	carry	carry	v	_	_	1	conj	Sue MOT Mother	Eve 21 female TD Brown
+7	you	you	pro	_	_	6	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#223	lay down
+1	lay	lay	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	down	down	adv	_	_	1	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#230	are you having bowels
+1	are	be	cop	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	having	have	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	bowels	bowel	n	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+
+#232	will we change your wet diaper
+1	will	will	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	change	change	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	det	_	_	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	wet	wet	adj	_	_	6	amod	Sue MOT Mother	Eve 21 female TD Brown
+6	diaper	diaper	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#234	want Papa change her
+1	want	want	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	1	obj	David FAT Father	Eve 21 female TD Brown
+3	change	change	v	_	_	1	xcomp	David FAT Father	Eve 21 female TD Brown
+4	her	her	pro	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+
+#238	Papa change her
+1	Papa	Papa	n	_	_	2	nsubj	David FAT Father	Eve 21 female TD Brown
+2	change	change	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+3	her	her	pro	_	_	2	obj	David FAT Father	Eve 21 female TD Brown
+
+#240	Eve's laying down
+1	Eve	Eve	n	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	laying	lay	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	down	down	adv	_	_	3	advmod	David FAT Father	Eve 21 female TD Brown
+
+#248	you're going to buy her
+1	you	you	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	're	be	aux	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	going	go	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	to	to	inf	_	_	5	mark	David FAT Father	Eve 21 female TD Brown
+5	buy	buy	v	_	_	3	xcomp	David FAT Father	Eve 21 female TD Brown
+6	her	her	pro	_	_	5	obj	David FAT Father	Eve 21 female TD Brown
+
+#249	can I buy her
+1	can	can	mod	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+2	I	I	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	buy	buy	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	her	her	pro	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+
+#251	where're you going
+1	where	where	pro	_	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+2	're	be	aux	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	going	go	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#253	with Papa
+1	with	with	prep	_	_	2	case	David FAT Father	Eve 21 female TD Brown
+2	Papa	Papa	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#257	with a penny
+1	with	with	prep	_	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	a	a	det	_	_	3	det	David FAT Father	Eve 21 female TD Brown
+3	penny	penny	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#259	where's your penny
+1	where	where	pro	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	's	be	cop	_	_	1	cop	David FAT Father	Eve 21 female TD Brown
+3	your	your	det	_	_	4	nmod:poss	David FAT Father	Eve 21 female TD Brown
+4	penny	penny	n	_	_	1	nsubj	David FAT Father	Eve 21 female TD Brown
+
+#263	in the fire
+1	in	in	prep	_	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	David FAT Father	Eve 21 female TD Brown
+3	fire	fire	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#265	ah your penny's not in the fire
+1	ah	ah	co	_	_	8	discourse	David FAT Father	Eve 21 female TD Brown
+2	your	your	det	_	_	3	nmod:poss	David FAT Father	Eve 21 female TD Brown
+3	penny	penny	adj	_	_	8	nsubj	David FAT Father	Eve 21 female TD Brown
+4	's	's	part	_	_	8	cop	David FAT Father	Eve 21 female TD Brown
+5	not	not	neg	_	_	8	advmod	David FAT Father	Eve 21 female TD Brown
+6	in	in	prep	_	_	8	case	David FAT Father	Eve 21 female TD Brown
+7	the	the	det	_	_	8	det	David FAT Father	Eve 21 female TD Brown
+8	fire	fire	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#267	right there
+1	right	right	adv	_	_	2	advmod	David FAT Father	Eve 21 female TD Brown
+2	there	there	adv	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#271	on the table
+1	on	on	prep	_	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	David FAT Father	Eve 21 female TD Brown
+3	table	table	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#275	your penny
+1	your	your	det	_	_	2	nmod:poss	David FAT Father	Eve 21 female TD Brown
+2	penny	penny	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#278	Mama's upstairs feeding baby Sarah
+1	Mama	Mama	n	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	cop	David FAT Father	Eve 21 female TD Brown
+3	upstairs	upstairs	adv	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	feeding	feed	part	_	_	3	xcomp	David FAT Father	Eve 21 female TD Brown
+5	baby	baby	n	_	_	6	nmod	David FAT Father	Eve 21 female TD Brown
+6	Sarah	Sarah	n	_	_	4	obj	David FAT Father	Eve 21 female TD Brown
+
+#280	uhhuh she'll be down in a minute
+1	uhhuh	uhhuh	co	_	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+2	she	she	pro	_	_	5	nsubj	David FAT Father	Eve 21 female TD Brown
+3	'll	will	mod	_	_	5	aux	David FAT Father	Eve 21 female TD Brown
+4	be	be	cop	_	_	5	cop	David FAT Father	Eve 21 female TD Brown
+5	down	down	adv	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+6	in	in	prep	_	_	8	case	David FAT Father	Eve 21 female TD Brown
+7	a	a	det	_	_	8	det	David FAT Father	Eve 21 female TD Brown
+8	minute	minute	n	_	_	5	obl	David FAT Father	Eve 21 female TD Brown
+
+#290	there it is
+1	there	there	adv	_	_	3	advmod	David FAT Father	Eve 21 female TD Brown
+2	it	it	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	is	be	cop	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#295	why don't you come down here and see Fraser
+1	why	why	pro	_	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+2	do	do	mod	_	_	5	aux	David FAT Father	Eve 21 female TD Brown
+3	n't	not	neg	_	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+4	you	you	pro	_	_	5	nsubj	David FAT Father	Eve 21 female TD Brown
+5	come	come	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+6	down	down	prep	_	_	7	advmod	David FAT Father	Eve 21 female TD Brown
+7	here	here	n	_	_	5	obl	David FAT Father	Eve 21 female TD Brown
+8	and	and	coord	_	_	9	cc	David FAT Father	Eve 21 female TD Brown
+9	see	see	v	_	_	5	conj	David FAT Father	Eve 21 female TD Brown
+10	Fraser	Fraser	n	_	_	9	obj	David FAT Father	Eve 21 female TD Brown
+
+#297	Eve come down here please
+1	Eve	Eve	n	_	_	2	vocative	David FAT Father	Eve 21 female TD Brown
+2	come	come	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+3	down	down	prep	_	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+4	here	here	n	_	_	2	advmod	David FAT Father	Eve 21 female TD Brown
+5	please	please	co	_	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+
+#299	and move horsie
+1	and	and	coord	_	_	2	cc	David FAT Father	Eve 21 female TD Brown
+2	move	move	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+3	horsie	horse	n	_	_	2	obj	David FAT Father	Eve 21 female TD Brown
+
+#300	he's too near the fire
+1	he	he	pro	_	_	6	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	cop	_	_	6	cop	David FAT Father	Eve 21 female TD Brown
+3	too	too	adv	_	_	6	advmod	David FAT Father	Eve 21 female TD Brown
+4	near	near	prep	_	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	David FAT Father	Eve 21 female TD Brown
+6	fire	fire	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#301	he's going to get too hot
+1	he	he	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	going	go	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	to	to	inf	_	_	5	mark	David FAT Father	Eve 21 female TD Brown
+5	get	get	v	_	_	3	xcomp	David FAT Father	Eve 21 female TD Brown
+6	too	too	adv	_	_	7	advmod	David FAT Father	Eve 21 female TD Brown
+7	hot	hot	adj	_	_	5	xcomp	David FAT Father	Eve 21 female TD Brown
+
+#302	come and move horsie
+1	come	come	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	and	and	coord	_	_	3	cc	David FAT Father	Eve 21 female TD Brown
+3	move	move	v	_	_	1	conj	David FAT Father	Eve 21 female TD Brown
+4	horsie	horse	n	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+
+#305	please move him
+1	please	please	co	_	_	2	discourse	David FAT Father	Eve 21 female TD Brown
+2	move	move	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+3	him	him	pro	_	_	2	obj	David FAT Father	Eve 21 female TD Brown
+
+#307	thank_you
+1	thank	thank	co	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	you	you	co	_	_	1	obj	David FAT Father	Eve 21 female TD Brown
+
+#309	move him away from the fire
+1	move	move	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	him	him	pro	_	_	1	obj	David FAT Father	Eve 21 female TD Brown
+3	away	away	adv	_	_	1	advmod	David FAT Father	Eve 21 female TD Brown
+4	from	from	prep	_	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	David FAT Father	Eve 21 female TD Brown
+6	fire	fire	n	_	_	1	obl	David FAT Father	Eve 21 female TD Brown
+
+#310	he's getting too warm
+1	he	he	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	cop	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	getting	get	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	too	too	adv	_	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+5	warm	warm	adj	_	_	3	xcomp	David FAT Father	Eve 21 female TD Brown
+
+#311	he's getting much too warm
+1	he	he	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	getting	get	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	much	much	adv	_	_	6	advmod	David FAT Father	Eve 21 female TD Brown
+5	too	too	adv	_	_	6	advmod	David FAT Father	Eve 21 female TD Brown
+6	warm	warm	adj	_	_	3	xcomp	David FAT Father	Eve 21 female TD Brown
+
+#315	did you feed dolly
+1	did	do	mod	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	feed	feed	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	dolly	doll	n	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+
+#317	you did
+1	you	you	pro	_	_	2	nsubj	David FAT Father	Eve 21 female TD Brown
+2	did	do	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#320	would you come here and show Fraser your lion
+1	would	will	mod	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	come	come	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	here	here	adv	_	_	3	advmod	David FAT Father	Eve 21 female TD Brown
+5	and	and	coord	_	_	6	cc	David FAT Father	Eve 21 female TD Brown
+6	show	show	n	_	_	3	conj	David FAT Father	Eve 21 female TD Brown
+7	Fraser	Fraser	n	_	_	6	iobj	David FAT Father	Eve 21 female TD Brown
+8	your	your	det	_	_	9	nmod:poss	David FAT Father	Eve 21 female TD Brown
+9	lion	lion	n	_	_	6	obj	David FAT Father	Eve 21 female TD Brown
+
+#321	show him your lion and your turtle please
+1	show	show	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	him	him	pro	_	_	1	iobj	David FAT Father	Eve 21 female TD Brown
+3	your	your	det	_	_	4	nmod:poss	David FAT Father	Eve 21 female TD Brown
+4	lion	lion	n	_	_	1	obj	David FAT Father	Eve 21 female TD Brown
+5	and	and	coord	_	_	7	cc	David FAT Father	Eve 21 female TD Brown
+6	your	your	det	_	_	7	nmod:poss	David FAT Father	Eve 21 female TD Brown
+7	turtle	turtle	n	_	_	4	conj	David FAT Father	Eve 21 female TD Brown
+8	please	please	co	_	_	1	discourse	David FAT Father	Eve 21 female TD Brown
+
+#329	the turtle's name is Froggy
+1	the	the	det	_	_	2	det	David FAT Father	Eve 21 female TD Brown
+2	turtle	turtle	adj	_	_	4	nmod:poss	David FAT Father	Eve 21 female TD Brown
+3	's	's	part	_	_	2	case	David FAT Father	Eve 21 female TD Brown
+4	name	name	n	_	_	6	nsubj	David FAT Father	Eve 21 female TD Brown
+5	is	be	cop	_	_	6	cop	David FAT Father	Eve 21 female TD Brown
+6	Froggy	Froggy	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#334	did you show Fraser your drum
+1	did	do	mod	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	show	show	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	Fraser	Fraser	n	_	_	3	iobj	David FAT Father	Eve 21 female TD Brown
+5	your	your	det	_	_	6	nmod:poss	David FAT Father	Eve 21 female TD Brown
+6	drum	drum	n	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+
+#336	Eve the other one is under the table
+1	Eve	Eve	n	_	_	8	vocative	David FAT Father	Eve 21 female TD Brown
+2	the	the	det	_	_	4	det	David FAT Father	Eve 21 female TD Brown
+3	other	other	qn	_	_	4	amod	David FAT Father	Eve 21 female TD Brown
+4	one	one	pro	_	_	8	nsubj	David FAT Father	Eve 21 female TD Brown
+5	is	be	cop	_	_	8	cop	David FAT Father	Eve 21 female TD Brown
+6	under	under	prep	_	_	8	case	David FAT Father	Eve 21 female TD Brown
+7	the	the	det	_	_	8	det	David FAT Father	Eve 21 female TD Brown
+8	table	table	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#349	in the hall
+1	in	in	prep	_	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	David FAT Father	Eve 21 female TD Brown
+3	hall	hall	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#351	whose boots are in the hall
+1	whose	whose	pro	_	_	2	nmod:poss	David FAT Father	Eve 21 female TD Brown
+2	boots	boot	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+3	are	be	cop	_	_	2	cop	David FAT Father	Eve 21 female TD Brown
+4	in	in	prep	_	_	6	case	David FAT Father	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	David FAT Father	Eve 21 female TD Brown
+6	hall	hall	n	_	_	2	obl	David FAT Father	Eve 21 female TD Brown
+
+#353	in the closet
+1	in	in	prep	_	_	3	case	David FAT Father	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	David FAT Father	Eve 21 female TD Brown
+3	closet	closet	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#357	Papa'll get it
+1	Papa	Papa	n	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	'll	will	mod	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	get	get	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	it	it	pro	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+
+#375	where are you going
+1	where	where	pro	_	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+2	are	be	aux	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	going	go	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#377	Mama'll be down in just a minute
+1	Mama	Mama	n	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+2	'll	will	mod	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	be	be	aux	_	_	4	cop	David FAT Father	Eve 21 female TD Brown
+4	down	down	adv	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+5	in	in	adv	_	_	8	case	David FAT Father	Eve 21 female TD Brown
+6	just	just	adv	_	_	8	advmod	David FAT Father	Eve 21 female TD Brown
+7	a	a	det	_	_	8	det	David FAT Father	Eve 21 female TD Brown
+8	minute	minute	n	_	_	4	obl	David FAT Father	Eve 21 female TD Brown
+
+#379	the horsie's gonna see Papa
+1	the	the	det	_	_	2	det	David FAT Father	Eve 21 female TD Brown
+2	horsie	horsie	adj	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+3	's	's	part	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+4	gon	go	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+5	na	to	inf	_	_	6	mark	David FAT Father	Eve 21 female TD Brown
+6	see	see	v	_	_	4	xcomp	David FAT Father	Eve 21 female TD Brown
+7	Papa	Papa	n	_	_	6	obj	David FAT Father	Eve 21 female TD Brown
+
+#386	what are you gonna do
+1	what	what	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+2	are	be	aux	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	gon	go	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+5	na	to	inf	_	_	6	mark	David FAT Father	Eve 21 female TD Brown
+6	do	do	v	_	_	4	xcomp	David FAT Father	Eve 21 female TD Brown
+
+#389	jump off the table
+1	jump	jump	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	off	off	prep	_	_	4	case	David FAT Father	Eve 21 female TD Brown
+3	the	the	det	_	_	4	det	David FAT Father	Eve 21 female TD Brown
+4	table	table	n	_	_	1	obl	David FAT Father	Eve 21 female TD Brown
+
+#391	come here and jump off the table for Fraser
+1	come	come	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	here	here	adv	_	_	1	advmod	David FAT Father	Eve 21 female TD Brown
+3	and	and	coord	_	_	4	cc	David FAT Father	Eve 21 female TD Brown
+4	jump	jump	n	_	_	1	conj	David FAT Father	Eve 21 female TD Brown
+5	off	off	prep	_	_	7	case	David FAT Father	Eve 21 female TD Brown
+6	the	the	det	_	_	7	det	David FAT Father	Eve 21 female TD Brown
+7	table	table	n	_	_	4	obl	David FAT Father	Eve 21 female TD Brown
+8	for	for	prep	_	_	9	case	David FAT Father	Eve 21 female TD Brown
+9	Fraser	Fraser	n	_	_	4	obl	David FAT Father	Eve 21 female TD Brown
+
+#396	whee good jump
+1	whee	whee	co	_	_	3	discourse	David FAT Father	Eve 21 female TD Brown
+2	good	good	adj	_	_	3	amod	David FAT Father	Eve 21 female TD Brown
+3	jump	jump	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#401	who's coming
+1	who	who	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+3	coming	come	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#403	who else
+1	who	who	pro	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	else	else	post	_	_	1	amod	David FAT Father	Eve 21 female TD Brown
+
+#405	would you like to have your lunch
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	like	like	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	have	have	v	_	_	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	your	your	det	_	_	7	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+7	lunch	lunch	n	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#407	having tapioca
+1	having	have	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	tapioca	tapioca	n	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#408	you haven't had tapioca in a whole week
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	had	have	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	tapioca	tapioca	n	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	in	in	prep	_	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+7	a	a	det	_	_	9	det	Sue MOT Mother	Eve 21 female TD Brown
+8	whole	whole	adj	_	_	9	amod	Sue MOT Mother	Eve 21 female TD Brown
+9	week	week	n	_	_	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#410	in a whole week
+1	in	in	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	whole	whole	adj	_	_	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	week	week	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#413	you and Papa sit there and hold on to baby Sarah
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	and	and	coord	_	_	3	cc	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	n	_	_	1	conj	Sue MOT Mother	Eve 21 female TD Brown
+4	sit	sit	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	there	there	adv	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+6	and	and	coord	_	_	7	cc	Sue MOT Mother	Eve 21 female TD Brown
+7	hold	hold	n	_	_	4	conj	Sue MOT Mother	Eve 21 female TD Brown
+8	on	on	adv	_	_	7	advmod	Sue MOT Mother	Eve 21 female TD Brown
+9	to	to	prep	_	_	11	case	Sue MOT Mother	Eve 21 female TD Brown
+10	baby	baby	n	_	_	11	nmod	Sue MOT Mother	Eve 21 female TD Brown
+11	Sarah	Sarah	n	_	_	7	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#416	where is it
+1	where	where	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	it	it	pro	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#418	where is the stool
+1	where	where	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	stool	stool	n	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#419	what else would you like to have for your lunch
+1	what	what	pro	_	_	7	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	else	else	post	_	_	1	amod	Sue MOT Mother	Eve 21 female TD Brown
+3	would	will	mod	_	_	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	like	like	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	to	to	inf	_	_	7	mark	Sue MOT Mother	Eve 21 female TD Brown
+7	have	have	v	_	_	5	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+8	for	for	prep	_	_	10	case	Sue MOT Mother	Eve 21 female TD Brown
+9	your	your	det	_	_	10	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+10	lunch	lunch	n	_	_	7	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#424	you'll have a cheese sandwich
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	have	have	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	n	_	_	6	nmod	Sue MOT Mother	Eve 21 female TD Brown
+6	sandwich	sandwich	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#428	no what Davy
+1	no	no	co	_	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	pro	_	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+3	Davy	Davy	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#429	no what
+1	no	no	co	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#431	no what
+1	no	no	co	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#434	for a whole week
+1	for	for	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	whole	whole	adj	_	_	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	week	week	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#435	well you had a cheese sandwich
+1	well	well	co	_	_	3	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	had	have	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	n	_	_	6	nmod	Sue MOT Mother	Eve 21 female TD Brown
+6	sandwich	sandwich	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#436	you haven't had tapioca for a whole week
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	had	have	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	tapioca	tapioca	n	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	for	for	prep	_	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+7	a	a	det	_	_	9	det	Sue MOT Mother	Eve 21 female TD Brown
+8	whole	whole	adj	_	_	9	amod	Sue MOT Mother	Eve 21 female TD Brown
+9	week	week	n	_	_	4	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#437	no she hasn't had a cheese sandwich either
+1	no	no	co	_	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+2	she	she	pro	_	_	5	nsubj	David FAT Father	Eve 21 female TD Brown
+3	has	have	aux	_	_	5	aux	David FAT Father	Eve 21 female TD Brown
+4	n't	not	neg	_	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+5	had	have	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+6	a	a	det	_	_	8	det	David FAT Father	Eve 21 female TD Brown
+7	cheese	cheese	n	_	_	8	nmod	David FAT Father	Eve 21 female TD Brown
+8	sandwich	sandwich	n	_	_	5	obj	David FAT Father	Eve 21 female TD Brown
+9	either	either	adv	_	_	5	advmod	David FAT Father	Eve 21 female TD Brown
+
+#438	do you wanna eat a piece of cheese right now
+1	do	do	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	wan	want	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	na	to	inf	_	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	eat	eat	v	_	_	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	a	a	det	_	_	7	det	Sue MOT Mother	Eve 21 female TD Brown
+7	piece	piece	n	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+8	of	of	prep	_	_	9	case	Sue MOT Mother	Eve 21 female TD Brown
+9	cheese	cheese	n	_	_	7	nmod	Sue MOT Mother	Eve 21 female TD Brown
+10	right	right	adv	_	_	11	advmod	Sue MOT Mother	Eve 21 female TD Brown
+11	now	now	adv	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#442	let me wipe your fingers first
+1	let	let	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	me	me	pro	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+3	wipe	wipe	v	_	_	1	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	fingers	finger	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	first	first	adv	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#446	for a whole week
+1	for	for	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+2	a	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+3	whole	whole	adj	_	_	4	amod	Sue MOT Mother	Eve 21 female TD Brown
+4	week	week	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#448	what is that
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	that	that	pro	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#450	that's not the cheese sandwich
+1	that	that	pro	_	_	6	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	6	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	not	not	neg	_	_	6	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	n	_	_	6	nmod	Sue MOT Mother	Eve 21 female TD Brown
+6	sandwich	sandwich	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#451	that's just the cheese
+1	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	just	just	adv	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	cheese	cheese	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#454	just the cheese
+1	just	just	adv	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+3	cheese	cheese	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#456	a whole week
+1	a	a	det	_	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+2	whole	whole	adj	_	_	3	amod	Sue MOT Mother	Eve 21 female TD Brown
+3	week	week	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#458	you hafta let me wipe your fingers first and then Mommy'll give you a piece of cheese
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	haf	have	mod	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	ta	to	inf	_	_	4	mark	Sue MOT Mother	Eve 21 female TD Brown
+4	let	let	v	_	_	2	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+5	me	me	pro	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+6	wipe	wipe	v	_	_	4	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+7	your	your	det	_	_	8	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+8	fingers	finger	n	_	_	6	obj	Sue MOT Mother	Eve 21 female TD Brown
+9	first	first	adv	_	_	6	advmod	Sue MOT Mother	Eve 21 female TD Brown
+10	and	and	coord	_	_	14	cc	Sue MOT Mother	Eve 21 female TD Brown
+11	then	then	adv	_	_	14	advmod	Sue MOT Mother	Eve 21 female TD Brown
+12	Mommy	Mommy	n	_	_	14	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+13	'll	will	mod	_	_	14	aux	Sue MOT Mother	Eve 21 female TD Brown
+14	give	give	v	_	_	2	conj	Sue MOT Mother	Eve 21 female TD Brown
+15	you	you	pro	_	_	14	iobj	Sue MOT Mother	Eve 21 female TD Brown
+16	a	a	det	_	_	17	det	Sue MOT Mother	Eve 21 female TD Brown
+17	piece	piece	n	_	_	14	obj	Sue MOT Mother	Eve 21 female TD Brown
+18	of	of	prep	_	_	19	case	Sue MOT Mother	Eve 21 female TD Brown
+19	cheese	cheese	n	_	_	17	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#462	but they're dirty
+1	but	but	conj	_	_	4	cc	Sue MOT Mother	Eve 21 female TD Brown
+2	they	they	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	're	be	cop	_	_	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	dirty	dirt	adj	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#464	that's my stool
+1	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	my	my	det	_	_	4	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	stool	stool	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#465	you're sitting on my stool
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	aux	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	sitting	sit	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	my	my	det	_	_	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+6	stool	stool	n	_	_	3	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#467	you don't have a big stool
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	do	do	mod	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	have	have	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	a	a	det	_	_	7	det	Sue MOT Mother	Eve 21 female TD Brown
+6	big	big	adj	_	_	7	amod	Sue MOT Mother	Eve 21 female TD Brown
+7	stool	stool	n	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#468	you have a highchair
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	highchair	highchair	n	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#471	you have a little stool
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	have	have	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	little	little	adj	_	_	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	stool	stool	n	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#473	move your highchair
+1	move	move	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	your	your	det	_	_	3	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+3	highchair	highchair	n	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#475	cause that's my stool
+1	cause	because	conj	_	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	my	my	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	stool	stool	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#477	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#478	that's my stool
+1	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	my	my	det	_	_	4	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	stool	stool	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#479	my stool
+1	my	my	det	_	_	2	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+2	stool	stool	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#480	move your highchair
+1	move	move	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	your	your	det	_	_	3	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+3	highchair	highchair	n	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#483	yes that's your highchair
+1	yes	yes	co	_	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	highchair	highchair	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#485	is it cold
+1	is	be	aux	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+2	it	it	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	cold	cold	adv	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#486	it is
+1	it	it	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#487	I'm sorry about that
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	'm	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	sorry	sorry	adj	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	about	about	prep	_	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+5	that	that	pro	_	_	3	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#489	there's a piece of cheese until the sandwich gets cool
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	piece	piece	n	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+5	of	of	prep	_	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+6	cheese	cheese	n	_	_	4	nmod	Sue MOT Mother	Eve 21 female TD Brown
+7	until	until	conj	_	_	10	mark	Sue MOT Mother	Eve 21 female TD Brown
+8	the	the	det	_	_	9	det	Sue MOT Mother	Eve 21 female TD Brown
+9	sandwich	sandwich	n	_	_	10	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+10	gets	get	v	_	_	2	advcl	Sue MOT Mother	Eve 21 female TD Brown
+11	cool	cool	adj	_	_	10	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+
+#497	Papa went upstairs
+1	Papa	Papa	n	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	went	go	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	upstairs	upstairs	adv	_	_	2	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#499	yes baby Sarah's gonna take a nap
+1	yes	yes	co	_	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	baby	baby	n	_	_	3	nmod	Sue MOT Mother	Eve 21 female TD Brown
+3	Sarah	Sarah	adj	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	's	's	part	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+5	gon	go	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	na	to	inf	_	_	7	mark	Sue MOT Mother	Eve 21 female TD Brown
+7	take	take	v	_	_	5	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+8	a	a	det	_	_	9	det	Sue MOT Mother	Eve 21 female TD Brown
+9	nap	nap	n	_	_	7	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#501	she's gonna take a nap
+1	she	she	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	gon	go	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	na	to	inf	_	_	5	mark	Sue MOT Mother	Eve 21 female TD Brown
+5	take	take	v	_	_	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	a	a	det	_	_	7	det	Sue MOT Mother	Eve 21 female TD Brown
+7	nap	nap	n	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#502	yes in just a minute
+1	yes	yes	co	_	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	in	in	adv	_	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+3	just	just	adv	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	minute	minute	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#504	then she'll wake up
+1	then	then	adv	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'll	will	mod	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	wake	wake	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	up	up	adv	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#506	would you like a carrot
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	like	like	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	a	a	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	carrot	carrot	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#509	a piece of celery
+1	a	a	det	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	piece	piece	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	of	of	prep	_	_	4	case	Sue MOT Mother	Eve 21 female TD Brown
+4	celery	celery	n	_	_	2	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#511	a olive
+1	a	a	det	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	olive	olive	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#513	what would you like
+1	what	what	pro	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	would	will	mod	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	like	like	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#517	you had breakfast
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	had	have	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	breakfast	breakfast	n	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#518	this is lunch now
+1	this	this	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	lunch	lunch	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	now	now	adv	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#520	here he comes
+1	here	here	adv	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	comes	come	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#522	here he comes
+1	here	here	adv	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	comes	come	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#524	yeah she's awake now
+1	yeah	yeah	co	_	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	awake	awake	adj	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	now	now	adv	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#525	she's watching you eat you
+1	she	she	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	watching	watch	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	you	you	pro	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+5	eat	eat	v	_	_	3	xcomp	Sue MOT Mother	Eve 21 female TD Brown
+6	you	you	pro	_	_	5	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#531	I missed the first word
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	missed	miss	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	the	the	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	first	first	adj	_	_	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	word	word	n	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#533	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#534	it is an orange one
+1	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	an	a	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+4	orange	orange	n	_	_	5	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	one	one	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#537	what color is that one
+1	what	what	pro	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	color	color	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	cop	_	_	2	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	that	that	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	one	one	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#541	what one
+1	what	what	pro	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	one	one	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#543	another blue one
+1	another	another	qn	_	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+2	blue	blue	n	_	_	3	amod	Sue MOT Mother	Eve 21 female TD Brown
+3	one	one	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#548	no I don't think so
+1	no	no	co	_	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	I	I	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	do	do	mod	_	_	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	think	think	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	so	so	co	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#553	it's a string
+1	it	it	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 21 female TD Brown
+4	string	string	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#555	put the beads on the string
+1	put	put	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 21 female TD Brown
+3	beads	bead	n	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+4	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	string	string	n	_	_	1	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#557	what is it
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	it	it	pro	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#559	another what
+1	another	another	qn	_	_	2	det	Sue MOT Mother	Eve 21 female TD Brown
+2	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#561	Eve can you put the beads on the string
+1	Eve	Eve	n	_	_	4	vocative	David FAT Father	Eve 21 female TD Brown
+2	can	can	mod	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	put	put	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	David FAT Father	Eve 21 female TD Brown
+6	beads	bead	n	_	_	4	obj	David FAT Father	Eve 21 female TD Brown
+7	on	on	prep	_	_	9	case	David FAT Father	Eve 21 female TD Brown
+8	the	the	det	_	_	9	det	David FAT Father	Eve 21 female TD Brown
+9	string	string	n	_	_	4	obl	David FAT Father	Eve 21 female TD Brown
+
+#563	did we forget your grape juice
+1	did	do	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	forget	forget	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	your	your	det	_	_	6	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+5	grape	grape	n	_	_	6	nmod	Sue MOT Mother	Eve 21 female TD Brown
+6	juice	juice	n	_	_	3	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#565	can I have a string please
+1	can	can	mod	_	_	3	aux	David FAT Father	Eve 21 female TD Brown
+2	I	I	pro	_	_	3	nsubj	David FAT Father	Eve 21 female TD Brown
+3	have	have	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+4	a	a	det	_	_	5	det	David FAT Father	Eve 21 female TD Brown
+5	string	string	n	_	_	3	obj	David FAT Father	Eve 21 female TD Brown
+6	please	please	co	_	_	3	discourse	David FAT Father	Eve 21 female TD Brown
+
+#568	yes she is waking up
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	waking	wake	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+5	up	up	adv	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#569	she's hungry
+1	she	she	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	hungry	hungry	adj	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#572	I'll come right back
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	come	come	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	right	right	n	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	back	back	n	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#573	well I'm not going away
+1	well	well	co	_	_	5	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	I	I	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	'm	be	aux	_	_	5	aux	Sue MOT Mother	Eve 21 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+5	going	go	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+6	away	away	adv	_	_	5	advmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#577	what're you doing
+1	what	what	pro	_	_	4	obj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	aux	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+4	doing	do	part	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#588	Eve would you please bring me the ashtray from the windowsill
+1	Eve	Eve	n	_	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+2	would	will	mod	_	_	5	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	5	nsubj	David FAT Father	Eve 21 female TD Brown
+4	please	please	co	_	_	5	discourse	David FAT Father	Eve 21 female TD Brown
+5	bring	bring	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+6	me	me	pro	_	_	5	iobj	David FAT Father	Eve 21 female TD Brown
+7	the	the	det	_	_	8	det	David FAT Father	Eve 21 female TD Brown
+8	ashtray	ashtray	n	_	_	5	obj	David FAT Father	Eve 21 female TD Brown
+9	from	from	prep	_	_	11	case	David FAT Father	Eve 21 female TD Brown
+10	the	the	det	_	_	11	det	David FAT Father	Eve 21 female TD Brown
+11	windowsill	windowsill	n	_	_	8	nmod	David FAT Father	Eve 21 female TD Brown
+
+#589	the red one
+1	the	the	det	_	_	3	det	David FAT Father	Eve 21 female TD Brown
+2	red	red	n	_	_	3	amod	David FAT Father	Eve 21 female TD Brown
+3	one	one	pro	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#591	what are you doing
+1	what	what	pro	_	_	4	obj	David FAT Father	Eve 21 female TD Brown
+2	are	be	aux	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	doing	do	part	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#593	Eve can you put the beads on the string
+1	Eve	Eve	n	_	_	4	vocative	David FAT Father	Eve 21 female TD Brown
+2	can	can	mod	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	put	put	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	David FAT Father	Eve 21 female TD Brown
+6	beads	bead	n	_	_	4	obj	David FAT Father	Eve 21 female TD Brown
+7	on	on	prep	_	_	9	case	David FAT Father	Eve 21 female TD Brown
+8	the	the	det	_	_	9	det	David FAT Father	Eve 21 female TD Brown
+9	string	string	n	_	_	4	obl	David FAT Father	Eve 21 female TD Brown
+
+#596	put only one
+1	put	put	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	only	only	adv	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+3	one	one	pro	_	_	1	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#598	maybe it was orange
+1	maybe	maybe	adv	_	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+2	it	it	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+3	was	be	cop	_	_	4	cop	David FAT Father	Eve 21 female TD Brown
+4	orange	orange	adj	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#599	I don't know
+1	I	I	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+2	do	do	mod	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	n't	not	neg	_	_	4	advmod	David FAT Father	Eve 21 female TD Brown
+4	know	know	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#601	those are Papa's books
+1	those	those	pro	_	_	5	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	are	be	cop	_	_	5	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	adj	_	_	5	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	's	's	part	_	_	3	case	Sue MOT Mother	Eve 21 female TD Brown
+5	books	book	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#602	you mustn't touch
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	must	must	mod	_	_	4	aux	Sue MOT Mother	Eve 21 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 21 female TD Brown
+4	touch	touch	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#605	what is that
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	that	that	pro	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#609	where is Eve
+1	where	where	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	Eve	Eve	n	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#610	there she is
+1	there	there	adv	_	_	3	advmod	Sue MOT Mother	Eve 21 female TD Brown
+2	she	she	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#612	you're under
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	're	be	cop	_	_	3	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	under	under	adv	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#613	yes you're under Papa's desk
+1	yes	yes	co	_	_	7	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	7	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	're	be	cop	_	_	7	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	under	under	adv	_	_	7	case	Sue MOT Mother	Eve 21 female TD Brown
+5	Papa	Papa	adj	_	_	7	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+6	's	's	part	_	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+7	desk	desk	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+
+#615	yeah where is Eve
+1	yeah	yeah	co	_	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	where	where	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	is	be	cop	_	_	2	cop	Sue MOT Mother	Eve 21 female TD Brown
+4	Eve	Eve	n	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+
+#617	can you jump in the livingroom
+1	can	can	mod	_	_	3	aux	Sue MOT Mother	Eve 21 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+3	jump	jump	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+4	in	in	prep	_	_	6	case	Sue MOT Mother	Eve 21 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+6	livingroom	livingroom	n	_	_	3	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#619	okay jump in the livingroom
+1	okay	okay	co	_	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+2	jump	jump	n	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	in	in	prep	_	_	5	case	Sue MOT Mother	Eve 21 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 21 female TD Brown
+5	livingroom	livingroom	n	_	_	2	obl	Sue MOT Mother	Eve 21 female TD Brown
+
+#621	she forget her pencil
+1	she	she	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	forget	forget	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	her	her	det	_	_	4	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+4	pencil	pencil	n	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#623	you ask Papa please and he'll get you your pencil
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+2	ask	ask	v	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+3	Papa	Papa	n	_	_	2	obj	Sue MOT Mother	Eve 21 female TD Brown
+4	please	please	co	_	_	2	discourse	Sue MOT Mother	Eve 21 female TD Brown
+5	and	and	coord	_	_	8	cc	Sue MOT Mother	Eve 21 female TD Brown
+6	he	he	pro	_	_	8	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+7	'll	will	mod	_	_	8	aux	Sue MOT Mother	Eve 21 female TD Brown
+8	get	get	aux	_	_	2	conj	Sue MOT Mother	Eve 21 female TD Brown
+9	you	you	pro	_	_	8	iobj	Sue MOT Mother	Eve 21 female TD Brown
+10	your	your	det	_	_	11	nmod:poss	Sue MOT Mother	Eve 21 female TD Brown
+11	pencil	pencil	n	_	_	8	obj	Sue MOT Mother	Eve 21 female TD Brown
+
+#625	what do you say
+1	what	what	pro	_	_	4	obj	David FAT Father	Eve 21 female TD Brown
+2	do	do	mod	_	_	4	aux	David FAT Father	Eve 21 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 21 female TD Brown
+4	say	say	v	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#627	but what's the magic word
+1	but	but	conj	_	_	2	cc	David FAT Father	Eve 21 female TD Brown
+2	what	what	pro	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+3	's	be	cop	_	_	2	cop	David FAT Father	Eve 21 female TD Brown
+4	the	the	det	_	_	6	det	David FAT Father	Eve 21 female TD Brown
+5	magic	magic	adj	_	_	6	amod	David FAT Father	Eve 21 female TD Brown
+6	word	word	n	_	_	2	nsubj	David FAT Father	Eve 21 female TD Brown
+
+#631	here Eve
+1	here	here	adv	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	Eve	Eve	n	_	_	1	vocative	Sue MOT Mother	Eve 21 female TD Brown
+
+#632	here's a nice new page for you
+1	here	here	pro	_	_	0	root	Sue MOT Mother	Eve 21 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 21 female TD Brown
+3	a	a	det	_	_	6	det	Sue MOT Mother	Eve 21 female TD Brown
+4	nice	nice	adj	_	_	6	amod	Sue MOT Mother	Eve 21 female TD Brown
+5	new	new	adj	_	_	6	amod	Sue MOT Mother	Eve 21 female TD Brown
+6	page	page	n	_	_	1	nsubj	Sue MOT Mother	Eve 21 female TD Brown
+7	for	for	prep	_	_	8	case	Sue MOT Mother	Eve 21 female TD Brown
+8	you	you	pro	_	_	6	nmod	Sue MOT Mother	Eve 21 female TD Brown
+
+#649	what's that one
+1	what	what	pro	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	's	be	cop	_	_	1	cop	David FAT Father	Eve 21 female TD Brown
+3	that	that	det	_	_	4	det	David FAT Father	Eve 21 female TD Brown
+4	one	one	pro	_	_	1	nsubj	David FAT Father	Eve 21 female TD Brown
+
+#652	Eve g
+1	Eve	Eve	n	_	_	2	vocative	David FAT Father	Eve 21 female TD Brown
+2	g	g	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+
+#671	g h
+1	g	g	n	_	_	0	root	David FAT Father	Eve 21 female TD Brown
+2	h	h	n	_	_	1	conj	David FAT Father	Eve 21 female TD Brown
+

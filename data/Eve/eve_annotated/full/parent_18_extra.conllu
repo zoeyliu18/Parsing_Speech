@@ -1,0 +1,47 @@
+
+#194	do you want me to turn it for you
+1	do	do	mod	_	_	3	aux	Sue MOT Mother	Eve 18 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+3	want	want	v	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	me	me	pro	_	_	3	obj	Sue MOT Mother	Eve 18 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 18 female TD Brown
+6	turn	turn	v	_	_	3	xcomp	Sue MOT Mother	Eve 18 female TD Brown
+7	it	it	pro	_	_	6	obj	Sue MOT Mother	Eve 18 female TD Brown
+8	for	for	prep	_	_	9	case	Sue MOT Mother	Eve 18 female TD Brown
+9	you	you	pro	_	_	6	obl	Sue MOT Mother	Eve 18 female TD Brown
+
+#196	yes there's soldiers on the radio
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 18 female TD Brown
+2	there	there	pro	_	_	3	expl	Sue MOT Mother	Eve 18 female TD Brown
+3	's	be	cop	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	soldiers	soldier	n	_	_	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+5	on	on	prep	_	_	7	case	Sue MOT Mother	Eve 18 female TD Brown
+6	the	the	det	_	_	7	det	Sue MOT Mother	Eve 18 female TD Brown
+7	radio	radio	n	_	_	4	nmod	Sue MOT Mother	Eve 18 female TD Brown
+
+#197	there's two soldiers
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 18 female TD Brown
+2	's	be	cop	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+3	two	two	det	_	_	4	nummod	Sue MOT Mother	Eve 18 female TD Brown
+4	soldiers	soldier	n	_	_	2	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+
+#201	two soldiers
+1	two	two	det	_	_	2	nummod	Sue MOT Mother	Eve 18 female TD Brown
+2	soldiers	soldier	n	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#202	bring it here
+1	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+2	it	it	pro	_	_	1	obj	Sue MOT Mother	Eve 18 female TD Brown
+3	here	here	adv	_	_	1	advmod	Sue MOT Mother	Eve 18 female TD Brown
+
+#204	what's that
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 18 female TD Brown
+3	that	that	pro	_	_	1	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+
+#205	that's Jack and Jill
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 18 female TD Brown
+3	Jack	Jack	n	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+4	and	and	coord	_	_	5	cc	Sue MOT Mother	Eve 18 female TD Brown
+5	Jill	Jill	n	_	_	3	conj	Sue MOT Mother	Eve 18 female TD Brown

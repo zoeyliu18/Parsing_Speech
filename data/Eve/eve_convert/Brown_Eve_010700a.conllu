@@ -1,0 +1,2797 @@
+#0	more coffee
+1	more	more	qn	_	_	2	amod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#1	more coffee
+1	more	more	qn	_	_	2	amod	Sue MOT Mother	Eve 19 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#2	more grape juice too
+1	more	more	qn	_	_	3	amod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	grape	grape	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+4	too	too	adv	_	_	3	NJCT	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#3	that's better
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	better	good	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#4	Eve don't play with the sugar please
+1	Eve	Eve	n	_	_	4	vocative	Sue MOT Mother	Eve 19 female TD Brown
+2	do	do	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	play	play	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	with	with	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+6	the	the	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	sugar	sugar	n	_	_	4	obl	Sue MOT Mother	Eve 19 female TD Brown
+8	please	please	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+
+#5	Eve
+1	Eve	Eve	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#6	no
+1	no	no	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#7	that's right
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	right	right	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#8	no
+1	no	no	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#9	oh Fraser's coffee
+1	oh	oh	co	_	_	4	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Fraser	Fraser	adj	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 19 female TD Brown
+3	's	's	part	_	_	2	case	Eve CHI Target_Child	Eve 19 female TD Brown
+4	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#10	yes that's Fraser's coffee
+1	yes	yes	co	_	_	6	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	that	that	pro	_	_	6	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	6	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	Fraser	Fraser	adj	_	_	6	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+5	's	's	part	_	_	4	case	Sue MOT Mother	Eve 19 female TD Brown
+6	coffee	coffee	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#11	oh Cromer too
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Cromer	Cromer	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	too	too	post	_	_	2	PQ	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#12	well Cromer didn't come this morning
+1	well	well	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Cromer	Cromer	n	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	did	do	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	come	come	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	this	this	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	morning	morning	n	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#13	Cromer's busy today
+1	Cromer	Cromer	adj	_	_	0	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+2	's	's	part	_	_	1	case	Sue MOT Mother	Eve 19 female TD Brown
+3	busy	busy	adj	_	_	4	amod	Sue MOT Mother	Eve 19 female TD Brown
+4	today	today	adv	_	_	1	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#14	Cromer busy
+1	Cromer	Cromer	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	busy	busy	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#15	yes he's very busy
+1	yes	yes	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	he	he	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	very	very	adv	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	busy	busy	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#16	at home
+1	at	at	prep	_	_	2	case	Eve CHI Target_Child	Eve 19 female TD Brown
+2	home	home	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#20	probably home
+1	probably	probable	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	home	home	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#21	yes probably at home
+1	yes	yes	co	_	_	2	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	probably	probable	adv	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	at	at	prep	_	_	4	case	Sue MOT Mother	Eve 19 female TD Brown
+4	home	home	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#22	drink juice
+1	drink	drink	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#23	yes drink
+1	yes	yes	co	_	_	2	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	drink	drink	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#24	drink juice
+1	drink	drink	n	_	_	2	nmod	Sue MOT Mother	Eve 19 female TD Brown
+2	juice	juice	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#25	Eve spoon
+1	Eve	Eve	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	spoon	spoon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#26	Eve spoon
+1	Eve	Eve	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	spoon	spoon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#27	does Eve want a spoon
+1	does	do	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	want	want	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	a	a	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	spoon	spoon	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#28	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#29	alright
+1	alright	alright	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#30	here you are
+1	here	here	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#31	Fraser cup
+1	Fraser	Fraser	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	cup	cup	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#32	Eve why don't you drink it out_of the cup
+1	Eve	Eve	n	_	_	6	vocative	Sue MOT Mother	Eve 19 female TD Brown
+2	why	why	pro	_	_	6	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	do	do	mod	_	_	6	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	n't	not	neg	_	_	6	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	you	you	pro	_	_	6	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+6	drink	drink	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+7	it	it	pro	_	_	6	obj	Sue MOT Mother	Eve 19 female TD Brown
+8	out_of	out_of	prep	_	_	10	case	Sue MOT Mother	Eve 19 female TD Brown
+9	the	the	det	_	_	10	det	Sue MOT Mother	Eve 19 female TD Brown
+10	cup	cup	n	_	_	6	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#33	see Fraser's not drinking his coffee that way
+1	see	see	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Fraser	Fraser	n	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	aux	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	drinking	drink	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	his	his	det	_	_	7	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+7	coffee	coffee	n	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+8	that	that	det	_	_	9	det	Sue MOT Mother	Eve 19 female TD Brown
+9	way	way	n	_	_	5	JCT	Sue MOT Mother	Eve 19 female TD Brown
+
+#34	he's not drinking his coffee with his spoon
+1	he	he	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	not	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	drinking	drink	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	his	his	det	_	_	6	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+6	coffee	coffee	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+7	with	with	prep	_	_	9	case	Sue MOT Mother	Eve 19 female TD Brown
+8	his	his	det	_	_	9	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+9	spoon	spoon	n	_	_	4	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#35	drink your juice out_of the cup
+1	drink	drink	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	your	your	det	_	_	3	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+3	juice	juice	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	out_of	out_of	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	cup	cup	n	_	_	1	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#36	you eat with your spoon
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	eat	eat	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	with	with	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+4	your	your	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+5	spoon	spoon	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#37	no you're getting it all over you
+1	no	no	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	're	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	getting	get	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	it	it	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	all	all	adv	_	_	8	advmod	Sue MOT Mother	Eve 19 female TD Brown
+7	over	over	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+8	you	you	pro	_	_	4	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#38	look you're spilling it on your dress
+1	look	look	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	're	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	spilling	spill	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	it	it	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	on	on	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+7	your	your	det	_	_	8	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+8	dress	dress	n	_	_	4	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#39	you drink it out_of the cup
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	drink	drink	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	it	it	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	out_of	out_of	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	cup	cup	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#40	Fraser drinks his coffee that way
+1	Fraser	Fraser	n	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	drinks	drink	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	his	his	det	_	_	4	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+4	coffee	coffee	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+5	that	that	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	way	way	n	_	_	2	JCT	Sue MOT Mother	Eve 19 female TD Brown
+
+#41	and Eve drinks her grape juice that way
+1	and	and	coord	_	_	3	cc	Sue MOT Mother	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	drinks	drink	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	her	her	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+5	grape	grape	n	_	_	6	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+6	juice	juice	v	_	_	3	ccomp	Sue MOT Mother	Eve 19 female TD Brown
+7	that	that	det	_	_	8	det	Sue MOT Mother	Eve 19 female TD Brown
+8	way	way	n	_	_	6	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#42	grape juice
+1	grape	grape	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#43	get grape juice cup
+1	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	grape	grape	n	_	_	4	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	juice	juice	n	_	_	4	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+4	cup	cup	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#44	yes it's in the cup right here
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	it	it	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	in	in	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	cup	cup	n	_	_	3	obl	Sue MOT Mother	Eve 19 female TD Brown
+7	right	right	adv	_	_	8	advmod	Sue MOT Mother	Eve 19 female TD Brown
+8	here	here	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#45	right here
+1	right	right	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	here	here	adv	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#46	a spoon
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	spoon	spoon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#47	no you don't drink grape juice with a spoon
+1	no	no	co	_	_	7	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	do	do	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	drink	drink	n	_	_	7	nmod	Sue MOT Mother	Eve 19 female TD Brown
+6	grape	grape	n	_	_	7	nmod	Sue MOT Mother	Eve 19 female TD Brown
+7	juice	juice	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+8	with	with	prep	_	_	10	case	Sue MOT Mother	Eve 19 female TD Brown
+9	a	a	det	_	_	10	det	Sue MOT Mother	Eve 19 female TD Brown
+10	spoon	spoon	n	_	_	7	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#48	you drink it out_of the cup
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	drink	drink	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	it	it	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	out_of	out_of	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	cup	cup	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#49	see this is how I drink my coffee
+1	see	see	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	this	this	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	how	how	pro	_	_	6	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+5	I	I	pro	_	_	6	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+6	drink	drink	v	_	_	3	CPRED	Sue MOT Mother	Eve 19 female TD Brown
+7	my	my	det	_	_	8	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+8	coffee	coffee	n	_	_	6	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#50	you watch
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	watch	watch	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#51	drink coffee
+1	drink	drink	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#52	yes he's going to drink the coffee
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	he	he	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	going	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 19 female TD Brown
+6	drink	drink	v	_	_	4	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+7	the	the	det	_	_	8	det	Sue MOT Mother	Eve 19 female TD Brown
+8	coffee	coffee	n	_	_	6	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#53	then I stir it
+1	then	then	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	stir	stir	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	it	it	pro	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#54	then stir it
+1	then	then	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	stir	stir	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	it	it	pro	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#55	that's the way
+1	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	way	way	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#56	see
+1	see	see	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#57	from the cup
+1	from	from	prep	_	_	3	case	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	cup	cup	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#58	I see
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#59	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#60	oh you see
+1	oh	oh	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	see	see	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#61	I'm glad
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'm	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	glad	glad	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#62	byebye
+1	byebye	byebye	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#63	oh byebye
+1	oh	oh	co	_	_	2	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	byebye	byebye	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#64	are you going away
+1	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	1	PRED	Sue MOT Mother	Eve 19 female TD Brown
+3	going	go	part	_	_	2	XMOD	Sue MOT Mother	Eve 19 female TD Brown
+4	away	away	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#66	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#67	toe
+1	toe	toe	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#68	you're going to stand on my toe
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	're	be	aux	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	going	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	stand	stand	v	_	_	3	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+6	on	on	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+7	my	my	det	_	_	8	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+8	toe	toe	n	_	_	5	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#69	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#70	why
+1	why	why	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#71	oh okay
+1	oh	oh	co	_	_	2	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	okay	okay	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#72	you stand on my toe
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	stand	stand	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	on	on	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+4	my	my	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+5	toe	toe	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#73	I can't do it as well as Papa can
+1	I	I	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	ca	can	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	do	do	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	it	it	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	as	as	adv	_	_	7	COORD	Sue MOT Mother	Eve 19 female TD Brown
+7	well	well	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+8	as	as	prep	_	_	10	COORD	Sue MOT Mother	Eve 19 female TD Brown
+9	Papa	Papa	n	_	_	10	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+10	can	can	mod	_	_	7	conj	Sue MOT Mother	Eve 19 female TD Brown
+
+#74	he has bigger feet
+1	he	he	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	has	have	aux	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	bigger	big	adj	_	_	4	amod	Sue MOT Mother	Eve 19 female TD Brown
+4	feet	foot	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#75	bigger feet
+1	bigger	big	adj	_	_	2	amod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	feet	foot	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#76	yes bigger feet to stand on
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	bigger	big	adj	_	_	3	amod	Sue MOT Mother	Eve 19 female TD Brown
+3	feet	foot	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+5	stand	stand	n	_	_	3	nmod	Sue MOT Mother	Eve 19 female TD Brown
+6	on	on	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#77	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#78	that's a spoon
+1	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	spoon	spoon	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#79	oh spoon
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	spoon	spoon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#80	oh
+1	oh	oh	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#81	what happened
+1	what	what	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	happened	happen	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#82	I fell
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	fell	fall	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#83	you fell
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	fell	fall	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#84	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#85	did you hurt yourself
+1	did	do	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	hurt	hurt	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	yourself	yourself	pro	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#86	look hurt self
+1	look	look	co	_	_	2	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	hurt	hurt	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	self	self	n	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#87	you hurt yourself
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	hurt	hurt	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	yourself	yourself	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#88	where
+1	where	where	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#89	what did you hurt
+1	what	what	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+2	did	do	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	hurt	hurt	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#90	what did you hurt
+1	what	what	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+2	did	do	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	hurt	hurt	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#91	what's that
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	that	that	pro	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#92	arm
+1	arm	arm	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#93	you hurt your arm
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	hurt	hurt	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	your	your	det	_	_	4	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+4	arm	arm	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#94	be careful
+1	be	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	careful	care	adj	_	_	1	PRED	Sue MOT Mother	Eve 19 female TD Brown
+
+#95	open
+1	open	open	adj	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#96	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#97	open
+1	open	open	adj	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#98	open what
+1	open	open	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	what	what	pro	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#99	open door
+1	open	open	adj	_	_	2	amod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	door	door	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#100	open the door
+1	open	open	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	door	door	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#101	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#102	there you are
+1	there	there	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#103	Mommy wants some of these
+1	Mommy	Mommy	n	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	wants	want	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	some	some	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	of	of	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+5	these	these	pro	_	_	3	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#104	would you like to have two of those to play with
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	like	like	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	have	have	v	_	_	3	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+6	two	two	det	_	_	8	QUANT	Sue MOT Mother	Eve 19 female TD Brown
+7	of	of	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+8	those	those	pro	_	_	5	obl	Sue MOT Mother	Eve 19 female TD Brown
+9	to	to	inf	_	_	10	mark	Sue MOT Mother	Eve 19 female TD Brown
+10	play	play	v	_	_	5	XJCT	Sue MOT Mother	Eve 19 female TD Brown
+11	with	with	prep	_	_	10	JCT	Sue MOT Mother	Eve 19 female TD Brown
+
+#105	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#106	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#107	Mommy two play with
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	play	play	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+4	with	with	prep	_	_	3	JCT	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#108	Mommy have two to play with too
+1	Mommy	Mommy	n	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	two	two	det	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+5	play	play	n	_	_	3	obl	Sue MOT Mother	Eve 19 female TD Brown
+6	with	with	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+7	too	too	adv	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#109	yes
+1	yes	yes	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#110	you take these
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	take	take	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	these	these	det	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#111	take that
+1	take	take	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	that	that	pro	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#112	ten nine
+1	ten	ten	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	nine	nine	det	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#113	why don't you count from one
+1	why	why	pro	_	_	5	JCT	Sue MOT Mother	Eve 19 female TD Brown
+2	do	do	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+5	count	count	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	from	from	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+7	one	one	det	_	_	5	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#114	why don't you start from one
+1	why	why	pro	_	_	5	JCT	Sue MOT Mother	Eve 19 female TD Brown
+2	do	do	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+5	start	start	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	from	from	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+7	one	one	det	_	_	5	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#115	count them
+1	count	count	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	them	them	pro	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#116	one two
+1	one	one	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#117	and then what
+1	and	and	coord	_	_	3	cc	Sue MOT Mother	Eve 19 female TD Brown
+2	then	then	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+3	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#118	three
+1	three	three	det	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#119	and then what
+1	and	and	coord	_	_	3	cc	Sue MOT Mother	Eve 19 female TD Brown
+2	then	then	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+3	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#120	one two three go
+1	one	one	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	three	three	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+4	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#121	four is next
+1	four	four	det	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	next	next	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#122	four
+1	four	four	det	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#123	four yes
+1	four	four	det	_	_	2	QUANT	Sue MOT Mother	Eve 19 female TD Brown
+2	yes	yes	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#124	you only have three
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	only	only	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+3	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	three	three	det	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#125	here's another one
+1	here	here	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	another	another	qn	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	one	one	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#126	there
+1	there	there	adv	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#127	play one
+1	play	play	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#128	that's all I have
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	all	all	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	I	I	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+5	have	have	v	_	_	3	CMOD	Sue MOT Mother	Eve 19 female TD Brown
+
+#129	I don't have another one
+1	I	I	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	do	do	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	another	another	qn	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	one	one	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#130	I'm sorry
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'm	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	sorry	sorry	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#131	that's all
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	all	all	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#132	you'll hafta play with those
+1	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	haf	have	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	ta	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	play	play	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	with	with	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+7	those	those	pro	_	_	5	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#133	play those
+1	play	play	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	those	those	pro	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#134	one two three go
+1	one	one	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	three	three	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+4	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#135	one two go
+1	one	one	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#136	want nother one
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	nother	another	qn	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	one	one	pro	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#137	there isn't another one
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	another	another	qn	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	one	one	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#138	sorry
+1	sorry	sorry	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#139	I used them
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	used	use	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	them	them	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#140	nother one
+1	nother	another	qn	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#141	no there isn't another one
+1	no	no	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	there	there	pro	_	_	3	expl	Sue MOT Mother	Eve 19 female TD Brown
+3	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	n't	not	neg	_	_	6	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	another	another	qn	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	one	one	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#142	you have them all
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	them	them	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	all	all	post	_	_	3	PQ	Sue MOT Mother	Eve 19 female TD Brown
+
+#143	one two three go
+1	one	one	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	three	three	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+4	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#144	one two three go
+1	one	one	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	three	three	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+4	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#145	one two go
+1	one	one	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#146	go
+1	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#147	one two go
+1	one	one	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	3	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#148	one two three go six nine
+1	one	one	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	two	two	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	three	three	det	_	_	4	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+4	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+5	six	six	det	_	_	6	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+6	nine	nine	det	_	_	4	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#149	four
+1	four	four	det	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#150	three
+1	three	three	det	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#151	two
+1	two	two	det	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#152	one
+1	one	one	det	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#153	one
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#154	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#155	more
+1	more	more	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#156	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#157	go
+1	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#158	nine one two go Rangy
+1	nine	nine	det	_	_	2	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+2	one	one	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+3	two	two	det	_	_	4	QUANT	Eve CHI Target_Child	Eve 19 female TD Brown
+4	go	go	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+5	Rangy	Rangy	n	_	_	4	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#159	drop one
+1	drop	drop	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#160	one
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#161	there isn't another one Eve
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	6	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	another	another	qn	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	one	one	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+6	Eve	Eve	n	_	_	2	vocative	Sue MOT Mother	Eve 19 female TD Brown
+
+#162	you have them all
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	them	them	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	all	all	post	_	_	3	PQ	Sue MOT Mother	Eve 19 female TD Brown
+
+#163	what are you going to do now
+1	what	what	pro	_	_	4	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	going	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 19 female TD Brown
+6	do	do	v	_	_	4	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+7	now	now	adv	_	_	6	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#164	drinking juice
+1	drinking	drink	part	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	juice	juice	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#165	goo_sake
+1	goo_sake	goodness_sake	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#166	for_goodness_sake
+1	for_goodness_sake	for_goodness_sake	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#167	are you all finished
+1	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	all	all	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	finished	finish	part	_	_	1	CPRED	Sue MOT Mother	Eve 19 female TD Brown
+
+#168	are you all done
+1	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	all	all	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	done	do	part	_	_	1	CPRED	Sue MOT Mother	Eve 19 female TD Brown
+
+#169	want some grape juice
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	some	some	qn	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	grape	grape	n	_	_	4	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+4	juice	juice	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#172	grahamcracker
+1	grahamcracker	grahamcracker	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#173	a grahamcracker
+1	a	a	det	_	_	2	det	Sue MOT Mother	Eve 19 female TD Brown
+2	grahamcracker	grahamcracker	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#174	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#175	did you eat the other one
+1	did	do	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	eat	eat	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+5	other	other	qn	_	_	6	amod	Sue MOT Mother	Eve 19 female TD Brown
+6	one	one	pro	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#176	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#177	come here
+1	come	come	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	here	here	adv	_	_	1	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#178	come here
+1	come	come	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	here	here	adv	_	_	1	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#179	come here
+1	come	come	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	here	here	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#182	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#183	get it
+1	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#185	ball
+1	ball	ball	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#186	what is it
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	it	it	pro	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#187	ball
+1	ball	ball	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#188	hey not so hard please
+1	hey	hey	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	not	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+3	so	so	adv	_	_	4	mark	Sue MOT Mother	Eve 19 female TD Brown
+4	hard	hard	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	please	please	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+
+#189	you'll break them
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	break	break	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	them	them	pro	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#190	be careful
+1	be	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	careful	care	adj	_	_	1	PRED	Sue MOT Mother	Eve 19 female TD Brown
+
+#191	Eve
+1	Eve	Eve	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#192	be careful
+1	be	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	careful	care	adj	_	_	1	PRED	Sue MOT Mother	Eve 19 female TD Brown
+
+#193	open toy box
+1	open	open	adj	_	_	3	amod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	toy	toy	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	box	box	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#196	alright
+1	alright	alright	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#197	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#198	there we are
+1	there	there	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#204	that Humm book teddybear
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Humm	Humm	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	book	book	n	_	_	4	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+4	teddybear	teddybear	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#205	teddybear
+1	teddybear	teddybear	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#206	Lassie
+1	Lassie	Lassie	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#207	show me
+1	show	show	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	me	me	pro	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#208	book
+1	book	book	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#209	oh horsie stuck
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	horsie	horse	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	stuck	stick	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#210	yes the horse is stuck
+1	yes	yes	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	horse	horse	n	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	is	be	aux	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+5	stuck	stick	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#211	Lassie
+1	Lassie	Lassie	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#212	yes Lassie's trying to get him out
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Lassie	Lassie	n	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	trying	try	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 19 female TD Brown
+6	get	get	v	_	_	4	ccomp	Sue MOT Mother	Eve 19 female TD Brown
+7	him	him	pro	_	_	6	obj	Sue MOT Mother	Eve 19 female TD Brown
+8	out	out	adv	_	_	6	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#213	I'll be right back Eve
+1	I	I	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	be	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	right	right	adj	_	_	5	amod	Sue MOT Mother	Eve 19 female TD Brown
+5	back	back	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	Eve	Eve	n	_	_	5	vocative	Sue MOT Mother	Eve 19 female TD Brown
+
+#214	oh Mommy right back
+1	oh	oh	co	_	_	4	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	4	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	right	right	n	_	_	4	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+4	back	back	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#216	now fix
+1	now	now	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	fix	fix	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#217	fix what
+1	fix	fix	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	what	what	pro	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#218	now fix a Lassie
+1	now	now	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	fix	fix	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 19 female TD Brown
+4	Lassie	Lassie	n	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#219	fix Lassie
+1	fix	fix	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	Lassie	Lassie	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#220	what's wrong with him
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	wrong	wrong	n	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	with	with	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+5	him	him	pro	_	_	3	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#221	now read
+1	now	now	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#222	no Eve read
+1	no	no	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#223	sit on the table and read
+1	sit	sit	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	on	on	prep	_	_	4	case	Sue MOT Mother	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	table	table	n	_	_	1	obl	Sue MOT Mother	Eve 19 female TD Brown
+5	and	and	coord	_	_	1	cc	Sue MOT Mother	Eve 19 female TD Brown
+6	read	read	v	_	_	5	COORD	Sue MOT Mother	Eve 19 female TD Brown
+
+#224	now Mommy read
+1	now	now	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#225	no Mommy's busy right now
+1	no	no	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Mommy	Mommy	adj	_	_	5	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+3	's	's	part	_	_	2	case	Sue MOT Mother	Eve 19 female TD Brown
+4	busy	busy	adj	_	_	5	amod	Sue MOT Mother	Eve 19 female TD Brown
+5	right	right	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	now	now	adv	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#226	we'll read later
+1	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	later	later	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#227	want Mommy read
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	read	read	v	_	_	1	xcomp	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#228	no
+1	no	no	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#229	you go and read Lassie and we'll read later
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	go	go	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 19 female TD Brown
+4	read	read	v	_	_	3	COORD	Sue MOT Mother	Eve 19 female TD Brown
+5	Lassie	Lassie	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	and	and	coord	_	_	9	cc	Sue MOT Mother	Eve 19 female TD Brown
+7	we	we	pro	_	_	9	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+8	'll	will	mod	_	_	9	aux	Sue MOT Mother	Eve 19 female TD Brown
+9	read	read	v	_	_	4	CJCT	Sue MOT Mother	Eve 19 female TD Brown
+10	later	later	adv	_	_	9	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#230	no Mommy read
+1	no	no	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#231	no Mommy's busy
+1	no	no	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Mommy	Mommy	adj	_	_	4	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+3	's	's	part	_	_	2	case	Sue MOT Mother	Eve 19 female TD Brown
+4	busy	busy	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#232	no Mommy read
+1	no	no	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#233	you go in and read Lassie to Fraser
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	go	go	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	in	in	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 19 female TD Brown
+5	read	read	v	_	_	4	COORD	Sue MOT Mother	Eve 19 female TD Brown
+6	Lassie	Lassie	n	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+7	to	to	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+8	Fraser	Fraser	n	_	_	6	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#234	he's never heard Lassie
+1	he	he	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	never	never	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	heard	hear	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	Lassie	Lassie	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#235	you go in and read
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	go	go	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	in	in	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 19 female TD Brown
+5	read	read	v	_	_	4	COORD	Sue MOT Mother	Eve 19 female TD Brown
+
+#238	Mommy read
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#239	no
+1	no	no	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#240	Mommy's busy right now sweetie
+1	Mommy	Mommy	adj	_	_	4	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+2	's	's	part	_	_	1	case	Sue MOT Mother	Eve 19 female TD Brown
+3	busy	busy	adj	_	_	4	amod	Sue MOT Mother	Eve 19 female TD Brown
+4	right	right	n	_	_	5	JCT	Sue MOT Mother	Eve 19 female TD Brown
+5	now	now	adv	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	sweetie	sweetie	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+
+#241	we'll read later
+1	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	later	later	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#242	later on
+1	later	later	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	on	on	adv	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#243	I have things to do and then we'll read
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	things	thing	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	do	do	v	_	_	3	XMOD	Sue MOT Mother	Eve 19 female TD Brown
+6	and	and	coord	_	_	10	cc	Sue MOT Mother	Eve 19 female TD Brown
+7	then	then	adv	_	_	10	advmod	Sue MOT Mother	Eve 19 female TD Brown
+8	we	we	pro	_	_	10	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+9	'll	will	mod	_	_	10	aux	Sue MOT Mother	Eve 19 female TD Brown
+10	read	read	v	_	_	5	CJCT	Sue MOT Mother	Eve 19 female TD Brown
+
+#244	okay
+1	okay	okay	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#245	the coat
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	coat	coat	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#246	Rangy coat
+1	Rangy	Rangy	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	coat	coat	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#247	Rangy doesn't have a coat
+1	Rangy	Rangy	n	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	does	do	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	a	a	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	coat	coat	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#248	Eve coat
+1	Eve	Eve	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	coat	coat	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#249	Eve's coat is in the closet
+1	Eve	Eve	adj	_	_	3	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+2	's	's	part	_	_	1	case	Sue MOT Mother	Eve 19 female TD Brown
+3	coat	coat	n	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	in	in	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+6	the	the	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	closet	closet	n	_	_	4	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#250	oh Cromer
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Cromer	Cromer	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#251	oh Cromer busy
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Cromer	Cromer	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	busy	busy	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#252	Cromer's what
+1	Cromer	Cromer	adj	_	_	3	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+2	's	's	part	_	_	1	case	Sue MOT Mother	Eve 19 female TD Brown
+3	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#253	oh Cromer
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Cromer	Cromer	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#254	oh Cromer busy
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Cromer	Cromer	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	busy	busy	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#255	yes he's busy
+1	yes	yes	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	he	he	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	busy	busy	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#256	a Mommy read
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#259	a Mommy you read
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+4	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#260	Mommy read
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#261	later we'll read
+1	later	later	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	we	we	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	'll	will	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#262	I'm busy
+1	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'm	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	busy	busy	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#263	no after Mommy finishes then we'll read
+1	no	no	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	after	after	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+3	Mommy	Mommy	n	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	finishes	finish	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	then	then	adv	_	_	8	advmod	Sue MOT Mother	Eve 19 female TD Brown
+6	we	we	pro	_	_	8	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+7	'll	will	mod	_	_	8	aux	Sue MOT Mother	Eve 19 female TD Brown
+8	read	read	v	_	_	4	ccomp	Sue MOT Mother	Eve 19 female TD Brown
+
+#264	yes you sit and read to Rangy and Fraser
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	sit	sit	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	and	and	coord	_	_	3	cc	Sue MOT Mother	Eve 19 female TD Brown
+5	read	read	v	_	_	4	COORD	Sue MOT Mother	Eve 19 female TD Brown
+6	to	to	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+7	Rangy	Rangy	n	_	_	5	obl	Sue MOT Mother	Eve 19 female TD Brown
+8	and	and	coord	_	_	7	cc	Sue MOT Mother	Eve 19 female TD Brown
+9	Fraser	Fraser	n	_	_	8	COORD	Sue MOT Mother	Eve 19 female TD Brown
+
+#265	okay
+1	okay	okay	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#266	put Rangy on your lap
+1	put	put	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	Rangy	Rangy	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+3	on	on	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+4	your	your	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+5	lap	lap	n	_	_	1	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#267	Rangy lap
+1	Rangy	Rangy	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	lap	lap	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#268	yes
+1	yes	yes	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#269	you read to Rangy
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	to	to	prep	_	_	4	case	Sue MOT Mother	Eve 19 female TD Brown
+4	Rangy	Rangy	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#270	Rangy would like to have a story
+1	Rangy	Rangy	n	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	like	like	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	have	have	v	_	_	3	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+6	a	a	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	story	story	n	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#271	a Mommy read
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#272	Eve's going to read
+1	Eve	Eve	n	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	going	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	read	read	v	_	_	3	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+
+#273	a Mommy
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#274	a Mommy read
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#275	Eve read
+1	Eve	Eve	n	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#276	Mommy read
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#277	Mommy read
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#278	no Mommy's busy
+1	no	no	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Mommy	Mommy	adj	_	_	4	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+3	's	's	part	_	_	2	case	Sue MOT Mother	Eve 19 female TD Brown
+4	busy	busy	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#279	you read to Rangy
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	to	to	prep	_	_	4	case	Sue MOT Mother	Eve 19 female TD Brown
+4	Rangy	Rangy	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#280	Mommy
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#285	there
+1	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#287	Lassie
+1	Lassie	Lassie	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#290	Jeff mommy
+1	Jeff	Jeff	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	mommy	mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#292	page
+1	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#294	that funny
+1	that	that	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	funny	fun	adj	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#296	a gopher
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	gopher	gopher	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#298	hill
+1	hill	hill	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#300	wait a minute
+1	wait	wait	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	minute	minute	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#302	I get paper
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	paper	paper	n	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#303	you read it
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	it	it	pro	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#304	Lassie
+1	Lassie	Lassie	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#306	the dog is stuck
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	dog	dog	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	is	be	aux	_	_	4	aux	Eve CHI Target_Child	Eve 19 female TD Brown
+4	stuck	stick	part	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#308	the horse is stuck
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	horse	horse	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	is	be	aux	_	_	4	aux	Eve CHI Target_Child	Eve 19 female TD Brown
+4	stuck	stick	part	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#309	oh drop paper
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	drop	drop	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	paper	paper	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#311	write
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#313	hold it
+1	hold	hold	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#315	happen
+1	happen	happen	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#316	drop choo_choo train
+1	drop	drop	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	choo_choo	choo	on	_	_	3	MOD	Eve CHI Target_Child	Eve 19 female TD Brown
+3	train	train	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#318	there
+1	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#320	a horsie stuck
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	horsie	horse	n	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+3	stuck	stick	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#321	Macintosh
+1	Macintosh	Macintosh	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#323	I see
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#324	stool
+1	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#325	are you standing on your stool
+1	are	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	1	PRED	Sue MOT Mother	Eve 19 female TD Brown
+3	standing	stand	part	_	_	2	XMOD	Sue MOT Mother	Eve 19 female TD Brown
+4	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	your	your	det	_	_	6	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+6	stool	stool	n	_	_	3	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#326	yep
+1	yep	yep	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#327	stool
+1	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#328	I help stool
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	help	help	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	stool	stool	n	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#329	I'd help stool away
+1	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	'd	genmod	mod	_	_	3	aux	Eve CHI Target_Child	Eve 19 female TD Brown
+3	help	help	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+4	stool	stool	n	_	_	3	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+5	away	away	adv	_	_	3	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#330	I help stool
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	help	help	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	stool	stool	n	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#331	help stool
+1	help	help	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#332	pencil
+1	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#333	d you want a pencil
+1	d	do	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	want	want	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	a	a	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	pencil	pencil	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#334	okay
+1	okay	okay	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#335	okay
+1	okay	okay	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#336	Mommy'll hafta find one
+1	Mommy	Mommy	n	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	haf	have	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	ta	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	find	find	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	one	one	det	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#337	Mommy find it
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	find	find	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	it	it	pro	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#338	mhm
+1	mhm	mhm	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#339	there's one
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	one	one	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#340	there one
+1	there	there	adv	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	one	one	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#341	oh drop paper
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	drop	drop	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	paper	paper	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#342	a tippietoe
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	tippietoe	tippietoe	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#343	tippietoe
+1	tippietoe	tippietoe	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#344	tippietoe
+1	tippietoe	tippietoe	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#345	write a paper
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	paper	paper	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#346	write a paper
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	paper	paper	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#347	there
+1	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#349	what are you doing
+1	what	what	pro	_	_	4	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	doing	do	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#350	write a pencil
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	pencil	pencil	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#352	pencil table
+1	pencil	pencil	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	table	table	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#359	that's a pretty picture isn't it
+1	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+4	pretty	pretty	adj	_	_	5	amod	Sue MOT Mother	Eve 19 female TD Brown
+5	picture	picture	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	is	be	cop	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+7	n't	not	neg	_	_	8	advmod	Sue MOT Mother	Eve 19 female TD Brown
+8	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#360	pretty picture
+1	pretty	pretty	adj	_	_	2	amod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	picture	picture	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#361	write a lady
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	lady	lady	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#362	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#364	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#366	there
+1	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#367	say Eve's pencil
+1	say	say	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	Eve	Eve	adj	_	_	4	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+3	's	's	part	_	_	2	case	Sue MOT Mother	Eve 19 female TD Brown
+4	pencil	pencil	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#368	my pencil
+1	my	my	det	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 19 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#369	my pencil
+1	my	my	det	_	_	2	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#370	there
+1	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#371	what's this
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	this	this	pro	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#372	pencil
+1	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#373	you say Eve's pencil
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	say	say	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	Eve	Eve	adj	_	_	5	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+4	's	's	part	_	_	3	case	Sue MOT Mother	Eve 19 female TD Brown
+5	pencil	pencil	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#374	Eve pencil
+1	Eve	Eve	n	_	_	2	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#375	Eve's pencil
+1	Eve	Eve	adj	_	_	3	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+2	's	's	part	_	_	1	case	Sue MOT Mother	Eve 19 female TD Brown
+3	pencil	pencil	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#376	lady
+1	lady	lady	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#377	Eve has the pencil
+1	Eve	Eve	n	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	has	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	pencil	pencil	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#378	my pencil
+1	my	my	det	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 19 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#379	there
+1	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#380	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#382	that there
+1	that	that	comp	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	there	there	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#384	you write a pencil
+1	you	you	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	a	a	det	_	_	4	det	Eve CHI Target_Child	Eve 19 female TD Brown
+4	pencil	pencil	n	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#385	what are you doing
+1	what	what	pro	_	_	4	LINK	David FAT Father	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	David FAT Father	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 19 female TD Brown
+4	doing	do	part	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#386	write a pencil
+1	write	write	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	pencil	pencil	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#387	you're writing with a pencil
+1	you	you	pro	_	_	3	nsubj	David FAT Father	Eve 19 female TD Brown
+2	're	be	aux	_	_	3	aux	David FAT Father	Eve 19 female TD Brown
+3	writing	write	part	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+4	with	with	prep	_	_	6	case	David FAT Father	Eve 19 female TD Brown
+5	a	a	det	_	_	6	det	David FAT Father	Eve 19 female TD Brown
+6	pencil	pencil	n	_	_	3	obl	David FAT Father	Eve 19 female TD Brown
+
+#388	oh I'll bet you're helping aren't you
+1	oh	oh	co	_	_	7	discourse	David FAT Father	Eve 19 female TD Brown
+2	I	I	pro	_	_	4	nsubj	David FAT Father	Eve 19 female TD Brown
+3	'll	will	mod	_	_	4	aux	David FAT Father	Eve 19 female TD Brown
+4	bet	bet	v	_	_	7	LINK	David FAT Father	Eve 19 female TD Brown
+5	you	you	pro	_	_	7	nsubj	David FAT Father	Eve 19 female TD Brown
+6	're	be	aux	_	_	7	aux	David FAT Father	Eve 19 female TD Brown
+7	helping	help	part	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+8	are	be	aux	_	_	10	aux	David FAT Father	Eve 19 female TD Brown
+9	n't	not	neg	_	_	10	advmod	David FAT Father	Eve 19 female TD Brown
+10	you	you	pro	_	_	7	discourse	David FAT Father	Eve 19 female TD Brown
+
+#389	my you're doing very well
+1	my	my	det	_	_	4	discourse	David FAT Father	Eve 19 female TD Brown
+2	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 19 female TD Brown
+3	're	be	aux	_	_	4	aux	David FAT Father	Eve 19 female TD Brown
+4	doing	do	part	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+5	very	very	adv	_	_	6	advmod	David FAT Father	Eve 19 female TD Brown
+6	well	well	adv	_	_	4	advmod	David FAT Father	Eve 19 female TD Brown
+
+#390	hi
+1	hi	hi	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#391	hi
+1	hi	hi	co	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#392	that's a pretty outfit you have on Eve
+1	that	that	pro	_	_	5	nsubj	David FAT Father	Eve 19 female TD Brown
+2	's	be	cop	_	_	5	cop	David FAT Father	Eve 19 female TD Brown
+3	a	a	det	_	_	5	det	David FAT Father	Eve 19 female TD Brown
+4	pretty	pretty	adj	_	_	5	amod	David FAT Father	Eve 19 female TD Brown
+5	outfit	outfit	n	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+6	you	you	pro	_	_	7	nsubj	David FAT Father	Eve 19 female TD Brown
+7	have	have	v	_	_	5	CMOD	David FAT Father	Eve 19 female TD Brown
+8	on	on	adv	_	_	7	advmod	David FAT Father	Eve 19 female TD Brown
+9	Eve	Eve	n	_	_	5	vocative	David FAT Father	Eve 19 female TD Brown
+
+#393	that a page
+1	that	that	comp	_	_	3	LINK	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#394	a page
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#395	a page
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#398	well Eve will you tell me what you've been doing this morning
+1	well	well	co	_	_	5	discourse	David FAT Father	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	5	vocative	David FAT Father	Eve 19 female TD Brown
+3	will	will	mod	_	_	5	aux	David FAT Father	Eve 19 female TD Brown
+4	you	you	pro	_	_	5	nsubj	David FAT Father	Eve 19 female TD Brown
+5	tell	tell	v	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+6	me	me	pro	_	_	5	obj	David FAT Father	Eve 19 female TD Brown
+7	what	what	pro	_	_	11	LINK	David FAT Father	Eve 19 female TD Brown
+8	you	you	pro	_	_	11	nsubj	David FAT Father	Eve 19 female TD Brown
+9	've	have	aux	_	_	11	aux	David FAT Father	Eve 19 female TD Brown
+10	been	be	aux	_	_	11	aux	David FAT Father	Eve 19 female TD Brown
+11	doing	do	part	_	_	5	ccomp	David FAT Father	Eve 19 female TD Brown
+12	this	this	det	_	_	13	det	David FAT Father	Eve 19 female TD Brown
+13	morning	morning	n	_	_	11	JCT	David FAT Father	Eve 19 female TD Brown
+
+#399	Cromer
+1	Cromer	Cromer	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#400	Cromer
+1	Cromer	Cromer	n	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#401	was he here
+1	was	be	cop	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+2	he	he	pro	_	_	1	PRED	David FAT Father	Eve 19 female TD Brown
+3	here	here	adv	_	_	2	advmod	David FAT Father	Eve 19 female TD Brown
+
+#403	no he wasn't either
+1	no	no	co	_	_	3	discourse	David FAT Father	Eve 19 female TD Brown
+2	he	he	pro	_	_	3	nsubj	David FAT Father	Eve 19 female TD Brown
+3	was	be	cop	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+4	n't	not	neg	_	_	5	advmod	David FAT Father	Eve 19 female TD Brown
+5	either	either	adv	_	_	3	advmod	David FAT Father	Eve 19 female TD Brown
+
+#404	you shake your head this way
+1	you	you	pro	_	_	2	nsubj	David FAT Father	Eve 19 female TD Brown
+2	shake	shake	v	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+3	your	your	det	_	_	4	nmod:poss	David FAT Father	Eve 19 female TD Brown
+4	head	head	n	_	_	2	obj	David FAT Father	Eve 19 female TD Brown
+5	this	this	pro	_	_	2	conj	David FAT Father	Eve 19 female TD Brown
+6	way	way	adv	_	_	5	advmod	David FAT Father	Eve 19 female TD Brown
+
+#405	this way
+1	this	this	pro	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+2	way	way	adv	_	_	1	advmod	David FAT Father	Eve 19 female TD Brown
+
+#406	that means no
+1	that	that	pro	_	_	2	nsubj	David FAT Father	Eve 19 female TD Brown
+2	means	mean	v	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+3	no	no	co	_	_	2	obj	David FAT Father	Eve 19 female TD Brown
+
+#407	this means yes
+1	this	this	pro	_	_	2	nsubj	David FAT Father	Eve 19 female TD Brown
+2	means	mean	v	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+3	yes	yes	co	_	_	2	obj	David FAT Father	Eve 19 female TD Brown
+
+#408	well what else have you been doing
+1	well	well	co	_	_	4	discourse	David FAT Father	Eve 19 female TD Brown
+2	what	what	pro	_	_	4	nsubj	David FAT Father	Eve 19 female TD Brown
+3	else	else	post	_	_	2	PQ	David FAT Father	Eve 19 female TD Brown
+4	have	have	v	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+5	you	you	pro	_	_	7	nsubj	David FAT Father	Eve 19 female TD Brown
+6	been	be	aux	_	_	7	aux	David FAT Father	Eve 19 female TD Brown
+7	doing	do	part	_	_	4	ccomp	David FAT Father	Eve 19 female TD Brown
+
+#409	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#410	what are you writing Eve
+1	what	what	pro	_	_	4	LINK	David FAT Father	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	David FAT Father	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	David FAT Father	Eve 19 female TD Brown
+4	writing	write	part	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+5	Eve	Eve	n	_	_	4	vocative	David FAT Father	Eve 19 female TD Brown
+
+#411	are you gonna turn the page
+1	are	be	cop	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+2	you	you	pro	_	_	1	PRED	David FAT Father	Eve 19 female TD Brown
+3	gon	go	part	_	_	2	XMOD	David FAT Father	Eve 19 female TD Brown
+4	na	to	inf	_	_	5	mark	David FAT Father	Eve 19 female TD Brown
+5	turn	turn	v	_	_	3	xcomp	David FAT Father	Eve 19 female TD Brown
+6	the	the	det	_	_	7	det	David FAT Father	Eve 19 female TD Brown
+7	page	page	n	_	_	5	obj	David FAT Father	Eve 19 female TD Brown
+
+#412	more page
+1	more	more	qn	_	_	2	amod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#413	look Eve there are all kinds of pages
+1	look	look	co	_	_	4	discourse	David FAT Father	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	4	vocative	David FAT Father	Eve 19 female TD Brown
+3	there	there	pro	_	_	4	expl	David FAT Father	Eve 19 female TD Brown
+4	are	be	cop	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+5	all	all	qn	_	_	6	QUANT	David FAT Father	Eve 19 female TD Brown
+6	kinds	kind	n	_	_	4	nsubj	David FAT Father	Eve 19 female TD Brown
+7	of	of	prep	_	_	8	case	David FAT Father	Eve 19 female TD Brown
+8	pages	page	n	_	_	6	nmod	David FAT Father	Eve 19 female TD Brown
+
+#414	look at that
+1	look	look	v	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+2	at	at	prep	_	_	3	case	David FAT Father	Eve 19 female TD Brown
+3	that	that	pro	_	_	1	obl	David FAT Father	Eve 19 female TD Brown
+
+#415	see
+1	see	see	v	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#416	a pencil
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#417	a pencil
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	pencil	pencil	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#418	uhuh
+1	uhuh	uhuh	co	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#419	uhuh
+1	uhuh	uhuh	co	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#420	how are the fish doing Eve REPLACEMENT fishes
+1	how	how	pro	_	_	5	LINK	David FAT Father	Eve 19 female TD Brown
+2	are	be	aux	_	_	5	aux	David FAT Father	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	David FAT Father	Eve 19 female TD Brown
+4	fish	fish	n	_	_	5	nsubj	David FAT Father	Eve 19 female TD Brown
+5	doing	do	part	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+6	Eve	Eve	n	_	_	5	vocative	David FAT Father	Eve 19 female TD Brown
+
+#421	Eve
+1	Eve	Eve	n	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#422	how are the fish
+1	how	how	pro	_	_	2	LINK	David FAT Father	Eve 19 female TD Brown
+2	are	be	cop	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	David FAT Father	Eve 19 female TD Brown
+4	fish	fish	n	_	_	2	PRED	David FAT Father	Eve 19 female TD Brown
+
+#423	swim
+1	swim	swim	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#424	they're swimming
+1	they	they	pro	_	_	3	nsubj	David FAT Father	Eve 19 female TD Brown
+2	're	be	aux	_	_	3	aux	David FAT Father	Eve 19 female TD Brown
+3	swimming	swim	part	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#425	a paper
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	paper	paper	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#427	oh Fraser coffee more
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Fraser	Fraser	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	coffee	coffee	n	_	_	4	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+4	more	more	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#428	there isn't any more
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	any	any	qn	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	more	more	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#429	the coffee's all_gone
+1	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+2	coffee	coffee	adj	_	_	4	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+3	's	's	part	_	_	2	case	Sue MOT Mother	Eve 19 female TD Brown
+4	all_gone	all_gone	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#430	would you bring me the cup please
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	me	me	pro	_	_	3	iobj	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	cup	cup	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+7	please	please	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+
+#431	bring Mommy the cup
+1	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	cup	cup	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#433	thank_you
+1	thank_you	thank_you	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#434	Fraser
+1	Fraser	Fraser	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#435	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#436	a spoon
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	spoon	spoon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#437	oh the spoon too
+1	oh	oh	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	spoon	spoon	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	too	too	adv	_	_	3	NJCT	Sue MOT Mother	Eve 19 female TD Brown
+
+#438	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#439	I get it
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 19 female TD Brown
+2	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	it	it	pro	_	_	2	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#440	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#441	you'll get it
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	get	get	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	it	it	pro	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#442	now look what else are you gonna bring
+1	now	now	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	look	look	co	_	_	7	discourse	Sue MOT Mother	Eve 19 female TD Brown
+3	what	what	pro	_	_	7	LINK	Sue MOT Mother	Eve 19 female TD Brown
+4	else	else	post	_	_	3	PQ	Sue MOT Mother	Eve 19 female TD Brown
+5	are	be	aux	_	_	7	aux	Sue MOT Mother	Eve 19 female TD Brown
+6	you	you	pro	_	_	7	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+7	gon	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+8	na	to	inf	_	_	9	mark	Sue MOT Mother	Eve 19 female TD Brown
+9	bring	bring	v	_	_	7	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+
+#443	napkin
+1	napkin	napkin	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#444	okay
+1	okay	okay	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#445	you bring me the napkin too
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	me	me	pro	_	_	2	iobj	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	napkin	napkin	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	too	too	post	_	_	5	POSTMOD	Sue MOT Mother	Eve 19 female TD Brown
+
+#446	thank_you
+1	thank_you	thank_you	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#447	you're a good girl
+1	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	're	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+4	good	good	adj	_	_	5	amod	Sue MOT Mother	Eve 19 female TD Brown
+5	girl	girl	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#448	one
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#449	you want what
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	want	want	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	what	what	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#450	spoon
+1	spoon	spoon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#451	you want a spoon
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	want	want	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	spoon	spoon	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#452	what are you going to do with it
+1	what	what	pro	_	_	4	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	going	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	to	to	inf	_	_	6	mark	Sue MOT Mother	Eve 19 female TD Brown
+6	do	do	v	_	_	4	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+7	with	with	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+8	it	it	pro	_	_	6	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#453	napkin
+1	napkin	napkin	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#454	you want a spoon in the napkin
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	want	want	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	spoon	spoon	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+5	in	in	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+6	the	the	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	napkin	napkin	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#455	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#456	what are you gonna do with them
+1	what	what	pro	_	_	4	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	gon	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	na	to	inf	_	_	6	mark	Sue MOT Mother	Eve 19 female TD Brown
+6	do	do	v	_	_	4	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+7	with	with	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+8	them	them	pro	_	_	6	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#457	napkin
+1	napkin	napkin	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#458	where are you gonna put them
+1	where	where	pro	_	_	4	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	gon	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	na	to	inf	_	_	6	mark	Sue MOT Mother	Eve 19 female TD Brown
+6	put	put	v	_	_	4	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+7	them	them	pro	_	_	6	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#459	on a table
+1	on	on	prep	_	_	3	case	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	table	table	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#460	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#461	you put them back on the table
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	put	put	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	them	them	pro	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	back	back	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	on	on	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+6	the	the	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	table	table	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#462	there
+1	there	there	adv	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#463	don't write on the book
+1	do	do	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	n't	not	neg	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+3	write	write	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	book	book	n	_	_	3	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#464	you write on the paper
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	write	write	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	on	on	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	paper	paper	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#465	Eve
+1	Eve	Eve	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#467	don't write on the book
+1	do	do	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	n't	not	neg	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+3	write	write	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	on	on	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	book	book	n	_	_	3	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#468	you write on the paper
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	write	write	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	on	on	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	paper	paper	n	_	_	2	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#470	read
+1	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#471	well
+1	well	well	co	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#472	my_goodness
+1	my_goodness	my_goodness	co	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#473	well
+1	well	well	co	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#474	my_goodness
+1	my_goodness	my_goodness	co	_	_	0	root	David FAT Father	Eve 19 female TD Brown
+
+#475	Humm
+1	Humm	Humm	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#476	Humm
+1	Humm	Humm	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#477	Humm
+1	Humm	Humm	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#478	were you reading the story of Humm
+1	were	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	1	PRED	Sue MOT Mother	Eve 19 female TD Brown
+3	reading	read	part	_	_	2	XMOD	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	story	story	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	of	of	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+7	Humm	Humm	n	_	_	5	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#479	Mommy Humm
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Humm	Humm	n	_	_	1	flat	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#480	Humm
+1	Humm	Humm	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#481	you go and read Fraser the story of Humm
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	go	go	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 19 female TD Brown
+4	read	read	v	_	_	3	COORD	Sue MOT Mother	Eve 19 female TD Brown
+5	Fraser	Fraser	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	the	the	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	story	story	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+8	of	of	prep	_	_	9	case	Sue MOT Mother	Eve 19 female TD Brown
+9	Humm	Humm	n	_	_	7	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#482	that's a nice story
+1	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	a	a	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+4	nice	nice	adj	_	_	5	amod	Sue MOT Mother	Eve 19 female TD Brown
+5	story	story	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#483	no Mommy Humm
+1	no	no	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	Humm	Humm	n	_	_	2	flat	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#484	you read Humm
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	Humm	Humm	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#485	no Mommy Humm
+1	no	no	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	Humm	Humm	n	_	_	2	flat	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#486	no we'll read later
+1	no	no	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	we	we	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	'll	will	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	later	later	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#487	Mommy Humm
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Humm	Humm	n	_	_	1	flat	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#488	Mommy Humm
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Humm	Humm	n	_	_	1	flat	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#489	Mommy Humm
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Humm	Humm	n	_	_	1	flat	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#490	you go read the story of Humm
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	go	go	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	read	read	v	_	_	2	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	story	story	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	of	of	prep	_	_	7	case	Sue MOT Mother	Eve 19 female TD Brown
+7	Humm	Humm	n	_	_	5	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#491	no Mommy Humm
+1	no	no	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	Humm	Humm	n	_	_	2	flat	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#492	we'll read Humm and that's all
+1	we	we	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	Humm	Humm	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+5	and	and	coord	_	_	8	cc	Sue MOT Mother	Eve 19 female TD Brown
+6	that	that	pro	_	_	8	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+7	's	be	cop	_	_	8	cop	Sue MOT Mother	Eve 19 female TD Brown
+8	all	all	pro	_	_	3	CJCT	Sue MOT Mother	Eve 19 female TD Brown
+
+#494	Humm
+1	Humm	Humm	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#496	Humm
+1	Humm	Humm	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#498	bacon
+1	bacon	bacon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#500	banana
+1	banana	banana	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#502	no
+1	no	no	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#504	no
+1	no	no	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#505	what had happened to Humm
+1	what	what	pro	_	_	3	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	had	have	aux	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	happened	happen	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	prep	_	_	5	case	Sue MOT Mother	Eve 19 female TD Brown
+5	Humm	Humm	n	_	_	3	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#506	happen Humm
+1	happen	happen	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Humm	Humm	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#507	you hafta read the story now
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	haf	have	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	ta	to	inf	_	_	4	mark	Sue MOT Mother	Eve 19 female TD Brown
+4	read	read	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	story	story	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+7	now	now	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#508	okay
+1	okay	okay	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#509	okay
+1	okay	okay	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#510	okay
+1	okay	okay	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#511	okay
+1	okay	okay	co	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#513	shoe
+1	shoe	shoe	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#515	sugar
+1	sugar	sugar	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#516	would you bring the sugar here please
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	sugar	sugar	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	here	here	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+7	please	please	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+
+#517	bring Mommy the sugar
+1	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	sugar	sugar	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#518	spoon
+1	spoon	spoon	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#519	no put the top on
+1	no	no	co	_	_	2	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	put	put	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	top	top	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+5	on	on	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#520	that's it
+1	that	that	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	it	it	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#521	a Mommy
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#522	thank_you
+1	thank_you	thank_you	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#523	napkin
+1	napkin	napkin	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#526	a table
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	table	table	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#527	well you bring me the napkin
+1	well	well	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	me	me	pro	_	_	3	iobj	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	napkin	napkin	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#528	napkin
+1	napkin	napkin	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#529	yes
+1	yes	yes	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#530	will you bring Mommy the napkin and the spoon
+1	will	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	bring	bring	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	Mommy	Mommy	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	napkin	napkin	n	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+7	and	and	coord	_	_	6	cc	Sue MOT Mother	Eve 19 female TD Brown
+8	the	the	det	_	_	9	det	Sue MOT Mother	Eve 19 female TD Brown
+9	spoon	spoon	n	_	_	7	COORD	Sue MOT Mother	Eve 19 female TD Brown
+
+#531	a butter
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	butter	butter	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#532	yes that's the butter
+1	yes	yes	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	butter	butter	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#533	but you can't have it that way
+1	but	but	conj	_	_	5	cc	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	ca	can	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	it	it	pro	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+7	that	that	det	_	_	8	det	Sue MOT Mother	Eve 19 female TD Brown
+8	way	way	n	_	_	5	JCT	Sue MOT Mother	Eve 19 female TD Brown
+
+#534	you can have some for lunch
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	can	can	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	have	have	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	some	some	qn	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+5	for	for	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+6	lunch	lunch	n	_	_	4	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#535	cheese
+1	cheese	cheese	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#536	and cheese you're gonna have too
+1	and	and	coord	_	_	2	cc	Sue MOT Mother	Eve 19 female TD Brown
+2	cheese	cheese	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	're	be	aux	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+5	gon	go	part	_	_	2	CMOD	Sue MOT Mother	Eve 19 female TD Brown
+6	na	to	inf	_	_	7	mark	Sue MOT Mother	Eve 19 female TD Brown
+7	have	have	v	_	_	5	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+8	too	too	adv	_	_	7	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#537	yes
+1	yes	yes	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#538	what are you doing
+1	what	what	pro	_	_	4	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	are	be	aux	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	doing	do	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#539	banging
+1	banging	bang	part	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#540	you're banging
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	're	be	aux	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	banging	bang	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#541	is that necessary
+1	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	that	that	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	necessary	necessary	adj	_	_	1	PRED	Sue MOT Mother	Eve 19 female TD Brown
+
+#543	oh it is
+1	oh	oh	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	it	it	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	is	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#544	why don't you bang on the floor
+1	why	why	pro	_	_	5	JCT	Sue MOT Mother	Eve 19 female TD Brown
+2	do	do	mod	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	you	you	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+5	bang	bang	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	on	on	prep	_	_	8	case	Sue MOT Mother	Eve 19 female TD Brown
+7	the	the	det	_	_	8	det	Sue MOT Mother	Eve 19 female TD Brown
+8	floor	floor	n	_	_	5	obl	Sue MOT Mother	Eve 19 female TD Brown
+
+#545	not the stove
+1	not	not	neg	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	stove	stove	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#546	bang on the floor
+1	bang	bang	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	on	on	prep	_	_	4	case	Sue MOT Mother	Eve 19 female TD Brown
+3	the	the	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	floor	floor	n	_	_	1	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#547	not the furniture
+1	not	not	neg	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	furniture	furniture	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#548	okay
+1	okay	okay	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#549	not the refrigerator either
+1	not	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	refrigerator	refrigerator	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	either	either	adv	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#550	not the shelf
+1	not	not	neg	_	_	3	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	shelf	shelf	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#551	on the floor
+1	on	on	prep	_	_	3	case	Sue MOT Mother	Eve 19 female TD Brown
+2	the	the	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	floor	floor	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#552	Eve
+1	Eve	Eve	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#553	Mommy'll take the box
+1	Mommy	Mommy	n	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	'll	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	take	take	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	the	the	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	box	box	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#554	would you get your highchair and we'll have lunch
+1	would	will	mod	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	get	get	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	your	your	det	_	_	5	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+5	highchair	highchair	n	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	and	and	coord	_	_	9	cc	Sue MOT Mother	Eve 19 female TD Brown
+7	we	we	pro	_	_	9	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+8	'll	will	mod	_	_	9	aux	Sue MOT Mother	Eve 19 female TD Brown
+9	have	have	v	_	_	3	CJCT	Sue MOT Mother	Eve 19 female TD Brown
+10	lunch	lunch	n	_	_	9	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#555	get your highchair and bib
+1	get	get	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	your	your	det	_	_	3	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+3	highchair	highchair	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+4	and	and	coord	_	_	3	cc	Sue MOT Mother	Eve 19 female TD Brown
+5	bib	bib	n	_	_	4	COORD	Sue MOT Mother	Eve 19 female TD Brown
+
+#556	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#557	it's pudding
+1	it	it	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	pudding	pudding	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#558	pudding
+1	pudding	pudding	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#559	mhm
+1	mhm	mhm	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#560	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#561	pudding
+1	pudding	pudding	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#562	pudding
+1	pudding	pudding	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#563	a Mommy pudding
+1	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	pudding	pudding	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#564	no Mommy's not going to have pudding
+1	no	no	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	Mommy	Mommy	n	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	aux	_	_	5	aux	Sue MOT Mother	Eve 19 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	going	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+6	to	to	inf	_	_	7	mark	Sue MOT Mother	Eve 19 female TD Brown
+7	have	have	v	_	_	5	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+8	pudding	pudding	n	_	_	7	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#565	just Eve
+1	just	just	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#566	just Eve
+1	just	just	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#567	just Eve
+1	just	just	adv	_	_	2	advmod	Sue MOT Mother	Eve 19 female TD Brown
+2	Eve	Eve	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#568	oh look at me
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	look	look	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+3	at	at	prep	_	_	4	case	Eve CHI Target_Child	Eve 19 female TD Brown
+4	me	me	pro	_	_	2	obl	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#569	yes I see you
+1	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	I	I	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	see	see	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	you	you	pro	_	_	3	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#570	there
+1	there	there	adv	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#571	what
+1	what	what	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#572	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#573	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#574	what's what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	what	what	pro	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#575	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#576	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#577	this
+1	this	this	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#578	what is this
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	this	this	pro	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#579	tapioca
+1	tapioca	tapioca	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#580	no it's not tapioca
+1	no	no	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+5	tapioca	tapioca	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#581	no it's just pudding
+1	no	no	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	it	it	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	just	just	adj	_	_	5	amod	Sue MOT Mother	Eve 19 female TD Brown
+5	pudding	pudding	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#582	celery
+1	celery	celery	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#583	no that's a carrot
+1	no	no	co	_	_	5	discourse	Sue MOT Mother	Eve 19 female TD Brown
+2	that	that	pro	_	_	5	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+3	's	be	cop	_	_	5	cop	Sue MOT Mother	Eve 19 female TD Brown
+4	a	a	det	_	_	5	det	Sue MOT Mother	Eve 19 female TD Brown
+5	carrot	carrot	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#584	that's not celery
+1	that	that	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	4	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	not	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	celery	celery	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#585	carrot
+1	carrot	carrot	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#587	a man carrot
+1	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	man	man	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	carrot	carrot	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#588	man's gonna have a carrot too
+1	man	man	n	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	aux	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	gon	go	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	na	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	have	have	v	_	_	3	xcomp	Sue MOT Mother	Eve 19 female TD Brown
+6	a	a	det	_	_	7	det	Sue MOT Mother	Eve 19 female TD Brown
+7	carrot	carrot	n	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+8	too	too	adv	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#589	wait a minute
+1	wait	wait	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	minute	minute	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#590	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#591	wait a minute
+1	wait	wait	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	minute	minute	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#592	wait a minute
+1	wait	wait	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Sue MOT Mother	Eve 19 female TD Brown
+3	minute	minute	n	_	_	1	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#593	what for
+1	what	what	pro	_	_	2	LINK	Sue MOT Mother	Eve 19 female TD Brown
+2	for	for	prep	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#594	wait a minute
+1	wait	wait	v	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 19 female TD Brown
+3	minute	minute	n	_	_	1	obj	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#595	a Papa
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Papa	Papa	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#596	uhuh
+1	uhuh	uhuh	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#597	Papa's bread
+1	Papa	Papa	adj	_	_	3	nmod:poss	Sue MOT Mother	Eve 19 female TD Brown
+2	's	's	part	_	_	1	case	Sue MOT Mother	Eve 19 female TD Brown
+3	bread	bread	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#598	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#599	what is that
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	that	that	pro	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#600	soup
+1	soup	soup	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#601	there's soup in the bowl
+1	there	there	pro	_	_	2	expl	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	soup	soup	n	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+4	in	in	prep	_	_	6	case	Sue MOT Mother	Eve 19 female TD Brown
+5	the	the	det	_	_	6	det	Sue MOT Mother	Eve 19 female TD Brown
+6	bowl	bowl	n	_	_	3	nmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#602	this is not soup darling
+1	this	this	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	4	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	not	not	neg	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	soup	soup	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	darling	darling	co	_	_	4	discourse	Sue MOT Mother	Eve 19 female TD Brown
+
+#603	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#604	what is that
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+2	is	be	cop	_	_	1	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	that	that	pro	_	_	1	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+
+#605	bowl
+1	bowl	bowl	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#606	bowl
+1	bowl	bowl	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#607	yes
+1	yes	yes	co	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#608	oh Papa hot
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 19 female TD Brown
+2	Papa	Papa	n	_	_	3	nmod	Eve CHI Target_Child	Eve 19 female TD Brown
+3	hot	hot	adj	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#609	it's hot yes
+1	it	it	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	's	be	cop	_	_	3	cop	Sue MOT Mother	Eve 19 female TD Brown
+3	hot	hot	adj	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	yes	yes	co	_	_	3	discourse	Sue MOT Mother	Eve 19 female TD Brown
+
+#610	you've got to chew it up
+1	you	you	pro	_	_	3	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	've	have	aux	_	_	3	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	got	get	part	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+4	to	to	inf	_	_	5	mark	Sue MOT Mother	Eve 19 female TD Brown
+5	chew	chew	v	_	_	3	ccomp	Sue MOT Mother	Eve 19 female TD Brown
+6	it	it	pro	_	_	5	obj	Sue MOT Mother	Eve 19 female TD Brown
+7	up	up	adv	_	_	5	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#611	you hafta chew it
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	haf	have	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	ta	to	inf	_	_	4	mark	Sue MOT Mother	Eve 19 female TD Brown
+4	chew	chew	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	it	it	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#612	you don't swallow it whole
+1	you	you	pro	_	_	4	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	do	do	mod	_	_	4	aux	Sue MOT Mother	Eve 19 female TD Brown
+3	n't	not	neg	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+4	swallow	swallow	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+5	it	it	pro	_	_	4	obj	Sue MOT Mother	Eve 19 female TD Brown
+6	whole	whole	adv	_	_	4	advmod	Sue MOT Mother	Eve 19 female TD Brown
+
+#613	a cracker
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 19 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+
+#614	you want a cracker
+1	you	you	pro	_	_	2	nsubj	Sue MOT Mother	Eve 19 female TD Brown
+2	want	want	v	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+3	a	a	det	_	_	4	det	Sue MOT Mother	Eve 19 female TD Brown
+4	cracker	cracker	n	_	_	2	obj	Sue MOT Mother	Eve 19 female TD Brown
+
+#615	with peanutbutter
+1	with	with	prep	_	_	2	case	Sue MOT Mother	Eve 19 female TD Brown
+2	peanutbutter	peanutbutter	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#616	with peanutbutter
+1	with	with	prep	_	_	2	case	Sue MOT Mother	Eve 19 female TD Brown
+2	peanutbutter	peanutbutter	n	_	_	0	root	Sue MOT Mother	Eve 19 female TD Brown
+
+#617	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 19 female TD Brown
+

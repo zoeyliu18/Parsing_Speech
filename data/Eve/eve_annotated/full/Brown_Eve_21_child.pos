@@ -1,0 +1,1275 @@
+1	yep	yep	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	cup	cup	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	sit	sit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	down	down	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	kiss	kiss	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	wipe	wipe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	off	off	ADP	RP	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mommy	Mommy	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	wipe	wipe	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	floor	floor	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	grape	grape	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	juice	juice	NOUN	NN	Number=Sing	4	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	all	all	ADV	RB	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	gone	gone	VERB	VBN	Tense=Past|VerbForm=Part	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mommy	Mommy	PROPN	NNP	Number=Sing	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	coffee	coffee	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	warm	warm	ADJ	JJ	Degree=Pos	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NUM	CD	NumType=Card	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	one	one	NUM	CD	NumType=Card	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	NOUN	NN	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mommy	Mommy	PROPN	NNP	Number=Sing	3	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	hot	hot	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	coffee	coffee	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	one	one	NOUN	NN	Number=Sing	3	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	ADP	IN	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mommy	Mommy	PROPN	NNP	Number=Sing	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	milk	milk	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	ADP	IN	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	milk	milk	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	PROPN	NNP	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+3	grape	grape	NOUN	NN	Number=Sing	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	juice	juice	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	more	more	ADJ	JJR	Degree=Cmp	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	not	not	PART	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	spill	spill	VERB	VB	VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	not	not	PART	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	spill	spill	VERB	VB	VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	fire	fire	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	heat	heat	NOUN	NN	Number=Sing	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	right	right	ADV	RB	_	3	reparandum	Eve CHI Target_Child	Eve 21 female TD Brown
+3	right	right	ADJ	JJ	Degree=Pos	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	fire	fire	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	3	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleeping	sleep	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Papa	Papa	NOUN	NN	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	c	c	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	minute	minute	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	another	another	DET	DT	_	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	one	one	NOUN	NN	Number=Sing	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Fraser	Fraser	PROPN	NNP	Number=Sing	7	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	do	do	VERB	VB	VerbForm=Inf	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	draw	draw	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	NOUN	NN	Number=Sing	2	appos	Eve CHI Target_Child	Eve 21 female TD Brown
+5	a	a	DET	DT	Definite=Ind|PronType=Art	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	b	b	NOUN	NN	Number=Sing	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	c	c	NOUN	NN	Number=Sing	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	not	not	PART	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	good	good	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	there	there	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	again	again	ADV	RB	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	out	out	ADP	RP	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	scissor	scissors	NOUN	NN	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	no	no	INTJ	UH	_	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	no	no	INTJ	UH	_	1	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Fraser	Fraser	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	doing	do	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	draw	draw	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lady	lady	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	draw	draw	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lady	lady	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	draw	draw	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+6	moo	moo	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	here	here	ADV	RB	PronType=Dem	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	old	old	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Donald	Donald	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	draw	draw	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	old	old	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Donald	Donald	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baa	baa	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	moo	moo	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	here	here	ADV	RB	PronType=Dem	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	b	b	NOUN	NN	Number=Sing	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	c	c	NOUN	NN	Number=Sing	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	another	another	DET	DT	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleeping	sleep	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	another	another	DET	DT	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	there	there	PRON	EX	_	2	expl	Eve CHI Target_Child	Eve 21 female TD Brown
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	moo	moo	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	there	there	PRON	EX	_	2	expl	Eve CHI Target_Child	Eve 21 female TD Brown
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	moo	moo	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mammy	Mammy	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dry	dry	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	diaper	diaper	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	baby	baby	NOUN	NN	Number=Sing	5	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Sarah	Sarah	PROPN	NNP	Number=Sing	6	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+6	bottom	bottom	NOUN	NN	Number=Sing	1	obl:npmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	only	only	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	paper	paper	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	only	only	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	paper	paper	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	ride	ride	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	horsie	horse	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Fraser	Fraser	PROPN	NNP	Number=Sing	2	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	horsie	horse	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	laying	lay	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	ADP	RP	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	laying	lay	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	ADP	RP	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mom	Mom	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	cover	cover	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	PROPN	NNP	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	thought	thought	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	going	go	VERB	VBG	VerbForm=Ger	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleep	sleep	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	byebye	byebye	PROPN	NNP	Number=Sing	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	byebye	byebye	PROPN	NNP	Number=Sing	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	byebye	byebye	PROPN	NNP	Number=Sing	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	baby	baby	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	nice	nice	ADJ	JJ	Degree=Pos	6	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+6	nap	nap	NOUN	NN	Number=Sing	3	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	all	all	DET	DT	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	nap	nap	NOUN	NN	Number=Sing	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	night_night	night_night	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	later	later	ADV	RB	Degree=Cmp	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	little	little	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tiny	tiny	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	little	little	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tiny	tiny	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	want	want	VERB	VBP	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	PROPN	NNP	Number=Sing	3	reparandum	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Mom	Mom	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	carry	carry	VERB	VB	VerbForm=Fin	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Eve	Eve	PROPN	NNP	Number=Sing	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tiny	tiny	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	bowe	bowel	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	bowe	bowel	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yep	yep	INTJ	UH	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	bowelmove	bowelmove	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	change	change	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	laying	lay	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	ADP	RP	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	bowelmove	bowelmove	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	going	go	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	buyer	buy	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	in	in	ADP	IN	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	fire	fire	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	right	right	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	ADV	RB	PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	down	down	ADV	RB	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	minute	minute	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mama	Mama	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	upstair	upstairs	ADJ	JJ	Degree=Pos	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	food	food	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	baby	baby	NOUN	NN	Number=Sing	5	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Sarah	Sarah	PROPN	NNP	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mammy	Mammy	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	upstair	upstairs	ADJ	JJ	Degree=Pos	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	oh	oh	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	penny	penny	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	penny	penny	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	going	go	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	byebye	byebye	NOUN	NN	Number=Sing	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Papa	Papa	PROPN	NNP	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	byebye	byebye	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	byebye	byebye	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	1	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Mom	Mom	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	baby	baby	NOUN	NN	Number=Sing	5	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Sarah	Sarah	PROPN	NNP	Number=Sing	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	horsie	horse	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	please	please	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	please	please	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	much	much	ADV	RB	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	too	too	ADV	RB	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	warm	warm	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	going	go	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	byebye	byebye	NOUN	NN	Number=Sing	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	byebye	byebye	PROPN	NNP	Number=Sing	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	1	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	lion	lion	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	turtle	turtle	NOUN	NN	Number=Sing	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	name	name	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Froggie	Froggie	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	lion	lion	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	turtle	turtle	NOUN	NN	Number=Sing	5	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+5	name	name	NOUN	NN	Number=Sing	6	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Froggy	Froggy	PROPN	NNP	Number=Sing	1	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lion	lion	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	turtle	turtle	NOUN	NN	Number=Sing	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	name	name	NOUN	NN	Number=Sing	5	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Froggy	Froggy	PROPN	NNP	Number=Sing	2	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	turtle	turtle	NOUN	NN	Number=Sing	7	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+7	name	name	NOUN	NN	Number=Sing	8	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+8	Froggy	Froggy	PROPN	NNP	Number=Sing	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Fraser	Fraser	PROPN	NNP	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	drum	drum	NOUN	NN	Number=Sing	2	ccomp	Eve CHI Target_Child	Eve 21 female TD Brown
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	Eve CHI Target_Child	Eve 21 female TD Brown
+6	hammer	hammer	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	play	play	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	no	no	DET	DT	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	boot	boot	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	boot	boot	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	hall	hall	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mama	Mama	NOUN	NN	Number=Sing	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	PRON	PRP$	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Mama	Mama	NOUN	NN	Number=Sing	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+4	where	where	ADV	WRB	PronType=Int	2	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+5	's	be	PART	POS	_	4	cop	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Mama	Mama	NOUN	NN	Number=Sing	7	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+7	boot	boot	NOUN	NN	Number=Sing	4	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dudit	dudit	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	more	more	ADJ	JJR	Degree=Cmp	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sugar	sugar	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	dowf	dowf	ADJ	JJ	Degree=Pos	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	mouth	mouth	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	horsie	horse	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Papa	Papa	PROPN	NNP	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Pa	Papa	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	jump	jump	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	off	off	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	table	table	NOUN	NN	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	jump	jump	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	off	off	ADP	RP	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	table	table	NOUN	NN	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	jump	jump	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	off	off	ADP	RP	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	table	table	NOUN	NN	Number=Sing	1	obl	Eve CHI Target_Child	Eve 21 female TD Brown
+4	downstair	downstairs	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	jump	jump	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	off	off	ADP	RP	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	table	table	NOUN	NN	Number=Sing	2	obl	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	tapioca	tapioca	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	whole	whole	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	week	week	NOUN	NN	Number=Sing	1	nmod:tmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	sleeping	sleep	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	holding	hold	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	baby	baby	NOUN	NN	Number=Sing	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Sarah	Sarah	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	NOUN	NN	Number=Sing	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	cheese	cheese	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Davy	Davy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Davy	Davy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	cheese	cheese	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	whole	whole	ADJ	JJ	Degree=Pos	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	week	week	NOUN	NN	Number=Sing	2	nmod:tmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	whole	whole	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	week	week	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	cheese	cheese	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	whole	whole	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	week	week	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	cheese	cheese	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	piece	piece	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	o	of	ADP	IN	Abbr=Yes	6	case	Eve CHI Target_Child	Eve 21 female TD Brown
+6	cheese	cheese	NOUN	NN	Number=Sing	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	wipe	wipe	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	finger	finger	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sit	sit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	stool	stool	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	little	little	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	stool	stool	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	stool	stool	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	highchair	highchair	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	highchair	highchair	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	cheese	cheese	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sandwich	sandwich	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	cool	cool	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	look	look	NOUN	NN	Number=Sing	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	piece	piece	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	of	of	ADP	IN	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	cheese	cheese	NOUN	NN	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	want	want	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	nap	nap	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	then	then	ADV	RB	PronType=Dem	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	wake	wake	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	up	up	ADP	RP	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	who	who	PRON	WP	PronType=Int	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	here	here	ADV	RB	PronType=Dem	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	nap	nap	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tape	tape	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	orange	orange	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NUM	CD	NumType=Card	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	orange	orange	ADJ	JJ	Degree=Pos	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	one	one	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	other	other	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	blue	blue	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	purple	purple	NOUN	NN	Number=Sing	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	drop	drop	VERB	VBP	Mood=Ind|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	im	im	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	im	im	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	im	im	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	string	string	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	im	im	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	other	other	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	string	string	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	grape	grape	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	juice	juice	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Sarah	Sarah	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	wake	wake	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	up	up	ADP	RP	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mom	Mom	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	right	right	ADV	RB	_	4	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	back	back	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	going	go	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	way	away	NOUN	NN	Number=Sing	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	mercy	mercy	NOUN	NN	Number=Sing	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	gracious_mercy	gracious_mercy	ADJ	JJ	Degree=Pos	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+3	oh	oh	INTJ	UH	_	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+4	gracious_mercy	gracious_mercy	NOUN	NN	Number=Sing	5	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+5	toy	toy	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+6	Eve	Eve	PROPN	NNP	Number=Sing	7	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+7	toy	toy	NOUN	NN	Number=Sing	5	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	do	do	AUX	VBP	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	running	run	VERB	VBG	VerbForm=Ger	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	fast	fast	ADV	RB	Degree=Pos	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	fire	fire	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	orange	orange	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	only	only	ADV	RB	_	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NUM	CD	NumType=Card	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	orange	orange	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	one	one	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Papa	Papa	NOUN	NN	Number=Sing	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	book	book	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	pencil	pencil	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mom	Mom	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	PROPN	NNP	Number=Sing	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	PROPN	NNP	Number=Sing	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	again	again	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	PROPN	NNP	Number=Sing	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	pencil	pencil	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	b	b	NOUN	NN	Number=Sing	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	c	c	NOUN	NN	Number=Sing	3	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	turn	turn	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	now	now	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	d	d	PROPN	NNP	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	e	e	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	f	f	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	b	b	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	d	d	PROPN	NNP	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	e	e	PROPN	NNP	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	f	f	PROPN	NNP	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	c	c	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	d	d	PROPN	NNP	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	e	e	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+7	f	f	NOUN	NN	Number=Sing	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	b	b	INTJ	UH	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	b	b	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	two	two	NUM	CD	NumType=Card	1	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	d	d	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	e	e	PROPN	NNP	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	f	f	PROPN	NNP	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	d	d	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	e	e	PROPN	NNP	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	f	f	PROPN	NNP	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	X	GW	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	X	GW	_	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	like	like	ADP	IN	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	like	like	ADP	IN	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	like	like	ADP	IN	_	5	case	Eve CHI Target_Child	Eve 21 female TD Brown
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	b	b	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	c	c	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	that	that	PRON	WDT	PronType=Rel	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	write	write	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	here	here	ADV	RB	PronType=Dem	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	over	over	ADV	RB	_	2	case	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	ADV	RB	PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	o	o	INTJ	UH	_	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	e	e	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	here	here	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	two	two	NUM	CD	NumType=Card	4	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	beads	bead	NOUN	NNS	Number=Plur	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	two	two	NUM	CD	NumType=Card	2	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	bead	bead	NOUN	NNS	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	how	how	ADV	WRB	PronType=Int	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	many	many	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	count	count	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	bead	bead	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	count	count	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NUM	CD	NumType=Card	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	two	two	NUM	CD	NumType=Card	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	three	three	NUM	CD	NumType=Card	2	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	count	count	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	again	again	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	another	another	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	one	one	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	swimming	swim	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	swimming	swim	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mommy	Mommy	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	fix	fix	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mommy	Mommy	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	fix	fix	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	Eve CHI Target_Child	Eve 21 female TD Brown
+4	paper	paper	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	broken	break	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	still	still	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yes	yes	INTJ	UH	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	swimming	swim	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	hi	hi	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	shoe	shoe	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	gon	go	VERB	VBG	Abbr=Yes|Tense=Pres|VerbForm=Part	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	na	to	PART	TO	Abbr=Yes	3	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+3	write	write	VERB	VB	VerbForm=Inf	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	couch	couch	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	couch	couch	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	ride	ride	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tinktoy	tinktoy	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	ride	ride	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tink	tink	NOUN	NN	Number=Sing	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	party	party	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+5	yesterday	yesterday	NOUN	NN	Number=Sing	4	obl:tmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	party	party	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	yesterday	yesterday	NOUN	NN	Number=Sing	1	nmod:tmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	now	now	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	party	party	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sneeze	sneeze	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	sneeze	sneeze	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	INTJ	UH	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	more	more	ADJ	JJR	Degree=Cmp	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	baby	baby	NOUN	NN	Number=Sing	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	's	's	PART	POS	_	1	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	hair	hair	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sit	sit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	down	down	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	there	there	ADV	RB	PronType=Dem	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+4	horsie	horse	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	want	want	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Becky	Becky	PROPN	NNP	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	busy	busy	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	busy	busy	ADJ	JJ	Degree=Pos	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	NOUN	NN	Number=Sing	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	pencil	pencil	PROPN	NNP	Number=Sing	1	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	di	do	INTJ	UH	_	3	aux	Eve CHI Target_Child	Eve 21 female TD Brown
+2	where	where	ADV	WRB	PronType=Int	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	go	go	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	di	do	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	PROPN	NNP	Number=Sing	5	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	must	must	AUX	MD	VerbForm=Fin	5	aux	Eve CHI Target_Child	Eve 21 female TD Brown
+5	find	find	VERB	VB	VerbForm=Inf	2	parataxis	Eve CHI Target_Child	Eve 21 female TD Brown
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	DET	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	writing	write	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	table	table	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	little	little	ADJ	JJ	Degree=Pos	4	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	writing	write	NOUN	NN	Number=Sing	4	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+4	door	door	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	writing	write	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	door	door	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	writing	write	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Fraser	Fraser	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	on	on	ADP	IN	_	3	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	paper	paper	NOUN	NN	Number=Sing	1	obl	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pencil	pencil	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	other	other	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	finger	finger	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	INTJ	UH	_	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	nap	nap	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	now	now	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	no	no	DET	DT	_	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Judy	Judy	PROPN	NNP	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	2	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Thursday	Thursday	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	squashing	squash	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dolly	doll	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	one	one	NUM	CD	NumType=Card	2	nummod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	dolly	doll	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	dolly	doll	ADJ	JJ	Degree=Pos	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	shirt	shirt	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	grape	grape	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	juice	juice	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	make	make	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	Jim_jump	Jim_jump	PROPN	NNP	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	yeah	yeah	INTJ	UH	_	3	discourse	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Jim_jump	Jim_jump	PROPN	NNP	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Jim_jump	Jim_jump	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	tower	tower	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	big	big	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tower	tower	NOUN	NN	Number=Sing	1	conj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	big	big	ADJ	JJ	Degree=Pos	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	tower	tower	NOUN	NN	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	little	little	ADJ	JJ	Degree=Pos	5	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+5	tower	tower	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+3	tower	tower	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	lunch	lunch	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	gon	go	VERB	VBP	Abbr=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	na	to	PART	TO	Abbr=Yes	4	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+4	make	make	VERB	VB	VerbForm=Inf	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+5	Eve	Eve	PROPN	NNP	Number=Sing	7	iobj	Eve CHI Target_Child	Eve 21 female TD Brown
+6	grape	grape	NOUN	NN	Number=Sing	7	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+7	juice	juice	NOUN	NN	Number=Sing	4	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Eve	Eve	PROPN	NNP	Number=Sing	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	soup	soup	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	making	make	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	Eve	Eve	PROPN	NNP	Number=Sing	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	soup	soup	PROPN	NNP	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	reel	reel	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	briefcase	briefcase	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	briefcase	briefcase	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	briefcase	briefcase	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	Eve CHI Target_Child	Eve 21 female TD Brown
+3	briefcase	briefcase	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	briefcase	briefcase	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	briefcase	briefcase	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	that	that	PRON	WDT	PronType=Rel	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	go	go	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	see	see	VERB	VB	VerbForm=Fin	2	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	sit	sit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	DET	DT	Number=Sing|PronType=Dem	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	DET	DT	Number=Sing|PronType=Dem	3	mark	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	move	move	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	Eve CHI Target_Child	Eve 21 female TD Brown
+5	stool	stool	NOUN	NN	Number=Sing	3	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+3	can	can	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	rinse	rinse	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	out	out	ADP	RP	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	want	want	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	drink	drink	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	drink	drink	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	water	water	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	in	in	ADP	RP	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	celery	celery	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	of	of	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	celery	celery	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Fraser	Fraser	PROPN	NNP	Number=Sing	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	o	of	ADP	IN	Abbr=Yes	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	celery	celery	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	just	just	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mam	Mam	PROPN	NNP	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	piece	piece	NOUN	NN	Number=Sing	2	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+4	o	of	ADP	IN	Abbr=Yes	5	case	Eve CHI Target_Child	Eve 21 female TD Brown
+5	celery	celery	NOUN	NN	Number=Sing	3	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	o	of	ADP	IN	Abbr=Yes	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+4	celery	celery	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	doing	do	VERB	VBG	VerbForm=Ger	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Mommy	Mommy	PROPN	NNP	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	mouthful	mouth	ADJ	JJ	Degree=Pos	1	xcomp	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Pap	Pap	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	go	go	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	where	where	ADV	WRB	PronType=Int	3	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	Papa	Papa	PROPN	NNP	Number=Sing	3	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	go	go	VERB	VB	VerbForm=Inf	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	back	back	ADV	RB	_	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	now	now	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	back	back	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Papa	Papa	PROPN	NNP	Number=Sing	2	nsubj	Eve CHI Target_Child	Eve 21 female TD Brown
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	back	back	ADV	RB	_	2	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	peel	peel	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	first	first	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	peel	peel	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+3	first	first	ADV	RB	_	1	advmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Eve	Eve	PROPN	NNP	Number=Sing	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	piece	piece	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+3	celery	celery	NOUN	NN	Number=Sing	2	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+2	stool	stool	NOUN	NN	Number=Sing	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	on	on	ADP	IN	_	4	case	Eve CHI Target_Child	Eve 21 female TD Brown
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	Eve CHI Target_Child	Eve 21 female TD Brown
+4	stool	stool	NOUN	NN	Number=Sing	1	nmod	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	more	more	ADJ	JJR	Degree=Cmp	2	amod	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	WDT	PronType=Rel	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	Mommy	Mommy	PROPN	NNP	Number=Sing	2	vocative	Eve CHI Target_Child	Eve 21 female TD Brown
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+
+1	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	Eve CHI Target_Child	Eve 21 female TD Brown
+2	pickle	pickle	NOUN	NN	Number=Sing	1	obj	Eve CHI Target_Child	Eve 21 female TD Brown
+

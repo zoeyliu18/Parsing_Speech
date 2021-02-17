@@ -1,0 +1,979 @@
+#1	one two three
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#2	one two three two one two three two
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+4	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+5	one	one	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+6	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+7	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+8	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#5	one two three two one two three two
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+4	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+5	one	one	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+6	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+7	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+8	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#7	one two three one two three one two three two
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+4	one	one	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+5	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+6	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+7	one	one	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+8	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+9	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+10	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#8	more grape juice
+1	more	more	qn	_	_	3	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	grape	grape	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#12	no
+1	no	no	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#15	more grape juice
+1	more	more	qn	_	_	3	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	grape	grape	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#17	one two three four
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+4	four	four	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#18	one two three two
+1	one	one	det	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	three	three	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+4	two	two	det	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#20	what that
+1	what	what	pro	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	that	that	adv	_	_	1	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#22	break
+1	break	break	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#24	break
+1	break	break	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#35	it break
+1	it	it	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	break	break	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#36	oh it break
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	it	it	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	break	break	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#39	oh
+1	oh	oh	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#40	it break
+1	it	it	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	break	break	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#44	top of can REPLACEMENT a
+1	top	top	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	of	of	prep	_	_	3	case	Eve CHI Target_Child	Eve 18 female TD Brown
+3	can	can	mod	_	_	1	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#46	top of can REPLACEMENT a
+1	top	top	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	of	of	prep	_	_	3	case	Eve CHI Target_Child	Eve 18 female TD Brown
+3	can	can	mod	_	_	1	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#49	eeofarm
+1	eeofarm	eeofarm	chi	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#60	shoe
+1	shoe	shoe	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#61	bull
+1	bull	bull	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#65	man read
+1	man	man	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#67	mhm
+1	mhm	mhm	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#68	breakfast
+1	breakfast	breakfast	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#71	eat
+1	eat	eat	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#76	chair
+1	chair	chair	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#78	oh highchair
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	highchair	highchair	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#80	good girl
+1	good	good	adj	_	_	2	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	girl	girl	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#82	oh cracker
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#84	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#86	cracker
+1	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#89	book
+1	book	book	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#90	Mommy
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#103	woods
+1	woods	wood	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#107	commydit quackquack chickchick commydit
+1	commydit	commydit	on	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	quackquack	quackquack	on	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	chickchick	chickchick	on	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+4	commydit	commydit	on	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#109	commydit
+1	commydit	commydit	on	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#113	door
+1	door	door	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#115	op
+1	op	open	adj	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#118	commydit
+1	commydit	commydit	on	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#120	I cider
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cider	cider	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#122	cereal
+1	cereal	cereal	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#127	Mommy get
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	get	get	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#128	commydit grape juice
+1	commydit	commydit	on	_	_	3	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	grape	grape	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#136	Lassie
+1	Lassie	Lassie	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#141	hat
+1	hat	hat	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#143	Racketyboom
+1	Racketyboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#145	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#146	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#147	Racketyboom
+1	Racketyboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#151	no read
+1	no	no	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#154	Mommy
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#156	can a
+1	can	can	mod	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	a	a	det	_	_	1	det	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#157	Mommy
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#160	door
+1	door	door	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#166	right down
+1	right	right	adv	_	_	2	advmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	down	down	adv	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#170	cup
+1	cup	cup	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#173	good girl
+1	good	good	adj	_	_	2	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	girl	girl	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#177	Rackeboom
+1	Rackeboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#181	see
+1	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#185	the dog's house
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	dog	dog	adj	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+3	's	's	part	_	_	2	case	Eve CHI Target_Child	Eve 18 female TD Brown
+4	house	house	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#187	the dog's house
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	dog	dog	adj	_	_	4	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+3	's	's	part	_	_	2	case	Eve CHI Target_Child	Eve 18 female TD Brown
+4	house	house	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#192	show me book
+1	show	show	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	iobj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	book	book	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#193	show me book
+1	show	show	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	iobj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	book	book	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#194	show me book
+1	show	show	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	iobj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	book	book	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#195	show
+1	show	show	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#196	me book
+1	me	me	pro	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	book	book	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#197	show me book
+1	show	show	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	iobj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	book	book	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#198	show me book
+1	show	show	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	iobj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	book	book	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#199	door
+1	door	door	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#202	ball
+1	ball	ball	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#212	head
+1	head	head	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#226	tummy
+1	tummy	tum	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#232	coffee
+1	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#233	coffee
+1	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#234	garbage
+1	garbage	garbage	n	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#236	coffee grape juice
+1	coffee	coffee	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	grape	grape	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#240	cup Racketyboom
+1	cup	cup	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Racketyboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#242	read
+1	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#245	Mommy
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#246	Mommy you read
+1	Mommy	Mommy	n	_	_	3	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	you	you	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#248	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#252	coffee
+1	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#254	I kick the ball
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	kick	kick	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+3	the	the	det	_	_	4	det	Eve CHI Target_Child	Eve 18 female TD Brown
+4	ball	ball	n	_	_	2	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#257	arm
+1	arm	arm	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#261	kick the ball
+1	kick	kick	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	the	the	det	_	_	3	det	Eve CHI Target_Child	Eve 18 female TD Brown
+3	ball	ball	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#263	showy showy
+1	showy	showy	chi	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	showy	showy	chi	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#265	showy ba empty garbage
+1	showy	showy	chi	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	ba	ball	n	_	_	1	iobj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	empty	empty	adj	_	_	4	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+4	garbage	garbage	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#268	empty garbage
+1	empty	empty	adj	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	garbage	garbage	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#270	empty garbage
+1	empty	empty	adj	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	garbage	garbage	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#271	dirty
+1	dirty	dirt	adj	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#273	dirty
+1	dirty	dirt	adj	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#274	dirty
+1	dirty	dirt	adj	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#278	dirty
+1	dirty	dirt	adj	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#280	oh swim
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	swim	swim	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#283	cracker
+1	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#284	cracker
+1	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#295	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#297	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#300	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#301	alright
+1	alright	alright	co	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#303	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#305	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#308	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#309	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#310	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#311	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#312	pottie
+1	pottie	pot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#314	read
+1	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#321	Racketyboom
+1	Racketyboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#327	oh yeah
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#330	Racketyboom
+1	Racketyboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#331	Racketyboom
+1	Racketyboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#334	page
+1	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#335	page
+1	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#337	page
+1	page	page	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#342	Mommy read
+1	Mommy	Mommy	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	read	read	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#364	a pillow
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	pillow	pillow	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#379	fire coffee
+1	fire	fire	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#383	Eve lunch
+1	Eve	Eve	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+2	lunch	lunch	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#401	the bibbie REPLACEMENT de
+1	the	the	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	bibbie	bib	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#410	yep cracker
+1	yep	yep	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#411	Mommy cracker
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#416	lunch
+1	lunch	lunch	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#421	sitting chair
+1	sitting	sit	part	_	_	2	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	chair	chair	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#424	a Papa
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Papa	Papa	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#426	Eve lunch
+1	Eve	Eve	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+2	lunch	lunch	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#445	Eve soup
+1	Eve	Eve	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+2	soup	soup	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#450	a Mommy soup
+1	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	soup	soup	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#472	a noodle
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	noodle	noodle	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#531	shut door
+1	shut	shut	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	door	door	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#532	Mom pumpkin
+1	Mom	Mom	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	pumpkin	pumpkin	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#533	hm
+1	hm	hm	co	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#534	Mom pumpkin
+1	Mom	Mom	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	pumpkin	pumpkin	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#540	oh coffee
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#541	oh Fraser coffee
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Fraser	Fraser	n	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+3	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#543	Cromer coffee
+1	Cromer	Cromer	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#546	table
+1	table	table	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#549	Papa
+1	Papa	Papa	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#554	letter
+1	letter	letter	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#560	that paper
+1	that	that	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	paper	paper	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#565	no
+1	no	no	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#569	from Granny
+1	from	from	prep	_	_	2	case	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Granny	Granny	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#572	from Nanny
+1	from	from	prep	_	_	2	case	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Nanny	Nanny	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#575	Nanny
+1	Nanny	Nanny	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#577	Nan
+1	Nan	Nana	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#579	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#584	oh grape juice
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	grape	grape	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#587	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#590	grape juice
+1	grape	grape	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#591	oh Fraser coffee
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Fraser	Fraser	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#594	a pumpkin
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	pumpkin	pumpkin	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#601	grape juice
+1	grape	grape	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#617	see it
+1	see	see	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	it	it	pro	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#618	wipe juice
+1	wipe	wipe	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	juice	juice	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#621	oh cracker
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#622	oh cracker
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#637	Mommy stool
+1	Mommy	Mommy	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#639	Mommy
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#641	Eve stool
+1	Eve	Eve	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#644	I can
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	can	can	mod	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#659	Mommy stool
+1	Mommy	Mommy	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	stool	stool	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#662	Mommy tinker
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	tinker	tinker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#666	Mommy tinkertoy
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	tinkertoy	tinkertoy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#668	Mommy tinkertoy
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	tinkertoy	tinkertoy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#669	horsie gun
+1	horsie	horse	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	gun	gun	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#679	broke here music box
+1	broke	break	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	here	here	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	music	music	n	_	_	4	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+4	box	box	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#682	do
+1	do	do	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#687	turn up hill
+1	turn	turn	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	up	up	adv	_	_	3	case	Eve CHI Target_Child	Eve 18 female TD Brown
+3	hill	hill	n	_	_	1	obl	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#689	up hill
+1	up	up	adv	_	_	2	case	Eve CHI Target_Child	Eve 18 female TD Brown
+2	hill	hill	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#697	up hill
+1	up	up	adv	_	_	2	case	Eve CHI Target_Child	Eve 18 female TD Brown
+2	hill	hill	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#698	down hill more turn
+1	down	down	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	hill	hill	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+3	more	more	qn	_	_	4	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+4	turn	turn	n	_	_	2	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#723	a nap
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	nap	nap	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#725	a nap
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	nap	nap	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#734	I was stand the top
+1	I	I	pro	_	_	3	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	was	be	cop	_	_	3	aux	Eve CHI Target_Child	Eve 18 female TD Brown
+3	stand	stand	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+4	the	the	det	_	_	5	det	Eve CHI Target_Child	Eve 18 female TD Brown
+5	top	top	n	_	_	3	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#735	oh stand the top
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	stand	stand	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+3	the	the	det	_	_	4	det	Eve CHI Target_Child	Eve 18 female TD Brown
+4	top	top	n	_	_	2	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#738	stand the top
+1	stand	stand	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	the	the	det	_	_	3	det	Eve CHI Target_Child	Eve 18 female TD Brown
+3	top	top	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#742	oh Fraser byebye
+1	oh	oh	co	_	_	3	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Fraser	Fraser	n	_	_	3	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+3	byebye	byebye	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#766	a butterfly
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	butterfly	butterfly	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#769	a butterfly
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	butterfly	butterfly	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#781	there butterfly
+1	there	there	adv	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	butterfly	butterfly	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#790	a cracker juice
+1	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	3	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	juice	juice	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#796	a taybit
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	taybit	taybit	chi	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#797	teddybear
+1	teddybear	teddybear	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#799	teddybear
+1	teddybear	teddybear	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#808	teddybear asleep
+1	teddybear	teddybear	n	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	asleep	asleep	adv	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#822	Eve dear
+1	Eve	Eve	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	dear	dear	co	_	_	1	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#823	a breakfast
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	breakfast	breakfast	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#828	a sugar
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	sugar	sugar	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#839	more cracker
+1	more	more	qn	_	_	2	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#843	sloumi cracker
+1	sloumi	sloumi	chi	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#844	want watch
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	watch	watch	n	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#845	want watch
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	watch	watch	n	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#859	don't touch that
+1	do	do	mod	_	_	3	aux	Eve CHI Target_Child	Eve 18 female TD Brown
+2	n't	not	neg	_	_	3	advmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	touch	touch	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+4	that	that	pro	_	_	3	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#879	Mommy celery
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	celery	celery	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#883	no celery
+1	no	no	qn	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	celery	celery	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#894	change her
+1	change	change	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	her	her	pro	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#896	yeah
+1	yeah	yeah	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#926	table celery
+1	table	table	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	celery	celery	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#929	on table
+1	on	on	prep	_	_	2	case	Eve CHI Target_Child	Eve 18 female TD Brown
+2	table	table	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#931	chair table
+1	chair	chair	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	table	table	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#932	yes
+1	yes	yes	co	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#934	sit down oh drop a celery
+1	sit	sit	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	down	down	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 18 female TD Brown
+3	oh	oh	co	_	_	1	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+4	drop	drop	v	_	_	1	conj	Eve CHI Target_Child	Eve 18 female TD Brown
+5	a	a	det	_	_	6	det	Eve CHI Target_Child	Eve 18 female TD Brown
+6	celery	celery	n	_	_	4	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#938	oh foot
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	foot	foot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#940	oh foot
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	foot	foot	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#943	foot chair
+1	foot	foot	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	chair	chair	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#949	want Mommy out
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Mommy	Mommy	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+3	out	out	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#956	watch a head
+1	watch	watch	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	a	a	det	_	_	3	det	Eve CHI Target_Child	Eve 18 female TD Brown
+3	head	head	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#967	want lunch
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	lunch	lunch	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#970	want bibbie
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	bibbie	bib	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#974	want bibbie
+1	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	bibbie	bib	n	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#979	pardon me
+1	pardon	pardon	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#981	pardon me
+1	pardon	pardon	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#982	pardon me
+1	pardon	pardon	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	me	me	pro	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#983	a lunch
+1	a	a	det	_	_	2	det	Eve CHI Target_Child	Eve 18 female TD Brown
+2	lunch	lunch	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#987	cheese sandwich
+1	cheese	cheese	n	_	_	2	nmod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	sandwich	sandwich	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#988	Mommy sandwich
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	sandwich	sandwich	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#990	oh
+1	oh	oh	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#991	oh
+1	oh	oh	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#992	oh peanutbutter
+1	oh	oh	co	_	_	2	discourse	Eve CHI Target_Child	Eve 18 female TD Brown
+2	peanutbutter	peanutbutter	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#996	Fraser coffee
+1	Fraser	Fraser	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#998	I think it's all_gone
+1	I	I	pro	_	_	2	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+2	think	think	v	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+3	it	it	pro	_	_	6	nsubj	Sue MOT Mother	Eve 18 female TD Brown
+4	's	be	cop	_	_	6	cop	Sue MOT Mother	Eve 18 female TD Brown
+5	all	all	adj	_	_	6	advmod	Sue MOT Mother	Eve 18 female TD Brown
+6	gone	gone	adj	_	_	2	ccomp	Sue MOT Mother	Eve 18 female TD Brown
+
+#999	Cromer coffee
+1	Cromer	Cromer	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+2	coffee	coffee	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1001	that
+1	that	that	pro	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1003	Mommy
+1	Mommy	Mommy	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1004	that Mommy soup
+1	that	that	comp	_	_	3	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	Mommy	Mommy	n	_	_	3	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+3	soup	soup	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1200	I want Mommy read
+1	I	I	pro	_	_	2	nsubj	Eve CHI Target_Child	Eve 18 female TD Brown
+2	want	want	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+3	Mommy	Mommy	n	_	_	2	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+4	read	read	v	_	_	2	xcomp	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1214	Mommy umbrella
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	umbrella	umbrella	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1218	book
+1	book	book	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1221	Mommy umbrella
+1	Mommy	Mommy	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	umbrella	umbrella	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1223	Papa umbrella
+1	Papa	Papa	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	umbrella	umbrella	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1225	yes dear
+1	yes	yes	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	dear	dear	co	_	_	1	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1237	out_of study
+1	out	out	prep	_	_	3	case	Eve CHI Target_Child	Eve 18 female TD Brown
+2	of	of	prep	_	_	3	case	Eve CHI Target_Child	Eve 18 female TD Brown
+3	study	study	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1239	out the study
+1	out	out	prep	_	_	3	case	Eve CHI Target_Child	Eve 18 female TD Brown
+2	the	the	det	_	_	3	det	Eve CHI Target_Child	Eve 18 female TD Brown
+3	study	study	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1243	sit down
+1	sit	sit	v	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	down	down	adv	_	_	1	advmod	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1252	Papa cracker
+1	Papa	Papa	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1255	yep
+1	yep	yep	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1256	Papa cookie happy
+1	Papa	Papa	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cookie	cookie	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+3	happy	happy	adj	_	_	2	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1258	happy
+1	happy	happy	adj	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1261	Papa cracker
+1	Papa	Papa	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1263	oh
+1	oh	oh	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1265	Eve cracker
+1	Eve	Eve	n	_	_	2	nmod:poss	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1270	Racketyboom
+1	Racketyboom	Racketyboom	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1271	more
+1	more	more	pro	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1272	more cracker
+1	more	more	qn	_	_	2	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	cracker	cracker	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1276	thank_you
+1	thank	thank	co	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+2	you	you	co	_	_	1	obj	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1278	what
+1	what	what	pro	_	_	0	root	Sue MOT Mother	Eve 18 female TD Brown
+
+#1279	empty garbage
+1	empty	empty	adj	_	_	2	amod	Eve CHI Target_Child	Eve 18 female TD Brown
+2	garbage	garbage	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
+#1287	Papa eggnog
+1	Papa	Papa	n	_	_	2	vocative	Eve CHI Target_Child	Eve 18 female TD Brown
+2	eggnog	eggnog	n	_	_	0	root	Eve CHI Target_Child	Eve 18 female TD Brown
+
