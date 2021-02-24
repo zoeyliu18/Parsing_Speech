@@ -15,3 +15,4 @@ Dependency Annotation and Parsing for Spontaneous Speech
    1. ```python3 code/descriptive_statistics.py --input Input_Path --output .csv_file```
    2. English: in ```results/en_descriptive.csv```
    3. Chinese: in ```results/zh_descriptive.csv```
+6. **Models will be available via Zenodo (Thank you for your patience!)**
