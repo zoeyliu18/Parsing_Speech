@@ -1,0 +1,2307 @@
+# sent_id = 1
+# text = more cookie
+1	more	_	_	_	_	2	amod	_	_
+2	cookie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more cookie
+1	more	_	_	_	_	2	amod	_	_
+2	cookie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more juice
+1	more	_	_	_	_	2	amod	_	_
+2	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a fly
+1	a	_	_	_	_	2	det	_	_
+2	fly	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy telephone
+1	Mommy	_	_	_	_	0	root	_	_
+2	telephone	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = my telephone
+1	my	_	_	_	_	2	nmod:poss	_	_
+2	telephone	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more cookie
+1	more	_	_	_	_	2	amod	_	_
+2	cookie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = block broke
+1	block	_	_	_	_	2	nsubj	_	_
+2	broke	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = I did it
+1	I	_	_	_	_	2	nsubj	_	_
+2	did	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = there Fraser
+1	there	_	_	_	_	2	advmod	_	_
+2	Fraser	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy read
+1	Mommy	_	_	_	_	2	nsubj	_	_
+2	read	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a stool
+1	a	_	_	_	_	2	det	_	_
+2	stool	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more cookie
+1	more	_	_	_	_	2	amod	_	_
+2	cookie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more cookie
+1	more	_	_	_	_	2	amod	_	_
+2	cookie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser water
+1	Fraser	_	_	_	_	2	compound	_	_
+2	water	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh Fraser
+1	oh	_	_	_	_	2	discourse	_	_
+2	Fraser	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser water
+1	Fraser	_	_	_	_	2	compound	_	_
+2	water	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser water
+1	Fraser	_	_	_	_	2	compound	_	_
+2	water	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser coffee
+1	Fraser	_	_	_	_	2	compound	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a fly
+1	a	_	_	_	_	2	det	_	_
+2	fly	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = read the puzzle
+1	read	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	puzzle	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = read the puzzle
+1	read	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	puzzle	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = read the puzzle
+1	read	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	puzzle	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = read the puzzle
+1	read	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	puzzle	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = read the puzzle
+1	read	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	puzzle	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Fraser hat
+1	Fraser	_	_	_	_	2	compound	_	_
+2	hat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh Fraser hat
+1	oh	_	_	_	_	3	discourse	_	_
+2	Fraser	_	_	_	_	3	compound	_	_
+3	hat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh Fraser hat
+1	oh	_	_	_	_	3	discourse	_	_
+2	Fraser	_	_	_	_	3	compound	_	_
+3	hat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser hat
+1	Fraser	_	_	_	_	2	compound	_	_
+2	hat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser hat
+1	Fraser	_	_	_	_	2	compound	_	_
+2	hat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve find it
+1	Eve	_	_	_	_	2	nsubj	_	_
+2	find	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = man a pencil
+1	man	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	pencil	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = man a pencil
+1	man	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	pencil	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = Eve pencil
+1	Eve	_	_	_	_	2	compound	_	_
+2	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve pencil
+1	Eve	_	_	_	_	2	compound	_	_
+2	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve pencil
+1	Eve	_	_	_	_	2	compound	_	_
+2	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = man a pencil
+1	man	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	pencil	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = see ya
+1	see	_	_	_	_	0	root	_	_
+2	ya	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Mommy book
+1	Mommy	_	_	_	_	2	compound	_	_
+2	book	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = read choo_choo
+1	read	_	_	_	_	0	root	_	_
+2	choo_choo	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = that radio
+1	that	_	_	_	_	2	det	_	_
+2	radio	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = like the farm
+1	like	_	_	_	_	3	case	_	_
+2	the	_	_	_	_	3	det	_	_
+3	farm	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = man stool
+1	man	_	_	_	_	0	root	_	_
+2	stool	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = get it
+1	get	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a stool
+1	a	_	_	_	_	2	det	_	_
+2	stool	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = good girl
+1	good	_	_	_	_	2	amod	_	_
+2	girl	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Neil sit that
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+3	that	_	_	_	_	2	mark	_	_
+
+# sent_id = 1
+# text = Eve seat
+1	Eve	_	_	_	_	2	compound	_	_
+2	seat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve seat
+1	Eve	_	_	_	_	2	compound	_	_
+2	seat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = lie down stool
+1	lie	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	compound:prt	_	_
+3	stool	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = lie down stool
+1	lie	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	compound:prt	_	_
+3	stool	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Eve writing
+1	Eve	_	_	_	_	2	obl:npmod	_	_
+2	writing	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = write too
+1	write	_	_	_	_	0	root	_	_
+2	too	_	_	_	_	1	advmod	_	_
+
+# sent_id = 1
+# text = write a paper
+1	write	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	paper	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = write a paper
+1	write	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	paper	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = that pencil
+1	that	_	_	_	_	2	det	_	_
+2	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more pudding
+1	more	_	_	_	_	2	amod	_	_
+2	pudding	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = taperecorder men taperecorder
+1	taperecorder	_	_	_	_	2	compound	_	_
+2	men	_	_	_	_	0	root	_	_
+3	taperecorder	_	_	_	_	2	list	_	_
+
+# sent_id = 1
+# text = taperecorder man taperecorder
+1	taperecorder	_	_	_	_	2	compound	_	_
+2	man	_	_	_	_	0	root	_	_
+3	taperecorder	_	_	_	_	2	list	_	_
+
+# sent_id = 1
+# text = down down
+1	down	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	advmod	_	_
+
+# sent_id = 1
+# text = car coming
+1	car	_	_	_	_	2	nsubj	_	_
+2	coming	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = car come
+1	car	_	_	_	_	2	nsubj	_	_
+2	come	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = come car
+1	come	_	_	_	_	2	amod	_	_
+2	car	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = dolly celery
+1	dolly	_	_	_	_	0	root	_	_
+2	celery	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = dolly celery
+1	dolly	_	_	_	_	0	root	_	_
+2	celery	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = doll eat
+1	doll	_	_	_	_	2	nsubj	_	_
+2	eat	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = the dolly
+1	the	_	_	_	_	2	det	_	_
+2	dolly	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = doll eat celery
+1	doll	_	_	_	_	2	nsubj	_	_
+2	eat	_	_	_	_	0	root	_	_
+3	celery	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = oh fish
+1	oh	_	_	_	_	2	discourse	_	_
+2	fish	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = there dolly
+1	there	_	_	_	_	2	advmod	_	_
+2	dolly	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = man have it
+1	man	_	_	_	_	2	nsubj	_	_
+2	have	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = find it
+1	find	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = find it
+1	find	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = you find it
+1	you	_	_	_	_	2	nsubj	_	_
+2	find	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = find it
+1	find	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a shoe
+1	a	_	_	_	_	2	det	_	_
+2	shoe	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = dolly shoe
+1	dolly	_	_	_	_	2	compound	_	_
+2	shoe	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = where top
+1	where	_	_	_	_	0	root	_	_
+2	top	_	_	_	_	1	nsubj	_	_
+
+# sent_id = 1
+# text = find i
+1	find	_	_	_	_	0	root	_	_
+2	i	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = man no spoon
+1	man	_	_	_	_	0	root	_	_
+2	no	_	_	_	_	3	det	_	_
+3	spoon	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = oh thank
+1	oh	_	_	_	_	2	discourse	_	_
+2	thank	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh thank you
+1	oh	_	_	_	_	2	discourse	_	_
+2	thank	_	_	_	_	0	root	_	_
+3	you	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = a top
+1	a	_	_	_	_	2	det	_	_
+2	top	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = man taste it
+1	man	_	_	_	_	2	nsubj	_	_
+2	taste	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = man taste it
+1	man	_	_	_	_	2	nsubj	_	_
+2	taste	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = taste it
+1	taste	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = be careful
+1	be	_	_	_	_	2	cop	_	_
+2	careful	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = man taste it
+1	man	_	_	_	_	2	nsubj	_	_
+2	taste	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = taste it
+1	taste	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = man taste it
+1	man	_	_	_	_	2	nsubj	_	_
+2	taste	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = man no sure
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	advmod	_	_
+3	sure	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = taste it
+1	taste	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = man no taste it
+1	man	_	_	_	_	3	discourse	_	_
+2	no	_	_	_	_	3	det	_	_
+3	taste	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = change your record
+1	change	_	_	_	_	0	root	_	_
+2	your	_	_	_	_	3	nmod:poss	_	_
+3	record	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a top
+1	a	_	_	_	_	2	det	_	_
+2	top	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a table
+1	a	_	_	_	_	2	det	_	_
+2	table	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = man fireplace
+1	man	_	_	_	_	2	compound	_	_
+2	fireplace	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a pencil
+1	a	_	_	_	_	2	det	_	_
+2	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a coffee
+1	a	_	_	_	_	2	det	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser coffee
+1	Fraser	_	_	_	_	2	compound	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy letter pencil
+1	Mommy	_	_	_	_	2	compound	_	_
+2	letter	_	_	_	_	3	compound	_	_
+3	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = I fall
+1	I	_	_	_	_	2	nsubj	_	_
+2	fall	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a cup
+1	a	_	_	_	_	2	det	_	_
+2	cup	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = an juice
+1	an	_	_	_	_	2	det	_	_
+2	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more juice
+1	more	_	_	_	_	2	amod	_	_
+2	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy juice
+1	Mommy	_	_	_	_	2	compound	_	_
+2	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a cough
+1	a	_	_	_	_	2	det	_	_
+2	cough	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy stair
+1	Mommy	_	_	_	_	0	root	_	_
+2	stair	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = do it
+1	do	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Sambo down
+1	Sambo	_	_	_	_	2	nsubj	_	_
+2	down	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = later may
+1	later	_	_	_	_	2	amod	_	_
+2	may	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = may maybe may
+1	may	_	_	_	_	0	root	_	_
+2	maybe	_	_	_	_	1	advmod	_	_
+3	may	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = the paper
+1	the	_	_	_	_	2	det	_	_
+2	paper	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = the paper
+1	the	_	_	_	_	2	det	_	_
+2	paper	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy pencil
+1	Mommy	_	_	_	_	0	root	_	_
+2	pencil	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy pencil
+1	Mommy	_	_	_	_	0	root	_	_
+2	pencil	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy down
+1	Mommy	_	_	_	_	0	root	_	_
+2	dow	_	_	_	_	1	flat	_	_
+3	n	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy down
+1	Mommy	_	_	_	_	0	root	_	_
+2	dow	_	_	_	_	1	flat	_	_
+3	n	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = come down
+1	come	_	_	_	_	0	root	_	_
+2	dow	_	_	_	_	3	compound	_	_
+3	n	_	_	_	_	1	compound:prt	_	_
+
+# sent_id = 1
+# text = have it
+1	have	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = fall down
+1	fall	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	advmod	_	_
+
+# sent_id = 1
+# text = Mommy turn
+1	Mommy	_	_	_	_	2	nsubj	_	_
+2	turn	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = bring it
+1	bring	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = bring it
+1	bring	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = where Rangy
+1	where	_	_	_	_	0	root	_	_
+2	Rangy	_	_	_	_	1	nsubj	_	_
+
+# sent_id = 1
+# text = pardon me
+1	pardon	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a Becky
+1	a	_	_	_	_	2	det	_	_
+2	Becky	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a Becky
+1	a	_	_	_	_	2	det	_	_
+2	Becky	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a Becky Mommy
+1	a	_	_	_	_	3	det	_	_
+2	Becky	_	_	_	_	3	compound	_	_
+3	Mommy	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = sit down
+1	sit	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	compound:prt	_	_
+
+# sent_id = 1
+# text = Cromer pencil
+1	Cromer	_	_	_	_	2	compound	_	_
+2	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = some more
+1	some	_	_	_	_	2	det	_	_
+2	more	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = want Mommy letter
+1	want	_	_	_	_	0	root	_	_
+2	Mommy	_	_	_	_	3	compound	_	_
+3	letter	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Mommy letter a
+1	Mommy	_	_	_	_	3	compound	_	_
+2	letter	_	_	_	_	3	compound	_	_
+3	a	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy letter
+1	Mommy	_	_	_	_	0	root	_	_
+2	letter	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Kathy letter
+1	Kathy	_	_	_	_	0	root	_	_
+2	letter	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Kathy letter
+1	Kathy	_	_	_	_	0	root	_	_
+2	letter	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = a little pencil
+1	a	_	_	_	_	3	det	_	_
+2	little	_	_	_	_	3	amod	_	_
+3	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = the king
+1	the	_	_	_	_	2	det	_	_
+2	king	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a dog
+1	a	_	_	_	_	2	det	_	_
+2	dog	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = that Jack
+1	that	_	_	_	_	2	det	_	_
+2	Jack	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a lady
+1	a	_	_	_	_	2	det	_	_
+2	lady	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a letter
+1	a	_	_	_	_	2	det	_	_
+2	letter	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a Dumpty
+1	a	_	_	_	_	2	det	_	_
+2	Dumpty	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = that Dumpty
+1	that	_	_	_	_	2	det	_	_
+2	Dumpty	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a Dumpty
+1	a	_	_	_	_	2	det	_	_
+2	Dumpty	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a milk
+1	a	_	_	_	_	2	det	_	_
+2	milk	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = pencil horsie that
+1	pencil	_	_	_	_	2	compound	_	_
+2	horsie	_	_	_	_	0	root	_	_
+3	that	_	_	_	_	2	det	_	_
+
+# sent_id = 1
+# text = horsie eye
+1	horsie	_	_	_	_	2	compound	_	_
+2	eye	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = horsie eye
+1	horsie	_	_	_	_	2	compound	_	_
+2	eye	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = horsie eye
+1	horsie	_	_	_	_	2	compound	_	_
+2	eye	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = horsie eye
+1	horsie	_	_	_	_	2	compound	_	_
+2	eye	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = arm a letter
+1	arm	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	letter	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a horsie
+1	a	_	_	_	_	2	det	_	_
+2	horsie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a stool
+1	a	_	_	_	_	2	det	_	_
+2	stool	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh fish
+1	oh	_	_	_	_	2	discourse	_	_
+2	fish	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = fish are swimming
+1	fish	_	_	_	_	3	nsubj	_	_
+2	are	_	_	_	_	3	aux	_	_
+3	swimming	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Cromer briefcase
+1	Cromer	_	_	_	_	2	compound	_	_
+2	briefcase	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = banjo Papa banjo
+1	banjo	_	_	_	_	2	compound	_	_
+2	Papa	_	_	_	_	0	root	_	_
+3	banjo	_	_	_	_	2	flat	_	_
+
+# sent_id = 1
+# text = on wall
+1	on	_	_	_	_	2	case	_	_
+2	wall	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = laiby sing
+1	laiby	_	_	_	_	0	root	_	_
+2	sing	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = finger stuck
+1	finger	_	_	_	_	2	nsubj	_	_
+2	stuck	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = finger stuck
+1	finger	_	_	_	_	2	nsubj	_	_
+2	stuck	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = finger stuck
+1	finger	_	_	_	_	2	nsubj	_	_
+2	stuck	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = finger stuck
+1	finger	_	_	_	_	2	nsubj	_	_
+2	stuck	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = finger stuck
+1	finger	_	_	_	_	2	nsubj	_	_
+2	stuck	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = stand dance
+1	stand	_	_	_	_	0	root	_	_
+2	dance	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = I dance
+1	I	_	_	_	_	2	nsubj	_	_
+2	dance	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh light
+1	oh	_	_	_	_	2	discourse	_	_
+2	light	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve light
+1	Eve	_	_	_	_	0	root	_	_
+2	light	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy step
+1	Mommy	_	_	_	_	2	compound	_	_
+2	step	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = play step
+1	play	_	_	_	_	0	root	_	_
+2	step	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a step
+1	a	_	_	_	_	2	det	_	_
+2	step	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Rangy step
+1	Rangy	_	_	_	_	2	amod	_	_
+2	step	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = get her
+1	get	_	_	_	_	0	root	_	_
+2	her	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = get it
+1	get	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Lynn letter
+1	Lynn	_	_	_	_	2	compound	_	_
+2	letter	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a horsie
+1	a	_	_	_	_	2	det	_	_
+2	horsie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = I see it
+1	I	_	_	_	_	2	nsubj	_	_
+2	see	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = Eve horsie
+1	Eve	_	_	_	_	0	root	_	_
+2	horsie	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = oh change her
+1	oh	_	_	_	_	2	discourse	_	_
+2	change	_	_	_	_	0	root	_	_
+3	her	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = oh change her
+1	oh	_	_	_	_	2	discourse	_	_
+2	change	_	_	_	_	0	root	_	_
+3	her	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = oh change her
+1	oh	_	_	_	_	2	discourse	_	_
+2	change	_	_	_	_	0	root	_	_
+3	her	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = change her
+1	change	_	_	_	_	0	root	_	_
+2	her	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Eve horsie
+1	Eve	_	_	_	_	0	root	_	_
+2	horsie	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Eve horsie
+1	Eve	_	_	_	_	0	root	_	_
+2	horsie	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = oh pantie
+1	oh	_	_	_	_	2	discourse	_	_
+2	pantie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = have it
+1	have	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = the one
+1	the	_	_	_	_	2	det	_	_
+2	one	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = the one
+1	the	_	_	_	_	2	det	_	_
+2	one	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve one find it
+1	Eve	_	_	_	_	3	nsubj	_	_
+2	one	_	_	_	_	1	flat	_	_
+3	find	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = find it
+1	find	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = you find it
+1	you	_	_	_	_	2	nsubj	_	_
+2	find	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = you find it
+1	you	_	_	_	_	2	nsubj	_	_
+2	find	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = find it
+1	find	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = find it
+1	find	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = fix it
+1	fix	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = other piece
+1	other	_	_	_	_	2	amod	_	_
+2	piece	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = find it
+1	find	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = that Kathy
+1	that	_	_	_	_	2	det	_	_
+2	Kathy	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = on the table
+1	on	_	_	_	_	3	case	_	_
+2	the	_	_	_	_	3	det	_	_
+3	table	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = that Kathy
+1	that	_	_	_	_	2	det	_	_
+2	Kathy	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = go outside
+1	go	_	_	_	_	0	root	_	_
+2	outside	_	_	_	_	1	advmod	_	_
+
+# sent_id = 1
+# text = later outside
+1	later	_	_	_	_	2	advmod	_	_
+2	outside	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = later outside
+1	later	_	_	_	_	2	advmod	_	_
+2	outside	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy fix
+1	Mommy	_	_	_	_	2	nsubj	_	_
+2	fix	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = bring it
+1	bring	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = bring it
+1	bring	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = that Kathy
+1	that	_	_	_	_	2	det	_	_
+2	Kathy	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = that Kathy
+1	that	_	_	_	_	2	det	_	_
+2	Kathy	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Kathy cry
+1	Kathy	_	_	_	_	0	root	_	_
+2	cry	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Kathy fix
+1	Kathy	_	_	_	_	0	root	_	_
+2	fix	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = a tapioca
+1	a	_	_	_	_	2	det	_	_
+2	tapioca	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a bibbie
+1	a	_	_	_	_	2	det	_	_
+2	bibbie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy tapioca
+1	Mommy	_	_	_	_	2	compound	_	_
+2	tapioca	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = cheese too
+1	cheese	_	_	_	_	0	root	_	_
+2	too	_	_	_	_	1	advmod	_	_
+
+# sent_id = 1
+# text = a that man
+1	a	_	_	_	_	3	det	_	_
+2	that	_	_	_	_	3	det	_	_
+3	man	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy letter
+1	Mommy	_	_	_	_	0	root	_	_
+2	letter	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Eve letter
+1	Eve	_	_	_	_	2	compound	_	_
+2	letter	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Papa tray
+1	Papa	_	_	_	_	2	compound	_	_
+2	tray	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Papa breakfast
+1	Papa	_	_	_	_	2	compound	_	_
+2	breakfast	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = have it
+1	have	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Papa have it
+1	Papa	_	_	_	_	2	nsubj	_	_
+2	have	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = oh cookie
+1	oh	_	_	_	_	2	discourse	_	_
+2	cookie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy cheese
+1	Mommy	_	_	_	_	2	compound	_	_
+2	cheese	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy cheese
+1	Mommy	_	_	_	_	2	compound	_	_
+2	cheese	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy cheese
+1	Mommy	_	_	_	_	2	compound	_	_
+2	cheese	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy swing
+1	Mommy	_	_	_	_	2	compound	_	_
+2	swing	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = like to swing
+1	like	_	_	_	_	0	root	_	_
+2	to	_	_	_	_	3	mark	_	_
+3	swing	_	_	_	_	1	xcomp	_	_
+
+# sent_id = 1
+# text = tomato soup
+1	tomato	_	_	_	_	2	compound	_	_
+2	soup	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = have it
+1	have	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = have it
+1	have	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = eat it
+1	eat	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Mommy have it
+1	Mommy	_	_	_	_	2	nsubj	_	_
+2	have	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = a wiener Mommy
+1	a	_	_	_	_	3	det	_	_
+2	wiener	_	_	_	_	3	compound	_	_
+3	Mommy	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy carrot
+1	Mommy	_	_	_	_	0	root	_	_
+2	carrot	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = drop a cheese
+1	drop	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	cheese	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = drop a cheese
+1	drop	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	cheese	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = drop a cheese
+1	drop	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	cheese	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = drop a cheese
+1	drop	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	cheese	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = have it
+1	have	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a piece
+1	a	_	_	_	_	2	det	_	_
+2	piece	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = have a piece
+1	have	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	piece	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = have a piece
+1	have	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	piece	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = have a piece
+1	have	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	piece	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = have a piece
+1	have	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	piece	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = tapioca finger
+1	tapioca	_	_	_	_	2	compound	_	_
+2	finger	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = pencil drop pencil
+1	pencil	_	_	_	_	2	compound	_	_
+2	drop	_	_	_	_	0	root	_	_
+3	pencil	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = skunk pencil
+1	skunk	_	_	_	_	2	compound	_	_
+2	pencil	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = paper pencil paper pencil
+1	paper	_	_	_	_	2	compound	_	_
+2	pencil	_	_	_	_	0	root	_	_
+3	paper	_	_	_	_	2	parataxis	_	_
+4	pencil	_	_	_	_	2	conj	_	_
+
+# sent_id = 1
+# text = pencil paper
+1	pencil	_	_	_	_	2	compound	_	_
+2	paper	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = boy paper no
+1	boy	_	_	_	_	2	compound	_	_
+2	paper	_	_	_	_	0	root	_	_
+3	no	_	_	_	_	2	discourse	_	_
+
+# sent_id = 1
+# text = sit down
+1	sit	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	compound:prt	_	_
+
+# sent_id = 1
+# text = a finger
+1	a	_	_	_	_	2	det	_	_
+2	finger	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = have it
+1	have	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = one two three
+1	one	_	_	_	_	0	root	_	_
+2	two	_	_	_	_	1	parataxis	_	_
+3	three	_	_	_	_	1	conj	_	_
+
+# sent_id = 1
+# text = one two three two one two three two
+1	one	_	_	_	_	0	root	_	_
+2	two	_	_	_	_	1	parataxis	_	_
+3	three	_	_	_	_	2	conj	_	_
+4	two	_	_	_	_	1	conj	_	_
+5	one	_	_	_	_	1	conj	_	_
+6	two	_	_	_	_	1	conj	_	_
+7	three	_	_	_	_	5	conj	_	_
+8	two	_	_	_	_	1	conj	_	_
+
+# sent_id = 1
+# text = one two three two one two three two
+1	one	_	_	_	_	0	root	_	_
+2	two	_	_	_	_	1	parataxis	_	_
+3	three	_	_	_	_	2	conj	_	_
+4	two	_	_	_	_	1	conj	_	_
+5	one	_	_	_	_	1	conj	_	_
+6	two	_	_	_	_	1	conj	_	_
+7	three	_	_	_	_	5	conj	_	_
+8	two	_	_	_	_	1	conj	_	_
+
+# sent_id = 1
+# text = one two three one two three one two three two
+1	one	_	_	_	_	0	root	_	_
+2	two	_	_	_	_	1	parataxis	_	_
+3	three	_	_	_	_	2	conj	_	_
+4	one	_	_	_	_	1	conj	_	_
+5	two	_	_	_	_	1	conj	_	_
+6	three	_	_	_	_	1	conj	_	_
+7	one	_	_	_	_	1	conj	_	_
+8	two	_	_	_	_	1	conj	_	_
+9	three	_	_	_	_	8	conj	_	_
+10	two	_	_	_	_	1	conj	_	_
+
+# sent_id = 1
+# text = more grape juice
+1	more	_	_	_	_	3	amod	_	_
+2	grape	_	_	_	_	3	compound	_	_
+3	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more grape juice
+1	more	_	_	_	_	3	amod	_	_
+2	grape	_	_	_	_	3	compound	_	_
+3	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = one two three four
+1	one	_	_	_	_	0	root	_	_
+2	two	_	_	_	_	1	parataxis	_	_
+3	three	_	_	_	_	2	conj	_	_
+4	four	_	_	_	_	1	conj	_	_
+
+# sent_id = 1
+# text = one two three two
+1	one	_	_	_	_	0	root	_	_
+2	two	_	_	_	_	1	parataxis	_	_
+3	three	_	_	_	_	1	conj	_	_
+4	two	_	_	_	_	1	conj	_	_
+
+# sent_id = 1
+# text = what that
+1	what	_	_	_	_	0	root	_	_
+2	that	_	_	_	_	1	nsubj	_	_
+
+# sent_id = 1
+# text = it break
+1	it	_	_	_	_	2	nsubj	_	_
+2	break	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh it break
+1	oh	_	_	_	_	3	discourse	_	_
+2	it	_	_	_	_	3	nsubj	_	_
+3	break	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = it break
+1	it	_	_	_	_	2	nsubj	_	_
+2	break	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = top of can
+1	top	_	_	_	_	0	root	_	_
+2	of	_	_	_	_	4	case	_	_
+3	ca	_	_	_	_	4	compound	_	_
+4	n	_	_	_	_	1	nmod	_	_
+
+# sent_id = 1
+# text = top of can
+1	top	_	_	_	_	0	root	_	_
+2	of	_	_	_	_	4	case	_	_
+3	ca	_	_	_	_	4	compound	_	_
+4	n	_	_	_	_	1	nmod	_	_
+
+# sent_id = 1
+# text = man read
+1	man	_	_	_	_	2	nsubj	_	_
+2	read	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh highchair
+1	oh	_	_	_	_	2	discourse	_	_
+2	highchair	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = good girl
+1	good	_	_	_	_	2	amod	_	_
+2	girl	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh cracker
+1	oh	_	_	_	_	2	discourse	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = commydit quackquack chickchick commydit
+1	commydit	_	_	_	_	0	root	_	_
+2	quackquack	_	_	_	_	1	flat	_	_
+3	chickchick	_	_	_	_	1	parataxis	_	_
+4	commydit	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = I cider
+1	I	_	_	_	_	2	nsubj	_	_
+2	cider	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy get
+1	Mommy	_	_	_	_	2	nsubj	_	_
+2	get	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = commydit grape juice
+1	commydit	_	_	_	_	3	compound	_	_
+2	grape	_	_	_	_	3	compound	_	_
+3	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = no read
+1	no	_	_	_	_	2	det	_	_
+2	read	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = can a
+1	can	_	_	_	_	2	aux	_	_
+2	a	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = right down
+1	right	_	_	_	_	2	advmod	_	_
+2	down	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = good girl
+1	good	_	_	_	_	2	amod	_	_
+2	girl	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = the dog 's house
+1	the	_	_	_	_	2	det	_	_
+2	dog	_	_	_	_	4	nmod:poss	_	_
+3	's	_	_	_	_	2	case	_	_
+4	house	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = the dog 's house
+1	the	_	_	_	_	2	det	_	_
+2	dog	_	_	_	_	4	nmod:poss	_	_
+3	's	_	_	_	_	2	case	_	_
+4	house	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = show me book
+1	show	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	iobj	_	_
+3	book	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = show me book
+1	show	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	iobj	_	_
+3	book	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = show me book
+1	show	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	iobj	_	_
+3	book	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = me book
+1	me	_	_	_	_	2	compound	_	_
+2	book	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = show me book
+1	show	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	iobj	_	_
+3	book	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = show me book
+1	show	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	iobj	_	_
+3	book	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = coffee grape juice
+1	coffee	_	_	_	_	3	compound	_	_
+2	grape	_	_	_	_	3	compound	_	_
+3	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = cup Racketyboom
+1	cup	_	_	_	_	2	compound	_	_
+2	Racketyboom	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy you read
+1	Mommy	_	_	_	_	3	discourse	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	read	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = I kick the ball
+1	I	_	_	_	_	2	nsubj	_	_
+2	kick	_	_	_	_	0	root	_	_
+3	the	_	_	_	_	4	det	_	_
+4	ball	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = kick the ball
+1	kick	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	ball	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = showy showy
+1	showy	_	_	_	_	0	root	_	_
+2	showy	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = showy ba empty garbage
+1	showy	_	_	_	_	2	compound	_	_
+2	ba	_	_	_	_	4	compound	_	_
+3	empty	_	_	_	_	4	amod	_	_
+4	garbage	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = empty garbage
+1	empty	_	_	_	_	2	amod	_	_
+2	garbage	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = empty garbage
+1	empty	_	_	_	_	2	amod	_	_
+2	garbage	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh swim
+1	oh	_	_	_	_	2	discourse	_	_
+2	swim	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh yeah
+1	oh	_	_	_	_	2	discourse	_	_
+2	yeah	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy read
+1	Mommy	_	_	_	_	2	nsubj	_	_
+2	read	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a pillow
+1	a	_	_	_	_	2	det	_	_
+2	pillow	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = fire coffee
+1	fire	_	_	_	_	2	compound	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve lunch
+1	Eve	_	_	_	_	2	compound	_	_
+2	lunch	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = the bibbie
+1	the	_	_	_	_	2	det	_	_
+2	bibbie	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = yep cracker
+1	yep	_	_	_	_	2	discourse	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy cracker
+1	Mommy	_	_	_	_	2	compound	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = sitting chair
+1	sitting	_	_	_	_	2	amod	_	_
+2	chair	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a Papa
+1	a	_	_	_	_	2	det	_	_
+2	Papa	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve lunch
+1	Eve	_	_	_	_	2	compound	_	_
+2	lunch	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve soup
+1	Eve	_	_	_	_	0	root	_	_
+2	soup	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = a Mommy soup
+1	a	_	_	_	_	3	det	_	_
+2	Mommy	_	_	_	_	3	compound	_	_
+3	soup	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a noodle
+1	a	_	_	_	_	2	det	_	_
+2	noodle	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = shut door
+1	shut	_	_	_	_	0	root	_	_
+2	door	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = Mom pumpkin
+1	Mom	_	_	_	_	2	compound	_	_
+2	pumpkin	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mom pumpkin
+1	Mom	_	_	_	_	2	compound	_	_
+2	pumpkin	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh coffee
+1	oh	_	_	_	_	2	discourse	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh Fraser coffee
+1	oh	_	_	_	_	3	amod	_	_
+2	Fraser	_	_	_	_	3	compound	_	_
+3	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Cromer coffee
+1	Cromer	_	_	_	_	2	compound	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = that paper
+1	that	_	_	_	_	2	det	_	_
+2	paper	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = from Granny
+1	from	_	_	_	_	2	case	_	_
+2	Granny	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = from Nanny
+1	from	_	_	_	_	2	case	_	_
+2	Nanny	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh grape juice
+1	oh	_	_	_	_	3	discourse	_	_
+2	grape	_	_	_	_	3	compound	_	_
+3	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = grape juice
+1	grape	_	_	_	_	2	compound	_	_
+2	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh Fraser coffee
+1	oh	_	_	_	_	3	amod	_	_
+2	Fraser	_	_	_	_	3	compound	_	_
+3	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a pumpkin
+1	a	_	_	_	_	2	det	_	_
+2	pumpkin	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = grape juice
+1	grape	_	_	_	_	2	compound	_	_
+2	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = see it
+1	see	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = wipe juice
+1	wipe	_	_	_	_	0	root	_	_
+2	juice	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = oh cracker
+1	oh	_	_	_	_	2	discourse	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh cracker
+1	oh	_	_	_	_	2	discourse	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy stool
+1	Mommy	_	_	_	_	0	root	_	_
+2	stool	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Eve stool
+1	Eve	_	_	_	_	0	root	_	_
+2	stool	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = I can
+1	I	_	_	_	_	2	nsubj	_	_
+2	ca	_	_	_	_	0	root	_	_
+3	n	_	_	_	_	2	advmod	_	_
+
+# sent_id = 1
+# text = Mommy stool
+1	Mommy	_	_	_	_	0	root	_	_
+2	stool	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy tinker
+1	Mommy	_	_	_	_	0	root	_	_
+2	tinker	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy tinkertoy
+1	Mommy	_	_	_	_	0	root	_	_
+2	tinkertoy	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy tinkertoy
+1	Mommy	_	_	_	_	0	root	_	_
+2	tinkertoy	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = horsie gun
+1	horsie	_	_	_	_	2	compound	_	_
+2	gun	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = broke here music box
+1	broke	_	_	_	_	0	root	_	_
+2	here	_	_	_	_	1	compound:prt	_	_
+3	music	_	_	_	_	4	compound	_	_
+4	box	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = turn up hill
+1	turn	_	_	_	_	0	root	_	_
+2	up	_	_	_	_	3	goeswith	_	_
+3	hill	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = up hill
+1	up	_	_	_	_	2	amod	_	_
+2	hill	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = up hill
+1	up	_	_	_	_	2	amod	_	_
+2	hill	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = down hill more turn
+1	down	_	_	_	_	2	amod	_	_
+2	hill	_	_	_	_	4	parataxis	_	_
+3	more	_	_	_	_	4	advmod	_	_
+4	turn	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a nap
+1	a	_	_	_	_	2	det	_	_
+2	nap	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a nap
+1	a	_	_	_	_	2	det	_	_
+2	nap	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = I was stand the top
+1	I	_	_	_	_	3	nsubj	_	_
+2	was	_	_	_	_	3	aux	_	_
+3	stand	_	_	_	_	0	root	_	_
+4	the	_	_	_	_	5	det	_	_
+5	top	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = oh stand the top
+1	oh	_	_	_	_	2	discourse	_	_
+2	stand	_	_	_	_	0	root	_	_
+3	the	_	_	_	_	4	det	_	_
+4	top	_	_	_	_	2	obj	_	_
+
+# sent_id = 1
+# text = stand the top
+1	stand	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	3	det	_	_
+3	top	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = oh Fraser byebye
+1	oh	_	_	_	_	2	discourse	_	_
+2	Fraser	_	_	_	_	0	root	_	_
+3	byebye	_	_	_	_	2	discourse	_	_
+
+# sent_id = 1
+# text = a butterfly
+1	a	_	_	_	_	2	det	_	_
+2	butterfly	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a butterfly
+1	a	_	_	_	_	2	det	_	_
+2	butterfly	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = there butterfly
+1	there	_	_	_	_	2	det	_	_
+2	butterfly	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a cracker juice
+1	a	_	_	_	_	3	det	_	_
+2	cracker	_	_	_	_	3	compound	_	_
+3	juice	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a taybit
+1	a	_	_	_	_	2	det	_	_
+2	taybit	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = teddybear asleep
+1	teddybear	_	_	_	_	2	nsubj	_	_
+2	asleep	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve dear
+1	Eve	_	_	_	_	0	root	_	_
+2	dear	_	_	_	_	1	parataxis	_	_
+
+# sent_id = 1
+# text = a breakfast
+1	a	_	_	_	_	2	det	_	_
+2	breakfast	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = a sugar
+1	a	_	_	_	_	2	det	_	_
+2	sugar	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = more cracker
+1	more	_	_	_	_	2	amod	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = sloumi cracker
+1	sloumi	_	_	_	_	2	compound	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = want watch
+1	want	_	_	_	_	0	root	_	_
+2	watch	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = want watch
+1	want	_	_	_	_	0	root	_	_
+2	watch	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = do n't touch that
+1	do	_	_	_	_	3	aux	_	_
+2	n't	_	_	_	_	3	advmod	_	_
+3	touch	_	_	_	_	0	root	_	_
+4	that	_	_	_	_	3	obj	_	_
+
+# sent_id = 1
+# text = Mommy celery
+1	Mommy	_	_	_	_	2	compound	_	_
+2	celery	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = no celery
+1	no	_	_	_	_	2	det	_	_
+2	celery	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = change her
+1	change	_	_	_	_	0	root	_	_
+2	her	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = table celery
+1	table	_	_	_	_	2	compound	_	_
+2	celery	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = on table
+1	on	_	_	_	_	2	case	_	_
+2	table	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = chair table
+1	chair	_	_	_	_	0	root	_	_
+2	table	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = sit down oh drop a celery
+1	sit	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	compound:prt	_	_
+3	oh	_	_	_	_	4	discourse	_	_
+4	drop	_	_	_	_	1	parataxis	_	_
+5	a	_	_	_	_	6	det	_	_
+6	celery	_	_	_	_	4	obj	_	_
+
+# sent_id = 1
+# text = oh foot
+1	oh	_	_	_	_	2	discourse	_	_
+2	foot	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = oh foot
+1	oh	_	_	_	_	2	discourse	_	_
+2	foot	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = foot chair
+1	foot	_	_	_	_	2	compound	_	_
+2	chair	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = want Mommy out
+1	want	_	_	_	_	0	root	_	_
+2	Mommy	_	_	_	_	1	obj	_	_
+3	out	_	_	_	_	1	compound:prt	_	_
+
+# sent_id = 1
+# text = watch a head
+1	watch	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	3	det	_	_
+3	head	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = want lunch
+1	want	_	_	_	_	0	root	_	_
+2	lunch	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = want bibbie
+1	want	_	_	_	_	0	root	_	_
+2	bibbie	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = want bibbie
+1	want	_	_	_	_	0	root	_	_
+2	bibbie	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = pardon me
+1	pardon	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = pardon me
+1	pardon	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = pardon me
+1	pardon	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = a lunch
+1	a	_	_	_	_	2	det	_	_
+2	lunch	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = cheese sandwich
+1	cheese	_	_	_	_	2	compound	_	_
+2	sandwich	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Mommy sandwich
+1	Mommy	_	_	_	_	0	root	_	_
+2	sandwich	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = oh peanutbutter
+1	oh	_	_	_	_	2	discourse	_	_
+2	peanutbutter	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Fraser coffee
+1	Fraser	_	_	_	_	2	compound	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Cromer coffee
+1	Cromer	_	_	_	_	2	compound	_	_
+2	coffee	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = that Mommy soup
+1	that	_	_	_	_	3	det	_	_
+2	Mommy	_	_	_	_	3	compound	_	_
+3	soup	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = I want Mommy read
+1	I	_	_	_	_	2	nsubj	_	_
+2	want	_	_	_	_	0	root	_	_
+3	Mommy	_	_	_	_	2	obj	_	_
+4	read	_	_	_	_	2	xcomp	_	_
+
+# sent_id = 1
+# text = Mommy umbrella
+1	Mommy	_	_	_	_	0	root	_	_
+2	umbrella	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Mommy umbrella
+1	Mommy	_	_	_	_	0	root	_	_
+2	umbrella	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = Papa umbrella
+1	Papa	_	_	_	_	2	compound	_	_
+2	umbrella	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = yes dear
+1	yes	_	_	_	_	0	root	_	_
+2	dear	_	_	_	_	1	vocative	_	_
+
+# sent_id = 1
+# text = out of study
+1	out	_	_	_	_	3	case	_	_
+2	of	_	_	_	_	3	case	_	_
+3	study	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = out the study
+1	out	_	_	_	_	3	case	_	_
+2	the	_	_	_	_	3	det	_	_
+3	study	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = sit down
+1	sit	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	compound:prt	_	_
+
+# sent_id = 1
+# text = Papa cracker
+1	Papa	_	_	_	_	2	compound	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Papa cookie happy
+1	Papa	_	_	_	_	2	compound	_	_
+2	cookie	_	_	_	_	0	root	_	_
+3	happy	_	_	_	_	2	amod	_	_
+
+# sent_id = 1
+# text = Papa cracker
+1	Papa	_	_	_	_	2	compound	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Eve cracker
+1	Eve	_	_	_	_	0	root	_	_
+2	cracker	_	_	_	_	1	flat	_	_
+
+# sent_id = 1
+# text = more cracker
+1	more	_	_	_	_	2	amod	_	_
+2	cracker	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = thank you
+1	thank	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	1	obj	_	_
+
+# sent_id = 1
+# text = empty garbage
+1	empty	_	_	_	_	2	amod	_	_
+2	garbage	_	_	_	_	0	root	_	_
+
+# sent_id = 1
+# text = Papa eggnog
+1	Papa	_	_	_	_	2	compound	_	_
+2	eggnog	_	_	_	_	0	root	_	_
+

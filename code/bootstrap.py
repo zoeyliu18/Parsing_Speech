@@ -49,7 +49,7 @@ if __name__ == '__main__':
 		while sent is not None:
 			pred.append(sent)
 			sent = conll_read_sentence(f)
-
+	print(len(pred))
 	all_ids = list(range(int(args.c)))
 
 	POS = []
@@ -68,7 +68,7 @@ if __name__ == '__main__':
 		las = 0
 		pos = 0
 		total = 0
-
+	
 		for z in range(len(gold_sample)):
 			gold_sent = gold_sample[z]
 			pred_sent = pred_sample[z]
@@ -76,8 +76,10 @@ if __name__ == '__main__':
 			total += len(gold_sample[z])
 
 			for k in range(len(gold_sent)):
+
 				if gold_sent[k][3] == pred_sent[k][3]:
 					pos += 1
+
 				if gold_sent[k][6] == pred_sent[k][6]:
 					uas += 1
 					if gold_sent[k][7] == pred_sent[k][7]:

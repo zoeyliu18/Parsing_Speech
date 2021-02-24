@@ -1,0 +1,1440 @@
+# text = you more cookies
+1	you	_	_	_	_	3	discourse	_	_
+2	more	_	_	_	_	3	amod	_	_
+3	cookies	_	_	_	_	0	root	_	_
+
+# text = how about another grahamcracker
+1	how	_	_	_	_	0	root	_	_
+2	about	_	_	_	_	4	case	_	_
+3	another	_	_	_	_	4	det	_	_
+4	grahamcracker	_	_	_	_	1	obl	_	_
+
+# text = would that do just as well
+1	would	_	_	_	_	3	aux	_	_
+2	that	_	_	_	_	3	nsubj	_	_
+3	do	_	_	_	_	0	root	_	_
+4	just	_	_	_	_	6	advmod	_	_
+5	as	_	_	_	_	3	advmod	_	_
+6	well	_	_	_	_	5	fixed	_	_
+
+# text = here you go
+1	here	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	go	_	_	_	_	1	parataxis	_	_
+
+# text = you have another cookie right on the table
+1	you	_	_	_	_	2	nsubj	_	_
+2	have	_	_	_	_	0	root	_	_
+3	another	_	_	_	_	4	det	_	_
+4	cookie	_	_	_	_	2	obj	_	_
+5	right	_	_	_	_	8	advmod	_	_
+6	on	_	_	_	_	8	case	_	_
+7	the	_	_	_	_	8	det	_	_
+8	table	_	_	_	_	2	obl	_	_
+
+# text = more juice
+1	more	_	_	_	_	2	amod	_	_
+2	juice	_	_	_	_	0	root	_	_
+
+# text = would you like more grape juice
+1	would	_	_	_	_	3	aux	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	like	_	_	_	_	0	root	_	_
+4	more	_	_	_	_	6	amod	_	_
+5	grape	_	_	_	_	6	compound	_	_
+6	juice	_	_	_	_	3	obj	_	_
+
+# text = where 's your cup
+1	where	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	cop	_	_
+3	your	_	_	_	_	4	nmod:poss	_	_
+4	cup	_	_	_	_	1	nsubj	_	_
+
+# text = oh I took it
+1	oh	_	_	_	_	3	discourse	_	_
+2	I	_	_	_	_	3	nsubj	_	_
+3	took	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# text = I think that was Fraser
+1	I	_	_	_	_	2	nsubj	_	_
+2	think	_	_	_	_	0	root	_	_
+3	that	_	_	_	_	5	nsubj	_	_
+4	was	_	_	_	_	5	cop	_	_
+5	Fraser	_	_	_	_	2	ccomp	_	_
+
+# text = I 'm not sure
+1	I	_	_	_	_	4	nsubj	_	_
+2	'm	_	_	_	_	4	cop	_	_
+3	not	_	_	_	_	4	advmod	_	_
+4	sure	_	_	_	_	0	root	_	_
+
+# text = are you saying Fraser
+1	are	_	_	_	_	3	aux	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	saying	_	_	_	_	0	root	_	_
+4	Fraser	_	_	_	_	3	obj	_	_
+
+# text = Mr Fraser
+1	Mr	_	_	_	_	0	root	_	_
+2	Fraser	_	_	_	_	1	flat	_	_
+
+# text = yes that 's much better
+1	yes	_	_	_	_	5	discourse	_	_
+2	that	_	_	_	_	5	nsubj	_	_
+3	's	_	_	_	_	5	cop	_	_
+4	much	_	_	_	_	5	advmod	_	_
+5	better	_	_	_	_	0	root	_	_
+
+# text = Mr Fraser
+1	Mr	_	_	_	_	0	root	_	_
+2	Fraser	_	_	_	_	1	flat	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = yes a fly
+1	yes	_	_	_	_	3	discourse	_	_
+2	a	_	_	_	_	3	det	_	_
+3	fly	_	_	_	_	0	root	_	_
+
+# text = why do n't you go in the room and kill a fly
+1	why	_	_	_	_	5	advmod	_	_
+2	do	_	_	_	_	5	aux	_	_
+3	n't	_	_	_	_	5	advmod	_	_
+4	you	_	_	_	_	5	nsubj	_	_
+5	go	_	_	_	_	0	root	_	_
+6	in	_	_	_	_	8	case	_	_
+7	the	_	_	_	_	8	det	_	_
+8	room	_	_	_	_	5	obl	_	_
+9	and	_	_	_	_	10	cc	_	_
+10	kill	_	_	_	_	5	conj	_	_
+11	a	_	_	_	_	12	det	_	_
+12	fly	_	_	_	_	10	obj	_	_
+
+# text = you go in the room and kill a fly
+1	you	_	_	_	_	2	nsubj	_	_
+2	go	_	_	_	_	0	root	_	_
+3	in	_	_	_	_	5	case	_	_
+4	the	_	_	_	_	5	det	_	_
+5	room	_	_	_	_	2	obl	_	_
+6	and	_	_	_	_	7	cc	_	_
+7	kill	_	_	_	_	2	conj	_	_
+8	a	_	_	_	_	9	det	_	_
+9	fly	_	_	_	_	7	obj	_	_
+
+# text = yes you get a fly
+1	yes	_	_	_	_	3	discourse	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	get	_	_	_	_	0	root	_	_
+4	a	_	_	_	_	5	det	_	_
+5	fly	_	_	_	_	3	obj	_	_
+
+# text = you get one
+1	you	_	_	_	_	2	nsubj	_	_
+2	get	_	_	_	_	0	root	_	_
+3	one	_	_	_	_	2	obj	_	_
+
+# text = are you finished with your juice
+1	are	_	_	_	_	3	cop	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	finished	_	_	_	_	0	root	_	_
+4	with	_	_	_	_	6	case	_	_
+5	your	_	_	_	_	6	nmod:poss	_	_
+6	juice	_	_	_	_	3	obl	_	_
+
+# text = well go and get your telephone
+1	well	_	_	_	_	2	discourse	_	_
+2	go	_	_	_	_	0	root	_	_
+3	and	_	_	_	_	4	cc	_	_
+4	get	_	_	_	_	2	conj	_	_
+5	your	_	_	_	_	6	nmod:poss	_	_
+6	telephone	_	_	_	_	4	obj	_	_
+
+# text = yes he gave you your telephone
+1	yes	_	_	_	_	3	discourse	_	_
+2	he	_	_	_	_	3	nsubj	_	_
+3	gave	_	_	_	_	0	root	_	_
+4	you	_	_	_	_	3	iobj	_	_
+5	your	_	_	_	_	6	nmod:poss	_	_
+6	telephone	_	_	_	_	3	obj	_	_
+
+# text = who are you calling Eve
+1	who	_	_	_	_	4	obj	_	_
+2	are	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	calling	_	_	_	_	0	root	_	_
+5	Eve	_	_	_	_	4	obj	_	_
+
+# text = Eve why do n't you call Grandma
+1	Eve	_	_	_	_	6	discourse	_	_
+2	why	_	_	_	_	6	advmod	_	_
+3	do	_	_	_	_	6	aux	_	_
+4	n't	_	_	_	_	6	advmod	_	_
+5	you	_	_	_	_	6	nsubj	_	_
+6	call	_	_	_	_	0	root	_	_
+7	Grandma	_	_	_	_	6	obj	_	_
+
+# text = call Grandma and talk
+1	call	_	_	_	_	0	root	_	_
+2	Grandma	_	_	_	_	1	obj	_	_
+3	and	_	_	_	_	4	cc	_	_
+4	talk	_	_	_	_	1	conj	_	_
+
+# text = oh you do n't wan na talk to Grandma
+1	oh	_	_	_	_	5	discourse	_	_
+2	you	_	_	_	_	5	nsubj	_	_
+3	do	_	_	_	_	5	aux	_	_
+4	n't	_	_	_	_	5	advmod	_	_
+5	wan	_	_	_	_	0	root	_	_
+6	na	_	_	_	_	7	mark	_	_
+7	talk	_	_	_	_	5	xcomp	_	_
+8	to	_	_	_	_	9	case	_	_
+9	Grandma	_	_	_	_	7	obl	_	_
+
+# text = I just thought she might like to hear from you
+1	I	_	_	_	_	3	nsubj	_	_
+2	just	_	_	_	_	3	advmod	_	_
+3	thought	_	_	_	_	0	root	_	_
+4	she	_	_	_	_	6	nsubj	_	_
+5	might	_	_	_	_	6	aux	_	_
+6	like	_	_	_	_	3	ccomp	_	_
+7	to	_	_	_	_	8	mark	_	_
+8	hear	_	_	_	_	6	xcomp	_	_
+9	from	_	_	_	_	10	case	_	_
+10	you	_	_	_	_	8	obl	_	_
+
+# text = what 's the man doing
+1	what	_	_	_	_	5	obj	_	_
+2	's	_	_	_	_	5	aux	_	_
+3	the	_	_	_	_	4	det	_	_
+4	man	_	_	_	_	5	nsubj	_	_
+5	doing	_	_	_	_	0	root	_	_
+
+# text = you wan a cookie
+1	you	_	_	_	_	2	nsubj	_	_
+2	wan	_	_	_	_	0	root	_	_
+3	a	_	_	_	_	4	det	_	_
+4	cookie	_	_	_	_	2	obj	_	_
+
+# text = there 's a cookie on the table with the rest of your crackers
+1	there	_	_	_	_	2	expl	_	_
+2	's	_	_	_	_	0	root	_	_
+3	a	_	_	_	_	4	det	_	_
+4	cookie	_	_	_	_	2	nsubj	_	_
+5	on	_	_	_	_	7	case	_	_
+6	the	_	_	_	_	7	det	_	_
+7	table	_	_	_	_	2	obl	_	_
+8	with	_	_	_	_	10	case	_	_
+9	the	_	_	_	_	10	det	_	_
+10	rest	_	_	_	_	2	obl	_	_
+11	of	_	_	_	_	13	case	_	_
+12	your	_	_	_	_	13	nmod:poss	_	_
+13	crackers	_	_	_	_	10	nmod	_	_
+
+# text = what 's that
+1	what	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = oh it 's a baby
+1	oh	_	_	_	_	5	discourse	_	_
+2	it	_	_	_	_	5	nsubj	_	_
+3	's	_	_	_	_	5	cop	_	_
+4	a	_	_	_	_	5	det	_	_
+5	baby	_	_	_	_	0	root	_	_
+
+# text = Mommy ca n't read
+1	Mommy	_	_	_	_	4	nsubj	_	_
+2	ca	_	_	_	_	4	aux	_	_
+3	n't	_	_	_	_	4	advmod	_	_
+4	read	_	_	_	_	0	root	_	_
+
+# text = I 'm busy
+1	I	_	_	_	_	3	nsubj	_	_
+2	'm	_	_	_	_	3	cop	_	_
+3	busy	_	_	_	_	0	root	_	_
+
+# text = you read the book
+1	you	_	_	_	_	2	nsubj	_	_
+2	read	_	_	_	_	0	root	_	_
+3	the	_	_	_	_	4	det	_	_
+4	book	_	_	_	_	2	obj	_	_
+
+# text = yes that 's the stool
+1	yes	_	_	_	_	5	discourse	_	_
+2	that	_	_	_	_	5	nsubj	_	_
+3	's	_	_	_	_	5	cop	_	_
+4	the	_	_	_	_	5	det	_	_
+5	stool	_	_	_	_	0	root	_	_
+
+# text = you wan na sit on the stool and read the book
+1	you	_	_	_	_	2	nsubj	_	_
+2	wan	_	_	_	_	0	root	_	_
+3	na	_	_	_	_	4	mark	_	_
+4	sit	_	_	_	_	2	xcomp	_	_
+5	on	_	_	_	_	7	case	_	_
+6	the	_	_	_	_	7	det	_	_
+7	stool	_	_	_	_	4	obl	_	_
+8	and	_	_	_	_	9	cc	_	_
+9	read	_	_	_	_	4	conj	_	_
+10	the	_	_	_	_	11	det	_	_
+11	book	_	_	_	_	9	obj	_	_
+
+# text = Mr Fraser yes Mr Fraser
+1	Mr	_	_	_	_	0	root	_	_
+2	Fraser	_	_	_	_	1	flat	_	_
+3	yes	_	_	_	_	1	discourse	_	_
+4	Mr	_	_	_	_	1	parataxis	_	_
+5	Fraser	_	_	_	_	4	flat	_	_
+
+# text = your cookie 's there on the table
+1	your	_	_	_	_	2	nmod:poss	_	_
+2	cookie	_	_	_	_	4	nsubj	_	_
+3	's	_	_	_	_	4	cop	_	_
+4	there	_	_	_	_	0	root	_	_
+5	on	_	_	_	_	7	case	_	_
+6	the	_	_	_	_	7	det	_	_
+7	table	_	_	_	_	4	obl	_	_
+
+# text = did you eat it
+1	did	_	_	_	_	3	aux	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	eat	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# text = yes you ate it
+1	yes	_	_	_	_	3	discourse	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	ate	_	_	_	_	0	root	_	_
+4	it	_	_	_	_	3	obj	_	_
+
+# text = I 'll give you another
+1	I	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	give	_	_	_	_	0	root	_	_
+4	you	_	_	_	_	3	iobj	_	_
+5	another	_	_	_	_	3	obj	_	_
+
+# text = just a little one
+1	just	_	_	_	_	4	advmod	_	_
+2	a	_	_	_	_	4	det	_	_
+3	little	_	_	_	_	4	amod	_	_
+4	one	_	_	_	_	0	root	_	_
+
+# text = just a little one
+1	just	_	_	_	_	4	advmod	_	_
+2	a	_	_	_	_	4	det	_	_
+3	little	_	_	_	_	4	amod	_	_
+4	one	_	_	_	_	0	root	_	_
+
+# text = little one yes
+1	little	_	_	_	_	2	amod	_	_
+2	one	_	_	_	_	0	root	_	_
+3	yes	_	_	_	_	2	discourse	_	_
+
+# text = no no more Eve
+1	no	_	_	_	_	4	discourse	_	_
+2	no	_	_	_	_	3	advmod	_	_
+3	more	_	_	_	_	4	amod	_	_
+4	Eve	_	_	_	_	0	root	_	_
+
+# text = we 'll have lunch in a little while
+1	we	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	have	_	_	_	_	0	root	_	_
+4	lunch	_	_	_	_	3	obj	_	_
+5	in	_	_	_	_	8	case	_	_
+6	a	_	_	_	_	8	det	_	_
+7	little	_	_	_	_	8	amod	_	_
+8	while	_	_	_	_	3	obl	_	_
+
+# text = you eat any more crackers
+1	you	_	_	_	_	2	nsubj	_	_
+2	eat	_	_	_	_	0	root	_	_
+3	any	_	_	_	_	4	advmod	_	_
+4	more	_	_	_	_	5	amod	_	_
+5	crackers	_	_	_	_	2	obj	_	_
+
+# text = no you do n't want milk honey
+1	no	_	_	_	_	5	discourse	_	_
+2	you	_	_	_	_	5	nsubj	_	_
+3	do	_	_	_	_	5	aux	_	_
+4	n't	_	_	_	_	5	advmod	_	_
+5	want	_	_	_	_	0	root	_	_
+6	milk	_	_	_	_	7	compound	_	_
+7	honey	_	_	_	_	5	obj	_	_
+
+# text = you 've just had some juice
+1	you	_	_	_	_	4	nsubj	_	_
+2	've	_	_	_	_	4	aux	_	_
+3	just	_	_	_	_	4	advmod	_	_
+4	had	_	_	_	_	0	root	_	_
+5	some	_	_	_	_	6	det	_	_
+6	juice	_	_	_	_	4	obj	_	_
+
+# text = where 's the rest of your juice
+1	where	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	cop	_	_
+3	the	_	_	_	_	4	det	_	_
+4	rest	_	_	_	_	1	nsubj	_	_
+5	of	_	_	_	_	7	case	_	_
+6	your	_	_	_	_	7	nmod:poss	_	_
+7	juice	_	_	_	_	4	nmod	_	_
+
+# text = how about a drink of water
+1	how	_	_	_	_	0	root	_	_
+2	about	_	_	_	_	4	case	_	_
+3	a	_	_	_	_	4	det	_	_
+4	drink	_	_	_	_	1	obl	_	_
+5	of	_	_	_	_	6	case	_	_
+6	water	_	_	_	_	4	nmod	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = that 's Mr Fraser
+1	that	_	_	_	_	3	nsubj	_	_
+2	's	_	_	_	_	3	cop	_	_
+3	Mr	_	_	_	_	0	root	_	_
+4	Fraser	_	_	_	_	3	flat	_	_
+
+# text = there drink the water
+1	there	_	_	_	_	2	advmod	_	_
+2	drink	_	_	_	_	0	root	_	_
+3	the	_	_	_	_	4	det	_	_
+4	water	_	_	_	_	2	obj	_	_
+
+# text = no I do n't think Mr Fraser wants any water
+1	no	_	_	_	_	5	discourse	_	_
+2	I	_	_	_	_	5	nsubj	_	_
+3	do	_	_	_	_	5	aux	_	_
+4	n't	_	_	_	_	5	advmod	_	_
+5	think	_	_	_	_	0	root	_	_
+6	Mr	_	_	_	_	8	nsubj	_	_
+7	Fraser	_	_	_	_	6	flat	_	_
+8	wants	_	_	_	_	5	ccomp	_	_
+9	any	_	_	_	_	10	det	_	_
+10	water	_	_	_	_	8	obj	_	_
+
+# text = where are you going
+1	where	_	_	_	_	4	advmod	_	_
+2	are	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	going	_	_	_	_	0	root	_	_
+
+# text = will you ask Mr Fraser if he 'd like a drink of water
+1	will	_	_	_	_	3	aux	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	ask	_	_	_	_	0	root	_	_
+4	Mr	_	_	_	_	3	obj	_	_
+5	Fraser	_	_	_	_	4	flat	_	_
+6	if	_	_	_	_	9	mark	_	_
+7	he	_	_	_	_	9	nsubj	_	_
+8	'd	_	_	_	_	9	aux	_	_
+9	like	_	_	_	_	3	advcl	_	_
+10	a	_	_	_	_	11	det	_	_
+11	drink	_	_	_	_	9	obj	_	_
+12	of	_	_	_	_	13	case	_	_
+13	water	_	_	_	_	11	nmod	_	_
+
+# text = I do n't think so
+1	I	_	_	_	_	4	nsubj	_	_
+2	do	_	_	_	_	4	aux	_	_
+3	n't	_	_	_	_	4	advmod	_	_
+4	think	_	_	_	_	0	root	_	_
+5	so	_	_	_	_	4	advmod	_	_
+
+# text = Mr Fraser has coffee
+1	Mr	_	_	_	_	3	nsubj	_	_
+2	Fraser	_	_	_	_	1	flat	_	_
+3	has	_	_	_	_	0	root	_	_
+4	coffee	_	_	_	_	3	obj	_	_
+
+# text = Mr Fraser 's drinking coffee
+1	Mr	_	_	_	_	4	nsubj	_	_
+2	Fraser	_	_	_	_	1	flat	_	_
+3	's	_	_	_	_	1	case	_	_
+4	drinking	_	_	_	_	0	root	_	_
+5	coffee	_	_	_	_	4	obj	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = yes he 's drinking his coffee
+1	yes	_	_	_	_	4	discourse	_	_
+2	he	_	_	_	_	4	nsubj	_	_
+3	's	_	_	_	_	4	aux	_	_
+4	drinking	_	_	_	_	0	root	_	_
+5	his	_	_	_	_	6	nmod:poss	_	_
+6	coffee	_	_	_	_	4	obj	_	_
+
+# text = that 's Mr Fraser 's coffee
+1	that	_	_	_	_	6	nsubj	_	_
+2	's	_	_	_	_	6	cop	_	_
+3	Mr	_	_	_	_	6	nmod:poss	_	_
+4	Fraser	_	_	_	_	3	flat	_	_
+5	's	_	_	_	_	3	case	_	_
+6	coffee	_	_	_	_	0	root	_	_
+
+# text = you want down
+1	you	_	_	_	_	2	nsubj	_	_
+2	want	_	_	_	_	0	root	_	_
+3	down	_	_	_	_	2	advmod	_	_
+
+# text = there you go
+1	there	_	_	_	_	3	advmod	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	go	_	_	_	_	0	root	_	_
+
+# text = now what
+1	now	_	_	_	_	2	advmod	_	_
+2	what	_	_	_	_	0	root	_	_
+
+# text = no more cookies Eve
+1	no	_	_	_	_	2	advmod	_	_
+2	more	_	_	_	_	4	amod	_	_
+3	cookies	_	_	_	_	4	compound	_	_
+4	Eve	_	_	_	_	0	root	_	_
+
+# text = later we 'll have a cookie
+1	later	_	_	_	_	4	advmod	_	_
+2	we	_	_	_	_	4	nsubj	_	_
+3	'll	_	_	_	_	4	aux	_	_
+4	have	_	_	_	_	0	root	_	_
+5	a	_	_	_	_	6	det	_	_
+6	cookie	_	_	_	_	4	obj	_	_
+
+# text = we 'll have a cookie later
+1	we	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	have	_	_	_	_	0	root	_	_
+4	a	_	_	_	_	5	det	_	_
+5	cookie	_	_	_	_	3	obj	_	_
+6	later	_	_	_	_	3	advmod	_	_
+
+# text = oh what 's that
+1	oh	_	_	_	_	2	discourse	_	_
+2	what	_	_	_	_	0	root	_	_
+3	's	_	_	_	_	2	cop	_	_
+4	that	_	_	_	_	2	nsubj	_	_
+
+# text = your hat
+1	your	_	_	_	_	2	nmod:poss	_	_
+2	hat	_	_	_	_	0	root	_	_
+
+# text = an what did you do with it
+1	an	_	_	_	_	5	cc	_	_
+2	what	_	_	_	_	5	obj	_	_
+3	did	_	_	_	_	5	aux	_	_
+4	you	_	_	_	_	5	nsubj	_	_
+5	do	_	_	_	_	0	root	_	_
+6	with	_	_	_	_	7	case	_	_
+7	it	_	_	_	_	5	obl	_	_
+
+# text = maybe your dolly would like a bottle
+1	maybe	_	_	_	_	5	advmod	_	_
+2	your	_	_	_	_	3	nmod:poss	_	_
+3	dolly	_	_	_	_	5	nsubj	_	_
+4	would	_	_	_	_	5	aux	_	_
+5	like	_	_	_	_	0	root	_	_
+6	a	_	_	_	_	7	det	_	_
+7	bottle	_	_	_	_	5	obj	_	_
+
+# text = think she would
+1	think	_	_	_	_	0	root	_	_
+2	she	_	_	_	_	3	nsubj	_	_
+3	would	_	_	_	_	1	ccomp	_	_
+
+# text = come see if we can find dolly 's bottle
+1	come	_	_	_	_	0	root	_	_
+2	see	_	_	_	_	1	xcomp	_	_
+3	if	_	_	_	_	6	mark	_	_
+4	we	_	_	_	_	6	nsubj	_	_
+5	can	_	_	_	_	6	aux	_	_
+6	find	_	_	_	_	2	advcl	_	_
+7	dolly	_	_	_	_	9	nmod:poss	_	_
+8	's	_	_	_	_	7	case	_	_
+9	bottle	_	_	_	_	6	obj	_	_
+
+# text = give dolly her bottle
+1	give	_	_	_	_	0	root	_	_
+2	dolly	_	_	_	_	1	iobj	_	_
+3	her	_	_	_	_	4	nmod:poss	_	_
+4	bottle	_	_	_	_	1	obj	_	_
+
+# text = what are you doing
+1	what	_	_	_	_	4	obj	_	_
+2	are	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	doing	_	_	_	_	0	root	_	_
+
+# text = oh Mr Fraser 's hat
+1	oh	_	_	_	_	5	discourse	_	_
+2	Mr	_	_	_	_	5	nmod:poss	_	_
+3	Fraser	_	_	_	_	2	flat	_	_
+4	's	_	_	_	_	2	case	_	_
+5	hat	_	_	_	_	0	root	_	_
+
+# text = Mr Fraser does n't have a hat
+1	Mr	_	_	_	_	5	nsubj	_	_
+2	Fraser	_	_	_	_	1	flat	_	_
+3	does	_	_	_	_	5	aux	_	_
+4	n't	_	_	_	_	5	advmod	_	_
+5	have	_	_	_	_	0	root	_	_
+6	a	_	_	_	_	7	det	_	_
+7	hat	_	_	_	_	5	obj	_	_
+
+# text = he does n't have a hat
+1	he	_	_	_	_	4	nsubj	_	_
+2	does	_	_	_	_	4	aux	_	_
+3	n't	_	_	_	_	4	advmod	_	_
+4	have	_	_	_	_	0	root	_	_
+5	a	_	_	_	_	6	det	_	_
+6	hat	_	_	_	_	4	obj	_	_
+
+# text = would he like to have Eve 's hat
+1	would	_	_	_	_	3	aux	_	_
+2	he	_	_	_	_	3	nsubj	_	_
+3	like	_	_	_	_	0	root	_	_
+4	to	_	_	_	_	5	mark	_	_
+5	have	_	_	_	_	3	xcomp	_	_
+6	Eve	_	_	_	_	8	nmod:poss	_	_
+7	's	_	_	_	_	6	case	_	_
+8	hat	_	_	_	_	5	obj	_	_
+
+# text = he would
+1	he	_	_	_	_	2	nsubj	_	_
+2	would	_	_	_	_	0	root	_	_
+
+# text = go see if he would like to have it on
+1	go	_	_	_	_	0	root	_	_
+2	see	_	_	_	_	1	xcomp	_	_
+3	if	_	_	_	_	6	mark	_	_
+4	he	_	_	_	_	6	nsubj	_	_
+5	would	_	_	_	_	6	aux	_	_
+6	like	_	_	_	_	2	advcl	_	_
+7	to	_	_	_	_	8	mark	_	_
+8	have	_	_	_	_	6	xcomp	_	_
+9	it	_	_	_	_	8	obj	_	_
+10	on	_	_	_	_	8	advmod	_	_
+
+# text = what 's wrong with your eye
+1	what	_	_	_	_	3	nsubj	_	_
+2	's	_	_	_	_	3	cop	_	_
+3	wrong	_	_	_	_	0	root	_	_
+4	with	_	_	_	_	6	case	_	_
+5	your	_	_	_	_	6	nmod:poss	_	_
+6	eye	_	_	_	_	3	obl	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = what do you want me to do with it
+1	what	_	_	_	_	7	obj	_	_
+2	do	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	want	_	_	_	_	0	root	_	_
+5	me	_	_	_	_	4	obj	_	_
+6	to	_	_	_	_	7	mark	_	_
+7	do	_	_	_	_	4	xcomp	_	_
+8	with	_	_	_	_	9	case	_	_
+9	it	_	_	_	_	7	obl	_	_
+
+# text = what do you want me to do with it
+1	what	_	_	_	_	7	obj	_	_
+2	do	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	want	_	_	_	_	0	root	_	_
+5	me	_	_	_	_	4	obj	_	_
+6	to	_	_	_	_	7	mark	_	_
+7	do	_	_	_	_	4	xcomp	_	_
+8	with	_	_	_	_	9	case	_	_
+9	it	_	_	_	_	7	obl	_	_
+
+# text = Mr Fraser does n't have a hat darling
+1	Mr	_	_	_	_	5	nsubj	_	_
+2	Fraser	_	_	_	_	1	flat	_	_
+3	does	_	_	_	_	5	aux	_	_
+4	n't	_	_	_	_	5	advmod	_	_
+5	have	_	_	_	_	0	root	_	_
+6	a	_	_	_	_	7	det	_	_
+7	hat	_	_	_	_	5	obj	_	_
+8	darling	_	_	_	_	5	vocative	_	_
+
+# text = he does n't have a hat
+1	he	_	_	_	_	4	nsubj	_	_
+2	does	_	_	_	_	4	aux	_	_
+3	n't	_	_	_	_	4	advmod	_	_
+4	have	_	_	_	_	0	root	_	_
+5	a	_	_	_	_	6	det	_	_
+6	hat	_	_	_	_	4	obj	_	_
+
+# text = Eve has a hat
+1	Eve	_	_	_	_	2	nsubj	_	_
+2	has	_	_	_	_	0	root	_	_
+3	a	_	_	_	_	4	det	_	_
+4	hat	_	_	_	_	2	obj	_	_
+
+# text = oh you 're gon na find it
+1	oh	_	_	_	_	4	discourse	_	_
+2	you	_	_	_	_	4	nsubj	_	_
+3	're	_	_	_	_	4	aux	_	_
+4	gon	_	_	_	_	0	root	_	_
+5	na	_	_	_	_	6	mark	_	_
+6	find	_	_	_	_	4	xcomp	_	_
+7	it	_	_	_	_	6	obj	_	_
+
+# text = want me to turn it
+1	want	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	obj	_	_
+3	to	_	_	_	_	4	mark	_	_
+4	turn	_	_	_	_	1	xcomp	_	_
+5	it	_	_	_	_	4	obj	_	_
+
+# text = who is that man
+1	who	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	4	det	_	_
+4	man	_	_	_	_	1	nsubj	_	_
+
+# text = you 're Eve
+1	you	_	_	_	_	3	nsubj	_	_
+2	're	_	_	_	_	3	cop	_	_
+3	Eve	_	_	_	_	0	root	_	_
+
+# text = what 's that man 's name
+1	what	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	4	det	_	_
+4	man	_	_	_	_	6	nmod:poss	_	_
+5	's	_	_	_	_	4	case	_	_
+6	name	_	_	_	_	1	nsubj	_	_
+
+# text = oh down
+1	oh	_	_	_	_	2	discourse	_	_
+2	down	_	_	_	_	0	root	_	_
+
+# text = d you wan na come up and sit on my lap
+1	d	_	_	_	_	3	advmod	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	wan	_	_	_	_	0	root	_	_
+4	na	_	_	_	_	5	mark	_	_
+5	come	_	_	_	_	3	xcomp	_	_
+6	up	_	_	_	_	5	advmod	_	_
+7	and	_	_	_	_	8	cc	_	_
+8	sit	_	_	_	_	5	conj	_	_
+9	on	_	_	_	_	11	case	_	_
+10	my	_	_	_	_	11	nmod:poss	_	_
+11	lap	_	_	_	_	8	obl	_	_
+
+# text = that 'll keep you busy
+1	that	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	keep	_	_	_	_	0	root	_	_
+4	you	_	_	_	_	3	obj	_	_
+5	busy	_	_	_	_	3	xcomp	_	_
+
+# text = that 'll keep Eve busy
+1	that	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	keep	_	_	_	_	0	root	_	_
+4	Eve	_	_	_	_	3	obj	_	_
+5	busy	_	_	_	_	3	xcomp	_	_
+
+# text = there you write a letter
+1	there	_	_	_	_	3	advmod	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	write	_	_	_	_	0	root	_	_
+4	a	_	_	_	_	5	det	_	_
+5	letter	_	_	_	_	3	obj	_	_
+
+# text = okay man a pencil
+1	okay	_	_	_	_	4	discourse	_	_
+2	man	_	_	_	_	4	vocative	_	_
+3	a	_	_	_	_	4	det	_	_
+4	pencil	_	_	_	_	0	root	_	_
+
+# text = no that 's Eve 's pencil
+1	no	_	_	_	_	6	discourse	_	_
+2	that	_	_	_	_	6	nsubj	_	_
+3	's	_	_	_	_	6	cop	_	_
+4	Eve	_	_	_	_	6	nmod:poss	_	_
+5	's	_	_	_	_	4	case	_	_
+6	pencil	_	_	_	_	0	root	_	_
+
+# text = that 's your pencil
+1	that	_	_	_	_	4	nsubj	_	_
+2	's	_	_	_	_	4	cop	_	_
+3	your	_	_	_	_	4	nmod:poss	_	_
+4	pencil	_	_	_	_	0	root	_	_
+
+# text = you write with it
+1	you	_	_	_	_	2	nsubj	_	_
+2	write	_	_	_	_	0	root	_	_
+3	with	_	_	_	_	4	case	_	_
+4	it	_	_	_	_	2	obl	_	_
+
+# text = the man 's writing with this pencil
+1	the	_	_	_	_	2	det	_	_
+2	man	_	_	_	_	4	nsubj	_	_
+3	's	_	_	_	_	2	case	_	_
+4	writing	_	_	_	_	0	root	_	_
+5	with	_	_	_	_	7	case	_	_
+6	this	_	_	_	_	7	det	_	_
+7	pencil	_	_	_	_	4	obl	_	_
+
+# text = what about the man
+1	what	_	_	_	_	0	root	_	_
+2	about	_	_	_	_	4	case	_	_
+3	the	_	_	_	_	4	det	_	_
+4	man	_	_	_	_	1	nmod	_	_
+
+# text = he wanted to see you
+1	he	_	_	_	_	2	nsubj	_	_
+2	wanted	_	_	_	_	0	root	_	_
+3	to	_	_	_	_	4	mark	_	_
+4	see	_	_	_	_	2	xcomp	_	_
+5	you	_	_	_	_	4	obj	_	_
+
+# text = he did
+1	he	_	_	_	_	2	nsubj	_	_
+2	did	_	_	_	_	0	root	_	_
+
+# text = well what are you doing in the corner
+1	well	_	_	_	_	5	discourse	_	_
+2	what	_	_	_	_	5	obj	_	_
+3	are	_	_	_	_	5	aux	_	_
+4	you	_	_	_	_	5	nsubj	_	_
+5	doing	_	_	_	_	0	root	_	_
+6	in	_	_	_	_	8	case	_	_
+7	the	_	_	_	_	8	det	_	_
+8	corner	_	_	_	_	5	obl	_	_
+
+# text = oh you 're going to read
+1	oh	_	_	_	_	4	discourse	_	_
+2	you	_	_	_	_	4	nsubj	_	_
+3	're	_	_	_	_	4	aux	_	_
+4	going	_	_	_	_	0	root	_	_
+5	to	_	_	_	_	6	mark	_	_
+6	read	_	_	_	_	4	xcomp	_	_
+
+# text = you sit in the corner and read
+1	you	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+3	in	_	_	_	_	5	case	_	_
+4	the	_	_	_	_	5	det	_	_
+5	corner	_	_	_	_	2	obl	_	_
+6	and	_	_	_	_	7	cc	_	_
+7	read	_	_	_	_	2	conj	_	_
+
+# text = there 's lots of shoes in that book
+1	there	_	_	_	_	2	expl	_	_
+2	's	_	_	_	_	0	root	_	_
+3	lots	_	_	_	_	2	nsubj	_	_
+4	of	_	_	_	_	5	case	_	_
+5	shoes	_	_	_	_	3	nmod	_	_
+6	in	_	_	_	_	8	case	_	_
+7	that	_	_	_	_	8	det	_	_
+8	book	_	_	_	_	2	obl	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = yes shoe
+1	yes	_	_	_	_	2	discourse	_	_
+2	shoe	_	_	_	_	0	root	_	_
+
+# text = your what
+1	your	_	_	_	_	0	root	_	_
+2	what	_	_	_	_	1	obj	_	_
+
+# text = Mommy 's book
+1	Mommy	_	_	_	_	3	nmod:poss	_	_
+2	's	_	_	_	_	1	case	_	_
+3	book	_	_	_	_	0	root	_	_
+
+# text = no that 's Eve 's book
+1	no	_	_	_	_	6	discourse	_	_
+2	that	_	_	_	_	6	nsubj	_	_
+3	's	_	_	_	_	6	cop	_	_
+4	Eve	_	_	_	_	6	nmod:poss	_	_
+5	's	_	_	_	_	4	case	_	_
+6	book	_	_	_	_	0	root	_	_
+
+# text = yes that 's Racketyboom
+1	yes	_	_	_	_	4	discourse	_	_
+2	that	_	_	_	_	4	nsubj	_	_
+3	's	_	_	_	_	4	cop	_	_
+4	Racketyboom	_	_	_	_	0	root	_	_
+
+# text = yes that 's Racketyboom
+1	yes	_	_	_	_	4	discourse	_	_
+2	that	_	_	_	_	4	nsubj	_	_
+3	's	_	_	_	_	4	cop	_	_
+4	Racketyboom	_	_	_	_	0	root	_	_
+
+# text = no Mommy 's not gon na read
+1	no	_	_	_	_	5	discourse	_	_
+2	Mommy	_	_	_	_	5	nsubj	_	_
+3	's	_	_	_	_	5	aux	_	_
+4	not	_	_	_	_	5	advmod	_	_
+5	gon	_	_	_	_	0	root	_	_
+6	na	_	_	_	_	7	mark	_	_
+7	read	_	_	_	_	5	xcomp	_	_
+
+# text = Eve read book
+1	Eve	_	_	_	_	2	nsubj	_	_
+2	read	_	_	_	_	0	root	_	_
+3	book	_	_	_	_	2	obj	_	_
+
+# text = you read the book
+1	you	_	_	_	_	2	nsubj	_	_
+2	read	_	_	_	_	0	root	_	_
+3	the	_	_	_	_	4	det	_	_
+4	book	_	_	_	_	2	obj	_	_
+
+# text = no Mommy ca n't read
+1	no	_	_	_	_	2	det	_	_
+2	Mommy	_	_	_	_	5	nsubj	_	_
+3	ca	_	_	_	_	5	aux	_	_
+4	n't	_	_	_	_	5	advmod	_	_
+5	read	_	_	_	_	0	root	_	_
+
+# text = Mommy 's busy
+1	Mommy	_	_	_	_	3	nsubj	_	_
+2	's	_	_	_	_	3	cop	_	_
+3	busy	_	_	_	_	0	root	_	_
+
+# text = Eve read
+1	Eve	_	_	_	_	2	compound	_	_
+2	read	_	_	_	_	0	root	_	_
+
+# text = yes you read about the choo_choo
+1	yes	_	_	_	_	3	discourse	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	read	_	_	_	_	0	root	_	_
+4	about	_	_	_	_	6	case	_	_
+5	the	_	_	_	_	6	det	_	_
+6	choo_choo	_	_	_	_	3	obl	_	_
+
+# text = Mommy 'll read later
+1	Mommy	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	read	_	_	_	_	0	root	_	_
+4	later	_	_	_	_	3	advmod	_	_
+
+# text = I 'll read to you later
+1	I	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	read	_	_	_	_	0	root	_	_
+4	to	_	_	_	_	5	case	_	_
+5	you	_	_	_	_	3	obl	_	_
+6	later	_	_	_	_	3	advmod	_	_
+
+# text = where 're you going
+1	where	_	_	_	_	4	advmod	_	_
+2	're	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	going	_	_	_	_	0	root	_	_
+
+# text = oh the choo_choo s coming
+1	oh	_	_	_	_	5	discourse	_	_
+2	the	_	_	_	_	3	det	_	_
+3	choo_choo	_	_	_	_	5	nsubj	_	_
+4	s	_	_	_	_	5	aux	_	_
+5	coming	_	_	_	_	0	root	_	_
+
+# text = you want some milk
+1	you	_	_	_	_	2	nsubj	_	_
+2	want	_	_	_	_	0	root	_	_
+3	some	_	_	_	_	4	det	_	_
+4	milk	_	_	_	_	2	obj	_	_
+
+# text = we 'll have milk for lunch
+1	we	_	_	_	_	3	nsubj	_	_
+2	'll	_	_	_	_	3	aux	_	_
+3	have	_	_	_	_	0	root	_	_
+4	milk	_	_	_	_	3	obj	_	_
+5	for	_	_	_	_	6	case	_	_
+6	lunch	_	_	_	_	3	obl	_	_
+
+# text = that 's not a cup
+1	that	_	_	_	_	5	nsubj	_	_
+2	's	_	_	_	_	5	cop	_	_
+3	not	_	_	_	_	5	advmod	_	_
+4	a	_	_	_	_	5	det	_	_
+5	cup	_	_	_	_	0	root	_	_
+
+# text = that 's the top
+1	that	_	_	_	_	4	nsubj	_	_
+2	's	_	_	_	_	4	cop	_	_
+3	the	_	_	_	_	4	det	_	_
+4	top	_	_	_	_	0	root	_	_
+
+# text = that 's the top to a jar
+1	that	_	_	_	_	4	nsubj	_	_
+2	's	_	_	_	_	4	cop	_	_
+3	the	_	_	_	_	4	det	_	_
+4	top	_	_	_	_	0	root	_	_
+5	to	_	_	_	_	7	case	_	_
+6	a	_	_	_	_	7	det	_	_
+7	jar	_	_	_	_	4	nmod	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = what is it
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	it	_	_	_	_	1	nsubj	_	_
+
+# text = the ducks say what
+1	the	_	_	_	_	2	det	_	_
+2	ducks	_	_	_	_	3	nsubj	_	_
+3	say	_	_	_	_	0	root	_	_
+4	what	_	_	_	_	3	obj	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = what 'll you do with it
+1	what	_	_	_	_	4	obj	_	_
+2	'll	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	do	_	_	_	_	0	root	_	_
+5	with	_	_	_	_	6	case	_	_
+6	it	_	_	_	_	4	obl	_	_
+
+# text = where is your hat
+1	where	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	your	_	_	_	_	4	nmod:poss	_	_
+4	hat	_	_	_	_	1	nsubj	_	_
+
+# text = I do n't have it
+1	I	_	_	_	_	4	nsubj	_	_
+2	do	_	_	_	_	4	aux	_	_
+3	n't	_	_	_	_	4	advmod	_	_
+4	have	_	_	_	_	0	root	_	_
+5	it	_	_	_	_	4	obj	_	_
+
+# text = go find it
+1	go	_	_	_	_	2	discourse	_	_
+2	find	_	_	_	_	0	root	_	_
+3	it	_	_	_	_	2	obj	_	_
+
+# text = go find your hat
+1	go	_	_	_	_	0	root	_	_
+2	find	_	_	_	_	1	xcomp	_	_
+3	your	_	_	_	_	4	nmod:poss	_	_
+4	hat	_	_	_	_	2	obj	_	_
+
+# text = oh that 's so pretty
+1	oh	_	_	_	_	5	discourse	_	_
+2	that	_	_	_	_	5	nsubj	_	_
+3	's	_	_	_	_	5	cop	_	_
+4	so	_	_	_	_	5	advmod	_	_
+5	pretty	_	_	_	_	0	root	_	_
+
+# text = what do you want me to do
+1	what	_	_	_	_	7	obj	_	_
+2	do	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	want	_	_	_	_	0	root	_	_
+5	me	_	_	_	_	4	obj	_	_
+6	to	_	_	_	_	7	mark	_	_
+7	do	_	_	_	_	4	xcomp	_	_
+
+# text = is that Racketyboom
+1	is	_	_	_	_	3	cop	_	_
+2	that	_	_	_	_	3	det	_	_
+3	Racketyboom	_	_	_	_	0	root	_	_
+
+# text = why do n't you put Racketyboom back in the toy box
+1	why	_	_	_	_	5	advmod	_	_
+2	do	_	_	_	_	5	aux	_	_
+3	n't	_	_	_	_	5	advmod	_	_
+4	you	_	_	_	_	5	nsubj	_	_
+5	put	_	_	_	_	0	root	_	_
+6	Racketyboom	_	_	_	_	5	obj	_	_
+7	back	_	_	_	_	5	advmod	_	_
+8	in	_	_	_	_	11	case	_	_
+9	the	_	_	_	_	11	det	_	_
+10	toy	_	_	_	_	11	compound	_	_
+11	box	_	_	_	_	7	obl	_	_
+
+# text = cause I 'm tired of stepping on it
+1	cause	_	_	_	_	4	mark	_	_
+2	I	_	_	_	_	4	nsubj	_	_
+3	'm	_	_	_	_	4	cop	_	_
+4	tired	_	_	_	_	0	root	_	_
+5	of	_	_	_	_	6	mark	_	_
+6	stepping	_	_	_	_	4	advcl	_	_
+7	on	_	_	_	_	8	case	_	_
+8	it	_	_	_	_	6	obl	_	_
+
+# text = you going to sit on that stool
+1	you	_	_	_	_	2	nsubj	_	_
+2	going	_	_	_	_	0	root	_	_
+3	to	_	_	_	_	4	mark	_	_
+4	sit	_	_	_	_	2	xcomp	_	_
+5	on	_	_	_	_	7	case	_	_
+6	that	_	_	_	_	7	det	_	_
+7	stool	_	_	_	_	4	obl	_	_
+
+# text = no the man 'll sit in the chair
+1	no	_	_	_	_	5	discourse	_	_
+2	the	_	_	_	_	3	det	_	_
+3	man	_	_	_	_	5	nsubj	_	_
+4	'll	_	_	_	_	5	aux	_	_
+5	sit	_	_	_	_	0	root	_	_
+6	in	_	_	_	_	8	case	_	_
+7	the	_	_	_	_	8	det	_	_
+8	chair	_	_	_	_	5	obl	_	_
+
+# text = what are you doing
+1	what	_	_	_	_	4	obj	_	_
+2	are	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	doing	_	_	_	_	0	root	_	_
+
+# text = who 's sitting
+1	who	_	_	_	_	3	nsubj	_	_
+2	's	_	_	_	_	3	aux	_	_
+3	sitting	_	_	_	_	0	root	_	_
+
+# text = no Neil 's not going to sit
+1	no	_	_	_	_	5	discourse	_	_
+2	Neil	_	_	_	_	5	nsubj	_	_
+3	's	_	_	_	_	5	aux	_	_
+4	not	_	_	_	_	5	advmod	_	_
+5	going	_	_	_	_	0	root	_	_
+6	to	_	_	_	_	7	mark	_	_
+7	sit	_	_	_	_	5	xcomp	_	_
+
+# text = no Eve 's sitting on the stool
+1	no	_	_	_	_	2	det	_	_
+2	Eve	_	_	_	_	4	nsubj	_	_
+3	's	_	_	_	_	4	aux	_	_
+4	sitting	_	_	_	_	0	root	_	_
+5	on	_	_	_	_	7	case	_	_
+6	the	_	_	_	_	7	det	_	_
+7	stool	_	_	_	_	4	obl	_	_
+
+# text = no Neil does n't sit on the stool
+1	no	_	_	_	_	5	discourse	_	_
+2	Neil	_	_	_	_	5	nsubj	_	_
+3	does	_	_	_	_	5	aux	_	_
+4	n't	_	_	_	_	5	advmod	_	_
+5	sit	_	_	_	_	0	root	_	_
+6	on	_	_	_	_	8	case	_	_
+7	the	_	_	_	_	8	det	_	_
+8	stool	_	_	_	_	5	obl	_	_
+
+# text = get what
+1	get	_	_	_	_	0	root	_	_
+2	what	_	_	_	_	1	obj	_	_
+
+# text = get what
+1	get	_	_	_	_	0	root	_	_
+2	what	_	_	_	_	1	obj	_	_
+
+# text = what this
+1	what	_	_	_	_	0	root	_	_
+2	this	_	_	_	_	1	nsubj	_	_
+
+# text = is that what you want
+1	is	_	_	_	_	0	root	_	_
+2	that	_	_	_	_	1	nsubj	_	_
+3	what	_	_	_	_	5	obj	_	_
+4	you	_	_	_	_	5	nsubj	_	_
+5	want	_	_	_	_	1	ccomp	_	_
+
+# text = Neil sit
+1	Neil	_	_	_	_	2	nsubj	_	_
+2	sit	_	_	_	_	0	root	_	_
+
+# text = good girl
+1	good	_	_	_	_	2	amod	_	_
+2	girl	_	_	_	_	0	root	_	_
+
+# text = yes that was a good girl
+1	yes	_	_	_	_	6	discourse	_	_
+2	that	_	_	_	_	6	nsubj	_	_
+3	was	_	_	_	_	6	cop	_	_
+4	a	_	_	_	_	6	det	_	_
+5	good	_	_	_	_	6	amod	_	_
+6	girl	_	_	_	_	0	root	_	_
+
+# text = what are you doing
+1	what	_	_	_	_	4	obj	_	_
+2	are	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	doing	_	_	_	_	0	root	_	_
+
+# text = that 's a seat
+1	that	_	_	_	_	4	nsubj	_	_
+2	's	_	_	_	_	4	cop	_	_
+3	a	_	_	_	_	4	det	_	_
+4	seat	_	_	_	_	0	root	_	_
+
+# text = that 's Eve 's seat
+1	that	_	_	_	_	5	nsubj	_	_
+2	's	_	_	_	_	5	cop	_	_
+3	Eve	_	_	_	_	5	nmod:poss	_	_
+4	's	_	_	_	_	3	case	_	_
+5	seat	_	_	_	_	0	root	_	_
+
+# text = yes Eve 's seat
+1	yes	_	_	_	_	4	discourse	_	_
+2	Eve	_	_	_	_	4	nmod:poss	_	_
+3	's	_	_	_	_	2	case	_	_
+4	seat	_	_	_	_	0	root	_	_
+
+# text = what is that
+1	what	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = farmer and what else
+1	farmer	_	_	_	_	0	root	_	_
+2	and	_	_	_	_	3	cc	_	_
+3	what	_	_	_	_	1	conj	_	_
+4	else	_	_	_	_	3	amod	_	_
+
+# text = no you read Sambo
+1	no	_	_	_	_	3	discourse	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	read	_	_	_	_	0	root	_	_
+4	Sambo	_	_	_	_	3	obj	_	_
+
+# text = because I 'm busy
+1	because	_	_	_	_	4	mark	_	_
+2	I	_	_	_	_	4	nsubj	_	_
+3	'm	_	_	_	_	4	cop	_	_
+4	busy	_	_	_	_	0	root	_	_
+
+# text = I 'm making lunch
+1	I	_	_	_	_	3	nsubj	_	_
+2	'm	_	_	_	_	3	aux	_	_
+3	making	_	_	_	_	0	root	_	_
+4	lunch	_	_	_	_	3	obj	_	_
+
+# text = what did you do
+1	what	_	_	_	_	4	obj	_	_
+2	did	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	do	_	_	_	_	0	root	_	_
+
+# text = yes you hit your head
+1	yes	_	_	_	_	3	discourse	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	hit	_	_	_	_	0	root	_	_
+4	your	_	_	_	_	5	nmod:poss	_	_
+5	head	_	_	_	_	3	obj	_	_
+
+# text = what do you want
+1	what	_	_	_	_	4	obj	_	_
+2	do	_	_	_	_	4	aux	_	_
+3	you	_	_	_	_	4	nsubj	_	_
+4	want	_	_	_	_	0	root	_	_
+
+# text = that 's my paper
+1	that	_	_	_	_	4	nsubj	_	_
+2	's	_	_	_	_	4	cop	_	_
+3	my	_	_	_	_	4	nmod:poss	_	_
+4	paper	_	_	_	_	0	root	_	_
+
+# text = your paper 's on the table
+1	your	_	_	_	_	2	nmod:poss	_	_
+2	paper	_	_	_	_	6	nsubj	_	_
+3	's	_	_	_	_	6	cop	_	_
+4	on	_	_	_	_	6	case	_	_
+5	the	_	_	_	_	6	det	_	_
+6	table	_	_	_	_	0	root	_	_
+
+# text = you go the other paper
+1	you	_	_	_	_	2	nsubj	_	_
+2	go	_	_	_	_	0	root	_	_
+3	the	_	_	_	_	5	det	_	_
+4	other	_	_	_	_	5	amod	_	_
+5	paper	_	_	_	_	2	obj	_	_
+
+# text = you go write on your paper
+1	you	_	_	_	_	2	nsubj	_	_
+2	go	_	_	_	_	0	root	_	_
+3	write	_	_	_	_	2	xcomp	_	_
+4	on	_	_	_	_	6	case	_	_
+5	your	_	_	_	_	6	nmod:poss	_	_
+6	paper	_	_	_	_	3	obl	_	_
+
+# text = want come up
+1	want	_	_	_	_	0	root	_	_
+2	come	_	_	_	_	1	xcomp	_	_
+3	up	_	_	_	_	2	compound:prt	_	_
+
+# text = how about your diaper
+1	how	_	_	_	_	0	root	_	_
+2	about	_	_	_	_	4	case	_	_
+3	your	_	_	_	_	4	nmod:poss	_	_
+4	diaper	_	_	_	_	1	obl	_	_
+
+# text = do we haf ta change your diaper
+1	do	_	_	_	_	3	aux	_	_
+2	we	_	_	_	_	3	nsubj	_	_
+3	haf	_	_	_	_	0	root	_	_
+4	ta	_	_	_	_	5	mark	_	_
+5	change	_	_	_	_	3	xcomp	_	_
+6	your	_	_	_	_	7	nmod:poss	_	_
+7	diaper	_	_	_	_	5	obj	_	_
+
+# text = yes why do n't you go and lay down on the floor
+1	yes	_	_	_	_	6	discourse	_	_
+2	why	_	_	_	_	6	advmod	_	_
+3	do	_	_	_	_	6	aux	_	_
+4	n't	_	_	_	_	6	advmod	_	_
+5	you	_	_	_	_	6	nsubj	_	_
+6	go	_	_	_	_	0	root	_	_
+7	and	_	_	_	_	8	cc	_	_
+8	lay	_	_	_	_	6	conj	_	_
+9	down	_	_	_	_	8	compound:prt	_	_
+10	on	_	_	_	_	12	case	_	_
+11	the	_	_	_	_	12	det	_	_
+12	floor	_	_	_	_	8	obl	_	_
+
+# text = you ca n't lay on the stool
+1	you	_	_	_	_	4	nsubj	_	_
+2	ca	_	_	_	_	4	aux	_	_
+3	n't	_	_	_	_	4	advmod	_	_
+4	lay	_	_	_	_	0	root	_	_
+5	on	_	_	_	_	7	case	_	_
+6	the	_	_	_	_	7	det	_	_
+7	stool	_	_	_	_	4	obl	_	_
+
+# text = you ca n't lay down on the stool
+1	you	_	_	_	_	4	nsubj	_	_
+2	ca	_	_	_	_	4	aux	_	_
+3	n't	_	_	_	_	4	advmod	_	_
+4	lay	_	_	_	_	0	root	_	_
+5	down	_	_	_	_	4	compound:prt	_	_
+6	on	_	_	_	_	8	case	_	_
+7	the	_	_	_	_	8	det	_	_
+8	stool	_	_	_	_	4	obl	_	_
+
+# text = yes Eve can write too
+1	yes	_	_	_	_	4	discourse	_	_
+2	Eve	_	_	_	_	4	nsubj	_	_
+3	can	_	_	_	_	4	aux	_	_
+4	write	_	_	_	_	0	root	_	_
+5	too	_	_	_	_	4	advmod	_	_
+
+# text = you go write on the paper
+1	you	_	_	_	_	2	nsubj	_	_
+2	go	_	_	_	_	0	root	_	_
+3	write	_	_	_	_	2	xcomp	_	_
+4	on	_	_	_	_	6	case	_	_
+5	the	_	_	_	_	6	det	_	_
+6	paper	_	_	_	_	3	obl	_	_
+
+# text = write on the paper
+1	write	_	_	_	_	0	root	_	_
+2	on	_	_	_	_	4	case	_	_
+3	the	_	_	_	_	4	det	_	_
+4	paper	_	_	_	_	1	obl	_	_
+
+# text = I 'm going upstairs
+1	I	_	_	_	_	3	nsubj	_	_
+2	'm	_	_	_	_	3	aux	_	_
+3	going	_	_	_	_	0	root	_	_
+4	upstairs	_	_	_	_	3	advmod	_	_
+
+# text = I 'll be right back
+1	I	_	_	_	_	5	nsubj	_	_
+2	'll	_	_	_	_	5	aux	_	_
+3	be	_	_	_	_	5	cop	_	_
+4	right	_	_	_	_	5	advmod	_	_
+5	back	_	_	_	_	0	root	_	_
+
+# text = what 's that
+1	what	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	cop	_	_
+3	that	_	_	_	_	1	nsubj	_	_
+
+# text = you read
+1	you	_	_	_	_	2	nsubj	_	_
+2	read	_	_	_	_	0	root	_	_
+
+# text = yes we 're going to have cheese for lunch
+1	yes	_	_	_	_	4	discourse	_	_
+2	we	_	_	_	_	4	nsubj	_	_
+3	're	_	_	_	_	4	aux	_	_
+4	going	_	_	_	_	0	root	_	_
+5	to	_	_	_	_	6	mark	_	_
+6	have	_	_	_	_	4	xcomp	_	_
+7	cheese	_	_	_	_	6	obj	_	_
+8	for	_	_	_	_	9	case	_	_
+9	lunch	_	_	_	_	6	obl	_	_
+
+# text = can you get your chair
+1	can	_	_	_	_	3	aux	_	_
+2	you	_	_	_	_	3	nsubj	_	_
+3	get	_	_	_	_	0	root	_	_
+4	your	_	_	_	_	5	nmod:poss	_	_
+5	chair	_	_	_	_	3	obj	_	_
+
+# text = give me the cheese
+1	give	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	iobj	_	_
+3	the	_	_	_	_	4	det	_	_
+4	cheese	_	_	_	_	1	obj	_	_
+
+# text = you move your chair around and have lunch
+1	you	_	_	_	_	2	nsubj	_	_
+2	move	_	_	_	_	0	root	_	_
+3	your	_	_	_	_	4	nmod:poss	_	_
+4	chair	_	_	_	_	2	obj	_	_
+5	around	_	_	_	_	2	advmod	_	_
+6	and	_	_	_	_	7	cc	_	_
+7	have	_	_	_	_	2	conj	_	_
+8	lunch	_	_	_	_	7	obj	_	_
+
+# text = the man 's going to have coffee
+1	the	_	_	_	_	2	det	_	_
+2	man	_	_	_	_	4	nsubj	_	_
+3	's	_	_	_	_	4	aux	_	_
+4	going	_	_	_	_	0	root	_	_
+5	to	_	_	_	_	6	mark	_	_
+6	have	_	_	_	_	4	xcomp	_	_
+7	coffee	_	_	_	_	6	obj	_	_
+
+# text = the man 's writing
+1	the	_	_	_	_	2	det	_	_
+2	man	_	_	_	_	4	nmod:poss	_	_
+3	's	_	_	_	_	2	case	_	_
+4	writing	_	_	_	_	0	root	_	_
+
