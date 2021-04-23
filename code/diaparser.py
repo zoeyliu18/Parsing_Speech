@@ -8,6 +8,8 @@ AUX = ['can', 'could', 'ca', 'dare', 'do', 'did', 'does', 'have', 'had', 'has', 
 COP = ['be', 'is', 'was', 'am', 'are', 'were']
 SUBJ = ['you', 'she', 'he', 'they', 'it', 'we', 'i']
 
+unintelligible = ["xxx", "xx", "yyy", "yy", "www", "ww", "zzz", "zz"]
+
 ### Loading models
 
 en_parser = Parser.load('en_ewt-electra')
@@ -39,7 +41,11 @@ def has_punct(w):
 	return p_l
 
 def parse(file, output):
+
 	print(file)
+
+	w_punct = []
+
 	df = pd.read_csv(output + file, encoding = 'utf-8')
 	gloss = df['gloss'].tolist()
 	stem = df['stem'].tolist()
@@ -60,18 +66,22 @@ def parse(file, output):
 	child_feature = []
 
 	for i in range(len(speaker_name)):
+		feature = u_type[i] + ' ' + str(num_morphemes[i]) + ' ' + str(num_tokens[i]) + ' ' + collection_name[i] 
 		speaker_feature.append(str(speaker_name[i]) + ' ' + str(speaker_code[i]) + ' ' + str(speaker_role[i]))
-		child_feature.append(str(target_child_name[i]) + ' ' + str(target_child_age[i]) + ' ' + str(target_child_sex[i]) + ' ' + str(corpus_name[i]))
+		child_feature.append(str(target_child_name[i]) + ' ' + str(target_child_age[i]) + ' ' + str(target_child_sex[i]) + ' ' + str(corpus_name[i]) + ' ' + feature)
 
 	new_gloss_list = []
 	new_stem_list = []
 	new_pos_list = []
 
+	check = 0
+
 	for i in range(len(gloss)):
 		new_gloss = []
 		new_stem = []
 		new_pos = []
-		if type(stem[i]) is not float:
+		if type(stem[i]) is not float and type(gloss[i]) is not float:
+			check += 1
 			toks = gloss[i].split()
 			tok_stem = stem[i].split()
 			tok_pos = pos[i].split()
@@ -91,9 +101,9 @@ def parse(file, output):
 				if w.endswith("n't"):
 					new_gloss.append(w[ : -3])
 					new_gloss.append("n't")
-					new_stem.append(tok_stem[z])
+					new_stem.append(w_stem)
 					new_stem.append('not')
-					new_pos.append(tok_pos[z])
+					new_pos.append(w_pos)
 					new_pos.append('neg')
 			
 				### e.g. I'm ###
@@ -101,9 +111,9 @@ def parse(file, output):
 				elif w.endswith("'m"):
 					new_gloss.append(w[ : -2])
 					new_gloss.append("'m")
-					new_stem.append(tok_stem[z])
+					new_stem.append(w_stem)
 					new_stem.append('be')
-					new_pos.append(tok_pos[z])
+					new_pos.append(w_pos)
 					new_pos.append('cop')
 
 				### e.g. She's / Mommy's book; copula vs. possessive###
@@ -111,8 +121,8 @@ def parse(file, output):
 				elif w.endswith("'s"):
 					new_gloss.append(w[ : -2])
 					new_gloss.append("'s")
-					new_stem.append(tok_stem[z])
-					if tok_pos[z] == 'adj':
+					new_stem.append(w_stem)
+					if w_pos == 'adj':
 						new_stem.append("'s")
 						new_pos.append('n')
 						new_pos.append('poss')
@@ -131,21 +141,30 @@ def parse(file, output):
 				elif w.endswith("'re"):
 					new_gloss.append(w[ : -3])
 					new_gloss.append("'re")
-					new_stem.append(tok_stem[z])
+					new_stem.append(w_stem)
 					new_stem.append('be')
-					new_pos.append(tok_pos[z])
+					new_pos.append(w_pos)
 					new_pos.append('cop')
 
 				### combined adverbs or conjunctives ###
 
-				elif len(has_punct(w)) != 0 and "'" not in w:
-					for p in has_punct(w):
-						w = w.split(p)
-						for c in w:
-							new_gloss.append(c)
-							new_stem.append(c)
-							new_pos.append('combined')
+				elif len(has_punct(w)) != 0 and "'" not in w and "+" not in w:
+					if '_' not in w:
+						w_punct.append(w)
 
+					for p in has_punct(w):
+						w = w.replace(p, ' ')
+				
+					w = w.split()
+
+					new_gloss.append(w[0])
+					new_stem.append(w_stem)
+					new_pos.append(w_pos)
+					for c in w[1 : ]:
+						new_gloss.append(c)
+						new_stem.append(c)
+						new_pos.append('combined')
+						
 				elif w in ['wanna', 'wana']:
 					new_gloss.append(w[ : -2])
 					new_gloss.append('na')
@@ -179,9 +198,15 @@ def parse(file, output):
 					new_pos.append('aux')
 
 				else:
-					new_gloss.append(w)
-					new_stem.append(w_stem)
-					new_pos.append(w_pos)
+					if w not in unintelligible:
+						new_gloss.append(w)
+						new_stem.append(w_stem)
+						new_pos.append(w_pos)
+					else:
+						new_gloss.append('xxx')
+						new_stem.append('xxx')
+						new_pos.append('xxx')
+
 
 		else:
 			new_gloss.append('xxx')
@@ -192,44 +217,56 @@ def parse(file, output):
 		new_stem_list.append(new_stem)
 		new_pos_list.append(new_pos)
 
+	print(len(new_gloss_list))
+	print(len(gloss))
+
 	assert len(new_gloss_list) == len(gloss)
 	assert len(new_gloss_list) == len(new_stem_list)
 	assert len(new_gloss_list) == len(new_pos_list)
 
-#	print(new_gloss_list)
-#	print(new_stem_list)
-#	print(new_pos_list)
+	print(set(w_punct))
 
 	####### Parsing ######
 
 	file_name = file[ : -4]
 
-	outfile = io.open(args.output + file_name + '.conllu', 'w', encoding = 'utf-8')
+	outfile = io.open(output + file_name + '.conllu', 'w', encoding = 'utf-8')
+
+	parse_check = 0
 
 	for i in range(len(gloss)):
 		if new_gloss_list[i] != ['xxx']:
+#			if len(gloss[i].split()) != len(stem[i].split()):
+#				print(gloss[i])
+			
+			parse_check += 1
+
 			u = gloss[i]
-			feature = u_type[i] + ' ' + str(num_morphemes[i]) + ' ' + str(num_tokens[i]) + ' ' + collection_name[i] 
+			
 			outfile.write('# text = ' + ' ' + u + '\n')
-			outfile.write('# ' + ' ' + feature + '\n')
-	
-			parse_tree = en_parser.predict(new_gloss_list[i], text = 'en').sentences[0]
-			attributes = parse_tree.__dict__['values']
-			attributes[2] = tuple(new_stem_list[i])
-			attributes[3] = tuple(new_pos_list[i])
-			print(speaker_feature[i])
-			print(tuple([speaker_feature[i]] * len(attributes[0])))
-			attributes[-2] = tuple([speaker_feature[i]] * len(attributes[0]))
-			attributes[-1] = tuple([child_feature[i]] * len(attributes[0]))
+			
+			try:
+				parse_tree = en_parser.predict(new_gloss_list[i], text = 'en').sentences[0]
+				attributes = parse_tree.__dict__['values']
+				attributes[2] = tuple(new_stem_list[i])
+				attributes[3] = tuple(new_pos_list[i])
+				attributes[-2] = tuple([speaker_feature[i]] * len(attributes[0]))
+				attributes[-1] = tuple([child_feature[i]] * len(attributes[0]))
 
-			for i in range(len(attributes[0])):
-				feature = []
-				for z in attributes:
-					feature.append(str(z[i]))
-				outfile.write('\t'.join(w for w in feature) + '\n')
+				for i in range(len(attributes[0])):
+					feature = []
+					for z in attributes:
+						feature.append(str(z[i]))
+					outfile.write('\t'.join(w for w in feature) + '\n')
 
-			outfile.write('\n')
+				outfile.write('\n')
 
+			except:
+				print(gloss[i], new_gloss_list[i])
+				print(type(gloss[i]))
+
+	print(check)
+	print(parse_check)
 
 if __name__ == '__main__':
 
